@@ -1,0 +1,482 @@
+[
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q1",
+        "Question": "The diagram shows the level of liquid in a measuring cylinder.\nWhat is the volume of the liquid?",
+        "Options": {
+            "A": "20.4 cm3",
+            "B": "24.0 cm3",
+            "C": "24.5 cm3",
+            "D": "25.0 cm3"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q2",
+        "Question": "The diagram shows the distance\u2013time graph of a car.\nThe car is travelling along a straight road up a hill.\nWhich quantity for the car is constant and greater than zero?",
+        "Options": {
+            "A": "acceleration",
+            "B": "displacement",
+            "C": "gravitational potential energy",
+            "D": "kinetic energy"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q3",
+        "Question": "A distance\u2013time graph and a speed\u2013time graph show the motion of an object.\nHow are the speed and the acceleration of the object determined from these graphs?",
+        "Options": {
+            "A": "area under the distance\u2013time graph\narea under the speed\u2013time graph",
+            "B": "area under the distance\u2013time graph\ngradient of the speed\u2013time graph",
+            "C": "gradient of the distance\u2013time graph\narea under the speed\u2013time graph",
+            "D": "gradient of the distance\u2013time graph\ngradient of the speed\u2013time graph"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q4",
+        "Question": "A student finds that the mass of a rock is 65 g.\nShe pours 30 cm3 of water into a measuring cylinder.\nShe places the rock in the water so that the water covers the rock completely.\nThe water level rises to 55 cm3.\nWhat is the density of the rock?",
+        "Options": {
+            "A": "0.38 g / cm3",
+            "B": "1.2 g / cm3",
+            "C": "2.2 g / cm3",
+            "D": "2.6 g / cm3"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q5",
+        "Question": "A small submarine of mass 1000 kg sinks in water with a constant speed of 2.0 m / s.\nWhat is the resultant force exerted on the submarine as it sinks?",
+        "Options": {
+            "A": "0",
+            "B": "500 N downwards",
+            "C": "2000 N downwards",
+            "D": "9800 N downwards"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q6",
+        "Question": "A student drops, from rest, a light ball in air.\nThe ball experiences some air resistance as it falls.\nWhat happens to the velocity and to the acceleration of the ball during the first few seconds after release?",
+        "Options": {
+            "A": "decreases\ndecreases",
+            "B": "decreases\nincreases",
+            "C": "increases\ndecreases",
+            "D": "increases\nincreases"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q7",
+        "Question": "The stopping distance of a car travelling at a certain speed is measured in four different situations.\n\u2022 on a dry road with new tyres\n\u2022 on a dry road with old, worn tyres\n\u2022 on a wet road with new tyres\n\u2022 on a wet road with old, worn tyres\nThe results are shown.\nWhich two results are possible measurements on the dry road with old, worn tyres?",
+        "Options": {
+            "A": "W and X",
+            "B": "X and Y",
+            "C": "X and Z",
+            "D": "Y and Z"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q8",
+        "Question": "A spring has a length of 9.0 cm when loaded with a 200 g mass. The extension\u2013mass graph for\nthe spring is shown.\n200 g\n9.0 cm\n3.0\n2.0\n1.0\n0\n0 100 200 300\nmass / g\nextension / cm\nThe 200 g mass is replaced with a 100 g mass.\nWhat is the new length of the spring?",
+        "Options": {
+            "A": "7.0 cm",
+            "B": "8.0 cm",
+            "C": "9.0 cm",
+            "D": "10 cm"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q9",
+        "Question": "The International Space Station orbits the Earth.\nWhich arrow shows the direction of the force on the International Space Station when it is at\npoint X?\nX\nB D\nC\nA\nEarth\norbit",
+        "Options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q10",
+        "Question": "Which expression is equal to impulse?",
+        "Options": {
+            "A": "change in momentum \u00f7 time",
+            "B": "change in momentum",
+            "C": "force \u00d7 distance moved in the direction of the force",
+            "D": "force \u00f7 area"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q11",
+        "Question": "A box with mass 4.0 kg is pulled from rest along a horizontal floor by a constant force F.\nA constant frictional force of 1.0 N acts on the box.\nWhen the box has travelled 1.0 m its velocity is 1.5 m / s.\nThe kinetic energy of the box is equal to the work done on the box.\nWhat is force F?",
+        "Options": {
+            "A": "2.0 N",
+            "B": "3.5 N",
+            "C": "4.0 N",
+            "D": "5.5 N"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q12",
+        "Question": "The diagram shows a curved track. A ball is released from the position shown.\nAt which point is the gravitational potential energy stored in the ball the maximum?",
+        "Options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q13",
+        "Question": "How does an oil-fired power station differ from a nuclear power station?",
+        "Options": {
+            "A": "Gases emitted by hot fuel are emitted into the atmosphere.",
+            "B": "Steam is produced in a boiler using hot fuel.",
+            "C": "The hot steam is used to turn a turbine.",
+            "D": "Turbines are used to drive an electric generator."
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q14",
+        "Question": "An electric motor is used to lift a load at a constant speed.\npower\nsupply\nelectric motor\nload\nThe gravitational potential energy (GPE) stored in the load increases.\nThe moving load also has stored kinetic energy (KE).\nWhich expression is used to calculate the efficiency of the motor when the load is being lifted at a\nconstant rate?",
+        "Options": {
+            "A": "efficiency = GPE gained per second / KE gained per second",
+            "B": "efficiency = GPE gained per second / supplied power",
+            "C": "efficiency = power supplied / GPE gained per second",
+            "D": "efficiency = power supplied / KE gained per second"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q15",
+        "Question": "A battery delivers 3000 J of energy to a small 2.0 W electric motor before the battery stops\nworking.\nFor how long is the motor switched on?",
+        "Options": {
+            "A": "1500 minutes",
+            "B": "100 minutes",
+            "C": "50 minutes",
+            "D": "25 minutes"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q16",
+        "Question": "A man finds it difficult to hammer a wooden post into the ground.\nHow could he make the post go in more easily?",
+        "Options": {
+            "A": "Make the bottom of the post pointed.",
+            "B": "Make the top of the post pointed.",
+            "C": "Use a longer post.",
+            "D": "Use a wider post."
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q17",
+        "Question": "Which diagram shows the names of the changes of state that correspond to the directions of the\narrows?",
+        "Options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q18",
+        "Question": "A sealed cylinder containing gas is left in direct sunlight.\nEventually the cylinder explodes.\nHow is this explained in terms of the behaviour of the gas particles?",
+        "Options": {
+            "A": "Each particle gets bigger and they collide with each other more often.",
+            "B": "Each particle gets bigger and they collide harder with the cylinder.",
+            "C": "The particles gain kinetic energy and hit the cylinder harder and more often.",
+            "D": "The particles lose kinetic energy and they hit the cylinder harder and more often."
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q19",
+        "Question": "A gas is trapped inside a cylinder by a movable piston. The length of the gas column is 20 cm and\nthe pressure inside the cylinder is p.\nThe piston is pulled out a distance of 30 cm, so that the length of the gas column is now 50 cm.\nThe temperature of the gas does not change.\nWhat is the new pressure of the gas?",
+        "Options": {
+            "A": "0.40 p",
+            "B": "0.60 p",
+            "C": "1.5 p",
+            "D": "2.5 p"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q20",
+        "Question": "Pot X and pot Y are both in a cool room.\nPot X contains hot water below its boiling point.\nPot Y is identical to pot X but contains water that is kept boiling by a hotplate underneath it.\nWhat happens to the average kinetic energy of the particles in the liquid water in pot X and to the\naverage kinetic energy of the particles in the liquid water in pot Y?",
+        "Options": {
+            "A": "decreases increases",
+            "B": "decreases does not change",
+            "C": "stays the same increases",
+            "D": "stays the same does not change"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q21",
+        "Question": "Solid metals are good thermal conductors.\nHow closely packed are their particles and do the metals contain free electrons?",
+        "Options": {
+            "A": "close together no",
+            "B": "close together yes",
+            "C": "far apart no",
+            "D": "far apart yes"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q22",
+        "Question": "Cotton wool is a good thermal insulator.\nIt consists of many threads of cotton which are tangled together to make a material which can\neasily be pulled apart or compressed. The diagram shows the structure of cotton wool.\nWhy is cotton wool a good thermal insulator?",
+        "Options": {
+            "A": "Each thread is very thin.",
+            "B": "It has a large surface area because it is made of many threads.",
+            "C": "It has a low density because of the trapped air.",
+            "D": "It traps air and prevents convection."
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q23",
+        "Question": "A metal kettle is heated on a grid above red-hot glowing coal.\nWhat are the main thermal energy transfers through the bottom of the kettle and within the water?",
+        "Options": {
+            "A": "conduction conduction",
+            "B": "radiation convection",
+            "C": "conduction convection",
+            "D": "radiation conduction"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q24",
+        "Question": "The diagram shows two waveforms.\n\nWhich arrow shows the wavelength of a longitudinal wave?",
+        "Options": {
+            "A": " ",
+            "B": " ",
+            "C": " ",
+            "D": " "
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q25",
+        "Question": "A bell, on a wall outside a classroom, rings. A student is standing at point X shown on the view\nfrom above.\n\nThe door of the classroom is closed and the student in the room at X hears the bell ring.\n\nThe door is opened, and the sound heard by the student from the bell is louder.\n\nWhat causes the sound reaching the student to be louder?",
+        "Options": {
+            "A": "diffraction",
+            "B": "dispersion",
+            "C": "reflection",
+            "D": "refraction"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q26",
+        "Question": "A boy stands beside a girl in front of a large vertical plane mirror. They are equal distances from\nthe mirror, as shown. The boy sees an image of the girl.\n\nWhere is the girl\u2019s image?",
+        "Options": {
+            "A": " ",
+            "B": " ",
+            "C": " ",
+            "D": " "
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q27",
+        "Question": "Light travelling in air is incident on a water surface.\n\nThe refractive index of water is 1.3 and the angle of refraction in the water is 40\u00b0.\n\nWhat is the angle of incidence in the air?",
+        "Options": {
+            "A": "30\u00b0",
+            "B": "50\u00b0",
+            "C": "52\u00b0",
+            "D": "57\u00b0"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q28",
+        "Question": "The diagram shows a ray of light passing through a triangular glass block.\n\nWhich angle is the critical angle of light in glass?",
+        "Options": {
+            "A": " ",
+            "B": " ",
+            "C": " ",
+            "D": " "
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q29",
+        "Question": "A lens is used to produce a magnified image, as shown in the scale diagram.\n\nWhat is the linear magnification produced by the lens?",
+        "Options": {
+            "A": "0.33",
+            "B": "3.0",
+            "C": "4.0",
+            "D": "6.0"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q30",
+        "Question": "Ultraviolet radiation is a component of the electromagnetic spectrum. /n Which application uses ultraviolet radiation?",
+        "Options": {
+            "A": "Bluetooth technology",
+            "B": "prenatal scanning",
+            "C": "sterilising water",
+            "D": "thermal imaging"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q31",
+        "Question": "A student rubs different rods held in his hand. /n Which rod gains a large electrostatic charge?",
+        "Options": {
+            "A": "a polythene rod rubbed with a steel magnet",
+            "B": "a polythene rod rubbed with a woollen duster",
+            "C": "an iron rod rubbed with a steel magnet",
+            "D": "an iron rod rubbed with a woollen duster"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q32",
+        "Question": "Two permanent magnets are placed side by side in four different arrangements. /n In which arrangements do the magnets repel each other?",
+        "Options": {
+            "A": "1 and 2",
+            "B": "1 and 4",
+            "C": "2 and 3",
+            "D": "3 and 4"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q33",
+        "Question": "Which graph shows how the current changes when the voltage across a resistor of constant resistance is varied?",
+        "Options": {
+            "A": "current-voltage graph",
+            "B": "current-voltage graph",
+            "C": "current-voltage graph",
+            "D": "current-voltage graph"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q34",
+        "Question": "Two identical resistors are connected first in series and then in parallel. /n The two resistors in series are connected to a power supply and the current is Is. /n The parallel combination is connected to the same power supply and the current supplied is Ip. /n What is the ratio Ip/Is?",
+        "Options": {
+            "A": "0.25",
+            "B": "0.50",
+            "C": "2.0",
+            "D": "4.0"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q35",
+        "Question": "The output of an a.c. generator is connected to a lamp. /n The coil of the generator is rotated at a constant rate which makes the lamp flash twice every second. /n The coil is then rotated at half the rate of rotation. /n What happens to the maximum brightness of the lamp and how many times does the lamp flash every second?",
+        "Options": {
+            "A": "decreases - 1",
+            "B": "decreases - 4",
+            "C": "does not change - 1",
+            "D": "does not change - 4"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q36",
+        "Question": "Which device uses the magnetic effect of an electric current?",
+        "Options": {
+            "A": "compass",
+            "B": "fuse",
+            "C": "loudspeaker",
+            "D": "magnifying glass"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q37",
+        "Question": "A wire is placed at right angles to a uniform magnetic field. /n There is a current in the wire and it experiences a force. /n Beams of alpha-particles, beta-particles and neutrons are fired into the magnetic field in the same direction as the conventional current in the wire. /n Which beams experience a force that is initially in the same direction as the force experienced by the current-carrying wire?",
+        "Options": {
+            "A": "alpha-particles",
+            "B": "beta-particles",
+            "C": "neutrons",
+            "D": "None"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q38",
+        "Question": "The diagram shows the trace produced on the screen of an oscilloscope due to an alternating voltage input. /n The time\u2013base on the oscilloscope is set to 4 ms / cm. /n What does the trace look like when the time base is set to 2 ms / cm?",
+        "Options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q39",
+        "Question": "The half-life of a radioactive isotope is 2.5 minutes. /n This isotope is the only radioactive isotope in a radioactive sample. /n Between time t = 0 and t = 7.5 minutes, the mass of this isotope in the sample decreases by 70 \u03bcg. /n What is the mass of this isotope at t = 0?",
+        "Options": {
+            "A": "75 \u03bcg",
+            "B": "80 \u03bcg",
+            "C": "210 \u03bcg",
+            "D": "560 \u03bcg"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/12/2023/Q40",
+        "Question": "When observed on the Earth, the redshift of the light from galaxy X is smaller than the redshift of\nthe light from galaxy Y.",
+        "Options": {
+            "A": "closer to the Earth: X, faster recession: X",
+            "B": "closer to the Earth: X, faster recession: Y",
+            "C": "closer to the Earth: Y, faster recession: X",
+            "D": "closer to the Earth: Y, faster recession: Y"
+        },
+        "image": null,
+        "answer": "B"
+    }
+]

@@ -1,0 +1,479 @@
+[
+    {
+        "QuestionNumber":"Oct-Nov/12/2019/Q1",
+        "Question": "Which word is the name of a vector quantity?",
+        "Options": {
+            "A": "density",
+            "B": "displacement",
+            "C": "energy",
+            "D": "speed"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q2",
+        "Question": "What is the size of the resultant of the two forces shown in the diagram?",
+        "Options": {
+            "A": "1.0 N",
+            "B": "3.5 N",
+            "C": "5.0 N",
+            "D": "7.0 N"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q3",
+        "Question": "What is the correct unit for the quantity shown? ",
+        "Options": {
+            "A": "electromotive force (e.m.f.) N",
+            "B": "latent heat J",
+            "C": "pressure kg / m3",
+            "D": "weight kg"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q4",
+        "Question": "A length of copper pipe, of uniform cross-section and several metres long, carries water to a tap. /n Measurements are taken to determine accurately the volume of copper in the pipe. /n Which instruments are used?",
+        "Options": {
+            "A": "micrometer and rule",
+            "B": "micrometer and calipers",
+            "C": "rule and tape",
+            "D": "tape and calipers"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Q5",
+        "Question": "Part of a speed\u2013time graph for two runners is shown. /n They are running along the same track. /n Which statement must be correct?",
+        "Options": {
+            "A": "Both runners started at the same moment.",
+            "B": "Runner 1 has a greater acceleration than runner 2.",
+            "C": "Runner 1 is moving faster than runner 2.",
+            "D": "The distance between the two runners stays constant."
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q6",
+        "Question": "The graph shows how the speed of a car varies with time. /n Which statement about the acceleration of the car between the times 10 s and 20 s is correct?",
+        "Options": {
+            "A": "The acceleration decreases.",
+            "B": "The acceleration increases.",
+            "C": "The acceleration is constant, but not zero.",
+            "D": "The acceleration is zero."
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Q7",
+        "Question": "In which descent is the acceleration equal to the acceleration of free fall g at all times?",
+        "Options": {
+            "A": "a bungee jumper leaping from a bridge",
+            "B": "a feather falling in a vertical tube that contains a vacuum",
+            "C": "a hailstone travelling to Earth at terminal velocity",
+            "D": "a sky-diver dropping from an aircraft towards the ground"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q8",
+        "Question": "A body slides down a frictionless slope, as shown. /n As the body presses on the surface, the surface pushes back on the body. /n In which direction does the surface push back on the body?",
+        "Options": {
+            "A": "direction of motion"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q9",
+        "Question": "The Earth travels at constant speed in a circular orbit around the Sun. /n Which arrows show the direction of the acceleration of the Earth and the direction of the velocity of the Earth?",
+        "Options": {
+            "A": "P Q",
+            "B": "Q P",
+            "C": "Q R",
+            "D": "R Q"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Q10",
+        "Question": "A student balances a non-uniform object on a pivot. /n To do this, a weight is suspended near the left-hand end of the object, as shown. /n Where is the centre of mass of the object?",
+        "Options": {
+            "A": "B",
+            "B": "C",
+            "C": "D",
+            "D": "weight pivot object"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Q11",
+        "Question": "A load L is suspended from two springs that are in parallel. /n The extension of each spring is x. /n The springs are then arranged to hang vertically, one below the other. /n In this new arrangement, what is the total extension of the two springs?",
+        "Options": {
+            "A": "2 1 x",
+            "B": "x",
+            "C": "2x",
+            "D": "4x"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Q12",
+        "Question": "The diagram shows three tubes P, Q and R. /n Each tube contains air trapped by a water column. /n Which statement is correct?",
+        "Options": {
+            "A": "The pressure of the trapped air is equal in tubes P, Q and R.",
+            "B": "The pressure of the trapped air is greatest in tube Q.",
+            "C": "The pressure of the trapped air is greatest in tube R.",
+            "D": "The pressure of the trapped air is greatest in tube P."
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q13",
+        "Question": "Which graph shows the relationship between the pressure and the volume of a fixed mass of gas at constant temperature?",
+        "Options": {
+            "A": "volume pressure 00",
+            "B": "volume pressure 00",
+            "C": "volume pressure 00",
+            "D": ""
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q14",
+        "Question": "An object X has mass m and velocity v. /n A second object Y has mass 2m and velocity 2v. /n What is the value of the ratio of kinetic energy of X to kinetic energy of Y?",
+        "Options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Q15",
+        "Question": "Where is energy released by the fusion of hydrogen nuclei to form helium?",
+        "Options": {
+            "A": "in a nuclear power station",
+            "B": "in a radioactive isotope emitting alpha-particles",
+            "C": "in the core of the Earth",
+            "D": "in the core of the Sun"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Q16",
+        "Question": "A student uses a newton meter to pull an object a distance d horizontally along a flat surface in a time of t. /n The newton meter reading is F. /n What is given by the expression (F \u00d7 d) / t?",
+        "Options": {
+            "A": "efficiency",
+            "B": "energy",
+            "C": "power",
+            "D": "work"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q17",
+        "Question": "A student is given a thermometer that reads 1 \u00b0C in pure melting ice and 101 \u00b0C in pure boiling water. /n She uses it to measure the temperature of some water before and after it is heated. /n How does the rise in temperature of the water calculated from her results compare with the correct value?",
+        "Options": {
+            "A": "It is 1 \u00b0C lower.",
+            "B": "It is the same.",
+            "C": "It is 1 \u00b0C higher.",
+            "D": "It is 2 \u00b0C higher."
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q18",
+        "Question": "A student makes four statements about evaporation and boiling. /n 1 Both involve an increase in molecular separation. /n 2 Both occur only at a fixed temperature. /n 3 Both involve the absorption of thermal energy. /n 4 Both occur throughout the liquid. /n Which two statements are correct?",
+        "Options": {
+            "A": "1 and 4",
+            "B": "2 and 4",
+            "C": "1 and 3",
+            "D": "2 and 3"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q19",
+        "Question": "How is specific latent heat defined?",
+        "Options": {
+            "A": "the heat absorbed or emitted by unit mass during a change of a state without a temperature change",
+            "B": "the heat absorbed or emitted by unit mass during unit temperature change",
+            "C": "the heat absorbed or emitted during a change of a state without a temperature change",
+            "D": "the heat absorbed or emitted during unit temperature change"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Q20",
+        "Question": "A syringe containing air is sealed at one end. /n The piston is free to move. /n The air is heated. /n What happens to the average distance between air molecules and the density of the air?",
+        "Options": {
+            "A": "increases decreases",
+            "B": "increases stays the same",
+            "C": "stays the same decreases",
+            "D": "stays the same stays the same"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Q21",
+        "Question": "A metal disc is heated to 600 \u00b0C and then lowered into a beaker of water. /n What happens to the mass of the metal disc and to the mass of the water in the beaker? /n mass of metal disc /n mass of water in beaker",
+        "Options": {
+            "A": "increases decreases",
+            "B": "increases no change",
+            "C": "no change decreases",
+            "D": "no change increases"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q22",
+        "Question": "Which description defines the amplitude of a water wave in a ripple tank?",
+        "Options": {
+            "A": "half of the vertical distance between a trough and a peak",
+            "B": "the horizontal distance between adjacent peaks",
+            "C": "the horizontal distance between a trough and an adjacent peak",
+            "D": "the vertical distance between a trough and a peak"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Q23",
+        "Question": "Here are four statements about wavefronts. /n 1 Wavefronts from a point source are straight lines. /n 2 Wavefronts from a point source are circular. /n 3 Wavefronts are parallel to the direction of energy movement. /n 4 Wavefronts are perpendicular to the direction of energy movement. /n Which two statements are correct?",
+        "Options": {
+            "A": "1 and 3",
+            "B": "1 and 4",
+            "C": "2 and 3",
+            "D": "2 and 4"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Q24",
+        "Question": "An object O is placed in front of a plane mirror. /n I is the image formed. /n A ray from the top of the object is incident on the mirror at X. /n What happens to this ray?",
+        "Options": {
+            "A": "It reflects and passes through the bottom of O.",
+            "B": "It reflects and passes through the top of O.",
+            "C": "It reflects as though it came from the bottom of I.",
+            "D": "It reflects as though it came from the top of I."
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Q25",
+        "Question": "The diagram shows light passing from glass into air. /n What is the name of angle P?",
+        "Options": {
+            "A": "the angle of incidence",
+            "B": "the angle of reflection",
+            "C": "the angle of refraction",
+            "D": "the critical angle"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Q26",
+        "Question": "An object is placed in front of a converging lens of focal length 4.0 cm. /n The height of the image is 6.0 cm. /n What is the linear magnification produced by the lens?",
+        "Options": {
+            "A": "0.50",
+            "B": "1.5",
+            "C": "2.0",
+            "D": "6.0"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q27",
+        "Question": "Which row shows the speed of sound in air (ca), liquid (cL) and solid (cs) in order from slowest to fastest?",
+        "Options": {
+            "A": "cL cs ca",
+            "B": "cL ca cs",
+            "C": "ca cL cs",
+            "D": "cs cL ca"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q28",
+        "Question": "A man stands 80 m in front of a cliff face. /n He makes a loud bang and listens for the echo. /n He makes a loud bang once every second. /n He hears an echo exactly halfway between the bang that caused it and the next bang. /n What is the speed of sound?",
+        "Options": {
+            "A": "40 m / s",
+            "B": "80 m / s",
+            "C": "160 m / s",
+            "D": "320 m / s"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Q29",
+        "Question": "The diagram shows two magnetic field lines of the magnetic field around two bar magnets. /n P Q /n Which row shows the magnetic poles at end P and end Q of the two magnets?",
+        "Options": {
+            "A": "N N",
+            "B": "N S",
+            "C": "S N",
+            "D": "S S"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q30",
+        "Question": "A metal plate X is attached to earth by a battery. /n The plate has a positive charge. /n A second metal plate Y is initially uncharged and connected to earth. /n This plate is positioned parallel to X. /n What happens as Y is brought closer to X?",
+        "Options": {
+            "A": "Electrons flow from Y to earth only.",
+            "B": "Electrons flow to Y from earth only.",
+            "C": "Protons flow from Y to earth and electrons flow to Y from earth.",
+            "D": "Protons flow to Y from earth and electrons flow from Y to earth."
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q31",
+        "Question": "The diagram shows a metal lightning conductor attached to a building. /n Why is the lightning conductor made of copper?",
+        "Options": {
+            "A": "Both positive and negative charges can flow through copper.",
+            "B": "Copper can be electrostatically charged.",
+            "C": "So the lightning conductor has a low electrical resistance.",
+            "D": "So the heat is conducted away quickly."
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q32",
+        "Question": "Which symbol does not represent a power source?",
+        "Options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "V"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q33",
+        "Question": "Resistors of different resistances are connected to a power supply in either a parallel circuit or a series circuit. /n Which statement is correct?",
+        "Options": {
+            "A": "The current is the same in all resistors connected in parallel.",
+            "B": "The current is the same in all resistors connected in series.",
+            "C": "The voltage across each resistor is different for all resistors connected in parallel.",
+            "D": "The voltage across each resistor is the same for all resistors connected in series."
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q34",
+        "Question": "An ammeter is connected to three resistors and a power supply. /n Which arrangement of resistors gives the greatest ammeter reading?",
+        "Options": {
+            "A": "4 \u2126 4 \u2126 2 \u2126",
+            "B": "4 \u2126 4 \u2126",
+            "C": "2 \u2126",
+            "D": "2 \u2126 4 \u2126 4 \u2126"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Q35",
+        "Question": "A hotplate on an electric cooker contains two identical resistors. /n The switch has three positions. /n position 1 The two resistors are connected in series to the mains supply. /n position 2 The two resistors are connected in parallel to the mains supply. /n position 3 Just one resistor is connected to the mains supply. /n Which positions correspond to the low, the medium and the high power settings? /n low power medium power high power",
+        "Options": {
+            "A": "1 2 3",
+            "B": "1 3 2",
+            "C": "3 1 2",
+            "D": "3 2 1"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q36",
+        "Question": "A mains electric circuit is fitted with a circuit breaker rather than a fuse. /n Where is the circuit breaker connected and what happens when the current is too large? /n A circuit breaker is connected in /n When the current is too large",
+        "Options": {
+            "A": "the live wire. a thin wire melts and breaks the circuit.",
+            "B": "the live wire. an electromagnet opens a switch.",
+            "C": "the neutral wire. a thin wire melts and breaks the circuit.",
+            "D": "the neutral wire. an electromagnet opens a switch."
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q37",
+        "Question": "Transformers are used to transmit electrical energy between power stations and transmission cables, as shown. /n What is the purpose of the transformer in the diagram?",
+        "Options": {
+            "A": "to decrease the current and the potential difference from the power station",
+            "B": "to decrease the current and increase the potential difference from the power station",
+            "C": "to increase the current and the potential difference from the power station",
+            "D": "to increase the current and decrease the potential difference from the power station"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Q38",
+        "Question": "A thermistor warms up as the current in it increases. /n Which graph shows how the voltage V across the thermistor changes as the current I through it is increased?",
+        "Options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Q39",
+        "Question": "Radioactive substances are used as tracers in medical examinations. /n A liquid tracer is injected into a patient. /n A detector 20 cm above the patient shows where the radioactive substance is in the body. /n What is the best radioactive substance to use?",
+        "Options": {
+            "A": "an alpha-particle emitter with a half-life of a few hours",
+            "B": "an alpha-particle emitter with a half-life of a few years",
+            "C": "a gamma ray emitter with a half-life of a few hours",
+            "D": "a gamma ray emitter with a half-life of a few years"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Q40",
+        "Question": "An isotope of lead, Pb 212 82 , is radioactive. /n After three decays, two beta-particles and an alpha-particle have been emitted. /n Another radioactive isotope of lead is formed. /n What is the mass number (nucleon number) of the new isotope of lead?",
+        "Options": {
+            "A": "200",
+            "B": "208",
+            "C": "212",
+            "D": "216"
+        },
+        "image": null,
+        "answer": "B"
+    }
+]

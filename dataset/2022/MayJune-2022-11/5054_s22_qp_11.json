@@ -1,0 +1,482 @@
+[
+    {
+        "QuestionNumber": "May-June/11/2022/Q1",
+        "Question": "A length of copper wire is labelled: length 0.50 m and diameter 0.50 mm. /nWhich instruments are most suitable to measure accurately the length and the diameter of the wire?",
+        "Options": {
+            "A": "metre rule metre rule",
+            "B": "metre rule micrometer",
+            "C": "calipers metre rule",
+            "D": "calipers micrometer"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q2",
+        "Question": "A driver drives a car at uniform velocity along a road. /nThe driver sees a hazard and applies the brakes. /nWhat is the car\u2019s motion as it moves through the thinking distance and as it moves through the braking distance?",
+        "Options": {
+            "A": "deceleration deceleration",
+            "B": "deceleration uniform velocity",
+            "C": "uniform velocity deceleration",
+            "D": "uniform velocity uniform velocity"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q3",
+        "Question": "The diagram represents the Moon in its orbit around the Earth. /nWhich arrow represents the direction of the resultant force acting on the Moon at the instant shown?",
+        "Options": {
+            "A": "D",
+            "B": "C",
+            "C": "B",
+            "D": "A"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q4",
+        "Question": "The mass m of an object is related to its weight W and the gravitational field strength g. /nWhich equation shows the relationship?",
+        "Options": {
+            "A": "m = W \u00d7 g",
+            "B": "m = W / g",
+            "C": "m = g / W",
+            "D": "m = W - g"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q5",
+        "Question": "A plastic cube, of density \u03c1, is compressed so that each of its sides becomes one-half of its original length. /nWhat is the new density of the material of the cube?",
+        "Options": {
+            "A": "0.125\u03c1",
+            "B": "0.50\u03c1",
+            "C": "2.0\u03c1",
+            "D": "8.0\u03c1"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q6",
+        "Question": "Four glass objects have square bases of equal area. /nWhich object is the least stable?",
+        "Options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q7",
+        "Question": "The initial pressure of a volume V1 of a fixed mass of gas is p1. The gas expands at a constant temperature until it has volume V2 and pressure p2. /nWhich statement about the pressure and volume of the gas is not correct?",
+        "Options": {
+            "A": "Pressure is measured in N / m3.",
+            "B": "Pressure multiplied by volume is a constant.",
+            "C": "Pressure is directly proportional to volume",
+            "D": "The ratio of V1 to V2 is equal to the ratio of p2 to p1."
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q8",
+        "Question": "A stone falls at terminal velocity in air. /nWhat is equal to the change in gravitational potential energy of the stone?",
+        "Options": {
+            "A": "the change in kinetic energy",
+            "B": "the change in temperature of the stone",
+            "C": "the friction between the stone and the air",
+            "D": "the thermal energy produced"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q9",
+        "Question": "Water in a river is used to turn a turbine as the water flows downstream. /nHow is this type of power source described?",
+        "Options": {
+            "A": "hydroelectric",
+            "B": "tidal",
+            "C": "geothermal",
+            "D": "nuclear"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q10",
+        "Question": "A load is pulled by a rope attached to a motor. The resultant force exerted by the rope on the load is shown in the diagrams. /nIn each diagram, the load moves in the direction of the force shown and takes 10 s to travel 1.0 m. /nIn which diagram does the motor work with the greatest power?",
+        "Options": {
+            "A": "12 N",
+            "B": "8 N",
+            "C": "10 N",
+            "D": "4 N"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q11",
+        "Question": "The total energy incident in 1.0 s on a group of solar panels is 120 J / m2. /nThe group of solar panels converts 720 J of light energy to 120 J of useful electrical energy in 1.0 s. /nWhat is the total surface area of the panels and what is the efficiency of the system?",
+        "Options": {
+            "A": "6.0 17",
+            "B": "0.17 6.0",
+            "C": "6.0 6.0",
+            "D": "0.17 17"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q12",
+        "Question": "A 1000 W, 240 V electrical device is switched on. /nHow much energy does it use in 5.0 minutes?",
+        "Options": {
+            "A": "5000 J",
+            "B": "12 000 J",
+            "C": "72 000 J",
+            "D": "300 000 J"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q13",
+        "Question": "A building has walls made from wood and steel. /nWhat describes the way in which thermal energy is transferred through the walls?",
+        "Options": {
+            "A": "conduction through the wood by movement of molecules through the wood only",
+            "B": "conduction through the metal by both the vibration of particles and movement of electrons through the steel",
+            "C": "conduction through the wood by both the vibration and movement of molecules through the wood",
+            "D": "convection through the metal by movement of electrons through the steel only"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q14",
+        "Question": "A liquid column in a liquid-in-glass thermometer is 2.0 cm long at 0 \u00b0C. The column expands by 10.0 cm when heated to 100 \u00b0C. /nMeasuring from P, how long is the liquid column at 30 \u00b0C?",
+        "Options": {
+            "A": "2.3 cm",
+            "B": "3.0 cm",
+            "C": "5.0 cm",
+            "D": "7.0 cm"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q15",
+        "Question": "In many applications, a thermocouple is used to measure temperature instead of a liquid-in-glass thermometer. /nWhich property of a thermocouple is a major advantage?",
+        "Options": {
+            "A": "its greater heat capacity",
+            "B": "its smaller temperature range",
+            "C": "its quicker response time",
+            "D": "it has a non-linear output"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q16",
+        "Question": "A liquid-in-glass thermometer consists of a bulb containing a liquid which expands into a thin capillary tube. /nThe liquid in the thermometer is replaced by the same volume of a different liquid that expands more for the same temperature rise. The length of the capillary tube remains the same. /nHow does the new thermometer compare with the old thermometer?",
+        "Options": {
+            "A": "It has greater sensitivity and a greater range.",
+            "B": "It has greater sensitivity but a smaller range.",
+            "C": "It has the same sensitivity and the same range.",
+            "D": "It has the same sensitivity but a greater range."
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q17",
+        "Question": "What is the usual symbol and what is the unit for the heat capacity of an object? /n",
+        "Options": {
+            "A": "C J / \u00b0C",
+            "B": "C J / (kg \u00b0C)",
+            "C": "H J / \u00b0C",
+            "D": "H J / (kg \u00b0C)"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q18",
+        "Question": "Which row describes the arrangement of particles and the forces between particles in a solid? /n",
+        "Options": {
+            "A": "regular strong",
+            "B": "regular weak",
+            "C": "irregular strong",
+            "D": "irregular weak"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q19",
+        "Question": "A wave in the sea collides with a cliff. /nA crest of the wave hits the cliff once every 6.0 s. /nThe horizontal distance between a crest and the adjacent trough of the wave is 4.5 m. /nWhat is the speed of the wave? /n",
+        "Options": {
+            "A": "0.67 m / s",
+            "B": "0.75 m / s",
+            "C": "1.3 m / s",
+            "D": "1.5 m / s"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q20",
+        "Question": "A sound wave refracts as it passes from air to water. /nWhich quantities change? /n",
+        "Options": {
+            "A": "speed and frequency only",
+            "B": "speed and wavelength only",
+            "C": "wavelength and frequency only",
+            "D": "speed, frequency and wavelength"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q21",
+        "Question": "An object is viewed through a thin converging lens. /nThe diagram shows the paths of two rays from the top of the object to an eye. /nHow does the image compare with the object? /n",
+        "Options": {
+            "A": "It is larger and inverted.",
+            "B": "It is larger and upright.",
+            "C": "It is smaller and inverted.",
+            "D": "It is smaller and upright."
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q22",
+        "Question": "A ray of white light enters a prism as shown. /nWhich row is correct? /n",
+        "Options": {
+            "A": "dispersion only smaller",
+            "B": "refraction only greater",
+            "C": "dispersion and refraction smaller",
+            "D": "dispersion and refraction greater"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q23",
+        "Question": "Which waves are not part of the electromagnetic spectrum? /n",
+        "Options": {
+            "A": "radio waves",
+            "B": "television signals",
+            "C": "ultrasound",
+            "D": "ultraviolet"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q24",
+        "Question": "A man stands between two tall buildings, P and Q. /nHe is 50 m from P and 200 m from Q. /nHe sounds a horn. /nHe hears the first echo from building P and 1.0 s later he hears the first echo from building Q. /nWhat is the speed of sound calculated using this information? /n",
+        "Options": {
+            "A": "250 m / s",
+            "B": "300 m / s",
+            "C": "330 m / s",
+            "D": "500 m / s"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q25",
+        "Question": "Sound travels at different speeds in each of the three states of matter, solid, liquid and gas. /nWhich row shows where sound travels fastest and where sound travels slowest? /n",
+        "Options": {
+            "A": "gas liquid",
+            "B": "gas solid",
+            "C": "liquid gas",
+            "D": "solid gas"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q26",
+        "Question": "What is one of the uses of ultrasound? /n",
+        "Options": {
+            "A": "cleaning jewellery",
+            "B": "fluorescent tubes",
+            "C": "optical fibres",
+            "D": "sunbeds"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q27",
+        "Question": "Which material is used for the core of an electromagnet? /n",
+        "Options": {
+            "A": "aluminium",
+            "B": "copper",
+            "C": "iron",
+            "D": "steel"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q28",
+        "Question": "Two metal spheres are mounted on insulating stands. Sphere X is initially uncharged and sphere Y /nis initially positively charged. /nA metal rod, held by an insulating handle, is placed in contact with X and Y as shown. /nWhat are the charges on X and on Y after the rod is placed in contact with them? /n",
+        "Options": {
+            "A": "positive positive",
+            "B": "positive uncharged",
+            "C": "uncharged positive",
+            "D": "uncharged uncharged"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q29",
+        "Question": "Which device involves the use of static electrical charges? /n",
+        "Options": {
+            "A": "a computer hard disk drive",
+            "B": "a motor",
+            "C": "a photocopier",
+            "D": "a transformer"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q30",
+        "Question": "An initially uncharged copper rod is placed in a uniform electric field E. The rod is parallel to the /nfield. /nWhich diagram shows the charges induced on the rod? /n",
+        "Options": {
+            "A": "direction of electric field E \u2013",
+            "B": "direction of electric field E +",
+            "C": "direction of electric field E \u2013+",
+            "D": "direction of electric field E +\u2013"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q31",
+        "Question": "The diagram shows a simple electric circuit. /nWhich row describes the charge on an electron and the direction of electron flow through the resistor?",
+        "Options": {
+            "A": "negative/nX to Y",
+            "B": "negative/nY to X",
+            "C": "positive/nX to Y",
+            "D": "positive/nY to X"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q32",
+        "Question": "When the flash on a camera is used, a charge of 1.5 C flows for 0.0030 s through the flash lamp. /nThe average voltage across the flash lamp is 3600 V. /nWhat is the electrical energy supplied to the flash lamp and what is the average power supplied?",
+        "Options": {
+            "A": "2400 J / 7.2 W",
+            "B": "2400 J / 800 000 W",
+            "C": "5400 J / 16.2 W",
+            "D": "5400 J / 1.8 \u00d7 10\u2076 W"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q33",
+        "Question": "What is the unit of potential difference (p.d.) and which measuring instrument is used to measure p.d.?",
+        "Options": {
+            "A": "ampere/nammeter",
+            "B": "ampere/nvoltmeter",
+            "C": "volt/nammeter",
+            "D": "volt/nvoltmeter"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q34",
+        "Question": "The diagrams show four circuits. Each circuit contains three 100 \u03a9 resistors. /nWhich circuit has the smallest total resistance?",
+        "Options": {
+            "A": "100 \u03a9 - 100 \u03a9 - 100 \u03a9",
+            "B": "100 \u03a9 /n100 \u03a9",
+            "C": "100 \u03a9/n100 \u03a9/n100 \u03a9",
+            "D": "100 \u03a9 /n100 \u03a9 /n100 \u03a9"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q35",
+        "Question": "A metal kettle is plugged into a mains socket. The plug contains a suitable fuse. /nThe kettle\u2019s cable is damaged and the fuse blows. /nWhy does the fuse blow?",
+        "Options": {
+            "A": "The bare earth wire in the cable touches the bare live wire.",
+            "B": "The metal casing of the kettle touches the bare earth wire.",
+            "C": "The bare neutral wire in the cable touches the bare earth wire.",
+            "D": "The live wire breaks without touching any other wire."
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q36",
+        "Question": "As a magnet is moved into the coil of wire as shown, there is a small positive reading on the sensitive ammeter. /nWhich change must increase the size of the reading?",
+        "Options": {
+            "A": "moving the opposite pole into the coil",
+            "B": "pulling the magnet out of the coil",
+            "C": "pushing the magnet in faster",
+            "D": "unwinding some of the turns of wire"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q37",
+        "Question": "The diagram shows the circuit for a model power line with two transformers and a lamp at the output. /nWhat is the input voltage?",
+        "Options": {
+            "A": "0.12 V",
+            "B": "6.0 V",
+            "C": "12 V",
+            "D": "96 V"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q38",
+        "Question": "Electrical power is transmitted by cables over long distances at very high voltages. /nWhat are the effects of using a high voltage transmission system?",
+        "Options": {
+            "A": "high power loss in the cables /n high current in the cables",
+            "B": "high power loss in the cables /n low current in the cables",
+            "C": "low power loss in the cables /n high current in the cables",
+            "D": "low power loss in the cables /n low current in the cables"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q39",
+        "Question": "The diagram shows a beam of electrons about to enter a magnetic field. The magnetic field is directed into the page. /nWhat is the direction of the deflection of the electrons as they enter the magnetic field?",
+        "Options": {
+            "A": "into the page",
+            "B": "out of the page",
+            "C": "up the page",
+            "D": "down the page"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "May-June/11/2022/Q40",
+        "Question": "In the Geiger-Marsden experiment, alpha-particles are fired at a thin gold sheet. /nMost alpha-particles pass straight through the thin gold sheet. /nA few are deflected. /nWhat can be deduced from this experiment?",
+        "Options": {
+            "A": "The nucleus is very small.",
+            "B": "The nucleus has no charge.",
+            "C": "Electrons surround the nucleus.",
+            "D": "Electrons have a negative charge."
+        },
+        "image": null,
+        "answer": "A"
+    }
+]

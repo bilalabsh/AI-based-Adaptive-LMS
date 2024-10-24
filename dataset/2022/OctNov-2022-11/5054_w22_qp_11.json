@@ -1,0 +1,494 @@
+[
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q1",
+        "Question": "The diagram shows three forces acting on a block. The resultant force is 6 N to the right.\nWhich additional force produces a resultant force of 3 N to the left?",
+        "Options": {
+            "A": "3 N to the left",
+            "B": "9 N to the left",
+            "C": "6 N to the right",
+            "D": "13 N to the right"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q2",
+        "Question": "Velocity is given by the change in displacement divided by the change in time.\nHow many vector quantities appear in this statement?",
+        "Options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q3",
+        "Question": "A car of mass 1000 kg is travelling down a steep hill. The brakes fail and the driver uses a horizontal sand-filled safety road to stop the car.\nThe car enters the sand at a speed of 10 m / s and experiences a constant stopping force of 2500 N.\nHow far does the car travel in the sand before coming to rest?",
+        "Options": {
+            "A": "2.0 m",
+            "B": "4.0 m",
+            "C": "20 m",
+            "D": "40 m"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q4",
+        "Question": "Which part of the distance\u2013time graph shows the fastest constant speed?",
+        "Options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q5",
+        "Question": "An object is accelerating along a straight, horizontal track. The acceleration is uniform.\nWhich speed\u2013time graph represents the motion of the object?",
+        "Options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q5",
+        "Question": "An object is accelerating along a straight, horizontal track. The acceleration is uniform.\nWhich speed\u2013time graph represents the motion of the object?",
+        "Options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q6",
+        "Question": "The velocity of an object is given by the gradient of the distance\u2013time graph.\nWhich statement about the velocity is correct?",
+        "Options": {
+            "A": "The velocity is zero when the graph is horizontal.",
+            "B": "The velocity is constant when the graph is a straight line.",
+            "C": "The velocity is increasing when the graph is a straight line.",
+            "D": "The velocity is decreasing when the graph is horizontal."
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q7",
+        "Question": "An object of mass 2 kg is moving with a speed of 3 m/s. A force of 4 N acts on the object in the direction of motion for 5 seconds.\nWhat is the final speed of the object?",
+        "Options": {
+            "A": "4 m/s",
+            "B": "6 m/s",
+            "C": "8 m/s",
+            "D": "10 m/s"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q8",
+        "Question": "Which object has the largest momentum?",
+        "Options": {
+            "A": "A car of mass 1000 kg moving at 10 m / s",
+            "B": "A motorcycle of mass 200 kg moving at 30 m / s",
+            "C": "A bullet of mass 0.02 kg moving at 500 m / s",
+            "D": "A truck of mass 5000 kg moving at 2 m / s"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q9",
+        "Question": "A ball of mass 0.5 kg is moving with a velocity of 2 m / s. It collides head-on with a wall and rebounds with the same speed. The collision lasts for 0.01 seconds.\nWhat is the average force exerted on the ball by the wall?",
+        "Options": {
+            "A": "100 N",
+            "B": "200 N",
+            "C": "300 N",
+            "D": "400 N"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q10",
+        "Question": "A man uses a rope to pull a crate up a ramp that is inclined at 30\u00b0 to the horizontal.\nWhich of the following combinations of forces has a zero resultant force?",
+        "Options": {
+            "A": "The pulling force, the friction force, and the component of the weight down the slope",
+            "B": "The pulling force, the friction force, and the component of the weight perpendicular to the slope",
+            "C": "The pulling force, the friction force, and the weight of the crate",
+            "D": "The pulling force, the friction force, and the normal contact force"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q11",
+        "Question": "A person is standing in an elevator that is accelerating downwards. The person is of mass 70 kg and the acceleration due to gravity is 10 m / s\u00b2.\nWhat is the reading on the weighing machine that the person is standing on?",
+        "Options": {
+            "A": "700 N",
+            "B": "More than 700 N",
+            "C": "Less than 700 N",
+            "D": "Zero"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q12",
+        "Question": "A car is travelling along a straight horizontal road. It decelerates uniformly and comes to rest after travelling 60 m.\nThe initial speed of the car was 20 m / s.\nWhat is the deceleration of the car?",
+        "Options": {
+            "A": "1.0 m / s\u00b2",
+            "B": "2.0 m / s\u00b2",
+            "C": "3.3 m / s\u00b2",
+            "D": "4.0 m / s\u00b2"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q13",
+        "Question": "A cyclist and his bicycle have a total mass of 80 kg. He cycles at a speed of 8 m / s on level ground.\nThe cyclist applies the brakes to stop the bicycle. The bicycle comes to rest in 4 seconds.\nWhat is the magnitude of the average braking force?",
+        "Options": {
+            "A": "160 N",
+            "B": "320 N",
+            "C": "480 N",
+            "D": "640 N"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q14",
+        "Question": "A car is moving at constant speed on a horizontal road. The car\u2019s engine produces 4000 W of power and the car moves with a constant speed of 20 m / s.\nWhat is the total resistive force acting on the car?",
+        "Options": {
+            "A": "100 N",
+            "B": "200 N",
+            "C": "300 N",
+            "D": "400 N"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q15",
+        "Question": "A rocket is fired vertically upwards. The upward thrust on the rocket is 1000 N and the weight of the rocket is 200 N.\nWhat is the acceleration of the rocket?",
+        "Options": {
+            "A": "4 m / s\u00b2",
+            "B": "5 m / s\u00b2",
+            "C": "8 m / s\u00b2",
+            "D": "10 m / s\u00b2"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q16",
+        "Question": "The diagram shows a uniform metre rule of weight 2 N. It is pivoted at the 40 cm mark and a weight of 5 N is hung at the 10 cm mark.\nWhat is the force needed at the 90 cm mark to balance the metre rule?",
+        "Options": {
+            "A": "2.5 N",
+            "B": "3.5 N",
+            "C": "4.5 N",
+            "D": "5.5 N"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q17",
+        "Question": "Two blocks are connected by a light inextensible string that passes over a smooth pulley. The block on the left is 2 kg and the block on the right is 3 kg. The pulley is frictionless.\nWhat is the acceleration of the blocks?",
+        "Options": {
+            "A": "1 m / s\u00b2",
+            "B": "2 m / s\u00b2",
+            "C": "3 m / s\u00b2",
+            "D": "4 m / s\u00b2"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q18",
+        "Question": "A 4.0 kg mass is attached to the end of a string. The mass is whirled around in a horizontal circle at constant speed.\nWhich quantity is not changing?",
+        "Options": {
+            "A": "The kinetic energy of the mass",
+            "B": "The momentum of the mass",
+            "C": "The speed of the mass",
+            "D": "The velocity of the mass"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q19",
+        "Question": "The diagrams show two forces acting on an object. The object is in equilibrium.\nWhich force is required to keep the object in equilibrium?",
+        "Options": {
+            "A": "Force A",
+            "B": "Force B",
+            "C": "Force C",
+            "D": "Force D"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q20",
+        "Question": "Which diagram shows the forces acting on a stationary object resting on a horizontal surface?",
+        "Options": {
+            "A": "Diagram A",
+            "B": "Diagram B",
+            "C": "Diagram C",
+            "D": "Diagram D"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q21",
+        "Question": "A kilogram of a substance has a fixed shape. Thermal energy supplied to the substance weakens the forces of attraction between its molecules. What is happening?",
+        "Options": {
+            "A": "A gas is being heated.",
+            "B": "A liquid is at its boiling point.",
+            "C": "A liquid is evaporating.",
+            "D": "A solid is at its melting point."
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q22",
+        "Question": "Which conditions produce the greatest rate of evaporation from a liquid?",
+        "Options": {
+            "A": "high temperature, draught and large surface area of liquid",
+            "B": "high temperature, no draught and large surface area of liquid",
+            "C": "low temperature, draught and small surface area of liquid",
+            "D": "low temperature, no draught and small surface area of liquid"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q23",
+        "Question": "Which statement is correct?",
+        "Options": {
+            "A": "Both longitudinal waves and transverse waves can travel at the speed of light.",
+            "B": "Both longitudinal waves and transverse waves of similar wavelengths must have similar frequencies.",
+            "C": "Both longitudinal waves and transverse waves can travel in a vacuum.",
+            "D": "Both longitudinal waves and transverse waves can travel in water."
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q24",
+        "Question": "A mirror is placed in the path of a ray of light. Through which angle does the direction of the ray of light change?",
+        "Options": {
+            "A": "40\u00b0",
+            "B": "90\u00b0",
+            "C": "100\u00b0",
+            "D": "140\u00b0"
+        },
+        "image": "5054_q24_image.png",
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q25",
+        "Question": "An oscilloscope is used to demonstrate a sound. Which feature of the oscilloscope trace is affected by the quality (timbre) of the sound?",
+        "Options": {
+            "A": "amplitude",
+            "B": "frequency",
+            "C": "shape",
+            "D": "wavelength"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q26",
+        "Question": "Four plotting compasses are placed near a bar magnet. Ignore any effects of the Earth's magnetic field. One compass appears like this. What is a possible position for this compass?",
+        "Options": {
+            "A": "position A",
+            "B": "position B",
+            "C": "position C",
+            "D": "position D"
+        },
+        "image": "5054_q26_image.png",
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q27",
+        "Question": "A plastic rod and a cloth are initially uncharged. The rod is then rubbed with the cloth and the cloth becomes positively charged. What is the sign of the charge on the plastic rod and why does it become charged?",
+        "Options": {
+            "A": "negative, electrons move from the cloth to the rod",
+            "B": "negative, protons move from the rod to the cloth",
+            "C": "positive, electrons move from the rod to the cloth",
+            "D": "positive, protons move from the cloth to the rod"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q28",
+        "Question": "Which expression gives the electromotive force (e.m.f.) of a battery?",
+        "Options": {
+            "A": "work done \u00d7 time",
+            "B": "work done \u00d7 charge",
+            "C": "work done / time",
+            "D": "work done / charge"
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q29",
+        "Question": "A circuit contains two cells and two lamps. The cells are new and are fully charged. In which arrangement of the cells and lamps do the cells discharge the most quickly?",
+        "Options": {
+            "A": "arrangement A",
+            "B": "arrangement B",
+            "C": "arrangement C",
+            "D": "arrangement D"
+        },
+        "image": "5054_q29_image.png",
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q30",
+        "Question": "A lamp is connected in series with a battery and a variable resistor. The resistance of the variable resistor is decreased gradually. Which statement is correct?",
+        "Options": {
+            "A": "The current in the lamp increases.",
+            "B": "The current in the variable resistor decreases.",
+            "C": "The e.m.f. of the battery decreases.",
+            "D": "The total resistance in the circuit increases."
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q31",
+        "Question": "In the circuits shown all the cells are identical and all the lamps are identical. The switches are closed. In which circuit are both lamps the brightest?",
+        "Options": {
+            "A": "circuit A",
+            "B": "circuit B",
+            "C": "circuit C",
+            "D": "circuit D"
+        },
+        "image": "5054_q31_image.png",
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q32",
+        "Question": "Why is a fuse used in an electrical appliance?",
+        "Options": {
+            "A": "to earth the appliance",
+            "B": "to protect the appliance",
+            "C": "to change the power of the appliance",
+            "D": "to change the voltage supplied to the appliance"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q33",
+        "Question": "Which statement about a transformer is correct?",
+        "Options": {
+            "A": "The changing magnetic field in the transformer induces an e.m.f. in the secondary coil.",
+            "B": "The core of the transformer is made of iron because iron is a good electrical conductor.",
+            "C": "The transformer converts alternating current to direct current.",
+            "D": "The transformer converts direct current to alternating current."
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q34",
+        "Question": "The diagram shows the output from an a.c. generator displayed on an oscilloscope screen. The generator is turned at a slower rate. The settings on the oscilloscope controls are not changed. Which diagram shows the new output?",
+        "Options": {
+            "A": "diagram A",
+            "B": "diagram B",
+            "C": "diagram C",
+            "D": "diagram D"
+        },
+        "image": "5054_q34_image.png",
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q35",
+        "Question": "The sound wave produced by a note is displayed on the screen of a cathode-ray oscilloscope. The time-base is set at 5 ms for one division. What is the frequency of the note?",
+        "Options": {
+            "A": "20 Hz",
+            "B": "50 Hz",
+            "C": "60 Hz",
+            "D": "150 Hz"
+        },
+        "image": null,
+        "answer": "B"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q36",
+        "Question": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength electromagnetic waves, and electrons. What are these three types of radiation?",
+        "Options": {
+            "A": "alpha, gamma, beta",
+            "B": "beta, gamma, alpha",
+            "C": "gamma, alpha, beta",
+            "D": "gamma, beta, alpha"
+        },
+        "image": null,
+        "answer": "A"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q37",
+        "Question": "A beam of electrons is fired into a uniform magnetic field as shown. The direction of the magnetic field is into the page. Which path do the electrons follow?",
+        "Options": {
+            "A": "path A",
+            "B": "path B",
+            "C": "path C",
+            "D": "path D"
+        },
+        "image": "5054_q37_image.png",
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q38",
+        "Question": "Which statement about all three types of radioactive emissions is correct?",
+        "Options": {
+            "A": "They are all completely absorbed by a thin aluminium sheet.",
+            "B": "They are all deflected by electric fields.",
+            "C": "They are all deflected by magnetic fields.",
+            "D": "They all cause ionisation of gases."
+        },
+        "image": null,
+        "answer": "D"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q39",
+        "Question": "What is meant by the half-life of a radioactive substance?",
+        "Options": {
+            "A": "Half the time for all the unstable nuclei to decay ",
+            "B": "Half the time it takes an unstable nucleus to emit radiation",
+            "C": "The time taken for half the unstable nuclei to decay",
+            "D": "The time for the nucleon number to halve"
+        },
+        "image": null,
+        "answer": "C"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q40",
+        "Question": "Radioactive isotopes that emit alpha-particles, beta-particles and gamma rays are stored in wooden boxes that are lined with a material that prevents most radiation escaping from the box. ",
+        "Options": {
+            "A": "Half the time for all the unstable nuclei to decay ",
+            "B": "Half the time it takes an unstable nucleus to emit radiation",
+            "C": "The time taken for half the unstable nuclei to decay",
+            "D": "The time for the nucleon number to halve"
+        },
+        "image": null,
+        "answer": "C"
+    }
+]

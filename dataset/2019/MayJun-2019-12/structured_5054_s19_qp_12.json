@@ -1,0 +1,602 @@
+[
+    {
+        "QuestionNumber": "May-June/12/2019/Q1",
+        "Question": "Which reading is given to one tenth of a millimetre?",
+        "Options": {
+            "A": "3.3 cm",
+            "B": "3.31 cm",
+            "C": "3.310 cm",
+            "D": "3.312 cm"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q2",
+        "Question": "A woman runs 2.0 km from X to Y in 20 minutes\nand then rests at Y for 10 minutes.\nShe then takes 10 minutes to run 1.6 km from Y to Z.\nWhat is the size of her average velocity for the journey from X to Z?",
+        "Options": {
+            "A": "0.060 km / minute",
+            "B": "0.080 km / minute",
+            "C": "0.090 km / minute",
+            "D": "0.130 km / minute"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q3",
+        "Question": "A cyclist travelling in a straight line at 8.0 m / s\naccelerates to 12 m / s in a time of 6.0 s.\nWhich expression gives the cyclist\u2019s acceleration?",
+        "Options": {
+            "A": "8 12 6 \u2212",
+            "B": "6 12 8 \u2212",
+            "C": "8 6 12 \u2212",
+            "D": "6 8 12 \u2212"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Acceleration"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q4",
+        "Question": "The diagram shows the distance\u2013time graph for a moving object.\nWhat is the moving object?",
+        "Options": {
+            "A": "a ball thrown vertically upwards and falling back to the thrower",
+            "B": "a car, starting from rest, speeding up as it moves away from a traffic signal",
+            "C": "a rock dropped from a high cliff, falling into the sea below",
+            "D": "a train braking to a halt as it stops at a station"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q5",
+        "Question": "Four of the gravitational forces that act between bodies in the Solar System are listed below.\nP the force on the Moon due to the Earth\nQ the force on the Earth due to the Sun\nR the force on the Earth due to the Moon\nS the force on the Moon due to the Sun\nWhich two forces are a Newton\u2019s third law pair (action and reaction)?",
+        "Options": {
+            "A": "P and Q",
+            "B": "P and R",
+            "C": "Q and S",
+            "D": "R and S"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q6",
+        "Question": "A parachutist of mass 60 kg falls at a steady speed of 10 m / s.\nThe gravitational field strength g is 10 N / kg.\nWhat is the upward force acting on the parachutist?",
+        "Options": {
+            "A": "0",
+            "B": "6.0 N",
+            "C": "60 N",
+            "D": "600 N"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q7",
+        "Question": "A force moves a box up a rough slope.\nThe diagram shows four forces acting on the box.\nWhich is the force due to friction on the box?",
+        "Options": {
+            "A": "D",
+            "B": "C",
+            "C": "A",
+            "D": "B"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q8",
+        "Question": "The mass of object P is greater than the mass of object Q.\nThe objects contain different amounts of matter and have a different resistance to change of motion.\nWhich row is correct?",
+        "Options": {
+            "A": "greater amount of matter greater resistance to change of motion A P P",
+            "B": "P Q",
+            "C": "Q P",
+            "D": "Q Q"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q9",
+        "Question": "Four objects of different masses are situated in places with different gravitational field strengths.\nWhich object has the greatest weight?",
+        "Options": {
+            "A": "mass / kg 3.0 kg / N 10.4",
+            "B": "mass / kg 3.5 kg / N 9.5",
+            "C": "mass / kg 4.0 kg / N 10.2",
+            "D": "mass / kg 4.5 kg / N 9.0"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q10",
+        "Question": "A uniform metre rule is balanced by a 4.0 N weight as shown.\nW 4.0 N\n10 cm 50 cm 100 cm\npivot 0\nWhat is the weight W of the metre rule?",
+        "Options": {
+            "A": "1.0 N",
+            "B": "4.0 N",
+            "C": "16 N",
+            "D": "40 N"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q11",
+        "Question": "A large hook sticks into a pencil.\nThe hook and pencil are balanced on the edge of a table, as shown.\nWhere is the centre of mass of the hook and pencil?",
+        "Options": {
+            "A": "pencil",
+            "B": "table",
+            "C": "large hook",
+            "D": "unknown"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q12",
+        "Question": "The diagram shows a graph of load against extension for a material.\nAt which point is the limit of proportionality?",
+        "Options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q13",
+        "Question": "A length of metal wire is made from a radioactive isotope of the metal.\nThe diagram shows masses suspended from the end of the wire.\nThe masses are removed from the wire.\nWhich property changes?",
+        "Options": {
+            "A": "half-life of the isotope",
+            "B": "length of the wire",
+            "C": "mass of the wire",
+            "D": "melting point of the metal"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q14",
+        "Question": "The diagram shows a manometer containing mercury that is sealed at one end.\nh vacuum\nWhat happens to the distance h when the manometer is taken higher up a mountain?",
+        "Options": {
+            "A": "It decreases, because atmospheric pressure decreases with height.",
+            "B": "It decreases, because atmospheric pressure increases with height.",
+            "C": "It increases, because atmospheric pressure decreases with height.",
+            "D": "It increases, because atmospheric pressure increases with height."
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q15",
+        "Question": "The pressure on the gas contained in a sealed syringe is slowly doubled.\nThe volume of the gas halves.\nWhat must be true about the density and the temperature of the gas?",
+        "Options": {
+            "A": "density decreases, temperature increases",
+            "B": "density increases, temperature decreases",
+            "C": "density increases, remains constant",
+            "D": "remains constant, temperature increases"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.4 Density ",
+        "Sub_topic": "Density"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q16",
+        "Question": "An object is lifted.\nWhich expression gives the increase in gravitational potential energy of the object?",
+        "Options": {
+            "A": "mass multiplied by its velocity",
+            "B": "mass multiplied by its acceleration",
+            "C": "the rate at which work is done",
+            "D": "weight multiplied by the increase in height"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q17",
+        "Question": "The diagram shows a small car of mass 500 kg approaching a hill.\nIt moves up the hill with constant speed.\nThe gravitational field strength g is 10 N / kg.\nIgnoring friction, how much work is done in moving the car up the hill?",
+        "Options": {
+            "A": "5.0 \u00d7 10^3 J",
+            "B": "5.0 \u00d7 10^4 J",
+            "C": "1.0 \u00d7 10^5 J",
+            "D": "1.0 \u00d7 10^6 J"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q18",
+        "Question": "Which method of producing electricity does not use an a.c. generator?",
+        "Options": {
+            "A": "geothermal power station",
+            "B": "solar panels",
+            "C": "wave-energy generators",
+            "D": "wind turbine"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q19",
+        "Question": "Three solar panels have a total area of 7.2 m2.\nTogether, they produce 1.0 kW of power.\nWhat is the efficiency of the solar panels?",
+        "Options": {
+            "A": "11%",
+            "B": "17%",
+            "C": "52%",
+            "D": "80%"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q20",
+        "Question": "A student suggests three different definitions for power.\n1 energy transferred per second\n2 force \u00d7 distance moved\n3 rate of doing work\nWhich definitions are correct?",
+        "Options": {
+            "A": "1, 2 and 3",
+            "B": "1 and 2 only",
+            "C": "1 and 3 only",
+            "D": "3 only"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q21",
+        "Question": "Which statement is correct?",
+        "Options": {
+            "A": "Infrared radiation cannot travel in a vacuum.",
+            "B": "Infrared radiation cannot travel in solids or in gases.",
+            "C": "Infrared radiation can only travel in a vacuum.",
+            "D": "Infrared radiation can travel in a vacuum and in gases."
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "",
+        "Topic": "",
+        "Sub_topic": ""
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q22",
+        "Question": "How is latent heat defined?",
+        "Options": {
+            "A": "the thermal energy absorbed or emitted by unit mass during a change of state without a temperature change",
+            "B": "the thermal energy absorbed or emitted by unit mass during unit temperature change",
+            "C": "the thermal energy absorbed or emitted during a change of state without a temperature change",
+            "D": "the thermal energy absorbed or emitted during unit temperature change"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Specific Heat Capacity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q23",
+        "Question": "In low-pressure hydrogen, there are no forces between the molecules except during collisions with each other. Which statement describes the motion of a molecule between one collision and the next?",
+        "Options": {
+            "A": "It moves with changing speed and continuously changes direction.",
+            "B": "It moves with changing speed in a straight line.",
+            "C": "It moves with constant speed and continuously changes direction.",
+            "D": "It moves with constant speed in a straight line."
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q24",
+        "Question": "A gas is enclosed in a container of fixed volume. The gas gains heat energy from an external source. What happens to the molecules of the gas?",
+        "Options": {
+            "A": "They expand.",
+            "B": "They move faster inside the container.",
+            "C": "They move further apart.",
+            "D": "They vibrate with greater frequency."
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q25",
+        "Question": "A wave on water travels towards a stationary boat. As the wave passes, the boat starts to move up and down and gains kinetic energy from the wave. Which property of the wave changes as the wave passes the boat?",
+        "Options": {
+            "A": "amplitude",
+            "B": "frequency",
+            "C": "speed",
+            "D": "wavelength"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q26",
+        "Question": "Which waves are longitudinal?",
+        "Options": {
+            "A": "gamma rays",
+            "B": "light waves",
+            "C": "ultrasound waves",
+            "D": "X-rays"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 3: Waves ",
+        "Topic": "3.1 General Properties of Waves",
+        "Sub_topic": "Features of Waves"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q27",
+        "Question": "An object is placed at a distance from a converging lens that is equal to twice the focal length of the lens. Which statement about the image is correct?",
+        "Options": {
+            "A": "It is enlarged.",
+            "B": "It is inverted.",
+            "C": "It is on the same side of the lens as the object.",
+            "D": "It is virtual."
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q28",
+        "Question": "The lens in the diagram produces an image I of the object O. Why is this not the ray diagram for a photographic enlarger?",
+        "Options": {
+            "A": "The image is magnified.",
+            "B": "The image is virtual.",
+            "C": "The lens is a converging lens.",
+            "D": "The lens is too thin."
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q29",
+        "Question": "What is the approximate range of audible frequencies for a healthy human ear?",
+        "Options": {
+            "A": "2.0 Hz to 2.0 kHz",
+            "B": "20 Hz to 2.0 kHz",
+            "C": "20 Hz to 20 kHz",
+            "D": "200 Hz to 200 kHz"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q30",
+        "Question": "The speed of sound in air is ca, the speed of sound in water is cw and the speed of sound in ice is ci. Which relationship is correct?",
+        "Options": {
+            "A": "ca > ci",
+            "B": "ca > cw",
+            "C": "ci > cw",
+            "D": "cw = ca"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q31",
+        "Question": "One end of each of two bars is marked with an X or a Y, as shown. What materials are bar 1 and bar 2 made from?",
+        "Options": {
+            "A": "bar 1: copper, bar 2: iron",
+            "B": "bar 1: iron, bar 2: steel",
+            "C": "bar 1: steel, bar 2: copper",
+            "D": "bar 1: steel, bar 2: iron"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q32",
+        "Question": "The diagram shows a car ignition switch and starter motor. What is the explanation for the choice of wires?",
+        "Options": {
+            "A": "Each circuit needs to contain the same total mass of wire.",
+            "B": "Thicker wires heat up more quickly when the relay is switched on.",
+            "C": "Thin wires have lower resistances.",
+            "D": "The ignition switch circuit carries a smaller current than the starter motor circuit."
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q33",
+        "Question": "The diagram shows a simple circuit. What happens when the resistance of the variable resistor is increased?",
+        "Options": {
+            "A": "The lamps are dimmer and the motor rotates more quickly.",
+            "B": "The lamps are dimmer and the motor rotates more slowly.",
+            "C": "The lamps have the same brightness and the motor rotates more quickly.",
+            "D": "The lamps have the same brightness and the motor rotates more slowly."
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q34",
+        "Question": "The diagram shows a simple electrical circuit. Which statement cannot be correct?",
+        "Options": {
+            "A": "The current I is 2 A.",
+            "B": "The e.m.f. E is 12 J.",
+            "C": "The p.d. V (across the resistor) is 10 V.",
+            "D": "The resistance R is 5 \u03a9."
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q35",
+        "Question": "The cable to an electric cooker contains a live wire, a neutral wire and an earth wire. When the cooker is working correctly, in which wires are the currents equal?",
+        "Options": {
+            "A": "the live, the neutral and the earth",
+            "B": "the live and the earth only",
+            "C": "the neutral and the earth only",
+            "D": "the neutral and the live only"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q36",
+        "Question": "The manufacturer of an electrical heater states that only one heater must be connected to the mains wiring through any fuse. The current in the circuit with only one heater is 9 A. The fuse rating is 10 A. Despite the warning, a second identical heater is added, as shown. When the switch is closed the fuse blows. What happens when the switch is closed?",
+        "Options": {
+            "A": "Each heater only receives half the correct current.",
+            "B": "Each heater receives twice the correct current.",
+            "C": "The circuit wiring connecting the heaters to the mains may overheat.",
+            "D": "The fuse melts when the heaters are switched on."
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q37",
+        "Question": "A coil is rotating in a magnetic field. The coil is connected to an oscilloscope. The diagram shows the trace on the screen of the oscilloscope. The coil now speeds up and rotates twice as fast. Which diagram shows the new trace?",
+        "Options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q38",
+        "Question": "A teacher uses the circuit shown. What happens to the voltage and the power supplied to lamp Y?",
+        "Options": {
+            "A": "the voltage supplied to lamp Y decreases, the power supplied to lamp Y decreases",
+            "B": "the voltage supplied to lamp Y decreases, the power supplied to lamp Y stays the same",
+            "C": "the voltage supplied to lamp Y increases, the power supplied to lamp Y increases",
+            "D": "the voltage supplied to lamp Y increases, the power supplied to lamp Y stays the same"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Power"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q39",
+        "Question": "A car battery supplies a current in one direction. A current in the opposite direction recharges the battery. Which circuit recharges the battery, using an alternating current (a.c.) supply and a diode?",
+        "Options": {
+            "A": "a.c. supply + \u2013",
+            "B": "a.c. supply + \u2013",
+            "C": "a.c. supply + \u2013",
+            "D": "a.c. supply + \u2013"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
+    },
+    {
+        "QuestionNumber": "May-June/12/2019/Q40",
+        "Question": "A proton has charge q and mass m. What is the charge and what is the mass of an alpha-particle?",
+        "Options": {
+            "A": "charge: q, mass: 2m",
+            "B": "charge: 2q, mass: 2m",
+            "C": "charge: 2q, mass: 4m",
+            "D": "charge: 4q, mass: 2m"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
+    }
+]

@@ -9,14 +9,14 @@
             "D": "3.312 cm"
         },
         "image": null,
-        "answer": null,
+        "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.5 Forces",
         "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2019/Q2",
-        "Question": "Two forces X and Y act as shown. /n Which diagram shows the resultant force R of X and Y? /n A R /n B R /n C R /n D R",
+        "Question": "Two forces X and Y act as shown. \n Which diagram shows the resultant force R of X and Y? \n A R \n B R \n C R \n D R",
         "Options": {
             "A": "R",
             "B": "R",
@@ -31,7 +31,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q3",
-        "Question": "Which reading is given to one tenth of a millimetre? /n A 3.3 cm /n B 3.31 cm /n C 3.310 cm /n D 3.312 cm",
+        "Question": "Which reading is given to one tenth of a millimetre? \n A 3.3 cm \n B 3.31 cm \n C 3.310 cm \n D 3.312 cm",
         "Options": {
             "A": "3.3 cm",
             "B": "3.31 cm",
@@ -46,12 +46,12 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q4",
-        "Question": "The magnitudes of three different electric charges are given below. /n What is the correct order of size, from largest to smallest? /n A 1 mC \u2192 1 MC \u2192 1 kC /n B 1 MC \u2192 1 mC \u2192 1 kC /n C 1 MC \u2192 1 kC \u2192 1 mC /n D 1 kC \u2192 1 mC \u2192 1 MC",
+        "Question": "The magnitudes of three different electric charges are given below. \n What is the correct order of size, from largest to smallest? \n A 1 mC →  1 MC →  1 kC \n B 1 MC →  1 mC →  1 kC \n C 1 MC →  1 kC →  1 mC \n D 1 kC →  1 mC →  1 MC",
         "Options": {
-            "A": "1 mC \u2192 1 MC \u2192 1 kC",
-            "B": "1 MC \u2192 1 mC \u2192 1 kC",
-            "C": "1 MC \u2192 1 kC \u2192 1 mC",
-            "D": "1 kC \u2192 1 mC \u2192 1 MC"
+            "A": "1 mC →  1 MC →  1 kC",
+            "B": "1 MC →  1 mC →  1 kC",
+            "C": "1 MC →  1 kC →  1 mC",
+            "D": "1 kC →  1 mC →  1 MC"
         },
         "image": null,
         "answer": "C",
@@ -61,7 +61,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q5",
-        "Question": "Four of the gravitational forces that act between bodies in the Solar System are listed below. /n Which two forces are a Newton's third law pair (action and reaction)? /n A P and Q /n B P and R /n C Q and S /n D R and S",
+        "Question": "Four of the gravitational forces that act between bodies in the Solar System are listed below. \n Which two forces are a Newton's third law pair (action and reaction)? \n A P and Q \n B P and R \n C Q and S \n D R and S",
         "Options": {
             "A": "P and Q",
             "B": "P and R",
@@ -76,7 +76,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q6",
-        "Question": "A hot-air balloon is travelling at constant velocity and is at a constant height above the ground. /n Which statement is correct? /n A W and Y are equal, X and Z are equal. /n B W and Y are equal, X is greater than Z. /n C X and Z are equal, Y is greater than W. /n D Y is greater than W, X is greater than Z.",
+        "Question": "A hot-air balloon is travelling at constant velocity and is at a constant height above the ground. \n Which statement is correct? \n A W and Y are equal, X and Z are equal. \n B W and Y are equal, X is greater than Z. \n C X and Z are equal, Y is greater than W. \n D Y is greater than W, X is greater than Z.",
         "Options": {
             "A": "W and Y are equal, X and Z are equal.",
             "B": "W and Y are equal, X is greater than Z.",
@@ -91,7 +91,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q7",
-        "Question": "The diagram represents an object O moving from X to Y along a circular path at constant speed. /n What is the direction of the resultant force on O in the position shown? /n A /n B /n C /n D",
+        "Question": "The diagram represents an object O moving from X to Y along a circular path at constant speed. \n What is the direction of the resultant force on O in the position shown? \n A \n B \n C \n D",
         "Options": {
             "A": "",
             "B": "",
@@ -106,7 +106,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q8",
-        "Question": "Four objects of different masses are situated in places with different gravitational field strengths. /n Which object has the greatest weight? /n A 3.0 kg 10.4 N /n B 3.5 kg 9.5 N /n C 4.0 kg 10.2 N /n D 4.5 kg 9.0 N",
+        "Question": "Four objects of different masses are situated in places with different gravitational field strengths. \n Which object has the greatest weight? \n A 3.0 kg 10.4 N \n B 3.5 kg 9.5 N \n C 4.0 kg 10.2 N \n D 4.5 kg 9.0 N",
         "Options": {
             "A": "3.0 kg 10.4 N",
             "B": "3.5 kg 9.5 N",
@@ -121,7 +121,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q9",
-        "Question": "A uniform metre rule is balanced by a 4.0 N weight as shown. /n What is the weight W of the metre rule? /n A 1.0 N /n B 4.0 N /n C 16 N /n D 40 N",
+        "Question": "A uniform metre rule is balanced by a 4.0 N weight as shown. \n What is the weight W of the metre rule? \n A 1.0 N \n B 4.0 N \n C 16 N \n D 40 N",
         "Options": {
             "A": "1.0 N",
             "B": "4.0 N",
@@ -136,7 +136,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q10",
-        "Question": "Which statement about centre of mass is correct? /n A Objects with a centre of mass at the same height are less stable when the base is larger. /n B Objects with a centre of mass at the same height are more stable when the base is larger. /n C Objects with higher centres of mass and smaller bases are more stable. /n D Objects with identical bases are more stable when the centre of mass is higher.",
+        "Question": "Which statement about centre of mass is correct? \n A Objects with a centre of mass at the same height are less stable when the base is larger. \n B Objects with a centre of mass at the same height are more stable when the base is larger. \n C Objects with higher centres of mass and smaller bases are more stable. \n D Objects with identical bases are more stable when the centre of mass is higher.",
         "Options": {
             "A": "Objects with a centre of mass at the same height are less stable when the base is larger.",
             "B": "Objects with a centre of mass at the same height are more stable when the base is larger.",
@@ -151,7 +151,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q11",
-        "Question": "A garden table weighs 60 N and has a top surface of area 2.0 m2. /n It is raining and the rain produces a pressure of 4.0 N / m2 on the table. /n Ignoring the pressure of the atmosphere, what is the force exerted by the table on the ground? /n A 52 N /n B 58 N /n C 62 N /n D 68 N",
+        "Question": "A garden table weighs 60 N and has a top surface of area 2.0 m2. \n It is raining and the rain produces a pressure of 4.0 N / m2 on the table. \n Ignoring the pressure of the atmosphere, what is the force exerted by the table on the ground? \n A 52 N \n B 58 N \n C 62 N \n D 68 N",
         "Options": {
             "A": "52 N",
             "B": "58 N",
@@ -166,7 +166,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q12",
-        "Question": "The diagram shows a manometer containing mercury that is sealed at one end. /n What happens to the distance h when the manometer is taken higher up a mountain? /n A It decreases, because atmospheric pressure decreases with height. /n B It decreases, because atmospheric pressure increases with height. /n C It increases, because atmospheric pressure decreases with height. /n D It increases, because atmospheric pressure increases with height.",
+        "Question": "The diagram shows a manometer containing mercury that is sealed at one end. \n What happens to the distance h when the manometer is taken higher up a mountain? \n A It decreases, because atmospheric pressure decreases with height. \n B It decreases, because atmospheric pressure increases with height. \n C It increases, because atmospheric pressure decreases with height. \n D It increases, because atmospheric pressure increases with height.",
         "Options": {
             "A": "It decreases, because atmospheric pressure decreases with height.",
             "B": "It decreases, because atmospheric pressure increases with height.",
@@ -181,7 +181,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q13",
-        "Question": "Some doctors measure blood pressure by using a mercury manometer. /n Blood pressure varies by 5.6 kPa as a heart beats. /n The density of mercury is 14 000 kg / m3 and the gravitational field strength g is 10 N / kg. /n What is the change in the height difference between the levels in the manometer during a heartbeat? /n A 40 mm /n B 80 mm /n C 400 mm /n D 800 mm",
+        "Question": "Some doctors measure blood pressure by using a mercury manometer. \n Blood pressure varies by 5.6 kPa as a heart beats. \n The density of mercury is 14 000 kg / m3 and the gravitational field strength g is 10 N / kg. \n What is the change in the height difference between the levels in the manometer during a heartbeat? \n A 40 mm \n B 80 mm \n C 400 mm \n D 800 mm",
         "Options": {
             "A": "40 mm",
             "B": "80 mm",
@@ -196,7 +196,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q14",
-        "Question": "The diagram shows a stationary fairground ride with four chairs of equal mass. /n Which chair has the most gravitational potential energy? /n A /n B /n C /n D",
+        "Question": "The diagram shows a stationary fairground ride with four chairs of equal mass. \n Which chair has the most gravitational potential energy? \n A \n B \n C \n D",
         "Options": {
             "A": "",
             "B": "",
@@ -211,12 +211,12 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q15",
-        "Question": "The diagram shows a small car of mass 500 kg approaching a hill. /n Ignoring friction, how much work is done in moving the car up the hill? /n A 5.0 \u00d7 103 J /n B 5.0 \u00d7 104 J /n C 1.0 \u00d7 105 J /n D 1.0 \u00d7 106 J",
+        "Question": "The diagram shows a small car of mass 500 kg approaching a hill. \n Ignoring friction, how much work is done in moving the car up the hill? \n A 5.0 x 103 J \n B 5.0 x 104 J \n C 1.0 x 105 J \n D 1.0 x 106 J",
         "Options": {
-            "A": "5.0 \u00d7 103 J",
-            "B": "5.0 \u00d7 104 J",
-            "C": "1.0 \u00d7 105 J",
-            "D": "1.0 \u00d7 106 J"
+            "A": "5.0 x 10^3 J",
+            "B": "5.0 x 10^4 J",
+            "C": "1.0 x 10^5 J",
+            "D": "1.0 x 10^6 J"
         },
         "image": null,
         "answer": "B",
@@ -226,7 +226,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q16",
-        "Question": "Which statement is correct? /n A Infrared radiation cannot travel in a vacuum. /n B Infrared radiation cannot travel in solids or in gases. /n C Infrared radiation can only travel in a vacuum. /n D Infrared radiation can travel in a vacuum and in gases.",
+        "Question": "Which statement is correct? \n A Infrared radiation cannot travel in a vacuum. \n B Infrared radiation cannot travel in solids or in gases. \n C Infrared radiation can only travel in a vacuum. \n D Infrared radiation can travel in a vacuum and in gases.",
         "Options": {
             "A": "Infrared radiation cannot travel in a vacuum.",
             "B": "Infrared radiation cannot travel in solids or in gases.",
@@ -241,7 +241,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q17",
-        "Question": "The diagram shows a set of apparatus used to determine the specific heat capacity of water. /n What does not affect the rate at which energy is lost to the surroundings? /n A insulating the container /n B placing a lid on the container /n C polishing the outer surface of the container /n D moving the thermometer closer to the heater",
+        "Question": "The diagram shows a set of apparatus used to determine the specific heat capacity of water. \n What does not affect the rate at which energy is lost to the surroundings? \n A insulating the container \n B placing a lid on the container \n C polishing the outer surface of the container \n D moving the thermometer closer to the heater",
         "Options": {
             "A": "insulating the container",
             "B": "placing a lid on the container",
@@ -256,7 +256,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q18",
-        "Question": "Two thermometers X and Y contain different liquids but are otherwise identical. /n Which is the more sensitive thermometer and which is the thermometer with the larger range? /n more sensitive thermometer /n thermometer with the larger range /n A X /n B X /n C Y /n D Y",
+        "Question": "Two thermometers X and Y contain different liquids but are otherwise identical. \n Which is the more sensitive thermometer and which is the thermometer with the larger range? \n more sensitive thermometer \n thermometer with the larger range \n A X \n B X \n C Y \n D Y",
         "Options": {
             "A": "X",
             "B": "X",
@@ -271,7 +271,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q19",
-        "Question": "The diagram shows two thermometers P and Q that are identical except that P contains less mercury. /n Which statement is correct? /n A The lowest measureable temperature is the same on P and on Q. /n B The range of P is equal to the range of Q. /n C The scales on P and Q are both linear. /n D The sensitivity of P is equal to the sensitivity of Q.",
+        "Question": "The diagram shows two thermometers P and Q that are identical except that P contains less mercury. \n Which statement is correct? \n A The lowest measureable temperature is the same on P and on Q. \n B The range of P is equal to the range of Q. \n C The scales on P and Q are both linear. \n D The sensitivity of P is equal to the sensitivity of Q.",
         "Options": {
             "A": "The lowest measureable temperature is the same on P and on Q.",
             "B": "The range of P is equal to the range of Q.",
@@ -286,7 +286,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q20",
-        "Question": "The diagram shows air trapped in a flask by a small volume of water in a thin tube. /n When the flask is held in a student's hands, the small volume of water first moves down from P to Q, and then up to R. /n Why does the small volume of water move like this? /n A The flask contracts and then the air expands. /n B The flask expands and then the air contracts. /n C The flask expands and then the air expands less than the flask. /n D The flask expands and then the air expands more than the flask.",
+        "Question": "The diagram shows air trapped in a flask by a small volume of water in a thin tube. \n When the flask is held in a student's hands, the small volume of water first moves down from P to Q, and then up to R. \n Why does the small volume of water move like this? \n A The flask contracts and then the air expands. \n B The flask expands and then the air contracts. \n C The flask expands and then the air expands less than the flask. \n D The flask expands and then the air expands more than the flask.",
         "Options": {
             "A": "The flask contracts and then the air expands.",
             "B": "The flask expands and then the air contracts.",
@@ -301,7 +301,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q21",
-        "Question": "Which statement about particles in a liquid is correct? /n A They all have the same speed. /n B They are stationary. /n C They move at random. /n D They vibrate about a fixed point.",
+        "Question": "Which statement about particles in a liquid is correct? \n A They all have the same speed. \n B They are stationary. \n C They move at random. \n D They vibrate about a fixed point.",
         "Options": {
             "A": "They all have the same speed.",
             "B": "They are stationary.",
@@ -316,7 +316,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q22",
-        "Question": "A gas is enclosed in a container of fixed volume. /n The gas gains heat energy from an external source. /n What happens to the molecules of the gas? /n A They expand. /n B They move faster inside the container. /n C They move further apart. /n D They vibrate with greater frequency.",
+        "Question": "A gas is enclosed in a container of fixed volume. \n The gas gains heat energy from an external source. \n What happens to the molecules of the gas? \n A They expand. \n B They move faster inside the container. \n C They move further apart. \n D They vibrate with greater frequency.",
         "Options": {
             "A": "They expand.",
             "B": "They move faster inside the container.",
@@ -331,7 +331,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q23",
-        "Question": "Which waves are longitudinal? /n A gamma rays /n B light waves /n C ultrasound waves /n D X-rays",
+        "Question": "Which waves are longitudinal? \n A gamma rays \n B light waves \n C ultrasound waves \n D X-rays",
         "Options": {
             "A": "gamma rays",
             "B": "light waves",
@@ -346,12 +346,12 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q24",
-        "Question": "A ray of light strikes a plane mirror at an angle of incidence of 20\u00b0. /n The angle of incidence is then increased by 5\u00b0. /n What is the new angle between the incident ray and the reflected ray? /n A 10\u00b0 /n B 25\u00b0 /n C 45\u00b0 /n D 50\u00b0",
+        "Question": "A ray of light strikes a plane mirror at an angle of incidence of 20°. \n The angle of incidence is then increased by 5°. \n What is the new angle between the incident ray and the reflected ray? \n A 10° \n B 25° \n C 45° \n D 50°",
         "Options": {
-            "A": "10\u00b0",
-            "B": "25\u00b0",
-            "C": "45\u00b0",
-            "D": "50\u00b0"
+            "A": "10°",
+            "B": "25°",
+            "C": "45°",
+            "D": "50°"
         },
         "image": null,
         "answer": "D",
@@ -361,7 +361,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q25",
-        "Question": "A parallel beam of light is incident on a thin diverging lens. /n The focal length of the lens is FL, as shown in the diagram. /n Which ray diagram shows the beam after it has passed through the lens? /n A F L /n B F L /n C F L /n D F L",
+        "Question": "A parallel beam of light is incident on a thin diverging lens. \n The focal length of the lens is FL, as shown in the diagram. \n Which ray diagram shows the beam after it has passed through the lens? \n A F L \n B F L \n C F L \n D F L",
         "Options": {
             "A": "F L",
             "B": "F L",
@@ -376,7 +376,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q26",
-        "Question": "The following lists show colours of the spectrum. /n Which list shows these colours in order of increasing frequency? /n A blue, violet, red, orange, yellow, green /n B green, blue, violet, red, orange, yellow /n C red, orange, violet, yellow, green, blue /n D red, orange, yellow, green, blue, violet",
+        "Question": "The following lists show colours of the spectrum. \n Which list shows these colours in order of increasing frequency? \n A blue, violet, red, orange, yellow, green \n B green, blue, violet, red, orange, yellow \n C red, orange, violet, yellow, green, blue \n D red, orange, yellow, green, blue, violet",
         "Options": {
             "A": "blue, violet, red, orange, yellow, green",
             "B": "green, blue, violet, red, orange, yellow",
@@ -391,7 +391,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q27",
-        "Question": "Four sound waves are displayed on the screen of a cathode-ray oscilloscope. /n Which sound wave gets louder and has a pitch that decreases? /n A /n B /n C /n D",
+        "Question": "Four sound waves are displayed on the screen of a cathode-ray oscilloscope. \n Which sound wave gets louder and has a pitch that decreases? \n A \n B \n C \n D",
         "Options": {
             "A": "",
             "B": "",
@@ -406,7 +406,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q28",
-        "Question": "A student investigates a permanent magnet by suspending paper clips from the magnet as shown. /n Which statement is correct? /n A Each paper clip has a S-pole at the top and a N-pole at the bottom when suspended from the permanent magnet. /n B If the paper clips are made of soft iron they become demagnetised when the permanent magnet is removed. /n C If the paper clips are made of steel they become demagnetised when the permanent magnet is removed. /n D More paper clips can be suspended from the N-pole.",
+        "Question": "A student investigates a permanent magnet by suspending paper clips from the magnet as shown. \n Which statement is correct? \n A Each paper clip has a S-pole at the top and a N-pole at the bottom when suspended from the permanent magnet. \n B If the paper clips are made of soft iron they become demagnetised when the permanent magnet is removed. \n C If the paper clips are made of steel they become demagnetised when the permanent magnet is removed. \n D More paper clips can be suspended from the N-pole.",
         "Options": {
             "A": "Each paper clip has a S-pole at the top and a N-pole at the bottom when suspended from the permanent magnet.",
             "B": "If the paper clips are made of soft iron they become demagnetised when the permanent magnet is removed.",
@@ -421,7 +421,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q29",
-        "Question": "Two vertical wires pass at right-angles through a piece of card. /n There is a large current in each wire in the direction shown. /n A plotting compass is placed on the card. /n Which diagram shows the direction in which the needle of the plotting compass points? /n A /n B /n C /n D",
+        "Question": "Two vertical wires pass at right-angles through a piece of card. \n There is a large current in each wire in the direction shown. \n A plotting compass is placed on the card. \n Which diagram shows the direction in which the needle of the plotting compass points? \n A \n B \n C \n D",
         "Options": {
             "A": "",
             "B": "",
@@ -436,7 +436,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q30",
-        "Question": "The diagram shows a car ignition switch and starter motor. /n The ignition switch is in a circuit with long, thin wires. /n The starter motor is in a circuit with short, thick wires. /n What is the explanation for the choice of wires? /n A Each circuit needs to contain the same total mass of wire. /n B Thicker wires heat up more quickly when the relay is switched on. /n C Thin wires have lower resistances. /n D The ignition switch circuit carries a smaller current than the starter motor circuit.",
+        "Question": "The diagram shows a car ignition switch and starter motor. \n The ignition switch is in a circuit with long, thin wires. \n The starter motor is in a circuit with short, thick wires. \n What is the explanation for the choice of wires? \n A Each circuit needs to contain the same total mass of wire. \n B Thicker wires heat up more quickly when the relay is switched on. \n C Thin wires have lower resistances. \n D The ignition switch circuit carries a smaller current than the starter motor circuit.",
         "Options": {
             "A": "Each circuit needs to contain the same total mass of wire.",
             "B": "Thicker wires heat up more quickly when the relay is switched on.",
@@ -451,7 +451,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q31",
-        "Question": "The diagram shows some white plastic beads in a clear plastic box. /n The box is shaken and the beads rub against the box. /n The beads stick to the inside surface of the box. /n Which row is a possible explanation for this? /n A gains electrons no change of electrons /n B loses electrons gain electrons /n C no change of electrons lose electrons /n D no change of electrons gain electrons",
+        "Question": "The diagram shows some white plastic beads in a clear plastic box. \n The box is shaken and the beads rub against the box. \n The beads stick to the inside surface of the box. \n Which row is a possible explanation for this? \n A gains electrons no change of electrons \n B loses electrons gain electrons \n C no change of electrons lose electrons \n D no change of electrons gain electrons",
         "Options": {
             "A": "gains electrons no change of electrons",
             "B": "loses electrons gain electrons",
@@ -466,7 +466,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q32",
-        "Question": "Which unit is the same as a volt? /n A ampere / ohm /n B ampere / watt /n C ohm / ampere /n D watt / ampere",
+        "Question": "Which unit is the same as a volt? \n A ampere / ohm \n B ampere / watt \n C ohm / ampere \n D watt / ampere",
         "Options": {
             "A": "ampere / ohm",
             "B": "ampere / watt",
@@ -481,7 +481,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q33",
-        "Question": "The voltage / current graph for a metal wire is shown. /n What does the gradient of this graph represent? /n A the charge passing through the wire /n B the e.m.f. of the battery connected to the wire /n C the energy produced in the wire /n D the resistance of the wire",
+        "Question": "The voltage / current graph for a metal wire is shown. \n What does the gradient of this graph represent? \n A the charge passing through the wire \n B the e.m.f. of the battery connected to the wire \n C the energy produced in the wire \n D the resistance of the wire",
         "Options": {
             "A": "the charge passing through the wire",
             "B": "the e.m.f. of the battery connected to the wire",
@@ -496,7 +496,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q34",
-        "Question": "What is the symbol for a device that measures current? /n A /n B /n C /n D",
+        "Question": "What is the symbol for a device that measures current? \n A \n B \n C \n D",
         "Options": {
             "A": "",
             "B": "",
@@ -511,7 +511,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q35",
-        "Question": "The cable to an electric cooker contains a live wire, a neutral wire and an earth wire. /n When the cooker is working correctly, in which wires are the currents equal? /n A the live, the neutral and the earth /n B the live and the earth only /n C the neutral and the earth only /n D the neutral and the live only",
+        "Question": "The cable to an electric cooker contains a live wire, a neutral wire and an earth wire. \n When the cooker is working correctly, in which wires are the currents equal? \n A the live, the neutral and the earth \n B the live and the earth only \n C the neutral and the earth only \n D the neutral and the live only",
         "Options": {
             "A": "the live, the neutral and the earth",
             "B": "the live and the earth only",
@@ -526,7 +526,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q36",
-        "Question": "The coil of a simple motor lies between the poles of a permanent magnet. /n The coil rotates about its axis when there is a current in it. /n What decreases the frequency of rotation of the coil? /n A increasing the number of turns in the coil /n B reversing the current /n C using a lower voltage supply /n D using a stronger magnet",
+        "Question": "The coil of a simple motor lies between the poles of a permanent magnet. \n The coil rotates about its axis when there is a current in it. \n What decreases the frequency of rotation of the coil? \n A increasing the number of turns in the coil \n B reversing the current \n C using a lower voltage supply \n D using a stronger magnet",
         "Options": {
             "A": "increasing the number of turns in the coil",
             "B": "reversing the current",
@@ -541,10 +541,10 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q37",
-        "Question": "A beam of electrons travels through a vacuum. /n The beam passes between the poles of a magnet as shown. /n What is the direction of the conventional current and what is the direction of the magnetic field? /n A direction of the conventional current \u2192 direction of the magnetic field \u2193 /n B direction of the conventional current \u2192 direction of the magnetic field \u2191 /n C direction of the conventional current \u2190 direction of the magnetic field \u2193 /n D direction of the conventional current \u2190 direction of the magnetic field \u2191",
+        "Question": "A beam of electrons travels through a vacuum. \n The beam passes between the poles of a magnet as shown. \n What is the direction of the conventional current and what is the direction of the magnetic field? \n A direction of the conventional current →  direction of the magnetic field \u2193 \n B direction of the conventional current →  direction of the magnetic field \u2191 \n C direction of the conventional current \u2190 direction of the magnetic field \u2193 \n D direction of the conventional current \u2190 direction of the magnetic field \u2191",
         "Options": {
-            "A": "direction of the conventional current \u2192 direction of the magnetic field \u2193",
-            "B": "direction of the conventional current \u2192 direction of the magnetic field \u2191",
+            "A": "direction of the conventional current →  direction of the magnetic field \u2193",
+            "B": "direction of the conventional current →  direction of the magnetic field \u2191",
             "C": "direction of the conventional current \u2190 direction of the magnetic field \u2193",
             "D": "direction of the conventional current \u2190 direction of the magnetic field \u2191"
         },
@@ -556,7 +556,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q38",
-        "Question": "A teacher uses the circuit shown. /n The identical lamps X and Y are connected to a low voltage a.c. power supply by high resistance transmission wires. /n Both lamps are switched on. /n Lamp X is then switched off. /n Lamp Y stays switched on. /n What happens to the voltage and the power supplied to lamp Y? /n A the voltage supplied to lamp Y decreases, the power supplied to lamp Y decreases /n B the voltage supplied to lamp Y decreases, the power supplied to lamp Y stays the same /n C the voltage supplied to lamp Y increases, the power supplied to lamp Y increases /n D the voltage supplied to lamp Y increases, the power supplied to lamp Y stays the same",
+        "Question": "A teacher uses the circuit shown. \n The identical lamps X and Y are connected to a low voltage a.c. power supply by high resistance transmission wires. \n Both lamps are switched on. \n Lamp X is then switched off. \n Lamp Y stays switched on. \n What happens to the voltage and the power supplied to lamp Y? \n A the voltage supplied to lamp Y decreases, the power supplied to lamp Y decreases \n B the voltage supplied to lamp Y decreases, the power supplied to lamp Y stays the same \n C the voltage supplied to lamp Y increases, the power supplied to lamp Y increases \n D the voltage supplied to lamp Y increases, the power supplied to lamp Y stays the same",
         "Options": {
             "A": "the voltage supplied to lamp Y decreases, the power supplied to lamp Y decreases",
             "B": "the voltage supplied to lamp Y decreases, the power supplied to lamp Y stays the same",
@@ -571,7 +571,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q39",
-        "Question": "A car battery supplies a current in one direction. /n A current in the opposite direction recharges the battery. /n Which circuit recharges the battery, using an alternating current (a.c.) supply and a diode? /n A a.c. supply + \u2013 /n B a.c. supply + \u2013 /n C a.c. supply + \u2013 /n D a.c. supply + \u2013",
+        "Question": "A car battery supplies a current in one direction. \n A current in the opposite direction recharges the battery. \n Which circuit recharges the battery, using an alternating current (a.c.) supply and a diode? \n A a.c. supply + \u2013 \n B a.c. supply + \u2013 \n C a.c. supply + \u2013 \n D a.c. supply + \u2013",
         "Options": {
             "A": "a.c. supply + \u2013",
             "B": "a.c. supply + \u2013",
@@ -586,7 +586,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2019/Q40",
-        "Question": "A neutral atom of boron contains 5 electrons and 5 protons. /n The nucleon number (mass number) of the atom is 11. /n How many neutrons are there in the atom? /n A 1 /n B 5 /n C 6 /n D 11",
+        "Question": "A neutral atom of boron contains 5 electrons and 5 protons. \n The nucleon number (mass number) of the atom is 11. \n How many neutrons are there in the atom? \n A 1 \n B 5 \n C 6 \n D 11",
         "Options": {
             "A": "1",
             "B": "5",

@@ -21,7 +21,7 @@
             "A": "acceleration = change in velocity / time taken",
             "B": "average speed = distance travelled / time taken",
             "C": "density = mass / volume",
-            "D": "volume = length \u00c3\u2014 width \u00c3\u2014 height"
+            "D": "volume = length x width x height"
         },
         "image": null,
         "answer": "A",
@@ -286,12 +286,12 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q20",
-        "Question": "Light is incident on a mirror at an angle of 45\u00c2\u00b0 as shown. \nThe mirror can be rotated about an axis into the page through point X. \nThe mirror is rotated until the light is reflected back along its original path. \nThrough which angle is the mirror rotated?",
+        "Question": "Light is incident on a mirror at an angle of 45° as shown. \nThe mirror can be rotated about an axis into the page through point X. \nThe mirror is rotated until the light is reflected back along its original path. \nThrough which angle is the mirror rotated?",
         "Options": {
-            "A": "22.5\u00c2\u00b0 clockwise",
-            "B": "22.5\u00c2\u00b0 anticlockwise",
-            "C": "45\u00c2\u00b0 clockwise",
-            "D": "45\u00c2\u00b0 anticlockwise"
+            "A": "22.5° clockwise",
+            "B": "22.5° anticlockwise",
+            "C": "45° clockwise",
+            "D": "45° anticlockwise"
         },
         "image": null,
         "answer": "C",
@@ -303,10 +303,10 @@
         "QuestionNumber": "May-June/11/2023/Q21",
         "Question": "A ray of light is incident on a plastic block in air, at an angle of incidence i. The refractive index of the plastic is n.\nThe light ray refracts along the plastic-air boundary when it reaches X.\nWhich equation is correct?",
         "Options": {
-            "A": "sin i = sin 41\u00c2\u00b0 / n",
-            "B": "sin i = sin 49\u00c2\u00b0 / n",
-            "C": "sin i = n \u00c3\u2014 sin 41\u00c2\u00b0",
-            "D": "sin i = n \u00c3\u2014 sin 49\u00c2\u00b0"
+            "A": "sin i = sin 41° / n",
+            "B": "sin i = sin 49° / n",
+            "C": "sin i = n x sin 41°",
+            "D": "sin i = n x sin 49°"
         },
         "image": null,
         "answer": "C",
@@ -348,10 +348,10 @@
         "QuestionNumber": "May-June/11/2023/Q24",
         "Question": "Sound travels at different speeds in different states of matter.\nWhich list gives the three states of matter arranged in order of the speed of sound from slowest to fastest?",
         "Options": {
-            "A": "gas \u00e2\u2020\u2019 liquid \u00e2\u2020\u2019 solid",
-            "B": "liquid \u00e2\u2020\u2019 solid \u00e2\u2020\u2019 gas",
-            "C": "solid \u00e2\u2020\u2019 gas \u00e2\u2020\u2019 liquid",
-            "D": "solid \u00e2\u2020\u2019 liquid \u00e2\u2020\u2019 gas"
+            "A": "gas → liquid → solid",
+            "B": "liquid → solid → gas",
+            "C": "solid → gas → liquid",
+            "D": "solid → liquid → gas"
         },
         "image": null,
         "answer": "A",
@@ -439,9 +439,9 @@
         "Question": "A potential divider consists of a light-dependent resistor (LDR) and a resistor connected to a 6.0 V battery.\nThe output is 3.0 V.\nWhat is the resistance of the LDR?",
         "Options": {
             "A": "0",
-            "B": "between 0 and 10 000 \u00ce\u00a9",
-            "C": "10 000 \u00ce\u00a9",
-            "D": "more than 10 000 \u00ce\u00a9"
+            "B": "between 0 and 10 000 Ω",
+            "C": "10 000 Ω",
+            "D": "more than 10 000 Ω"
         },
         "image": null,
         "answer": "C",

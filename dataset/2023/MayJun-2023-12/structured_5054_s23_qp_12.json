@@ -421,7 +421,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q29",
-        "Question": "A student has three 15 \u03a9 resistors.\nShe connects the resistors together in different arrangements.\nWhat is the minimum resistance and what is the maximum resistance of the arrangements that\nthe student can produce?\n",
+        "Question": "A student has three 15 Ω resistors.\nShe connects the resistors together in different arrangements.\nWhat is the minimum resistance and what is the maximum resistance of the arrangements that\nthe student can produce?\n",
         "Options": {
             "A": "5.0 15",
             "B": "5.0 45",
@@ -588,10 +588,10 @@
         "QuestionNumber": "May-June/12/2023/Q40",
         "Question": "Four of the stages in the life cycle of a star, until it becomes a red giant, are shown.\n\nW Inward force of gravitational attraction is balanced by an outward force from its\ncentre.\n\nX Internal gravitational collapse produces an increase in temperature.\n\nY It expands.\n\nZ Most of the hydrogen has been converted to helium.\n\nIn which order do these stages occur, starting with the earliest?",
         "Options": {
-            "A": "W \u2192 X \u2192 Y \u2192 Z",
-            "B": "W \u2192 X \u2192 Z \u2192 Y",
-            "C": "X \u2192 W \u2192 Y \u2192 Z",
-            "D": "X \u2192 W \u2192 Z \u2192 Y"
+            "A": "W→ X→ Y→ Z",
+            "B": "W→ X→ Z→ Y",
+            "C": "X→ W→ Y→ Z",
+            "D": "X→ W→ Z→ Y"
         },
         "image": null,
         "answer": "D",

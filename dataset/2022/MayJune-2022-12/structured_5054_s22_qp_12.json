@@ -31,7 +31,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q3",
-        "Question": "The graph shows the speed\u2013time graph for a parachutist who jumps from a plane but does not open his parachute immediately.\nAt which point does he open his parachute?",
+        "Question": "The graph shows the speed-time graph for a parachutist who jumps from a plane but does not open his parachute immediately.\nAt which point does he open his parachute?",
         "Options": {
             "A": "",
             "B": "",
@@ -78,10 +78,10 @@
         "QuestionNumber": "May-June/12/2022/Q6",
         "Question": "A measuring cylinder containing water is placed on a balance.\nA stone is placed into the water.\nThe diagram shows the readings on the balance and on the measuring cylinder.\nWhat is the density of the stone?",
         "Options": {
-            "A": "1.1 g / cm\u00b3",
-            "B": "1.5 g / cm\u00b3",
-            "C": "2.5 g / cm\u00b3",
-            "D": "2.6 g / cm\u00b3"
+            "A": "1.1 g / cm^3",
+            "B": "1.5 g / cm^3",
+            "C": "2.5 g / cm^3",
+            "D": "2.6 g / cm^3"
         },
         "image": null,
         "answer": "C",
@@ -166,7 +166,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q12",
-        "Question": "A manometer contains mercury of density 14 000 kg / m\u00b3. The manometer is connected to a gas supply and the difference in the height of the mercury levels is 72 mm. The atmospheric pressure is 100 kPa.\nThe gravitational field strength g is 10 N / kg.\nWhat is the pressure of the gas supply?",
+        "Question": "A manometer contains mercury of density 14 000 kg / m^3. The manometer is connected to a gas supply and the difference in the height of the mercury levels is 72 mm. The atmospheric pressure is 100 kPa.\nThe gravitational field strength g is 10 N / kg.\nWhat is the pressure of the gas supply?",
         "Options": {
             "A": "90 kPa",
             "B": "99 kPa",
@@ -256,7 +256,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q18",
-        "Question": "A liquid column in a liquid-in-glass thermometer is 2.0 cm long at 0 \u00b0C.\nThe column expands by 10.0 cm when heated to 100 \u00b0C.\nMeasuring from P, how long is the liquid column at 30 \u00b0C?",
+        "Question": "A liquid column in a liquid-in-glass thermometer is 2.0 cm long at 0 °C.\nThe column expands by 10.0 cm when heated to 100 °C.\nMeasuring from P, how long is the liquid column at 30 °C?",
         "Options": {
             "A": "2.3 cm",
             "B": "3.0 cm",
@@ -286,7 +286,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q20",
-        "Question": "Steam at 110 \u00b0C condenses on a surface to form water droplets at 100 \u00b0C.\nWhat happens after the steam comes into contact with the surface?",
+        "Question": "Steam at 110 °C condenses on a surface to form water droplets at 100 °C.\nWhat happens after the steam comes into contact with the surface?",
         "Options": {
             "A": "The molecules slow down and absorb energy from the surroundings.",
             "B": "The molecules slow down and emit energy to the surroundings.",
@@ -303,10 +303,10 @@
         "QuestionNumber": "May-June/12/2022/Q21",
         "Question": "Which list shows the states of matter in order of expansion from smallest to greatest for the same temperature rise?",
         "Options": {
-            "A": "gas \u2192 liquid \u2192 solid",
-            "B": "liquid \u2192 solid \u2192 gas",
-            "C": "solid \u2192 gas \u2192 liquid",
-            "D": "solid \u2192 liquid \u2192 gas"
+            "A": "gas → liquid → solid",
+            "B": "liquid → solid → gas",
+            "C": "solid → gas → liquid",
+            "D": "solid → liquid → gas"
         },
         "image": null,
         "answer": "D",
@@ -348,10 +348,10 @@
         "QuestionNumber": "May-June/12/2022/Q24",
         "Question": "The diagram shows a ray PQ reflected by mirror X to a parallel mirror Y. The reflected ray along RS is parallel to PQ.\nWhich statement is correct?",
         "Options": {
-            "A": "The angle between PQ and QR is 45\u00b0.",
-            "B": "The angle between QR and RS is 180\u00b0.",
-            "C": "The angle of incidence of PQ on mirror X is 60\u00b0.",
-            "D": "The angle of incidence of QR on mirror Y is 45\u00b0."
+            "A": "The angle between PQ and QR is 45°.",
+            "B": "The angle between QR and RS is 180°.",
+            "C": "The angle of incidence of PQ on mirror X is 60°.",
+            "D": "The angle of incidence of QR on mirror Y is 45°."
         },
         "image": null,
         "answer": "D",
@@ -378,10 +378,10 @@
         "QuestionNumber": "May-June/12/2022/Q26",
         "Question": "Violet and indigo light have the shortest wavelengths in the spectrum of visible light.\nWhich three colours, in order of increasing wavelength, immediately follow indigo?",
         "Options": {
-            "A": "blue \u2192 green \u2192 orange",
-            "B": "blue \u2192 green \u2192 yellow",
-            "C": "green \u2192 blue \u2192 yellow",
-            "D": "yellow \u2192 green \u2192 orange"
+            "A": "blue → green → orange",
+            "B": "blue → green → yellow",
+            "C": "green → blue → yellow",
+            "D": "yellow → green → orange"
         },
         "image": null,
         "answer": "B",
@@ -516,7 +516,7 @@
             "A": "energy / J 2400, power / W 7.2",
             "B": "energy / J 2400, power / W 800 000",
             "C": "energy / J 5400, power / W 16.2",
-            "D": "energy / J 5400, power / W 1.8 \u00d7 10^6"
+            "D": "energy / J 5400, power / W 1.8 x 10^6"
         },
         "image": null,
         "answer": "D",

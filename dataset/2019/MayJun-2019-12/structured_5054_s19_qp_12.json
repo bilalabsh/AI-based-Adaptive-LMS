@@ -243,10 +243,10 @@
         "QuestionNumber": "May-June/12/2019/Q17",
         "Question": "The diagram shows a small car of mass 500 kg approaching a hill.\nIt moves up the hill with constant speed.\nThe gravitational field strength g is 10 N / kg.\nIgnoring friction, how much work is done in moving the car up the hill?",
         "Options": {
-            "A": "5.0 \u00d7 10^3 J",
-            "B": "5.0 \u00d7 10^4 J",
-            "C": "1.0 \u00d7 10^5 J",
-            "D": "1.0 \u00d7 10^6 J"
+            "A": "5.0 x 10^3 J",
+            "B": "5.0 x 10^4 J",
+            "C": "1.0 x 10^5 J",
+            "D": "1.0 x 10^6 J"
         },
         "image": null,
         "answer": "B",
@@ -286,7 +286,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q20",
-        "Question": "A student suggests three different definitions for power.\n1 energy transferred per second\n2 force \u00d7 distance moved\n3 rate of doing work\nWhich definitions are correct?",
+        "Question": "A student suggests three different definitions for power.\n1 energy transferred per second\n2 force x distance moved\n3 rate of doing work\nWhich definitions are correct?",
         "Options": {
             "A": "1, 2 and 3",
             "B": "1 and 2 only",
@@ -501,7 +501,7 @@
             "A": "The current I is 2 A.",
             "B": "The e.m.f. E is 12 J.",
             "C": "The p.d. V (across the resistor) is 10 V.",
-            "D": "The resistance R is 5 \u03a9."
+            "D": "The resistance R is 5 Ω."
         },
         "image": null,
         "answer": "B",

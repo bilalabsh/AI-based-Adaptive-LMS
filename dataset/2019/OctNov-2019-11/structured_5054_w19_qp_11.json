@@ -16,7 +16,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q2",
-        "Question": "What is the size of the resultant of the two forces shown in the diagram?\n3.0 N\n4.0 N",
+        "Question": "What is the size of the resultant of the two forces shown in the diagram?",
         "Options": {
             "A": "1.0 N",
             "B": "3.5 N",
@@ -153,10 +153,10 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q11",
         "Question": "What is an expression for the moment of a force about a pivot?",
         "Options": {
-            "A": "distance the force moves from the pivot \u00f7 force",
-            "B": "force \u00d7 distance the force moves from the pivot",
-            "C": "force \u00d7 perpendicular distance of the force from the pivot",
-            "D": "force \u00f7 perpendicular distance of the force from the pivot"
+            "A": "distance the force moves from the pivot ÷ force",
+            "B": "force x distance the force moves from the pivot",
+            "C": "force x perpendicular distance of the force from the pivot",
+            "D": "force ÷ perpendicular distance of the force from the pivot"
         },
         "image": null,
         "answer": "C",
@@ -213,10 +213,10 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q15",
         "Question": "Which quantities from the list are used to calculate the total pressure at the bottom of a lake?",
         "Options": {
-            "A": "g, h, P and \u03c1",
+            "A": "g, h, P and ρ",
             "B": "g, h and P only",
-            "C": "h, P and \u03c1 only",
-            "D": "g, h and \u03c1 only"
+            "C": "h, P and ρ only",
+            "D": "g, h and ρ only"
         },
         "image": null,
         "answer": "A",
@@ -245,7 +245,7 @@
         "Options": {
             "A": "Wx",
             "B": "Wy",
-            "C": "W (y \u2013 z)",
+            "C": "W (y - z)",
             "D": "W (x + z)"
         },
         "image": null,
@@ -286,12 +286,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q20",
-        "Question": "A student is given a thermometer that reads 1 \u00b0C in pure melting ice and 101 \u00b0C in pure boiling water.\nHow does the rise in temperature of the water calculated from her results compare with the correct value?",
+        "Question": "A student is given a thermometer that reads 1 °C in pure melting ice and 101 °C in pure boiling water.\nHow does the rise in temperature of the water calculated from her results compare with the correct value?",
         "Options": {
-            "A": "It is 1 \u00b0C lower.",
+            "A": "It is 1 °C lower.",
             "B": "It is the same.",
-            "C": "It is 1 \u00b0C higher.",
-            "D": "It is 2 \u00b0C higher."
+            "C": "It is 1 °C higher.",
+            "D": "It is 2 °C higher."
         },
         "image": null,
         "answer": "B",
@@ -331,7 +331,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q23",
-        "Question": "The diagram shows a glass flask full of water at 10 \u00b0C.\nThe water level in the tube eventually rises to Y.\nWhy does the water level rise?",
+        "Question": "The diagram shows a glass flask full of water at 10 °C.\nThe water level in the tube eventually rises to Y.\nWhy does the water level rise?",
         "Options": {
             "A": "The flask contracts and the water expands.",
             "B": "The flask contracts more than the water contracts.",
@@ -361,12 +361,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q25",
-        "Question": "The frequency of microwaves used in an experiment is 3.0 \u00d7 10^9 Hz.\nWhat is a possible frequency and a possible speed in air of a radio wave?",
+        "Question": "The frequency of microwaves used in an experiment is 3.0 x 10^9 Hz.\nWhat is a possible frequency and a possible speed in air of a radio wave?",
         "Options": {
-            "A": "3.0 \u00d7 10^5 Hz, 1500 m / s",
-            "B": "3.0 \u00d7 10^5 Hz, 3.0 \u00d7 10^8 m / s",
-            "C": "3.0 \u00d7 10^14 Hz, 1500 m / s",
-            "D": "3.0 \u00d7 10^14 Hz, 3.0 \u00d7 10^8 m / s"
+            "A": "3.0 x 10^5 Hz, 1500 m / s",
+            "B": "3.0 x 10^5 Hz, 3.0 x 10^8 m / s",
+            "C": "3.0 x 10^14 Hz, 1500 m / s",
+            "D": "3.0 x 10^14 Hz, 3.0 x 10^8 m / s"
         },
         "image": null,
         "answer": "B",
@@ -378,10 +378,10 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q26",
         "Question": "The diagram shows a ray of light in liquid incident on the boundary with air.\nWhat is the angle of refraction?",
         "Options": {
-            "A": "0\u00b0",
-            "B": "40\u00b0",
-            "C": "50\u00b0",
-            "D": "90\u00b0"
+            "A": "0°",
+            "B": "40°",
+            "C": "50°",
+            "D": "90°"
         },
         "image": null,
         "answer": "D",
@@ -391,7 +391,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q27",
-        "Question": "Light is incident at 90\u00b0 on the surfaces of two glass prisms P and Q.\nWhere does total internal reflection occur?",
+        "Question": "Light is incident at 90° on the surfaces of two glass prisms P and Q.\nWhere does total internal reflection occur?",
         "Options": {
             "A": "in P and in Q",
             "B": "in P only",
@@ -423,10 +423,10 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q29",
         "Question": "What is a typical value for the speed of sound in air?",
         "Options": {
-            "A": "3.3 \u00d7 10^4 cm / s",
-            "B": "3.3 \u00d7 10^4 m / s",
-            "C": "3.3 \u00d7 10^2 km / s",
-            "D": "3.3 \u00d7 10^8 m / s"
+            "A": "3.3 x 10^4 cm / s",
+            "B": "3.3 x 10^4 m / s",
+            "C": "3.3 x 10^2 km / s",
+            "D": "3.3 x 10^8 m / s"
         },
         "image": null,
         "answer": "A",

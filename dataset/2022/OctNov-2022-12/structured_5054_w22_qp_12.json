@@ -198,10 +198,10 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q14",
         "Question": "Each tyre of a car has an area of 100 cm2 in contact with the ground. The car has a mass of 1600 kg. The weight of the car is equally distributed amongst the four tyres. The gravitational field strength g is 10 N / kg. What is the pressure exerted on the ground? \n",
         "Options": {
-            "A": "4.0 N / cm2",
-            "B": "16 N / cm2",
-            "C": "40 N / cm2",
-            "D": "160 N / cm2"
+            "A": "4.0 N / cm^2",
+            "B": "16 N / cm^2",
+            "C": "40 N / cm^2",
+            "D": "160 N / cm^2"
         },
         "image": null,
         "answer": "C",
@@ -228,10 +228,10 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q16",
         "Question": "A constant force F pulls a block of weight W up the slope shown.\n\nh\n\nl\n\nW\n\nd\n\nF\n\nHow much work is done by F in pulling the block up the slope?",
         "Options": {
-            "A": "F \u00d7 h",
-            "B": "F \u00d7 l",
-            "C": "W \u00d7 d",
-            "D": "W \u00d7 l"
+            "A": "F x h",
+            "B": "F x l",
+            "C": "W x d",
+            "D": "W x l"
         },
         "image": null,
         "answer": "B",
@@ -286,7 +286,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q20",
-        "Question": "The diagrams represent four thermometers.\n\nP\n\n25 \u00b0C\n\n20 \u00b0C\n\n15 \u00b0C\n\n10 \u00b0C\n\n5 \u00b0C\n\n0 \u00b0C\n\nQ\n\n40 \u00b0C\n\n35 \u00b0C\n\n30 \u00b0C\n\nR\n\n250 \u00b0C\n\n200 \u00b0C\n\n150 \u00b0C\n\n100 \u00b0C\n\n50 \u00b0C\n\n0 \u00b0C\n\nS\n\n300 \u00b0C\n\n260 \u00b0C\n\n220 \u00b0C\n\n180 \u00b0C\n\n140 \u00b0C\n\n100 \u00b0C\n\nWhich thermometer has the greatest sensitivity and which thermometer has the greatest range?",
+        "Question": "The diagrams represent four thermometers.\n\nP\n\n25 °C\n\n20 °C\n\n15 °C\n\n10 °C\n\n5 °C\n\n0 °C\n\nQ\n\n40 °C\n\n35 °C\n\n30 °C\n\nR\n\n250 °C\n\n200 °C\n\n150 °C\n\n100 °C\n\n50 °C\n\n0 °C\n\nS\n\n300 °C\n\n260 °C\n\n220 °C\n\n180 °C\n\n140 °C\n\n100 °C\n\nWhich thermometer has the greatest sensitivity and which thermometer has the greatest range?",
         "Options": {
             "A": "P, R",
             "B": "P, S",
@@ -316,12 +316,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q22",
-        "Question": "A mirror is placed in the path of a ray of light.\n\nmirror\n\n40\u00b0\n\nnormal\n\nincident ray reflected ray\n\npath of light without the mirror\n\nThrough which angle does the direction of the ray of light change?",
+        "Question": "A mirror is placed in the path of a ray of light.\n\nmirror\n\n40°\n\nnormal\n\nincident ray reflected ray\n\npath of light without the mirror\n\nThrough which angle does the direction of the ray of light change?",
         "Options": {
-            "A": "40\u00b0",
-            "B": "90\u00b0",
-            "C": "100\u00b0",
-            "D": "140\u00b0"
+            "A": "40°",
+            "B": "90°",
+            "C": "100°",
+            "D": "140°"
         },
         "image": null,
         "answer": "C",

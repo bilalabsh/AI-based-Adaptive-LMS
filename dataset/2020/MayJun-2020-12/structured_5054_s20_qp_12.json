@@ -16,7 +16,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2020/Q2",
-        "Question": "The diagram shows the resultant R of a 3.0 N force and a 4.0 N force that act at a point P. \nR \nP \n3.0 N \n4.0 N \nThe angle between the 3.0 N force and the 4.0 N force can be any value from 0\u00b0 to 90\u00b0. Which value of R is not possible? \n",
+        "Question": "The diagram shows the resultant R of a 3.0 N force and a 4.0 N force that act at a point P. \nR \nP \n3.0 N \n4.0 N \nThe angle between the 3.0 N force and the 4.0 N force can be any value from 0° to 90°. Which value of R is not possible? \n",
         "Options": {
             "A": "4.0 N",
             "B": "5.0 N",
@@ -273,10 +273,10 @@
         "QuestionNumber": "May-June/12/2020/Q19",
         "Question": "The main stages in the operation of a coal-fired power station are listed. \nThey are not in the correct order. \n1 The turbine turns a generator. \n2 Water in the boiler becomes hot. \n3 Steam turns a turbine. \n4 Burning coal produces thermal energy. \n5 Electromagnetic induction produces electrical energy. \n6 Steam is produced. \nWhat is the correct order for the remaining stages? \n",
         "Options": {
-            "A": "6 \u2192 3 \u2192 1 \u2192 5",
-            "B": "6 \u2192 1 \u2192 3 \u2192 5",
-            "C": "1 \u2192 6 \u2192 3 \u2192 5",
-            "D": "6 \u2192 3 \u2192 5 \u2192 1"
+            "A": "6 → 3 → 1 → 5",
+            "B": "6 → 1 → 3 → 5",
+            "C": "1 → 6 → 3 → 5",
+            "D": "6 → 3 → 5 → 1"
         },
         "image": null,
         "answer": "A",
@@ -331,7 +331,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2020/Q23",
-        "Question": "Four metal containers, with identical dimensions, are filled with water at 90 \u00b0C. \nAll the faces, except one, of each container are covered in a very good insulator. \nThe one exposed face on each container is painted either black or white. \nIn which container does the water cool the fastest? \n",
+        "Question": "Four metal containers, with identical dimensions, are filled with water at 90 °C. \nAll the faces, except one, of each container are covered in a very good insulator. \nThe one exposed face on each container is painted either black or white. \nIn which container does the water cool the fastest? \n",
         "Options": {
             "A": "large face painted black water",
             "B": "large face painted white water",
@@ -346,7 +346,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2020/Q24",
-        "Question": "Thermal energy is used to turn water at 100 \u00b0C to steam at 100 \u00b0C. \nWhich of the following occurs? \n1 The forces between the molecules decrease. \n2 The speed of the molecules increases. \n3 The separation of the molecules increases. \n",
+        "Question": "Thermal energy is used to turn water at 100 °C to steam at 100 °C. \nWhich of the following occurs? \n1 The forces between the molecules decrease. \n2 The speed of the molecules increases. \n3 The separation of the molecules increases. \n",
         "Options": {
             "A": "1, 2 and 3",
             "B": "1 and 2 only",
@@ -361,7 +361,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2020/Q25",
-        "Question": "The thermal energy produced by an electric heater in three minutes is used to melt wax. \nThe solid wax is initially at its melting point of 60 \u00b0C. \nThe specific latent heat of the wax is 220 J / g. \nThe heater supplies 7700 J of thermal energy to the wax. \nSome of the wax melts. \nHow much wax melts? \n",
+        "Question": "The thermal energy produced by an electric heater in three minutes is used to melt wax. \nThe solid wax is initially at its melting point of 60 °C. \nThe specific latent heat of the wax is 220 J / g. \nThe heater supplies 7700 J of thermal energy to the wax. \nSome of the wax melts. \nHow much wax melts? \n",
         "Options": {
             "A": "0.58 g",
             "B": "1.7 g",

@@ -1,7 +1,7 @@
 [
     {
         "QuestionNumber": "May-June/12/2021/Q1",
-        "Question": "A student determines the circumference of a football. Which instrument gives a reading that is the circumference of the football? /n",
+        "Question": "A student determines the circumference of a football.\nWhich instrument gives a reading that is the circumference of the football? \n",
         "Options": {
             "A": "calipers",
             "B": "micrometer",
@@ -16,7 +16,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q2",
-        "Question": "A coin falls from rest through the air and eventually reaches a constant speed. There is a resultant force acting on the coin due to the two forces P and Q shown in the diagram. /n P /n Q /n What happens to force P and what happens to the resultant force before the coin reaches constant speed? /n",
+        "Question": "A coin falls from rest through the air and eventually reaches a constant speed. \nThere is a resultant force acting on the coin due to the two forces P and Q shown in the diagram.\nWhat happens to force P and what happens to the resultant force before the coin reaches constant speed?",
         "Options": {
             "A": "decreases increases",
             "B": "decreases decreases",
@@ -31,7 +31,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q3",
-        "Question": "The diagrams show the forces acting on four identical solid blocks. Each arrow represents a force of 20 N. /n P /n Q /n R /n S /n Which blocks are in equilibrium? /n",
+        "Question": "The diagrams show the forces acting on four identical solid blocks. \nEach arrow represents a force of 20 N.\nWhich blocks are in equilibrium?",
         "Options": {
             "A": "P and R only",
             "B": "Q and S only",
@@ -46,7 +46,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q4",
-        "Question": "A student lists three changes that affect the stopping distance of a car. /n 1 increasing the braking force /n 2 increasing the friction between the tyres and the road /n 3 increasing the speed of the car... /n Which change or changes increase the stopping distance? /n",
+        "Question": "A student lists three changes that affect the stopping distance of a car. \n1 increasing the braking force \n 2 increasing the friction between the tyres and the road \n 3 increasing the speed of the car \n Which change or changes increase the stopping distance? \n",
         "Options": {
             "A": "1 and 2",
             "B": "1 and 3",
@@ -61,7 +61,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q5",
-        "Question": "The diagram shows a satellite orbiting a planet at a steady speed. In which direction does the resultant force act on the satellite? /n planet not to scale /n direction of travel /n",
+        "Question": "The diagram shows a satellite orbiting a planet at a steady speed. \nIn which direction does the resultant force act on the satellite?",
         "Options": {
             "A": "C",
             "B": "B",
@@ -76,7 +76,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q6",
-        "Question": "The gravitational field strength in space is smaller than on the Earth\u2019s surface. A rocket is used to launch a satellite from the Earth\u2019s surface into space. How are the mass and the weight of the satellite affected as the satellite moves away from the surface of the Earth and into space? /n",
+        "Question": "The gravitational field strength in space is smaller than on the Earth's surface. \nA rocket is used to launch a satellite from the Earth's surface into space. \nHow are the mass and the weight of the satellite affected as the satellite moves away from the surface of the Earth and into space? \n",
         "Options": {
             "A": "Both the mass and the weight are unaffected.",
             "B": "The mass decreases and the weight decreases.",
@@ -91,7 +91,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q7",
-        "Question": "Air is trapped in a cylinder by a piston. The piston is moved inwards so that the volume of the air reduces. /n air with initial volume /n air with final volume /n piston /n The density of the air in the syringe at the initial volume is 0.0012 g / cm3. What is the density of the air in the syringe at the final volume? /n",
+        "Question": "Air is trapped in a cylinder by a piston. \nThe piston is moved inwards so that the volume of the air reduces.\nThe density of the air in the syringe at the initial volume is 0.0012 g / cm3. What is the density of the air in the syringe at the final volume? \n",
         "Options": {
             "A": "0.0006 g / cm3",
             "B": "0.0012 g / cm3",
@@ -106,7 +106,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q8",
-        "Question": "Some forces are applied at different distances from a pivot. Which diagram shows the force that produces the largest moment about the pivot? /n pivot /n 50 N /n 90 cm /n",
+        "Question": "Some forces are applied at different distances from a pivot.\n Which diagram shows the force that produces the largest moment about the pivot?",
         "Options": {
             "A": "pivot 30 N 2.0 m",
             "B": "pivot 80 N 50 cm",
@@ -121,7 +121,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q9",
-        "Question": "The diagram shows a children\u2019s wooden play tower. Which change to the tower makes it more stable? /n",
+        "Question": "The diagram shows a children's wooden play tower. \nWhich change to the tower makes it more stable? \n",
         "Options": {
             "A": "making the tower narrower",
             "B": "making the tower taller",
@@ -136,7 +136,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q10",
-        "Question": "Where on the graph is the limit of proportionality for an elastic solid? /n extension /n load /n 0 /n 0 /n",
+        "Question": "Where on the graph is the limit of proportionality for an elastic solid?\n",
         "Options": {
             "A": "between O and P",
             "B": "at P",
@@ -151,7 +151,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q11",
-        "Question": "A weight of 2.0 N is hung from a spring. The extension produced is 6.0 cm. The 2.0 N weight is removed and an 8.0 N weight is hung from the spring. The spring does not pass its limit of proportionality. What is the new extension of the spring? /n",
+        "Question": "A weight of 2.0 N is hung from a spring. The extension produced is 6.0 cm. The 2.0 N weight is removed and an 8.0 N weight is hung from the spring. The spring does not pass its limit of proportionality. \nWhat is the new extension of the spring? \n",
         "Options": {
             "A": "6.0 cm",
             "B": "24 cm",
@@ -166,12 +166,12 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q12",
-        "Question": "An object is placed at a depth d below the surface of a liquid of density \uf072. On which expression does the pressure on the object depend? /n",
+        "Question": "An object is placed at a depth d below the surface of a liquid of density ρ. \nOn which expression does the pressure on the object depend? \n",
         "Options": {
-            "A": "d + \uf072",
-            "B": "d \uf0b4 \uf072",
-            "C": "d \uf0b8 \uf072",
-            "D": "\uf072 \uf0b8 d"
+            "A": "d + ρ",
+            "B": "d x ρ",
+            "C": "d ÷ ρ",
+            "D": "ρ ÷ d"
         },
         "image": null,
         "answer": "C",
@@ -181,7 +181,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q13",
-        "Question": "The diagram shows the dimensions of a box of mass M and weight W at rest on a table. /n x /n y /n z /n What is the pressure on the table due to the box? /n",
+        "Question": "The diagram shows the dimensions of a box of mass M and weight W at rest on a table. \n What is the pressure on the table due to the box? \n",
         "Options": {
             "A": "M xyz",
             "B": "M yz",
@@ -196,7 +196,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q14",
-        "Question": "Which graph shows the relationship between the pressure and the volume of a fixed mass of gas at constant temperature? /n pressure /n A /n 0 /n 0 /n volume /n pressure /n B /n 0 /n 0 /n volume /n pressure /n C /n 0 /n 0 /n volume /n pressure /n D /n 0 /n 0 /n volume",
+        "Question": "Which graph shows the relationship between the pressure and the volume of a fixed mass of gas at constant temperature? \n",
         "Options": {
             "A": "A",
             "B": "B",
@@ -211,7 +211,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q15",
-        "Question": "The work done by a force F on a body is calculated by multiplying F by a quantity q. What is q? /n",
+        "Question": "The work done by a force F on a body is calculated by multiplying F by a quantity q. \nWhat is q? \n",
         "Options": {
             "A": "the distance travelled in the direction of the force",
             "B": "the distance travelled perpendicular to the direction of the force",
@@ -226,7 +226,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q16",
-        "Question": "A girl lifts an object of mass 1.0 kg from the floor and puts it on a ledge 2.0 m above the floor. How much potential energy is gained by the object? /n [gravitational field strength g = 10 N / kg] /n",
+        "Question": "A girl lifts an object of mass 1.0 kg from the floor and puts it on a ledge 2.0 m above the floor. \nHow much potential energy is gained by the object? \n [gravitational field strength g = 10 N / kg] \n",
         "Options": {
             "A": "2.0 J",
             "B": "5.0 J",
@@ -241,7 +241,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q17",
-        "Question": "A copper rod is heated at one end. Which statement describes how heat transfer occurs in the copper? /n",
+        "Question": "A copper rod is heated at one end. \nWhich statement describes how heat transfer occurs in the copper? \n",
         "Options": {
             "A": "Energetic copper molecules move from the cooler end to the hotter end.",
             "B": "Energetic copper molecules move from the hotter end to the cooler end.",
@@ -256,7 +256,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q18",
-        "Question": "Which heat transfer processes do not require a medium? /n",
+        "Question": "Which heat transfer processes do not require a medium? \n",
         "Options": {
             "A": "conduction only",
             "B": "convection only",
@@ -271,7 +271,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q19",
-        "Question": "The list shows four physical properties. /n mass /n resistance /n voltage /n volume /n How many of these properties can be used to measure temperature? /n",
+        "Question": "The list shows four physical properties. \n mass \n resistance \n voltage \n volume \n How many of these properties can be used to measure temperature? \n",
         "Options": {
             "A": "1",
             "B": "2",
@@ -286,7 +286,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q20",
-        "Question": "The diagram shows a clinical thermometer. /n mercury /n constriction /n bore /n glass tube /n Which factor affects the sensitivity of the thermometer? /n",
+        "Question": "The diagram shows a clinical thermometer.\n Which factor affects the sensitivity of the thermometer? \n",
         "Options": {
             "A": "the constriction",
             "B": "the diameter of the bore",
@@ -301,7 +301,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q21",
-        "Question": "Which statement about the thermal expansion of solids, liquids and gases is correct? /n",
+        "Question": "Which statement about the thermal expansion of solids, liquids and gases is correct? \n",
         "Options": {
             "A": "Liquids do not expand.",
             "B": "Liquids expand more than gases but less than solids.",
@@ -316,7 +316,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q22",
-        "Question": "Which row describes the shape of a liquid and the arrangement of its molecules? /n",
+        "Question": "Which row describes the shape of a liquid and the arrangement of its molecules? \n",
         "Options": {
             "A": "fixed not regular",
             "B": "fixed regular",
@@ -331,7 +331,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q23",
-        "Question": "Air in a sealed container of fixed volume is heated. The pressure of the air increases. How do the molecules of air cause this increase in pressure? /n",
+        "Question": "Air in a sealed container of fixed volume is heated. \nThe pressure of the air increases. \nHow do the molecules of air cause this increase in pressure? \n",
         "Options": {
             "A": "The molecules expand and push on the container with a greater force.",
             "B": "The molecules move at the same speed and hit the container with a greater force.",
@@ -346,7 +346,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q24",
-        "Question": "A ray of red light in air enters a semi-circular block. Which diagram shows the partial reflection and the refraction of the ray? /n",
+        "Question": "A ray of red light in air enters a semi-circular block. \nWhich diagram shows the partial reflection and the refraction of the ray? \n",
         "Options": {
             "A": " ",
             "B": " ",
@@ -361,7 +361,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q25",
-        "Question": "An object of height 1.5 cm is placed in front of a converging lens of focal length 2.0 cm. The arrangement is shown on the full-scale ray diagram. /n What is the linear magnification produced by the lens? /n",
+        "Question": "An object of height 1.5 cm is placed in front of a converging lens of focal length 2.0 cm. \nThe arrangement is shown on the full-scale ray diagram. \n What is the linear magnification produced by the lens? \n",
         "Options": {
             "A": "2.0",
             "B": "3.0",
@@ -376,7 +376,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q26",
-        "Question": "In which optical instrument is the distance between the object and the lens less than the focal length of the lens? /n",
+        "Question": "In which optical instrument is the distance between the object and the lens less than the focal length of the lens? \n",
         "Options": {
             "A": "camera",
             "B": "magnifying glass",
@@ -391,7 +391,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q27",
-        "Question": "Which two waves are components of the electromagnetic spectrum? /n",
+        "Question": "Which two waves are components of the electromagnetic spectrum? \n",
         "Options": {
             "A": "light and sound",
             "B": "water waves and infrared",
@@ -406,7 +406,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q28",
-        "Question": "The sound from a ship is reflected by a cliff. An echo is heard by a sailor on the ship 4.0 s after the sound is made. The speed of sound in air is 320 m / s. How far from the cliff is the ship? /n",
+        "Question": "The sound from a ship is reflected by a cliff. An echo is heard by a sailor on the ship 4.0 s after the sound is made. The speed of sound in air is 320 m / s. \nHow far from the cliff is the ship? \n",
         "Options": {
             "A": "160 m",
             "B": "640 m",
@@ -421,7 +421,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q29",
-        "Question": "Students are asked for the uses of ultrasound. Three suggested uses for ultrasound are: P cleaning jewellery Q tanning on a sunbed R obtaining an image of an unborn baby. Which suggestions are correct? /n",
+        "Question": "Students are asked for the uses of ultrasound. \nThree suggested uses for ultrasound are: \nP cleaning jewellery \nQ tanning on a sunbed \nR obtaining an image of an unborn baby. \nWhich suggestions are correct? \n",
         "Options": {
             "A": "P and Q only",
             "B": "P and R only",
@@ -436,7 +436,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q30",
-        "Question": "End X of a metal rod attracts the North pole of a compass needle. Which statement about the rod is correct? /n",
+        "Question": "End X of a metal rod attracts the North pole of a compass needle. Which statement about the rod is correct? \n",
         "Options": {
             "A": "It is made of copper that is not initially magnetised.",
             "B": "It is made of copper with a South pole at X.",
@@ -451,7 +451,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q31",
-        "Question": "A positively charged rod is held close to an insulated metal sphere. The sphere is earthed as shown. The earth connection is removed and then the rod is removed. Which diagram shows the charges on the sphere after the rod is removed? /n",
+        "Question": "A positively charged rod is held close to an insulated metal sphere. The sphere is earthed as shown. \nThe earth connection is removed and then the rod is removed. \nWhich diagram shows the charges on the sphere after the rod is removed? \n",
         "Options": {
             "A": "+ + + + +",
             "B": " ",
@@ -466,12 +466,12 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q32",
-        "Question": "The diagram shows a circuit. The ammeter has four different range settings. Which range setting gives a reading near the mid-point of the range? /n",
+        "Question": "The diagram shows a circuit. \nThe ammeter has four different range settings. \nWhich range setting gives a reading near the mid-point of the range? \n",
         "Options": {
-            "A": "0\u20131 mA",
-            "B": "0\u201310 mA",
-            "C": "0\u20131.0 A",
-            "D": "0\u201310 A"
+            "A": "0-1 mA",
+            "B": "0-10 mA",
+            "C": "0-1.0 A",
+            "D": "0-10 A"
         },
         "image": null,
         "answer": "B",
@@ -481,7 +481,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q33",
-        "Question": "In which example is the current 1.0 A? /n",
+        "Question": "In which example is the current 1.0 A? \n",
         "Options": {
             "A": "a charge of 0.10 C passes through a resistor in 100 ms",
             "B": "a 10 V lamp with input power 0.10 W",
@@ -496,7 +496,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q34",
-        "Question": "Which graph shows the relationship between current and voltage for a filament lamp? /n",
+        "Question": "Which graph shows the relationship between current and voltage for a filament lamp? \n",
         "Options": {
             "A": " ",
             "B": " ",
@@ -511,7 +511,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q35",
-        "Question": "A 100 W lamp is switched on for five hours each day for three weeks. The cost of one unit of electricity is $0.24. How much does it cost to run the lamp for this time? /n",
+        "Question": "A 100 W lamp is switched on for five hours each day for three weeks. \nThe cost of one unit of electricity is $0.24. \nHow much does it cost to run the lamp for this time? \n",
         "Options": {
             "A": "$0.36",
             "B": "$0.84",
@@ -526,7 +526,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q36",
-        "Question": "A three-pin mains plug contains a fuse. A device with double insulation has a cable connected to the plug. Which part of the plug is not connected to the cable? /n",
+        "Question": "A three-pin mains plug contains a fuse. \nA device with double insulation has a cable connected to the plug. \nWhich part of the plug is not connected to the cable? \n",
         "Options": {
             "A": "earth pin",
             "B": "fuse",
@@ -541,7 +541,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q37",
-        "Question": "A trolley carrying a strong magnet rolls down a ramp at constant speed. It passes through a coil as shown. An electromotive force (e.m.f.) is induced in the coil. Which graph is produced using the coil with the least number of turns and the steepest ramp? /n",
+        "Question": "A trolley carrying a strong magnet rolls down a ramp at constant speed. \nIt passes through a coil as shown. \nAn electromotive force (e.m.f.) is induced in the coil. \nWhich graph is produced using the coil with the least number of turns and the steepest ramp? \n",
         "Options": {
             "A": " ",
             "B": " ",
@@ -556,7 +556,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q38",
-        "Question": "A student uses a transformer to light a filament lamp using a 230 V a.c. supply. The lamp has a maximum voltage rating of 6.0 V. What happens when the circuit is switched on? /n",
+        "Question": "A student uses a transformer to light a filament lamp using a 230 V a.c. supply. The lamp has a maximum voltage rating of 6.0 V. \nWhat happens when the circuit is switched on? \n",
         "Options": {
             "A": "The lamp does not light at all.",
             "B": "The lamp lights at normal brightness.",
@@ -571,7 +571,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q39",
-        "Question": "What does an alpha-particle consist of? /n",
+        "Question": "What does an alpha-particle consist of? \n",
         "Options": {
             "A": "two electrons and four neutrons only",
             "B": "two protons and two neutrons only",
@@ -586,7 +586,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q40",
-        "Question": "The count rate from a radioactive source falls from 4000 counts per minute to 500 counts per minute in 72 minutes. What is the half-life of the source? /n",
+        "Question": "The count rate from a radioactive source falls from 4000 counts per minute to 500 counts per minute in 72 minutes. What is the half-life of the source? \n",
         "Options": {
             "A": "8 minutes",
             "B": "9 minutes",

@@ -16,7 +16,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q2",
-        "Question": "A woman runs 2.0 km from X to Y in 20 minutes\nand then rests at Y for 10 minutes.\nShe then takes 10 minutes to run 1.6 km from Y to Z.\nWhat is the size of her average velocity for the journey from X to Z?",
+        "Question": "A woman runs 2.0 km from X to Y in 20 minutes and then rests at Y for 10 minutes.\nShe then takes 10 minutes to run 1.6 km from Y to Z.\nWhat is the size of her average velocity for the journey from X to Z?",
         "Options": {
             "A": "0.060 km / minute",
             "B": "0.080 km / minute",
@@ -31,12 +31,12 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q3",
-        "Question": "A cyclist travelling in a straight line at 8.0 m / s\naccelerates to 12 m / s in a time of 6.0 s.\nWhich expression gives the cyclist\u2019s acceleration?",
+        "Question": "A cyclist travelling in a straight line at 8.0 m/s accelerates to 12 m / s in a time of 6.0 s.\nWhich expression gives the cyclist's acceleration?",
         "Options": {
-            "A": "8 12 6 \u2212",
-            "B": "6 12 8 \u2212",
-            "C": "8 6 12 \u2212",
-            "D": "6 8 12 \u2212"
+            "A": "6 / (12-8)",
+            "B": "8 / (12-6)",
+            "C": "(12-6) / 8",
+            "D": "(12-8) / 6"
         },
         "image": null,
         "answer": "D",
@@ -46,7 +46,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q4",
-        "Question": "The diagram shows the distance\u2013time graph for a moving object.\nWhat is the moving object?",
+        "Question": "The diagram shows the distance-time graph for a moving object.\nWhat is the moving object?",
         "Options": {
             "A": "a ball thrown vertically upwards and falling back to the thrower",
             "B": "a car, starting from rest, speeding up as it moves away from a traffic signal",
@@ -61,7 +61,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q5",
-        "Question": "Four of the gravitational forces that act between bodies in the Solar System are listed below.\nP the force on the Moon due to the Earth\nQ the force on the Earth due to the Sun\nR the force on the Earth due to the Moon\nS the force on the Moon due to the Sun\nWhich two forces are a Newton\u2019s third law pair (action and reaction)?",
+        "Question": "Four of the gravitational forces that act between bodies in the Solar System are listed below.\nP the force on the Moon due to the Earth\nQ the force on the Earth due to the Sun\nR the force on the Earth due to the Moon\nS the force on the Moon due to the Sun\nWhich two forces are a Newton's third law pair (action and reaction)?",
         "Options": {
             "A": "P and Q",
             "B": "P and R",
@@ -136,7 +136,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q10",
-        "Question": "A uniform metre rule is balanced by a 4.0 N weight as shown.\nW 4.0 N\n10 cm 50 cm 100 cm\npivot 0\nWhat is the weight W of the metre rule?",
+        "Question": "A uniform metre rule is balanced by a 4.0 N weight as shown.\nWhat is the weight W of the metre rule?",
         "Options": {
             "A": "1.0 N",
             "B": "4.0 N",
@@ -331,7 +331,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q23",
-        "Question": "In low-pressure hydrogen, there are no forces between the molecules except during collisions with each other. Which statement describes the motion of a molecule between one collision and the next?",
+        "Question": "In low-pressure hydrogen, there are no forces between the molecules except during collisions with each other. \nWhich statement describes the motion of a molecule between one collision and the next?",
         "Options": {
             "A": "It moves with changing speed and continuously changes direction.",
             "B": "It moves with changing speed in a straight line.",
@@ -346,7 +346,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q24",
-        "Question": "A gas is enclosed in a container of fixed volume. The gas gains heat energy from an external source. What happens to the molecules of the gas?",
+        "Question": "A gas is enclosed in a container of fixed volume. \nThe gas gains heat energy from an external source. \nWhat happens to the molecules of the gas?",
         "Options": {
             "A": "They expand.",
             "B": "They move faster inside the container.",
@@ -361,7 +361,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q25",
-        "Question": "A wave on water travels towards a stationary boat. As the wave passes, the boat starts to move up and down and gains kinetic energy from the wave. Which property of the wave changes as the wave passes the boat?",
+        "Question": "A wave on water travels towards a stationary boat. \nAs the wave passes, the boat starts to move up and down and gains kinetic energy from the wave. \nWhich property of the wave changes as the wave passes the boat?",
         "Options": {
             "A": "amplitude",
             "B": "frequency",
@@ -391,7 +391,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q27",
-        "Question": "An object is placed at a distance from a converging lens that is equal to twice the focal length of the lens. Which statement about the image is correct?",
+        "Question": "An object is placed at a distance from a converging lens that is equal to twice the focal length of the lens. \nWhich statement about the image is correct?",
         "Options": {
             "A": "It is enlarged.",
             "B": "It is inverted.",
@@ -406,7 +406,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q28",
-        "Question": "The lens in the diagram produces an image I of the object O. Why is this not the ray diagram for a photographic enlarger?",
+        "Question": "The lens in the diagram produces an image I of the object O. \nWhy is this not the ray diagram for a photographic enlarger?",
         "Options": {
             "A": "The image is magnified.",
             "B": "The image is virtual.",
@@ -436,7 +436,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q30",
-        "Question": "The speed of sound in air is ca, the speed of sound in water is cw and the speed of sound in ice is ci. Which relationship is correct?",
+        "Question": "The speed of sound in air is ca, the speed of sound in water is cw and the speed of sound in ice is ci. \nWhich relationship is correct?",
         "Options": {
             "A": "ca > ci",
             "B": "ca > cw",
@@ -451,7 +451,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q31",
-        "Question": "One end of each of two bars is marked with an X or a Y, as shown. What materials are bar 1 and bar 2 made from?",
+        "Question": "One end of each of two bars is marked with an X or a Y, as shown. \nEnd X of bar 1 is brought close to the N-pole and then to the S-pole of a magnet.\n End Y of bar 2 is brought close to the N-pole and then to the S-pole of the magnet.\n The table shows what happens.What materials are bar 1 and bar 2 made from?",
         "Options": {
             "A": "bar 1: copper, bar 2: iron",
             "B": "bar 1: iron, bar 2: steel",
@@ -466,7 +466,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q32",
-        "Question": "The diagram shows a car ignition switch and starter motor. What is the explanation for the choice of wires?",
+        "Question": "The diagram shows a car ignition switch and starter motor. \nThe ignition switch is in a circuit with long, thin wires. The starter motor is in a circuit with short, thick wires.\nWhat is the explanation for the choice of wires?",
         "Options": {
             "A": "Each circuit needs to contain the same total mass of wire.",
             "B": "Thicker wires heat up more quickly when the relay is switched on.",
@@ -481,7 +481,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q33",
-        "Question": "The diagram shows a simple circuit. What happens when the resistance of the variable resistor is increased?",
+        "Question": "The diagram shows a simple circuit. \nWhat happens when the resistance of the variable resistor is increased?",
         "Options": {
             "A": "The lamps are dimmer and the motor rotates more quickly.",
             "B": "The lamps are dimmer and the motor rotates more slowly.",
@@ -496,7 +496,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q34",
-        "Question": "The diagram shows a simple electrical circuit. Which statement cannot be correct?",
+        "Question": "The diagram shows a simple electrical circuit. \nWhich statement cannot be correct?",
         "Options": {
             "A": "The current I is 2 A.",
             "B": "The e.m.f. E is 12 J.",
@@ -511,7 +511,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q35",
-        "Question": "The cable to an electric cooker contains a live wire, a neutral wire and an earth wire. When the cooker is working correctly, in which wires are the currents equal?",
+        "Question": "The cable to an electric cooker contains a live wire, a neutral wire and an earth wire. \nWhen the cooker is working correctly, in which wires are the currents equal?",
         "Options": {
             "A": "the live, the neutral and the earth",
             "B": "the live and the earth only",
@@ -526,7 +526,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q36",
-        "Question": "The manufacturer of an electrical heater states that only one heater must be connected to the mains wiring through any fuse. The current in the circuit with only one heater is 9 A. The fuse rating is 10 A. Despite the warning, a second identical heater is added, as shown. When the switch is closed the fuse blows. What happens when the switch is closed?",
+        "Question": "The manufacturer of an electrical heater states that only one heater must be connected to the mains wiring through any fuse. \nThe current in the circuit with only one heater is 9 A. The fuse rating is 10 A. \nDespite the warning, a second identical heater is added, as shown. When the switch is closed the fuse blows.\nThe fuse is replaced with a 20 A fuse. \nWhat happens when the switch is closed?",
         "Options": {
             "A": "Each heater only receives half the correct current.",
             "B": "Each heater receives twice the correct current.",
@@ -541,7 +541,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q37",
-        "Question": "A coil is rotating in a magnetic field. The coil is connected to an oscilloscope. The diagram shows the trace on the screen of the oscilloscope. The coil now speeds up and rotates twice as fast. Which diagram shows the new trace?",
+        "Question": "A coil is rotating in a magnetic field. The coil is connected to an oscilloscope. The diagram shows the trace on the screen of the oscilloscope. \nThe coil now speeds up and rotates twice as fast. \nWhich diagram shows the new trace?",
         "Options": {
             "A": "A",
             "B": "B",
@@ -556,7 +556,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q38",
-        "Question": "A teacher uses the circuit shown. What happens to the voltage and the power supplied to lamp Y?",
+        "Question": "A teacher uses the circuit shown. The identical lamps X and Y are connected to a low voltage a.c. power supply by high resistance transmission wires. Both lamps are switched on.\n Lamp X is then switched off. Lamp Y stays switched on. \nWhat happens to the voltage and the power supplied to lamp Y?",
         "Options": {
             "A": "the voltage supplied to lamp Y decreases, the power supplied to lamp Y decreases",
             "B": "the voltage supplied to lamp Y decreases, the power supplied to lamp Y stays the same",
@@ -571,12 +571,12 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q39",
-        "Question": "A car battery supplies a current in one direction. A current in the opposite direction recharges the battery. Which circuit recharges the battery, using an alternating current (a.c.) supply and a diode?",
+        "Question": "A car battery supplies a current in one direction. A current in the opposite direction recharges the battery. \nWhich circuit recharges the battery, using an alternating current (a.c.) supply and a diode?",
         "Options": {
-            "A": "a.c. supply + \u2013",
-            "B": "a.c. supply + \u2013",
-            "C": "a.c. supply + \u2013",
-            "D": "a.c. supply + \u2013"
+            "A": "a.c. supply + -",
+            "B": "a.c. supply + -",
+            "C": "a.c. supply + -",
+            "D": "a.c. supply + -"
         },
         "image": null,
         "answer": "A",
@@ -586,7 +586,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q40",
-        "Question": "A proton has charge q and mass m. What is the charge and what is the mass of an alpha-particle?",
+        "Question": "A proton has charge q and mass m. \nWhat is the charge and what is the mass of an alpha-particle?",
         "Options": {
             "A": "charge: q, mass: 2m",
             "B": "charge: 2q, mass: 2m",

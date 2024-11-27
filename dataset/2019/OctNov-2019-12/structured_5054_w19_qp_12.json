@@ -35,7 +35,7 @@
         "Options": {
             "A": "electromotive force (e.m.f.) N",
             "B": "latent heat J",
-            "C": "pressure kg / m3",
+            "C": "pressure kg / m^3",
             "D": "weight kg"
         },
         "image": null,
@@ -148,9 +148,9 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q11",
-        "Question": "A load L is suspended from two springs that are in parallel. \n The extension of each spring is x. \n The springs are then arranged to hang vertically, one below the other. \n In this new arrangement, what is the total extension of the two springs?",
+        "Question": "A load L is suspended from two springs that are in parallel. The extension of each spring is x. \n The springs are then arranged to hang vertically, one below the other. \n In this new arrangement, what is the total extension of the two springs?",
         "Options": {
-            "A": "2 1 x",
+            "A": "1/2 x",
             "B": "x",
             "C": "2x",
             "D": "4x"
@@ -193,7 +193,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q14",
-        "Question": "An object X has mass m and velocity v. \n A second object Y has mass 2m and velocity 2v. \n What is the value of the ratio of kinetic energy of X to kinetic energy of Y?",
+        "Question": "An object X has mass m and velocity v. \n A second object Y has mass 2m and velocity 2v. \n What is the value of the ratio of (kinetic energy of Y / kinetic energy of X)?",
         "Options": {
             "A": "1",
             "B": "2",
@@ -223,7 +223,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q16",
-        "Question": "A student uses a newton meter to pull an object a distance d horizontally along a flat surface in a time of t. \n The newton meter reading is F. \n What is given by the expression (F \u00d7 d) / t?",
+        "Question": "A student uses a newton meter to pull an object a distance d horizontally along a flat surface in a time of t. \n The newton meter reading is F. \n What is given by the expression (F X d) / t?",
         "Options": {
             "A": "efficiency",
             "B": "energy",
@@ -238,7 +238,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q17",
-        "Question": "A student is given a thermometer that reads 1 °C in pure melting ice and 101 °C in pure boiling water. \n She uses it to measure the temperature of some water before and after it is heated. \n How does the rise in temperature of the water calculated from her results compare with the correct value?",
+        "Question": "A student is given a thermometer that reads 1 °C in pure melting ice and 101 °C in pure boiling water. She uses it to measure the temperature of some water before and after it is heated. \n How does the rise in temperature of the water calculated from her results compare with the correct value?",
         "Options": {
             "A": "It is 1 °C lower.",
             "B": "It is the same.",
@@ -283,7 +283,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q20",
-        "Question": "A syringe containing air is sealed at one end. \n The piston is free to move. \n The air is heated. \n What happens to the average distance between air molecules and the density of the air?",
+        "Question": "A syringe containing air is sealed at one end. The piston is free to move. \n The air is heated. \n What happens to the average distance between air molecules and the density of the air?",
         "Options": {
             "A": "increases decreases",
             "B": "increases stays the same",
@@ -343,7 +343,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q24",
-        "Question": "An object O is placed in front of a plane mirror. \n I is the image formed. \n A ray from the top of the object is incident on the mirror at X. \n What happens to this ray?",
+        "Question": "An object O is placed in front of a plane mirror.I is the image formed. \n A ray from the top of the object is incident on the mirror at X. \n What happens to this ray?",
         "Options": {
             "A": "It reflects and passes through the bottom of O.",
             "B": "It reflects and passes through the top of O.",
@@ -373,7 +373,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q26",
-        "Question": "An object is placed in front of a converging lens of focal length 4.0 cm. \n The height of the image is 6.0 cm. \n What is the linear magnification produced by the lens?",
+        "Question": "An object is placed in front of a converging lens of focal length 4.0 cm. \n The height of the image is 6.0 cm.\nThe arrangement is shown on the scale diagram. \n What is the linear magnification produced by the lens?",
         "Options": {
             "A": "0.50",
             "B": "1.5",
@@ -403,7 +403,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q28",
-        "Question": "A man stands 80 m in front of a cliff face. \n He makes a loud bang and listens for the echo. \n He makes a loud bang once every second. \n He hears an echo exactly halfway between the bang that caused it and the next bang. \n What is the speed of sound?",
+        "Question": "A man stands 80 m in front of a cliff face. \n He makes a loud bang and listens for the echo. \n He makes a loud bang once every second. He hears an echo exactly halfway between the bang that caused it and the next bang. \n What is the speed of sound?",
         "Options": {
             "A": "40 m / s",
             "B": "80 m / s",
@@ -418,7 +418,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q29",
-        "Question": "The diagram shows two magnetic field lines of the magnetic field around two bar magnets. \n P Q \n Which row shows the magnetic poles at end P and end Q of the two magnets?",
+        "Question": "The diagram shows two magnetic field lines of the magnetic field around two bar magnets.\n Which row shows the magnetic poles at end P and end Q of the two magnets?",
         "Options": {
             "A": "N N",
             "B": "N S",
@@ -433,7 +433,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q30",
-        "Question": "A metal plate X is attached to earth by a battery. \n The plate has a positive charge. \n A second metal plate Y is initially uncharged and connected to earth. \n This plate is positioned parallel to X. \n What happens as Y is brought closer to X?",
+        "Question": "A metal plate X is attached to earth by a battery. The plate has a positive charge. \n A second metal plate Y is initially uncharged and connected to earth. This plate is positioned parallel to X. \n What happens as Y is brought closer to X?",
         "Options": {
             "A": "Electrons flow from Y to earth only.",
             "B": "Electrons flow to Y from earth only.",
@@ -495,10 +495,10 @@
         "QuestionNumber": "Oct-Nov/12/2019/Q34",
         "Question": "An ammeter is connected to three resistors and a power supply. \n Which arrangement of resistors gives the greatest ammeter reading?",
         "Options": {
-            "A": "4 \u2126 4 \u2126 2 \u2126",
-            "B": "4 \u2126 4 \u2126",
-            "C": "2 \u2126",
-            "D": "2 \u2126 4 \u2126 4 \u2126"
+            "A": "4 Ω 4 Ω 2 Ω",
+            "B": "4 Ω 4 Ω",
+            "C": "2 Ω",
+            "D": "2 Ω 4 Ω 4 Ω"
         },
         "image": null,
         "answer": "A",
@@ -508,7 +508,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q35",
-        "Question": "A hotplate on an electric cooker contains two identical resistors. \n The switch has three positions. \n position 1 The two resistors are connected in series to the mains supply. \n position 2 The two resistors are connected in parallel to the mains supply. \n position 3 Just one resistor is connected to the mains supply. \n Which positions correspond to the low, the medium and the high power settings? \n low power medium power high power",
+        "Question": "A hotplate on an electric cooker contains two identical resistors. \n The switch has three positions. \n position 1 The two resistors are connected in series to the mains supply. \n position 2 The two resistors are connected in parallel to the mains supply. \n position 3 Just one resistor is connected to the mains supply. \n Which positions correspond to the low, the medium and the high power settings? ",
         "Options": {
             "A": "1 2 3",
             "B": "1 3 2",
@@ -523,7 +523,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q36",
-        "Question": "A mains electric circuit is fitted with a circuit breaker rather than a fuse. \n Where is the circuit breaker connected and what happens when the current is too large? \n A circuit breaker is connected in \n When the current is too large",
+        "Question": "A mains electric circuit is fitted with a circuit breaker rather than a fuse. \n Where is the circuit breaker connected and what happens when the current is too large? ",
         "Options": {
             "A": "the live wire. a thin wire melts and breaks the circuit.",
             "B": "the live wire. an electromagnet opens a switch.",
@@ -568,7 +568,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q39",
-        "Question": "Radioactive substances are used as tracers in medical examinations. \n A liquid tracer is injected into a patient. \n A detector 20 cm above the patient shows where the radioactive substance is in the body. \n What is the best radioactive substance to use?",
+        "Question": "Radioactive substances are used as tracers in medical examinations. \n A liquid tracer is injected into a patient. A detector 20 cm above the patient shows where the radioactive substance is in the body. \n What is the best radioactive substance to use?",
         "Options": {
             "A": "an alpha-particle emitter with a half-life of a few hours",
             "B": "an alpha-particle emitter with a half-life of a few years",
@@ -583,7 +583,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2019/Q40",
-        "Question": "An isotope of lead, Pb 212 82 , is radioactive. \n After three decays, two beta-particles and an alpha-particle have been emitted. \n Another radioactive isotope of lead is formed. \n What is the mass number (nucleon number) of the new isotope of lead?",
+        "Question": "An isotope of lead, Pb 212 82 , is radioactive. \n After three decays, two beta-particles and an alpha-particle have been emitted. Another radioactive isotope of lead is formed. \n What is the mass number (nucleon number) of the new isotope of lead?",
         "Options": {
             "A": "200",
             "B": "208",

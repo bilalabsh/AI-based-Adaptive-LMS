@@ -11,8 +11,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.3 Mass & weight",
-        "Sub_topic": "Measuring Mass & Weight"
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Measurement"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q2",
@@ -71,8 +71,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q6",
@@ -101,8 +101,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Stopping Distances"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q8",
@@ -116,8 +116,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Hooke's Law"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q9",
@@ -130,9 +130,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Investigating Force & Extension"
+        "Unit": "UNIT 6: SPACE PHYSICS",
+        "Topic": "6.1 Earth &The Solar System",
+        "Sub_topic": "Orbiting Bodies"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q10",
@@ -147,7 +147,7 @@
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.6 Momentum",
-        "Sub_topic": "Momentum & Impulse"
+        "Sub_topic": "Impulse"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q11",
@@ -176,8 +176,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Gravitational Potential Energy"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q13",
@@ -191,8 +191,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from Fuels"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q14",
@@ -206,8 +206,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Efficiency"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q15",
@@ -221,8 +221,8 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Power"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q16",
@@ -236,8 +236,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q17",
@@ -266,8 +266,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Kinetic Energy"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q19",
@@ -281,8 +281,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q20",
@@ -296,8 +296,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Kinetic Energy"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q21",
@@ -310,9 +310,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "States of Matter"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q22",
@@ -325,9 +325,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Convection"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q23",
@@ -340,9 +340,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Convection"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q24",
@@ -355,9 +355,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.1 General Properties of Waves",
+        "Sub_topic": "Transverse & Longitudinal Waves"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q25",
@@ -370,9 +370,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Refraction of Light"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q26",
@@ -385,9 +385,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Ray Diagrams"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q27",
@@ -400,9 +400,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Snell's Law"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q28",
@@ -415,9 +415,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Refraction of Light"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q29",
@@ -430,9 +430,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Linear Magnification"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q30",
@@ -445,9 +445,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Uses of Electromagnetic Waves"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q31",
@@ -460,9 +460,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.8 Pressure",
-        "Sub_topic": "Pressure in a Liquid"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electrical Charge"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q32",
@@ -475,9 +475,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+        "Sub_topic": "Magnets"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q33",
@@ -490,9 +490,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Resistance"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q34",
@@ -505,9 +505,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Current in Circuits"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q35",
@@ -520,9 +520,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's Second Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "UNIT 4: Electricity & Magnetism"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q36",
@@ -535,9 +535,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Magnetic Effect of a Current"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q37",
@@ -550,9 +550,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Investigating Force & Extension"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Magnetic Effect of a Current"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q38",
@@ -565,9 +565,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.6 Uses of Oscilloscope",
+        "Sub_topic": "Uses of an Oscilloscope"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q39",
@@ -580,9 +580,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "Half-Life"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q40",
@@ -595,8 +595,8 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 6: SPACE PHYSICS",
+        "Topic": "6.2 Stars & The Universe",
+        "Sub_topic": "The Universe"
     }
 ]

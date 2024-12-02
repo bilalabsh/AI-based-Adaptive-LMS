@@ -11,8 +11,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Measurement"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q2",
@@ -25,9 +25,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Scalars & Vectors"
+        "Unit": "UNIT 3: Waves ",
+        "Topic": "3.1 General Properties of Waves",
+        "Sub_topic": "The Wave Equation"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q3",
@@ -57,7 +57,7 @@
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Sub_topic": "Speed & Velocity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q5",
@@ -87,7 +87,7 @@
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.4 Density ",
-        "Sub_topic": "Measuring Density"
+        "Sub_topic": "Density"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q7",
@@ -131,8 +131,8 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Moments"
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q10",
@@ -146,8 +146,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Moments"
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q11",
@@ -161,8 +161,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Work"
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q12",
@@ -176,8 +176,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy Stores & Transfers"
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q13",
@@ -191,8 +191,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.8 Pressure",
-        "Sub_topic": "Pressure & Forces"
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q14",
@@ -205,9 +205,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 2: THERMAL PHYSICS",
-        "Topic": "2.1 Kinetic Particle model of matter",
-        "Sub_topic": "States of Matter"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q15",
@@ -220,13 +220,13 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 2: THERMAL PHYSICS",
-        "Topic": "2.1 Kinetic Particle model of matter",
-        "Sub_topic": "Particle Model"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q16",
-        "Question": "An incomplete statement about latent heat is given. \nLatent heat is the ......1...... required to overcome the bonds between molecules and change the ......2...... of a substance. \nWhich words are inserted into gap 1 and gap 2 to correctly complete the sentence?",
+        "Question": "An incomplete statement about latent heat is given. Latent heat is the ......1...... required to overcome the bonds between molecules and change the ......2...... of a substance. \nWhich words are inserted into gap 1 and gap 2 to correctly complete the sentence?",
         "Options": {
             "A": "energy state",
             "B": "force state",
@@ -235,9 +235,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 2: THERMAL PHYSICS",
-        "Topic": "2.2 Thermal properties & Temperature",
-        "Sub_topic": "Specific Latent Heat"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q17",
@@ -250,9 +250,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 2: THERMAL PHYSICS",
-        "Topic": "2.3 Transfer of Thermal Energy",
-        "Sub_topic": "Thermal Conduction"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q18",
@@ -265,9 +265,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 2: THERMAL PHYSICS",
-        "Topic": "2.3 Transfer of Thermal Energy",
-        "Sub_topic": "Thermal Conduction"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Distance-Time Graphs"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q19",
@@ -280,9 +280,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 3: Waves",
-        "Topic": "3.2 Light",
-        "Sub_topic": "Ray Diagrams"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q20",
@@ -295,9 +295,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 3: Waves",
-        "Topic": "3.2 Light",
-        "Sub_topic": "Reflection of Light"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q21",
@@ -310,9 +310,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 3: Waves",
-        "Topic": "3.2 Light",
-        "Sub_topic": "Snell's Law"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q22",
@@ -325,9 +325,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 3: Waves",
-        "Topic": "3.2 Light",
-        "Sub_topic": "Dispersion of Light"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q23",
@@ -340,9 +340,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 3: Waves",
-        "Topic": "3.3 Electromagnetic Spectrum",
-        "Sub_topic": "Electromagnetic Waves"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q24",
@@ -355,9 +355,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 3: Waves",
-        "Topic": "3.4 Sound",
-        "Sub_topic": "Sound Waves"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q25",
@@ -370,13 +370,13 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 4: Electricity & Magnetism",
-        "Topic": "4.1 Simple Magnetism & Magnetic Fields",
-        "Sub_topic": "Magnets"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q26",
-        "Question": "A student uses a wooden clamp and a stand to hold a freely suspended bar magnet.\nThe diagrams show that:\n- in experiment 1, the student holds a bar magnet next to the suspended magnet\n- in experiment 2, the student holds an iron bar next to the suspended magnet\n- in experiment 3, the student holds a steel bar next to the suspended magnet.\nIn which experiments does the suspended magnet move?",
+        "Question": "A student uses a wooden clamp and a stand to hold a freely suspended bar magnet.\nThe diagrams show that:\n\u25cf in experiment 1, the student holds a bar magnet next to the suspended magnet\n\u25cf in experiment 2, the student holds an iron bar next to the suspended magnet\n\u25cf in experiment 3, the student holds a steel bar next to the suspended magnet.\nIn which experiments does the suspended magnet move?",
         "Options": {
             "A": "1, 2 and 3",
             "B": "1 and 2 only",
@@ -385,9 +385,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 4: Electricity & Magnetism",
-        "Topic": "4.1 Simple Magnetism & Magnetic Fields",
-        "Sub_topic": "Magnets"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q27",
@@ -400,9 +400,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 4: Electricity & Magnetism",
-        "Topic": "4.2 Electrical Quantities",
-        "Sub_topic": "Electrical Charge"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q28",
@@ -430,9 +430,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 4: Electricity & Magnetism",
-        "Topic": "4.2 Electrical Quantities",
-        "Sub_topic": "Electromotive Force & Potential Difference"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q30",
@@ -445,9 +445,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 4: Electricity & Magnetism",
-        "Topic": "4.2 Electrical Quantities",
-        "Sub_topic": "Resistance"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q31",
@@ -460,9 +460,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 4: Electricity & Magnetism",
-        "Topic": "4.3 Electric Circuits",
-        "Sub_topic": "Current in Circuits"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q32",
@@ -475,9 +475,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 4: Electricity & Magnetism",
-        "Topic": "4.5 Electromagnetic Effects",
-        "Sub_topic": "Force on a Current-Carrying Conductor"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q33",
@@ -490,9 +490,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 4: Electricity & Magnetism",
-        "Topic": "4.6 Uses of Oscilloscope",
-        "Sub_topic": "Uses of an Oscilloscope"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q34",
@@ -505,9 +505,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 5: Nuclear Physics",
-        "Topic": "5.2 Radioactivity",
-        "Sub_topic": "The Three Types of Emission"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q35",
@@ -520,9 +520,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 5: Nuclear Physics",
-        "Topic": "5.1 The Nuclear Model of the Atom",
-        "Sub_topic": "The Atom"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Calculating with Vectors"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q36",
@@ -535,9 +535,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 5: Nuclear Physics",
-        "Topic": "5.1 The Nuclear Model of the Atom",
-        "Sub_topic": "The Nucleus"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q37",
@@ -550,9 +550,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 5: Nuclear Physics",
-        "Topic": "5.2 Radioactivity",
-        "Sub_topic": "Detection of Radioactivity"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q38",
@@ -565,13 +565,13 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 5: Nuclear Physics",
-        "Topic": "5.2 Radioactivity",
-        "Sub_topic": "Half-Life"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q39",
-        "Question": "It takes 27 days for the Moon to orbit the Earth.\nThe average value of the radius of the Moon's orbit is 3.8 x 10^8 m.\nWhat is the average orbital speed of the Moon?",
+        "Question": "It takes 27 days for the Moon to orbit the Earth.\nThe average value of the radius of the Moon\u2019s orbit is 3.8 x 10^8 m.\nWhat is the average orbital speed of the Moon?",
         "Options": {
             "A": "160 m / s",
             "B": "1000 m / s",
@@ -580,9 +580,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 6: SPACE PHYSICS",
-        "Topic": "6.1 Earth &The Solar System",
-        "Sub_topic": "Orbiting Bodies"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.2 Motion",
+        "Sub_topic": "Speed & Velocity"
     },
     {
         "QuestionNumber": "May-June/11/2023/Q40",
@@ -595,8 +595,8 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 6: SPACE PHYSICS",
-        "Topic": "6.2 Stars & The Universe",
-        "Sub_topic": "Stars"
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy from the Sun"
     }
 ]

@@ -91,7 +91,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q7",
-        "Question": "The diagram shows the only two horizontal forces acting on a trolley that is accelerating at 0.12 m / s\u00c2\u00b2. \nWhat is the mass of the trolley?",
+        "Question": "The diagram shows the only two horizontal forces acting on a trolley that is accelerating at 0.12 m / s^2. \nWhat is the mass of the trolley?",
         "Options": {
             "A": "0.050 kg",
             "B": "0.13 kg",
@@ -181,7 +181,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q13",
-        "Question": "An African elephant has a mass of 6000 kg and each of its four feet has an area of 0.20 m\u00c2\u00b2. The gravitational field strength g is 9.8 N / kg. \nWhat is the average pressure due to the elephant when it is standing stationary on all four feet on level ground?",
+        "Question": "An African elephant has a mass of 6000 kg and each of its four feet has an area of 0.20 m^2. The gravitational field strength g is 9.8 N / kg. \nWhat is the average pressure due to the elephant when it is standing stationary on all four feet on level ground?",
         "Options": {
             "A": "7.5 kPa",
             "B": "30 kPa",
@@ -226,7 +226,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q16",
-        "Question": "An incomplete statement about latent heat is given. Latent heat is the ......1...... required to overcome the bonds between molecules and change the ......2...... of a substance. \nWhich words are inserted into gap 1 and gap 2 to correctly complete the sentence?",
+        "Question": "An incomplete statement about latent heat is given. \nLatent heat is the ......1...... required to overcome the bonds between molecules and change the ......2...... of a substance. \nWhich words are inserted into gap 1 and gap 2 to correctly complete the sentence?",
         "Options": {
             "A": "energy state",
             "B": "force state",
@@ -376,7 +376,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q26",
-        "Question": "A student uses a wooden clamp and a stand to hold a freely suspended bar magnet.\nThe diagrams show that:\n\u25cf in experiment 1, the student holds a bar magnet next to the suspended magnet\n\u25cf in experiment 2, the student holds an iron bar next to the suspended magnet\n\u25cf in experiment 3, the student holds a steel bar next to the suspended magnet.\nIn which experiments does the suspended magnet move?",
+        "Question": "A student uses a wooden clamp and a stand to hold a freely suspended bar magnet.\nThe diagrams show that:\n- in experiment 1, the student holds a bar magnet next to the suspended magnet\n- in experiment 2, the student holds an iron bar next to the suspended magnet\n- in experiment 3, the student holds a steel bar next to the suspended magnet.\nIn which experiments does the suspended magnet move?",
         "Options": {
             "A": "1, 2 and 3",
             "B": "1 and 2 only",
@@ -571,7 +571,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q39",
-        "Question": "It takes 27 days for the Moon to orbit the Earth.\nThe average value of the radius of the Moon\u2019s orbit is 3.8 x 10^8 m.\nWhat is the average orbital speed of the Moon?",
+        "Question": "It takes 27 days for the Moon to orbit the Earth.\nThe average value of the radius of the Moon's orbit is 3.8 x 10^8 m.\nWhat is the average orbital speed of the Moon?",
         "Options": {
             "A": "160 m / s",
             "B": "1000 m / s",

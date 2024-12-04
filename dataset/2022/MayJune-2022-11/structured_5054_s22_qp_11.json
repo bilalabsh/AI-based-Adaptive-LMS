@@ -241,7 +241,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q17",
-        "Question": "What is the usual symbol and what is the unit for the heat capacity of an object? \n",
+        "Question": "What is the usual symbol and what is the unit for the heat capacity of an object? ",
         "Options": {
             "A": "C J / °C",
             "B": "C J / (kg °C)",
@@ -256,7 +256,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q18",
-        "Question": "Which row describes the arrangement of particles and the forces between particles in a solid? \n",
+        "Question": "Which row describes the arrangement of particles and the forces between particles in a solid? ",
         "Options": {
             "A": "regular strong",
             "B": "regular weak",
@@ -271,7 +271,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q19",
-        "Question": "A wave in the sea collides with a cliff. \nA crest of the wave hits the cliff once every 6.0 s. \nThe horizontal distance between a crest and the adjacent trough of the wave is 4.5 m. \nWhat is the speed of the wave? \n",
+        "Question": "A wave in the sea collides with a cliff. \nA crest of the wave hits the cliff once every 6.0 s. \nThe horizontal distance between a crest and the adjacent trough of the wave is 4.5 m. \nWhat is the speed of the wave? ",
         "Options": {
             "A": "0.67 m / s",
             "B": "0.75 m / s",
@@ -286,7 +286,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q20",
-        "Question": "A sound wave refracts as it passes from air to water. \nWhich quantities change? \n",
+        "Question": "A sound wave refracts as it passes from air to water. \nWhich quantities change? ",
         "Options": {
             "A": "speed and frequency only",
             "B": "speed and wavelength only",
@@ -301,7 +301,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q21",
-        "Question": "An object is viewed through a thin converging lens. \nThe diagram shows the paths of two rays from the top of the object to an eye. \nHow does the image compare with the object? \n",
+        "Question": "An object is viewed through a thin converging lens. \nThe diagram shows the paths of two rays from the top of the object to an eye. \nHow does the image compare with the object? ",
         "Options": {
             "A": "It is larger and inverted.",
             "B": "It is larger and upright.",
@@ -316,7 +316,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q22",
-        "Question": "A ray of white light enters a prism as shown. \nWhich row is correct? \n",
+        "Question": "A ray of white light enters a prism as shown. \nWhich row is correct? ",
         "Options": {
             "A": "dispersion only smaller",
             "B": "refraction only greater",
@@ -331,7 +331,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q23",
-        "Question": "Which waves are not part of the electromagnetic spectrum? \n",
+        "Question": "Which waves are not part of the electromagnetic spectrum? ",
         "Options": {
             "A": "radio waves",
             "B": "television signals",
@@ -346,7 +346,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q24",
-        "Question": "A man stands between two tall buildings, P and Q. \nHe is 50 m from P and 200 m from Q. \nHe sounds a horn. \nHe hears the first echo from building P and 1.0 s later he hears the first echo from building Q. \nWhat is the speed of sound calculated using this information? \n",
+        "Question": "A man stands between two tall buildings, P and Q. \nHe is 50 m from P and 200 m from Q. \nHe sounds a horn. \nHe hears the first echo from building P and 1.0 s later he hears the first echo from building Q. \nWhat is the speed of sound calculated using this information? ",
         "Options": {
             "A": "250 m / s",
             "B": "300 m / s",
@@ -361,7 +361,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q25",
-        "Question": "Sound travels at different speeds in each of the three states of matter, solid, liquid and gas. \nWhich row shows where sound travels fastest and where sound travels slowest? \n",
+        "Question": "Sound travels at different speeds in each of the three states of matter, solid, liquid and gas. \nWhich row shows where sound travels fastest and where sound travels slowest? ",
         "Options": {
             "A": "gas liquid",
             "B": "gas solid",
@@ -376,7 +376,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q26",
-        "Question": "What is one of the uses of ultrasound? \n",
+        "Question": "What is one of the uses of ultrasound? ",
         "Options": {
             "A": "cleaning jewellery",
             "B": "fluorescent tubes",
@@ -391,7 +391,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q27",
-        "Question": "Which material is used for the core of an electromagnet? \n",
+        "Question": "Which material is used for the core of an electromagnet? ",
         "Options": {
             "A": "aluminium",
             "B": "copper",
@@ -406,7 +406,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q28",
-        "Question": "Two metal spheres are mounted on insulating stands. Sphere X is initially uncharged and sphere Y \nis initially positively charged. \nA metal rod, held by an insulating handle, is placed in contact with X and Y as shown. \nWhat are the charges on X and on Y after the rod is placed in contact with them? \n",
+        "Question": "Two metal spheres are mounted on insulating stands. Sphere X is initially uncharged and sphere Y \nis initially positively charged. \nA metal rod, held by an insulating handle, is placed in contact with X and Y as shown. \nWhat are the charges on X and on Y after the rod is placed in contact with them? ",
         "Options": {
             "A": "positive positive",
             "B": "positive uncharged",
@@ -421,7 +421,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q29",
-        "Question": "Which device involves the use of static electrical charges? \n",
+        "Question": "Which device involves the use of static electrical charges? ",
         "Options": {
             "A": "a computer hard disk drive",
             "B": "a motor",
@@ -436,7 +436,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2022/Q30",
-        "Question": "An initially uncharged copper rod is placed in a uniform electric field E. The rod is parallel to the \nfield. \nWhich diagram shows the charges induced on the rod? \n",
+        "Question": "An initially uncharged copper rod is placed in a uniform electric field E. The rod is parallel to the \nfield. \nWhich diagram shows the charges induced on the rod? ",
         "Options": {
             "A": "direction of electric field E -",
             "B": "direction of electric field E +",
@@ -471,7 +471,7 @@
             "A": "2400 J / 7.2 W",
             "B": "2400 J / 800 000 W",
             "C": "5400 J / 16.2 W",
-            "D": "5400 J / 1.8 x 10\u2076 W"
+            "D": "5400 J / 1.8 x 10^6 W"
         },
         "image": null,
         "answer": "D",

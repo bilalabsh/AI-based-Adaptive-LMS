@@ -42,11 +42,11 @@
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.2 Motion",
-        "Sub_topic": "terminal velocity"
+        "Sub_topic": "Terminal velocity"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q4",
-        "Question": "A 60 kg passenger enters a stationary lift. The gravitational field strength g is 10 N / kg.\nHow much force does the floor of the lift exert on the passenger when the lift accelerates upwards at 2.0 m / s\u00b2?",
+        "Question": "A 60 kg passenger enters a stationary lift. The gravitational field strength g is 10 N / kg.\nHow much force does the floor of the lift exert on the passenger when the lift accelerates upwards at 2.0 m / s^2?",
         "Options": {
             "A": "120 N",
             "B": "480 N",
@@ -511,7 +511,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q35",
-        "Question": "When the flash on a camera is used, a charge of 1.5 C flows for 0.0030 s through the flash lamp.\n\nThe average voltage across the flash lamp is 3600 V.\n\nWhat is the electrical energy supplied to the flash lamp and what is the average power supplied?",
+        "Question": "When the flash on a camera is used, a charge of 1.5 C flows for 0.0030 s through the flash lamp.\nThe average voltage across the flash lamp is 3600 V.\nWhat is the electrical energy supplied to the flash lamp and what is the average power supplied?",
         "Options": {
             "A": "energy / J 2400, power / W 7.2",
             "B": "energy / J 2400, power / W 800 000",
@@ -526,7 +526,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q36",
-        "Question": "The diagram shows an electric circuit.\n\n6.0 V\nsupply\nL1 L2\nL3\nS2\nS1\n\nWhich lamps light when switch S1 is closed and S2 is open?",
+        "Question": "The diagram shows an electric circuit.\nWhich lamps light when switch S1 is closed and S2 is open?",
         "Options": {
             "A": "L1 only",
             "B": "L3 only",
@@ -541,7 +541,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q37",
-        "Question": "The diagram shows a hairdryer.\n\nWhich statement explains why the hairdryer does not need an earth wire?",
+        "Question": "The diagram shows a hairdryer.\nWhich statement explains why the hairdryer does not need an earth wire?",
         "Options": {
             "A": "It has a live wire.",
             "B": "It has a neutral wire.",
@@ -556,7 +556,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q38",
-        "Question": "A left hand can be used to determine the direction of the force when a current-carrying conductor\nis perpendicular to a magnetic field.\n\nP\nQ\nR\n\nWhich quantities are represented by the direction of fingers P, Q and R?",
+        "Question": "A left hand can be used to determine the direction of the force when a current-carrying conductor is perpendicular to a magnetic field.\nWhich quantities are represented by the direction of fingers P, Q and R?",
         "Options": {
             "A": "P: current, Q: field, R: force",
             "B": "P: field, Q: force, R: current",
@@ -571,7 +571,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q39",
-        "Question": "As a magnet is moved into the coil of wire as shown, there is a small positive reading on the\nsensitive ammeter.\n\nN S\nA\n\nWhich change must increase the size of the reading?",
+        "Question": "As a magnet is moved into the coil of wire as shown, there is a small positive reading on the sensitive ammeter.\nWhich change must increase the size of the reading?",
         "Options": {
             "A": "moving the opposite pole into the coil",
             "B": "pulling the magnet out of the coil",
@@ -586,7 +586,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q40",
-        "Question": "Electrical power is transmitted by cables over long distances at very high voltages.\n\nWhat are the effects of using a high voltage transmission system?",
+        "Question": "Electrical power is transmitted by cables over long distances at very high voltages.\nWhat are the effects of using a high voltage transmission system?",
         "Options": {
             "A": "power loss in the cables: high, current in the cables: high",
             "B": "power loss in the cables: high, current in the cables: low",

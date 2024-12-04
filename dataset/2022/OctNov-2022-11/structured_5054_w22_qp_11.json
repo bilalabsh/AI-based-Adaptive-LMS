@@ -346,7 +346,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q24",
-        "Question": "A mirror is placed in the path of a ray of light. Through which angle does the direction of the ray of light change?",
+        "Question": "A mirror is placed in the path of a ray of light. \nThrough which angle does the direction of the ray of light change?",
         "Options": {
             "A": "40°",
             "B": "90°",
@@ -361,7 +361,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q25",
-        "Question": "An oscilloscope is used to demonstrate a sound. Which feature of the oscilloscope trace is affected by the quality (timbre) of the sound?",
+        "Question": "An oscilloscope is used to demonstrate a sound. \nWhich feature of the oscilloscope trace is affected by the quality (timbre) of the sound?",
         "Options": {
             "A": "amplitude",
             "B": "frequency",
@@ -376,7 +376,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q26",
-        "Question": "Four plotting compasses are placed near a bar magnet. Ignore any effects of the Earth's magnetic field. One compass appears like this. What is a possible position for this compass?",
+        "Question": "Four plotting compasses are placed near a bar magnet. Ignore any effects of the Earth's magnetic field. \nOne compass appears like this. \nWhat is a possible position for this compass?",
         "Options": {
             "A": "position A",
             "B": "position B",
@@ -391,7 +391,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q27",
-        "Question": "A plastic rod and a cloth are initially uncharged. The rod is then rubbed with the cloth and the cloth becomes positively charged. What is the sign of the charge on the plastic rod and why does it become charged?",
+        "Question": "A plastic rod and a cloth are initially uncharged. The rod is then rubbed with the cloth and the cloth becomes positively charged. \nWhat is the sign of the charge on the plastic rod and why does it become charged?",
         "Options": {
             "A": "negative, electrons move from the cloth to the rod",
             "B": "negative, protons move from the rod to the cloth",
@@ -421,7 +421,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q29",
-        "Question": "A circuit contains two cells and two lamps. The cells are new and are fully charged. In which arrangement of the cells and lamps do the cells discharge the most quickly?",
+        "Question": "A circuit contains two cells and two lamps. The cells are new and are fully charged. \nIn which arrangement of the cells and lamps do the cells discharge the most quickly?",
         "Options": {
             "A": "arrangement A",
             "B": "arrangement B",
@@ -436,7 +436,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q30",
-        "Question": "A lamp is connected in series with a battery and a variable resistor. The resistance of the variable resistor is decreased gradually. Which statement is correct?",
+        "Question": "A lamp is connected in series with a battery and a variable resistor. The resistance of the variable resistor is decreased gradually. \nWhich statement is correct?",
         "Options": {
             "A": "The current in the lamp increases.",
             "B": "The current in the variable resistor decreases.",
@@ -451,7 +451,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q31",
-        "Question": "In the circuits shown all the cells are identical and all the lamps are identical. The switches are closed. In which circuit are both lamps the brightest?",
+        "Question": "In the circuits shown all the cells are identical and all the lamps are identical. The switches are closed. \nIn which circuit are both lamps the brightest?",
         "Options": {
             "A": "circuit A",
             "B": "circuit B",
@@ -496,7 +496,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q34",
-        "Question": "The diagram shows the output from an a.c. generator displayed on an oscilloscope screen. The generator is turned at a slower rate. The settings on the oscilloscope controls are not changed. Which diagram shows the new output?",
+        "Question": "The diagram shows the output from an a.c. generator displayed on an oscilloscope screen. \nThe generator is turned at a slower rate. The settings on the oscilloscope controls are not changed. \nWhich diagram shows the new output?",
         "Options": {
             "A": "diagram A",
             "B": "diagram B",
@@ -511,7 +511,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q35",
-        "Question": "The sound wave produced by a note is displayed on the screen of a cathode-ray oscilloscope. The time-base is set at 5 ms for one division. What is the frequency of the note?",
+        "Question": "The sound wave produced by a note is displayed on the screen of a cathode-ray oscilloscope. \nThe time-base is set at 5 ms for one division. \nWhat is the frequency of the note?",
         "Options": {
             "A": "20 Hz",
             "B": "50 Hz",
@@ -526,7 +526,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q36",
-        "Question": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength electromagnetic waves, and electrons. What are these three types of radiation?",
+        "Question": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength electromagnetic waves, and electrons. \nWhat are these three types of radiation?",
         "Options": {
             "A": "alpha, gamma, beta",
             "B": "beta, gamma, alpha",
@@ -541,7 +541,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q37",
-        "Question": "A beam of electrons is fired into a uniform magnetic field as shown. The direction of the magnetic field is into the page. Which path do the electrons follow?",
+        "Question": "A beam of electrons is fired into a uniform magnetic field as shown. \nThe direction of the magnetic field is into the page. \nWhich path do the electrons follow?",
         "Options": {
             "A": "path A",
             "B": "path B",

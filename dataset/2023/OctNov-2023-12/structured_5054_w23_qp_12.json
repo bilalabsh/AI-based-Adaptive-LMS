@@ -16,7 +16,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q2",
-        "Question": "The diagram shows the distance\u2013time graph of a car.\nThe car is travelling along a straight road up a hill.\nWhich quantity for the car is constant and greater than zero?",
+        "Question": "The diagram shows the distance-time graph of a car.\nThe car is travelling along a straight road up a hill.\nWhich quantity for the car is constant and greater than zero?",
         "Options": {
             "A": "acceleration",
             "B": "displacement",
@@ -31,12 +31,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q3",
-        "Question": "A distance\u2013time graph and a speed\u2013time graph show the motion of an object.\nHow are the speed and the acceleration of the object determined from these graphs?",
+        "Question": "A distance-time graph and a speed-time graph show the motion of an object.\nHow are the speed and the acceleration of the object determined from these graphs?",
         "Options": {
-            "A": "area under the distance\u2013time graph\narea under the speed\u2013time graph",
-            "B": "area under the distance\u2013time graph\ngradient of the speed\u2013time graph",
-            "C": "gradient of the distance\u2013time graph\narea under the speed\u2013time graph",
-            "D": "gradient of the distance\u2013time graph\ngradient of the speed\u2013time graph"
+            "A": "area under the distance-time graph\narea under the speed-time graph",
+            "B": "area under the distance-time graph\ngradient of the speed-time graph",
+            "C": "gradient of the distance-time graph\narea under the speed-time graph",
+            "D": "gradient of the distance-time graph\ngradient of the speed-time graph"
         },
         "image": null,
         "answer": "D",
@@ -48,10 +48,10 @@
         "QuestionNumber": "Oct-Nov/12/2023/Q4",
         "Question": "A student finds that the mass of a rock is 65 g.\nShe pours 30 cm3 of water into a measuring cylinder.\nShe places the rock in the water so that the water covers the rock completely.\nThe water level rises to 55 cm3.\nWhat is the density of the rock?",
         "Options": {
-            "A": "0.38 g / cm3",
-            "B": "1.2 g / cm3",
-            "C": "2.2 g / cm3",
-            "D": "2.6 g / cm3"
+            "A": "0.38 g / cm^3",
+            "B": "1.2 g / cm^3",
+            "C": "2.2 g / cm^3",
+            "D": "2.6 g / cm^3"
         },
         "image": null,
         "answer": "D",
@@ -106,7 +106,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q8",
-        "Question": "A spring has a length of 9.0 cm when loaded with a 200 g mass. The extension\u2013mass graph for\nthe spring is shown.\n200 g\n9.0 cm\n3.0\n2.0\n1.0\n0\n0 100 200 300\nmass / g\nextension / cm\nThe 200 g mass is replaced with a 100 g mass.\nWhat is the new length of the spring?",
+        "Question": "A spring has a length of 9.0 cm when loaded with a 200 g mass. The extension-mass graph for\nthe spring is shown.\nThe 200 g mass is replaced with a 100 g mass.\nWhat is the new length of the spring?",
         "Options": {
             "A": "7.0 cm",
             "B": "8.0 cm",
@@ -138,10 +138,10 @@
         "QuestionNumber": "Oct-Nov/12/2023/Q10",
         "Question": "Which expression is equal to impulse?",
         "Options": {
-            "A": "change in momentum \u00f7 time",
+            "A": "change in momentum ÷ time",
             "B": "change in momentum",
-            "C": "force \u00d7 distance moved in the direction of the force",
-            "D": "force \u00f7 area"
+            "C": "force x distance moved in the direction of the force",
+            "D": "force ÷ area"
         },
         "image": null,
         "answer": "B",
@@ -391,12 +391,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q27",
-        "Question": "Light travelling in air is incident on a water surface.\n\nThe refractive index of water is 1.3 and the angle of refraction in the water is 40\u00b0.\n\nWhat is the angle of incidence in the air?",
+        "Question": "Light travelling in air is incident on a water surface.\n\nThe refractive index of water is 1.3 and the angle of refraction in the water is 40°.\n\nWhat is the angle of incidence in the air?",
         "Options": {
-            "A": "30\u00b0",
-            "B": "50\u00b0",
-            "C": "52\u00b0",
-            "D": "57\u00b0"
+            "A": "30°",
+            "B": "50°",
+            "C": "52°",
+            "D": "57°"
         },
         "image": null,
         "answer": "D",
@@ -436,7 +436,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q30",
-        "Question": "Ultraviolet radiation is a component of the electromagnetic spectrum. /n Which application uses ultraviolet radiation?",
+        "Question": "Ultraviolet radiation is a component of the electromagnetic spectrum. \n Which application uses ultraviolet radiation?",
         "Options": {
             "A": "Bluetooth technology",
             "B": "prenatal scanning",
@@ -451,7 +451,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q31",
-        "Question": "A student rubs different rods held in his hand. /n Which rod gains a large electrostatic charge?",
+        "Question": "A student rubs different rods held in his hand. \n Which rod gains a large electrostatic charge?",
         "Options": {
             "A": "a polythene rod rubbed with a steel magnet",
             "B": "a polythene rod rubbed with a woollen duster",
@@ -466,7 +466,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q32",
-        "Question": "Two permanent magnets are placed side by side in four different arrangements. /n In which arrangements do the magnets repel each other?",
+        "Question": "Two permanent magnets are placed side by side in four different arrangements. \n In which arrangements do the magnets repel each other?",
         "Options": {
             "A": "1 and 2",
             "B": "1 and 4",
@@ -496,7 +496,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q34",
-        "Question": "Two identical resistors are connected first in series and then in parallel. /n The two resistors in series are connected to a power supply and the current is Is. /n The parallel combination is connected to the same power supply and the current supplied is Ip. /n What is the ratio Ip/Is?",
+        "Question": "Two identical resistors are connected first in series and then in parallel. \n The two resistors in series are connected to a power supply and the current is Is. \n The parallel combination is connected to the same power supply and the current supplied is Ip. \n What is the ratio Ip/Is?",
         "Options": {
             "A": "0.25",
             "B": "0.50",
@@ -511,7 +511,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q35",
-        "Question": "The output of an a.c. generator is connected to a lamp. /n The coil of the generator is rotated at a constant rate which makes the lamp flash twice every second. /n The coil is then rotated at half the rate of rotation. /n What happens to the maximum brightness of the lamp and how many times does the lamp flash every second?",
+        "Question": "The output of an a.c. generator is connected to a lamp. \n The coil of the generator is rotated at a constant rate which makes the lamp flash twice every second. \n The coil is then rotated at half the rate of rotation. \n What happens to the maximum brightness of the lamp and how many times does the lamp flash every second?",
         "Options": {
             "A": "decreases - 1",
             "B": "decreases - 4",
@@ -541,7 +541,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q37",
-        "Question": "A wire is placed at right angles to a uniform magnetic field. /n There is a current in the wire and it experiences a force. /n Beams of alpha-particles, beta-particles and neutrons are fired into the magnetic field in the same direction as the conventional current in the wire. /n Which beams experience a force that is initially in the same direction as the force experienced by the current-carrying wire?",
+        "Question": "A wire is placed at right angles to a uniform magnetic field. \n There is a current in the wire and it experiences a force. \n Beams of alpha-particles, beta-particles and neutrons are fired into the magnetic field in the same direction as the conventional current in the wire. \n Which beams experience a force that is initially in the same direction as the force experienced by the current-carrying wire?",
         "Options": {
             "A": "alpha-particles",
             "B": "beta-particles",
@@ -556,7 +556,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q38",
-        "Question": "The diagram shows the trace produced on the screen of an oscilloscope due to an alternating voltage input. /n The time\u2013base on the oscilloscope is set to 4 ms / cm. /n What does the trace look like when the time base is set to 2 ms / cm?",
+        "Question": "The diagram shows the trace produced on the screen of an oscilloscope due to an alternating voltage input. \n The time-base on the oscilloscope is set to 4 ms / cm. \n What does the trace look like when the time base is set to 2 ms / cm?",
         "Options": {
             "A": "Option A",
             "B": "Option B",
@@ -571,12 +571,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2023/Q39",
-        "Question": "The half-life of a radioactive isotope is 2.5 minutes. /n This isotope is the only radioactive isotope in a radioactive sample. /n Between time t = 0 and t = 7.5 minutes, the mass of this isotope in the sample decreases by 70 \u03bcg. /n What is the mass of this isotope at t = 0?",
+        "Question": "The half-life of a radioactive isotope is 2.5 minutes. \n This isotope is the only radioactive isotope in a radioactive sample. \n Between time t = 0 and t = 7.5 minutes, the mass of this isotope in the sample decreases by 70 μg. \n What is the mass of this isotope at t = 0?",
         "Options": {
-            "A": "75 \u03bcg",
-            "B": "80 \u03bcg",
-            "C": "210 \u03bcg",
-            "D": "560 \u03bcg"
+            "A": "75 μg",
+            "B": "80 μg",
+            "C": "210 μg",
+            "D": "560 μg"
         },
         "image": null,
         "answer": "B",

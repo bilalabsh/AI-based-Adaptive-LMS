@@ -153,10 +153,10 @@
         "QuestionNumber": "May-June/11/2021/Q11",
         "Question": "Which expression for pressure is correct?",
         "Options": {
-            "A": "Force \u00d7 Area",
-            "B": "Force \u00f7 Area",
-            "C": "Mass \u00d7 Area",
-            "D": "Mass \u00f7 Area"
+            "A": "Force x Area",
+            "B": "Force ÷ Area",
+            "C": "Mass x Area",
+            "D": "Mass ÷ Area"
         },
         "image": null,
         "answer": "C",
@@ -253,6 +253,321 @@
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.8 Pressure",
         "Sub_topic": "Pressure in a Liquid"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q18",
+        "Question": "What is the heat capacity of a body?",
+        "Options": {
+            "A": "The amount of thermal energy that the body can absorb without melting",
+            "B": "The amount of thermal energy required to raise the temperature of the body by 1.0 °C",
+            "C": "The amount of thermal energy required to raise the temperature of 1.0 kg of the body by 1.0 °C",
+            "D": "The amount of thermal energy required to raise the temperature of 1.0 m³ of the body by 1.0 °C"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 2: Heat",
+        "Topic": "2.1 Heat Capacity",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q19",
+        "Question": "Which statement about water is correct?",
+        "Options": {
+            "A": "At the boiling point, water vapour molecules have the same kinetic energy as liquid water molecules",
+            "B": "Evaporation occurs only at the boiling point",
+            "C": "Water molecules become heavier when water freezes",
+            "D": "Water molecules lose all of their kinetic energy when water freezes"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 2: Heat",
+        "Topic": "2.2 States of Matter",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q20",
+        "Question": "A water wave in a ripple tank refracts as it moves from deep water into shallower water.\nWhat happens to the speed and to the frequency of the wave as it moves into shallower water?",
+        "Options": {
+            "A": "Speed decreases, frequency stays constant",
+            "B": "Speed increases, frequency stays constant",
+            "C": "Speed stays constant, frequency decreases",
+            "D": "Speed stays constant, frequency increases"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.1 Wave Properties",
+        "Sub_topic": "Refraction"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q21",
+        "Question": "Light refracts from a liquid into air as shown.\nThe refractive index for light moving from air to the liquid is 1.4.\nWhat is the angle of incidence in the liquid?",
+        "Options": {
+            "A": "22°",
+            "B": "37°",
+            "C": "41°",
+            "D": "45°"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Refraction of Light",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q22",
+        "Question": "A ray of red light in air enters a semi-circular block.\nWhich diagram shows the partial reflection and the refraction of the ray?",
+        "Options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Refraction of Light",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q23",
+        "Question": "Which statement about human vision is correct?",
+        "Options": {
+            "A": "In a normal eye, the image on the retina is magnified and upright",
+            "B": "In a long-sighted eye, distant objects form images in front of the retina",
+            "C": "Short-sighted eyes produce only virtual images",
+            "D": "Short-sight is corrected by the use of a diverging lens"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.3 Human Vision",
+        "Sub_topic": "Eye Defects"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q24",
+        "Question": "White light enters a prism and forms a spectrum.\nThe rays in the air are labelled.\nWhich diagram shows how the white light is dispersed by the prism?",
+        "Options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Dispersion of Light",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q25",
+        "Question": "The sound from a ship is reflected by a cliff. An echo is heard by a sailor on the ship 4.0 s after the sound is made. The speed of sound in air is 320 m / s.\nHow far from the cliff is the ship?",
+        "Options": {
+            "A": "160 m",
+            "B": "640 m",
+            "C": "1280 m",
+            "D": "2560 m"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.5 Sound",
+        "Sub_topic": "Echo"
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q26",
+        "Question": "End X of a metal rod attracts the North pole of a compass needle.\nWhich statement about the rod is correct?",
+        "Options": {
+            "A": "It is made of copper that is not initially magnetised",
+            "B": "It is made of copper with a South pole at X",
+            "C": "It is made of steel that is not initially magnetised",
+            "D": "It is made of steel with a North pole at X"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 4: Magnetism",
+        "Topic": "4.1 Magnetic Properties",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q27",
+        "Question": "Which diagram shows the pattern and direction of the electric field lines near a positive charge?",
+        "Options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.2 Electric Fields",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q28",
+        "Question": "A positively charged rod is held close to an insulated metal sphere. The sphere is earthed as shown.\nThe earth connection is removed and then the rod is removed.\nWhich diagram shows the charges on the sphere after the rod is removed?",
+        "Options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.3 Charging by Induction",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q29",
+        "Question": "The diagram shows an electrostatic precipitator. It can be used to remove dust from air.\nWhat happens at the negative grid?",
+        "Options": {
+            "A": "Dust particles gain electrons",
+            "B": "Dust particles gain protons",
+            "C": "Dust particles lose electrons",
+            "D": "Dust particles lose protons"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.4 Applications of Electrostatics",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q30",
+        "Question": "A 100 W lamp is switched on for five hours each day for three weeks.\nThe cost of one unit of electricity is $0.24.\nHow much does it cost to run the lamp for this time?",
+        "Options": {
+            "A": "$0.36",
+            "B": "$0.84",
+            "C": "$2.52",
+            "D": "$25.20"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.5 Energy Costs",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q31",
+        "Question": "The information on the back of an electric room heater is shown.\nWhat is a suitable fuse rating for this room heater?",
+        "Options": {
+            "A": "4.0 A",
+            "B": "4.2 A",
+            "C": "5.0 A",
+            "D": "13.0 A"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.6 Safety Features",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q32",
+        "Question": "The diagram shows a horizontal rectangular wire coil WXYZ between the poles of a magnet.\nWhich statement is correct?",
+        "Options": {
+            "A": "The side WX experiences an upward force",
+            "B": "The side XY experiences an outward force",
+            "C": "The side YZ experiences an inward force",
+            "D": "The side ZW experiences a downward force"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.7 Electromagnetic Effects",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q33",
+        "Question": "Which energy transfer takes place in an electric kettle?",
+        "Options": {
+            "A": "Chemical to electrical",
+            "B": "Electrical to heat",
+            "C": "Electrical to chemical",
+            "D": "Heat to electrical"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.8 Energy Transfer",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q34",
+        "Question": "The diagram shows a current-carrying conductor between the poles of a magnet. The force on the wire acts downwards.\nWhich two changes made together keep the force acting downwards?",
+        "Options": {
+            "A": "1 and 3",
+            "B": "2 and 3",
+            "C": "2 and 4",
+            "D": "3 and 4"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.7 Electromagnetic Effects",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q35",
+        "Question": "In an alternating current (a.c.) generator, a magnet rotates near a coil of wire. The induced electromotive force (e.m.f.) in the coil is displayed on an oscilloscope screen.\nWhich trace is produced as the magnet slows down?",
+        "Options": {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.9 Generators",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q36",
+        "Question": "A student uses a transformer to light a filament lamp using a 230 V a.c. supply. The lamp has a maximum voltage rating of 6.0 V.\nWhat happens when the circuit is switched on?",
+        "Options": {
+            "A": "The lamp does not light at all",
+            "B": "The lamp lights at normal brightness",
+            "C": "The lamp lights dimly",
+            "D": "The lamp lights up brightly and then goes out"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 4: Electricity",
+        "Topic": "4.9 Transformers",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q37",
+        "Question": "Which statement about nuclear fusion is correct?",
+        "Options": {
+            "A": "Nuclear fusion occurs at low temperatures",
+            "B": "Nuclear fusion occurs only between heavy nuclei",
+            "C": "Nuclear fusion occurs in the formation of many stars",
+            "D": "Nuclear fusion powers most electricity-generating stations"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 5: Atomic Physics",
+        "Topic": "5.2 Nuclear Fusion",
+        "Sub_topic": null
+    },
+    {
+        "QuestionNumber": "May-June/11/2021/Q38",
+        "Question": "In one radioactive decay, radium-226 decays to radon-222 as shown.\nWhich particles are also produced?",
+        "Options": {
+            "A": "Both an alpha-particle and a beta-particle",
+            "B": "An alpha-particle only",
+            "C": "A beta-particle only",
+            "D": "A neutron"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 5: Atomic Physics",
+        "Topic": "5.3 Radioactive Decay",
+        "Sub_topic": null
     },
     {
         "QuestionNumber": "May-June/11/2021/Q39",

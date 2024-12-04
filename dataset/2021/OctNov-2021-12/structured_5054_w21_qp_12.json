@@ -33,10 +33,10 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q3",
         "Question": "A skier slides down a slope. The diagram shows how his speed varies with time.\nWhat is his average acceleration during the 6.0 s?",
         "Options": {
-            "A": "2.2 m / s\u00b2",
-            "B": "4.3 m / s\u00b2",
-            "C": "8.0 m / s\u00b2",
-            "D": "13.0 m / s\u00b2"
+            "A": "2.2 m / s^2",
+            "B": "4.3 m / s^2",
+            "C": "8.0 m / s^2",
+            "D": "13.0 m / s^2"
         },
         "image": null,
         "answer": "B",
@@ -49,9 +49,9 @@
         "Question": "A solid object, immersed in water, hangs from an elastic thread. Three forces act on the object: its weight W, the tension in the thread T, and a force F from the water.\nWhich equation is correct when the object is stationary?",
         "Options": {
             "A": "F + W = 0",
-            "B": "F \u2013 T = 0",
-            "C": "F \u2013 W \u2013 T = 0",
-            "D": "F \u2013 W + T = 0"
+            "B": "F - T = 0",
+            "C": "F - W - T = 0",
+            "D": "F - W + T = 0"
         },
         "image": null,
         "answer": "D",
@@ -186,7 +186,7 @@
             "A": "efficiency = useful energy output / total energy input",
             "B": "efficiency = total energy input / useful energy output",
             "C": "efficiency = energy converted to the required form / total power input",
-            "D": "efficiency = (energy converted to the required form) \u00d7 (total energy input)"
+            "D": "efficiency = (energy converted to the required form) x (total energy input)"
         },
         "image": null,
         "answer": "A",
@@ -256,12 +256,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q18",
-        "Question": "Solar panels are used to heat water with a mass of 500 kg. The total area of the solar panels is 10 m\u00b2 and the average power output from each square metre of the panels is 300 W.\nWhat is the increase in the water temperature after 8.0 hours?",
+        "Question": "Solar panels are used to heat water with a mass of 500 kg. The total area of the solar panels is 10 m^2 and the average power output from each square metre of the panels is 300 W.\nWhat is the increase in the water temperature after 8.0 hours?",
         "Options": {
-            "A": "0.69 \u00b0C",
-            "B": "4.1 \u00b0C",
-            "C": "5.1 \u00b0C",
-            "D": "41 \u00b0C"
+            "A": "0.69 °C",
+            "B": "4.1 °C",
+            "C": "5.1 °C",
+            "D": "41 °C"
         },
         "image": null,
         "answer": "D",
@@ -271,7 +271,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q19",
-        "Question": "The graph is the temperature\u2013time graph for a sample of wax that is heated so that it melts.\nThe mass of the wax is 200 g. Thermal energy is supplied to the wax at a constant rate of 12 000 J / minute.\nWhat is the specific latent heat of fusion of the wax?",
+        "Question": "The graph is the temperature-time graph for a sample of wax that is heated so that it melts.\nThe mass of the wax is 200 g. Thermal energy is supplied to the wax at a constant rate of 12 000 J / minute.\nWhat is the specific latent heat of fusion of the wax?",
         "Options": {
             "A": "180 J / g",
             "B": "240 J / g",
@@ -288,10 +288,10 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q20",
         "Question": "The temperatures of the water in four beakers are different and areas of the surfaces of the water are also different.\nIn which beaker is the rate of evaporation of the water greatest?",
         "Options": {
-            "A": "20 \u00b0C, 50 cm\u00b2",
-            "B": "20 \u00b0C, 100 cm\u00b2",
-            "C": "25 \u00b0C, 50 cm\u00b2",
-            "D": "25 \u00b0C, 100 cm\u00b2"
+            "A": "20 °C, 50 cm^2",
+            "B": "20 °C, 100 cm^2",
+            "C": "25 °C, 50 cm^2",
+            "D": "25 °C, 100 cm^2"
         },
         "image": null,
         "answer": "D",
@@ -334,9 +334,9 @@
         "Question": "Light reflects from a plane mirror as shown.\nX Y\nsource of light mirror\nWhich row is always correct?",
         "Options": {
             "A": "i X = Y",
-            "B": "i X + Y = 90\u00b0",
+            "B": "i X + Y = 90°",
             "C": "r X = Y",
-            "D": "r X + Y = 90\u00b0"
+            "D": "r X + Y = 90°"
         },
         "image": null,
         "answer": "C",
@@ -391,12 +391,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q27",
-        "Question": "A satellite orbits the Earth at a height of 300 km above the surface. The speed of electromagnetic waves is 3.0 \u00d7 10\u2078 m / s.\nWhat is the minimum time taken for a radio signal transmitted from the Earth to reach the satellite?",
+        "Question": "A satellite orbits the Earth at a height of 300 km above the surface. The speed of electromagnetic waves is 3.0 x 10\u2078 m / s.\nWhat is the minimum time taken for a radio signal transmitted from the Earth to reach the satellite?",
         "Options": {
-            "A": "1.0 \u00d7 10\u207b\u2076 s",
-            "B": "2.0 \u00d7 10\u207b\u2076 s",
-            "C": "1.0 \u00d7 10\u207b\u00b3 s",
-            "D": "2.0 \u00d7 10\u207b\u00b3 s"
+            "A": "1.0 x 10^-6 s",
+            "B": "2.0 x 10^-6 s",
+            "C": "1.0 x 10^-3 s",
+            "D": "2.0 x 10^-3 s"
         },
         "image": null,
         "answer": "C",
@@ -453,10 +453,10 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q31",
         "Question": "A positively charged plastic rod is held near but not touching an insulated and previously uncharged metal ball. No charge leaves the rod.\nWhat are possible charges on the left-hand side and right-hand side of the ball?",
         "Options": {
-            "A": "charge on left-hand side of ball \u20132.0 \u00d7 10\u207b\u2079 A, charge on right-hand side of ball \u20131.0 \u00d7 10\u207b\u2079 A",
-            "B": "charge on left-hand side of ball \u20132.0 \u00d7 10\u207b\u2079 A, charge on right-hand side of ball +2.0 \u00d7 10\u207b\u2079 A",
-            "C": "charge on left-hand side of ball \u20132.0 \u00d7 10\u207b\u2079 C, charge on right-hand side of ball +2.0 \u00d7 10\u207b\u2079 C",
-            "D": "charge on left-hand side of ball +2.0 \u00d7 10\u207b\u2079 C, charge on right-hand side of ball \u20132.0 \u00d7 10\u207b\u2079 C"
+            "A": "charge on left-hand side of ball -2.0 x 10\u207b\u2079 A, charge on right-hand side of ball -1.0 x 10\u207b\u2079 A",
+            "B": "charge on left-hand side of ball -2.0 x 10\u207b\u2079 A, charge on right-hand side of ball +2.0 x 10\u207b\u2079 A",
+            "C": "charge on left-hand side of ball -2.0 x 10\u207b\u2079 C, charge on right-hand side of ball +2.0 x 10\u207b\u2079 C",
+            "D": "charge on left-hand side of ball +2.0 x 10\u207b\u2079 C, charge on right-hand side of ball -2.0 x 10\u207b\u2079 C"
         },
         "image": null,
         "answer": "C",
@@ -496,7 +496,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q34",
-        "Question": "A transformer with an efficiency of 100% has a primary voltage input of 600 V and a secondary voltage output of 240 V. The secondary coil is attached to a resistor of resistance 120 \u03a9.\nWhat is the power dissipated in the resistor and what is the current in the primary coil?",
+        "Question": "A transformer with an efficiency of 100% has a primary voltage input of 600 V and a secondary voltage output of 240 V. The secondary coil is attached to a resistor of resistance 120 Ω    9.\nWhat is the power dissipated in the resistor and what is the current in the primary coil?",
         "Options": {
             "A": "120 W, 0.20 A",
             "B": "120 W, 5.0 A",

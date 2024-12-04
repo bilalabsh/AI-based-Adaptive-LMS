@@ -26,8 +26,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Scalars & Vectors"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q3",
@@ -41,12 +41,12 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Stopping Distances"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q4",
-        "Question": "Which part of the distance\u2013time graph shows the fastest constant speed?",
+        "Question": "Which part of the distance-time graph shows the fastest constant speed?",
         "Options": {
             "A": "A",
             "B": "B",
@@ -57,11 +57,11 @@
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Sub_topic": "Distance-Time Graphs"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q5",
-        "Question": "An object is accelerating along a straight, horizontal track. The acceleration is uniform.\nWhich speed\u2013time graph represents the motion of the object?",
+        "Question": "An object is accelerating along a straight, horizontal track. The acceleration is uniform.\nWhich speed-time graph represents the motion of the object?",
         "Options": {
             "A": "A",
             "B": "B",
@@ -72,181 +72,76 @@
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
-    },
-    {
-        "QuestionNumber": "Oct-Nov/11/2022/Q5",
-        "Question": "An object is accelerating along a straight, horizontal track. The acceleration is uniform.\nWhich speed\u2013time graph represents the motion of the object?",
-        "Options": {
-            "A": "A",
-            "B": "B",
-            "C": "C",
-            "D": "D"
-        },
-        "image": null,
-        "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Sub_topic": "Speed-Time Graphs"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q6",
-        "Question": "The velocity of an object is given by the gradient of the distance\u2013time graph.\nWhich statement about the velocity is correct?",
+        "Question": "What causes the frictional effects experienced by a cyclist to increase?",
         "Options": {
-            "A": "The velocity is zero when the graph is horizontal.",
-            "B": "The velocity is constant when the graph is a straight line.",
-            "C": "The velocity is increasing when the graph is a straight line.",
-            "D": "The velocity is decreasing when the graph is horizontal."
+            "A": "using a lighter bicycle",
+            "B": "travelling at greater speed",
+            "C": "a smoother tyre surface",
+            "D": "a road surface covered in oil"
         },
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Friction"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q7",
-        "Question": "An object of mass 2 kg is moving with a speed of 3 m/s. A force of 4 N acts on the object in the direction of motion for 5 seconds.\nWhat is the final speed of the object?",
+        "Question": "The diagram shows a car at the moment the driver sees a hazard ahead.\nWhich expression is equal to the stopping distance?",
         "Options": {
-            "A": "4 m/s",
-            "B": "6 m/s",
-            "C": "8 m/s",
-            "D": "10 m/s"
+            "A": "braking distance + thinking distance",
+            "B": "braking distance - thinking distance",
+            "C": "braking distance x thinking distance",
+            "D": "braking distance ÷ thinking distance"
         },
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Stopping Distances"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q8",
-        "Question": "Which object has the largest momentum?",
+        "Question": "A planet orbits the Sun. The planet moves in a circular path at constant speed, but is accelerating because it is changing direction.\nIn which direction does the resultant force act to cause this acceleration?",
         "Options": {
-            "A": "A car of mass 1000 kg moving at 10 m / s",
-            "B": "A motorcycle of mass 200 kg moving at 30 m / s",
-            "C": "A bullet of mass 0.02 kg moving at 500 m / s",
-            "D": "A truck of mass 5000 kg moving at 2 m / s"
-        },
-        "image": null,
-        "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.6 Momentum",
-        "Sub_topic": "Momentum & Impulse"
-    },
-    {
-        "QuestionNumber": "Oct-Nov/11/2022/Q9",
-        "Question": "A ball of mass 0.5 kg is moving with a velocity of 2 m / s. It collides head-on with a wall and rebounds with the same speed. The collision lasts for 0.01 seconds.\nWhat is the average force exerted on the ball by the wall?",
-        "Options": {
-            "A": "100 N",
-            "B": "200 N",
-            "C": "300 N",
-            "D": "400 N"
-        },
-        "image": null,
-        "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
-    },
-    {
-        "QuestionNumber": "Oct-Nov/11/2022/Q10",
-        "Question": "A man uses a rope to pull a crate up a ramp that is inclined at 30\u00b0 to the horizontal.\nWhich of the following combinations of forces has a zero resultant force?",
-        "Options": {
-            "A": "The pulling force, the friction force, and the component of the weight down the slope",
-            "B": "The pulling force, the friction force, and the component of the weight perpendicular to the slope",
-            "C": "The pulling force, the friction force, and the weight of the crate",
-            "D": "The pulling force, the friction force, and the normal contact force"
+            "A": "towards the Sun",
+            "B": "away from the Sun",
+            "C": "in the direction of the planet's motion",
+            "D": "opposite to the direction of the planet's motion"
         },
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.5 Forces",
-        "Sub_topic": "Resultant Forces"
+        "Sub_topic": "Circular Motion"
     },
     {
-        "QuestionNumber": "Oct-Nov/11/2022/Q11",
-        "Question": "A person is standing in an elevator that is accelerating downwards. The person is of mass 70 kg and the acceleration due to gravity is 10 m / s\u00b2.\nWhat is the reading on the weighing machine that the person is standing on?",
+        "QuestionNumber": "Oct-Nov/11/2022/Q9",
+        "Question": "X is the result of Y divided by Z.\nWhat are X, Y and Z?",
         "Options": {
-            "A": "700 N",
-            "B": "More than 700 N",
-            "C": "Less than 700 N",
-            "D": "Zero"
-        },
-        "image": null,
-        "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Acceleration"
-    },
-    {
-        "QuestionNumber": "Oct-Nov/11/2022/Q12",
-        "Question": "A car is travelling along a straight horizontal road. It decelerates uniformly and comes to rest after travelling 60 m.\nThe initial speed of the car was 20 m / s.\nWhat is the deceleration of the car?",
-        "Options": {
-            "A": "1.0 m / s\u00b2",
-            "B": "2.0 m / s\u00b2",
-            "C": "3.3 m / s\u00b2",
-            "D": "4.0 m / s\u00b2"
-        },
-        "image": null,
-        "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
-    },
-    {
-        "QuestionNumber": "Oct-Nov/11/2022/Q13",
-        "Question": "A cyclist and his bicycle have a total mass of 80 kg. He cycles at a speed of 8 m / s on level ground.\nThe cyclist applies the brakes to stop the bicycle. The bicycle comes to rest in 4 seconds.\nWhat is the magnitude of the average braking force?",
-        "Options": {
-            "A": "160 N",
-            "B": "320 N",
-            "C": "480 N",
-            "D": "640 N"
-        },
-        "image": null,
-        "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
-    },
-    {
-        "QuestionNumber": "Oct-Nov/11/2022/Q14",
-        "Question": "A car is moving at constant speed on a horizontal road. The car\u2019s engine produces 4000 W of power and the car moves with a constant speed of 20 m / s.\nWhat is the total resistive force acting on the car?",
-        "Options": {
-            "A": "100 N",
-            "B": "200 N",
-            "C": "300 N",
-            "D": "400 N"
+            "A": "mass, weight, gravitational field strength",
+            "B": "weight, mass, gravitational field strength",
+            "C": "mass, gravitational field strength, weight",
+            "D": "weight, gravitational field strength, mass"
         },
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Topic": "1.3 Mass & weight",
+        "Sub_topic": "Mass & Weight"
     },
     {
-        "QuestionNumber": "Oct-Nov/11/2022/Q15",
-        "Question": "A rocket is fired vertically upwards. The upward thrust on the rocket is 1000 N and the weight of the rocket is 200 N.\nWhat is the acceleration of the rocket?",
+        "QuestionNumber": "Oct-Nov/11/2022/Q10",
+        "Question": "The graph shows how the extension of a spring changes with the masses suspended from it when the spring is on planet X and when the spring is on planet Y.\nWhich conclusion can be drawn from these graphs?",
         "Options": {
-            "A": "4 m / s\u00b2",
-            "B": "5 m / s\u00b2",
-            "C": "8 m / s\u00b2",
-            "D": "10 m / s\u00b2"
-        },
-        "image": null,
-        "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Acceleration"
-    },
-    {
-        "QuestionNumber": "Oct-Nov/11/2022/Q16",
-        "Question": "The diagram shows a uniform metre rule of weight 2 N. It is pivoted at the 40 cm mark and a weight of 5 N is hung at the 10 cm mark.\nWhat is the force needed at the 90 cm mark to balance the metre rule?",
-        "Options": {
-            "A": "2.5 N",
-            "B": "3.5 N",
-            "C": "4.5 N",
-            "D": "5.5 N"
+            "A": "It is not possible to compare the gravitational field strengths on planets X and Y.",
+            "B": "The gravitational field strength on planet X is equal to the gravitational field strength on planet Y.",
+            "C": "The gravitational field strength on planet X is one third of the gravitational field strength on planet Y.",
+            "D": "The gravitational field strength on planet X is three times the gravitational field strength on planet Y."
         },
         "image": null,
         "answer": "D",
@@ -255,64 +150,154 @@
         "Sub_topic": "Mass & Weight"
     },
     {
-        "QuestionNumber": "Oct-Nov/11/2022/Q17",
-        "Question": "Two blocks are connected by a light inextensible string that passes over a smooth pulley. The block on the left is 2 kg and the block on the right is 3 kg. The pulley is frictionless.\nWhat is the acceleration of the blocks?",
+        "QuestionNumber": "Oct-Nov/11/2022/Q11",
+        "Question": "A uniform beam is pivoted at its centre. Two weights are placed on the beam in the positions shown and the beam is balanced by an upward force F.\nWhat is the size of F?",
         "Options": {
-            "A": "1 m / s\u00b2",
-            "B": "2 m / s\u00b2",
-            "C": "3 m / s\u00b2",
-            "D": "4 m / s\u00b2"
+            "A": "6.0 N",
+            "B": "12 N",
+            "C": "30 N",
+            "D": "60 N"
         },
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Acceleration"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Equilibrium"
     },
     {
-        "QuestionNumber": "Oct-Nov/11/2022/Q18",
-        "Question": "A 4.0 kg mass is attached to the end of a string. The mass is whirled around in a horizontal circle at constant speed.\nWhich quantity is not changing?",
+        "QuestionNumber": "Oct-Nov/11/2022/Q12",
+        "Question": "Four objects of equal mass rest on a table. The centre of mass of each object is labelled G.\nWhich object is the least stable?",
         "Options": {
-            "A": "The kinetic energy of the mass",
-            "B": "The momentum of the mass",
-            "C": "The speed of the mass",
-            "D": "The velocity of the mass"
+            "A": "Object A",
+            "B": "Object B",
+            "C": "Object C",
+            "D": "Object D"
         },
         "image": null,
-        "answer": "D",
+        "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Oct-Nov/11/2022/Q19",
-        "Question": "The diagrams show two forces acting on an object. The object is in equilibrium.\nWhich force is required to keep the object in equilibrium?",
+        "QuestionNumber": "Oct-Nov/11/2022/Q13",
+        "Question": "Each tyre of a car has an area of 100 cm² in contact with the ground.\nThe car has a mass of 1600 kg. The weight of the car is equally distributed amongst the four tyres.\nThe gravitational field strength g is 10 N/kg.\nWhat is the pressure exerted on the ground?",
         "Options": {
-            "A": "Force A",
-            "B": "Force B",
-            "C": "Force C",
-            "D": "Force D"
+            "A": "4.0 N/cm²",
+            "B": "16 N/cm²",
+            "C": "40 N/cm²",
+            "D": "160 N/cm²"
         },
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Resultant Forces"
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
     },
     {
-        "QuestionNumber": "Oct-Nov/11/2022/Q20",
-        "Question": "Which diagram shows the forces acting on a stationary object resting on a horizontal surface?",
+        "QuestionNumber": "Oct-Nov/11/2022/Q14",
+        "Question": "The pressure P of some trapped air is varied. The mass and the temperature of the trapped air remain constant.\nWhich graph shows how the volume V of the air varies with the pressure P?",
         "Options": {
-            "A": "Diagram A",
-            "B": "Diagram B",
-            "C": "Diagram C",
-            "D": "Diagram D"
+            "A": "P inversely proportional to V",
+            "B": "P directly proportional to V",
+            "C": "P inversely proportional to V²",
+            "D": "P directly proportional to V²"
         },
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Resultant Forces"
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q15",
+        "Question": "A constant force F pulls a block of weight W up the slope shown.\nHow much work is done by F in pulling the block up the slope?",
+        "Options": {
+            "A": "F x h",
+            "B": "F x l",
+            "C": "W x d",
+            "D": "W x l"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Work"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q16",
+        "Question": "X and Y are both 40 W, 240 V lamps. Lamp X is more efficient than lamp Y.\nWhich statement correctly compares X with Y?",
+        "Options": {
+            "A": "X is more expensive to run.",
+            "B": "X has a lower electrical resistance.",
+            "C": "X produces less light energy.",
+            "D": "X produces less thermal energy."
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Power"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q17",
+        "Question": "The diagram shows a radiator heating the air in a room.\nWhat is the name of this process?",
+        "Options": {
+            "A": "conduction",
+            "B": "convection",
+            "C": "evaporation",
+            "D": "expansion"
+        },
+        "image": null,
+        "answer": "B",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Convection"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q18",
+        "Question": "What is a process of heat transfer that can take place in a vacuum?",
+        "Options": {
+            "A": "conduction",
+            "B": "convection",
+            "C": "evaporation",
+            "D": "radiation"
+        },
+        "image": null,
+        "answer": "D",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Radiation"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q19",
+        "Question": "The diagrams represent four thermometers.\nWhich thermometer has the greatest sensitivity and which thermometer has the greatest range?",
+        "Options": {
+            "A": "P, R",
+            "B": "P, S",
+            "C": "Q, R",
+            "D": "Q, S"
+        },
+        "image": null,
+        "answer": "C",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "Temperature & Pressure"
+    },
+    {
+        "QuestionNumber": "Oct-Nov/11/2022/Q20",
+        "Question": "A piece of iron of mass m is placed in a mixture of ice and water.\nIts temperature decreases from θ1 to θ2.\nHow much thermal energy is lost by the piece of iron?",
+        "Options": {
+            "A": "m x specific heat capacity of iron x (θ1 - θ2)",
+            "B": "m x specific heat capacity of iron x θ2",
+            "C": "m x heat capacity of piece of iron x (θ1 - θ2)",
+            "D": "m x heat capacity of piece of iron x θ2"
+        },
+        "image": null,
+        "answer": "A",
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Specific Heat Capacity"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q21",
@@ -325,9 +310,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Resultant Forces"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "States of Matter"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q22",
@@ -340,9 +325,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Melting, Boiling & Evaporation"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q23",
@@ -355,24 +340,24 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "",
-        "Topic": "",
-        "Sub_topic": ""
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.1 General Properties of Waves",
+        "Sub_topic": "Transverse & Longitudinal Waves"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q24",
         "Question": "A mirror is placed in the path of a ray of light. Through which angle does the direction of the ray of light change?",
         "Options": {
-            "A": "40\u00b0",
-            "B": "90\u00b0",
-            "C": "100\u00b0",
-            "D": "140\u00b0"
+            "A": "40°",
+            "B": "90°",
+            "C": "100°",
+            "D": "140°"
         },
-        "image": "5054_q24_image.png",
+        "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Reflection of Light"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q25",
@@ -385,9 +370,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.6 Uses of Oscilloscope",
+        "Sub_topic": "Uses of an Oscilloscope"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q26",
@@ -398,11 +383,11 @@
             "C": "position C",
             "D": "position D"
         },
-        "image": "5054_q26_image.png",
+        "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+        "Sub_topic": "Plotting Magnetic Fields"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q27",
@@ -415,24 +400,24 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electrical Charge"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q28",
         "Question": "Which expression gives the electromotive force (e.m.f.) of a battery?",
         "Options": {
-            "A": "work done \u00d7 time",
-            "B": "work done \u00d7 charge",
+            "A": "work done x time",
+            "B": "work done x charge",
             "C": "work done / time",
             "D": "work done / charge"
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Investigating Force & Extension"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electromotive Force & Potential Difference"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q29",
@@ -443,11 +428,11 @@
             "C": "arrangement C",
             "D": "arrangement D"
         },
-        "image": "5054_q29_image.png",
+        "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q30",
@@ -460,9 +445,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Current in Circuits"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q31",
@@ -473,11 +458,11 @@
             "C": "circuit C",
             "D": "circuit D"
         },
-        "image": "5054_q31_image.png",
+        "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q32",
@@ -490,9 +475,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.8 Pressure",
-        "Sub_topic": "Pressure in a Liquid"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q33",
@@ -505,9 +490,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.8 Pressure",
-        "Sub_topic": "Pressure in a Liquid"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Transformers"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q34",
@@ -518,11 +503,11 @@
             "C": "diagram C",
             "D": "diagram D"
         },
-        "image": "5054_q34_image.png",
+        "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.6 Uses of Oscilloscope",
+        "Sub_topic": "Uses of an Oscilloscope"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q35",
@@ -535,9 +520,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.6 Uses of Oscilloscope",
+        "Sub_topic": "Uses of an Oscilloscope"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q36",
@@ -550,9 +535,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "The Three Types of Emission"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q37",
@@ -563,11 +548,11 @@
             "C": "path C",
             "D": "path D"
         },
-        "image": "5054_q37_image.png",
+        "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects",
+        "Sub_topic": "Magnetic Effect of a Current"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q38",
@@ -580,9 +565,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "The Three Types of Emission"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q39",
@@ -595,23 +580,23 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "Half-Life"
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q40",
-        "Question": "Radioactive isotopes that emit alpha-particles, beta-particles and gamma rays are stored in wooden boxes that are lined with a material that prevents most radiation escaping from the box. ",
+        "Question": "Radioactive isotopes that emit alpha-particles, beta-particles and gamma rays are stored in wooden boxes that are lined with a material that prevents most radiation escaping from the box.\nWhich material is used for the lining? ",
         "Options": {
-            "A": "Half the time for all the unstable nuclei to decay ",
-            "B": "Half the time it takes an unstable nucleus to emit radiation",
-            "C": "The time taken for half the unstable nuclei to decay",
-            "D": "The time for the nucleon number to halve"
+            "A": "copper ",
+            "B": "glass  ",
+            "C": "lead ",
+            "D": "plastic "
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "Radioactive Decay"
     }
 ]

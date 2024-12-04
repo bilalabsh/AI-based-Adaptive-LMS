@@ -26,12 +26,12 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Measurement"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q3",
-        "Question": "The graph shows the speed\u2013time graph for a parachutist who jumps from a plane but does not open his parachute immediately.\nAt which point does he open his parachute?",
+        "Question": "The graph shows the speed-time graph for a parachutist who jumps from a plane but does not open his parachute immediately.\nAt which point does he open his parachute?",
         "Options": {
             "A": "",
             "B": "",
@@ -42,7 +42,7 @@
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Sub_topic": "terminal velocity"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q4",
@@ -56,8 +56,8 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Investigating Force & Extension"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Work"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q5",
@@ -72,22 +72,22 @@
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.5 Forces",
-        "Sub_topic": "Resultant Forces"
+        "Sub_topic": "Circular Motion"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q6",
         "Question": "A measuring cylinder containing water is placed on a balance.\nA stone is placed into the water.\nThe diagram shows the readings on the balance and on the measuring cylinder.\nWhat is the density of the stone?",
         "Options": {
-            "A": "1.1 g / cm\u00b3",
-            "B": "1.5 g / cm\u00b3",
-            "C": "2.5 g / cm\u00b3",
-            "D": "2.6 g / cm\u00b3"
+            "A": "1.1 g / cm^3",
+            "B": "1.5 g / cm^3",
+            "C": "2.5 g / cm^3",
+            "D": "2.6 g / cm^3"
         },
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.3 Mass & weight",
-        "Sub_topic": "Measuring Mass & Weight"
+        "Topic": "1.4 Density ",
+        "Sub_topic": "Measuring Density"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q7",
@@ -101,8 +101,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.3 Mass & weight",
-        "Sub_topic": "Mass & Weight"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Moments"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q8",
@@ -132,7 +132,7 @@
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.5 Forces",
-        "Sub_topic": "Investigating Force & Extension"
+        "Sub_topic": "Hooke's Law"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q10",
@@ -146,8 +146,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q11",
@@ -161,12 +161,12 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Atmospheric pressure"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q12",
-        "Question": "A manometer contains mercury of density 14 000 kg / m\u00b3. The manometer is connected to a gas supply and the difference in the height of the mercury levels is 72 mm. The atmospheric pressure is 100 kPa.\nThe gravitational field strength g is 10 N / kg.\nWhat is the pressure of the gas supply?",
+        "Question": "A manometer contains mercury of density 14 000 kg / m^3. The manometer is connected to a gas supply and the difference in the height of the mercury levels is 72 mm. The atmospheric pressure is 100 kPa.\nThe gravitational field strength g is 10 N / kg.\nWhat is the pressure of the gas supply?",
         "Options": {
             "A": "90 kPa",
             "B": "99 kPa",
@@ -176,8 +176,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.4 Density ",
-        "Sub_topic": "Density"
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Atmospheric pressure"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q13",
@@ -191,8 +191,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy Resources"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q14",
@@ -206,8 +206,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Work"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q15",
@@ -221,8 +221,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Efficiency"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q16",
@@ -235,9 +235,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Radiation"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q17",
@@ -250,13 +250,13 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Investigating Radiation"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q18",
-        "Question": "A liquid column in a liquid-in-glass thermometer is 2.0 cm long at 0 \u00b0C.\nThe column expands by 10.0 cm when heated to 100 \u00b0C.\nMeasuring from P, how long is the liquid column at 30 \u00b0C?",
+        "Question": "A liquid column in a liquid-in-glass thermometer is 2.0 cm long at 0 °C.\nThe column expands by 10.0 cm when heated to 100 °C.\nMeasuring from P, how long is the liquid column at 30 °C?",
         "Options": {
             "A": "2.3 cm",
             "B": "3.0 cm",
@@ -265,9 +265,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Thermal Expansion"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q19",
@@ -280,13 +280,13 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Thermal Expansion"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q20",
-        "Question": "Steam at 110 \u00b0C condenses on a surface to form water droplets at 100 \u00b0C.\nWhat happens after the steam comes into contact with the surface?",
+        "Question": "Steam at 110 °C condenses on a surface to form water droplets at 100 °C.\nWhat happens after the steam comes into contact with the surface?",
         "Options": {
             "A": "The molecules slow down and absorb energy from the surroundings.",
             "B": "The molecules slow down and emit energy to the surroundings.",
@@ -295,24 +295,24 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Melting, Boiling & Evaporation"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q21",
         "Question": "Which list shows the states of matter in order of expansion from smallest to greatest for the same temperature rise?",
         "Options": {
-            "A": "gas \u2192 liquid \u2192 solid",
-            "B": "liquid \u2192 solid \u2192 gas",
-            "C": "solid \u2192 gas \u2192 liquid",
-            "D": "solid \u2192 liquid \u2192 gas"
+            "A": "gas → liquid → solid",
+            "B": "liquid → solid → gas",
+            "C": "solid → gas → liquid",
+            "D": "solid → liquid → gas"
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "States of Matter"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q22",
@@ -325,9 +325,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Melting, Boiling & Evaporation"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q23",
@@ -340,24 +340,24 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Evaporation"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q24",
         "Question": "The diagram shows a ray PQ reflected by mirror X to a parallel mirror Y. The reflected ray along RS is parallel to PQ.\nWhich statement is correct?",
         "Options": {
-            "A": "The angle between PQ and QR is 45\u00b0.",
-            "B": "The angle between QR and RS is 180\u00b0.",
-            "C": "The angle of incidence of PQ on mirror X is 60\u00b0.",
-            "D": "The angle of incidence of QR on mirror Y is 45\u00b0."
+            "A": "The angle between PQ and QR is 45°.",
+            "B": "The angle between QR and RS is 180°.",
+            "C": "The angle of incidence of PQ on mirror X is 60°.",
+            "D": "The angle of incidence of QR on mirror Y is 45°."
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Reflection of Light"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q25",
@@ -370,24 +370,24 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Thin Lenses"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q26",
         "Question": "Violet and indigo light have the shortest wavelengths in the spectrum of visible light.\nWhich three colours, in order of increasing wavelength, immediately follow indigo?",
         "Options": {
-            "A": "blue \u2192 green \u2192 orange",
-            "B": "blue \u2192 green \u2192 yellow",
-            "C": "green \u2192 blue \u2192 yellow",
-            "D": "yellow \u2192 green \u2192 orange"
+            "A": "blue → green → orange",
+            "B": "blue → green → yellow",
+            "C": "green → blue → yellow",
+            "D": "yellow → green → orange"
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Dispersion of Light"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q27",
@@ -400,9 +400,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Sound",
+        "Sub_topic": "Sound Waves"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q28",
@@ -415,9 +415,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Sound",
+        "Sub_topic": "Reflection of Sound Waves"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q29",
@@ -430,9 +430,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Sound",
+        "Sub_topic": "Ultrasound"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q30",
@@ -445,9 +445,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electrical Charge"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q31",
@@ -460,9 +460,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Demonstrating Electric Charges"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q32",
@@ -475,9 +475,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q33",
@@ -490,9 +490,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Potential Difference in Circuits"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q34",
@@ -505,9 +505,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q35",
@@ -516,13 +516,13 @@
             "A": "energy / J 2400, power / W 7.2",
             "B": "energy / J 2400, power / W 800 000",
             "C": "energy / J 5400, power / W 16.2",
-            "D": "energy / J 5400, power / W 1.8 \u00d7 10^6"
+            "D": "energy / J 5400, power / W 1.8 x 10^6"
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.4 Practical Electricity",
+        "Sub_topic": "Electrical Energy"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q36",
@@ -535,9 +535,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q37",
@@ -550,9 +550,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.4 Practical Electricity",
+        "Sub_topic": "Electrical Safety"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q38",
@@ -565,9 +565,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Investigating Force & Extension"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Force on a Current-Carrying Conductor"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q39",
@@ -580,9 +580,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Force on a Current-Carrying Conductor"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q40",
@@ -595,8 +595,8 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Stopping Distances"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Transformers"
     }
 ]

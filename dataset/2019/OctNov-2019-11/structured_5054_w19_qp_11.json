@@ -16,7 +16,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q2",
-        "Question": "What is the size of the resultant of the two forces shown in the diagram?\n3.0 N\n4.0 N",
+        "Question": "What is the size of the resultant of the two forces shown in the diagram?",
         "Options": {
             "A": "1.0 N",
             "B": "3.5 N",
@@ -76,7 +76,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q6",
-        "Question": "A car is accelerating along a straight, horizontal road.\nWhich forces are balanced?",
+        "Question": "A car is accelerating along a straight, horizontal road.\nThe diagram shows forces acting on the car.\nWhich forces are balanced?",
         "Options": {
             "A": "contact forces and air resistance",
             "B": "contact forces and weight",
@@ -121,7 +121,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q9",
-        "Question": "A body slides down a frictionless slope, as shown.\nIn which direction does the surface push back on the body?",
+        "Question": "A body slides down a frictionless slope, as shown.\nAs the body presses on the surface, the surface pushes back on the body.\nIn which direction does the surface push back on the body?",
         "Options": {
             "A": "direction of motion",
             "B": "up the slope",
@@ -153,10 +153,10 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q11",
         "Question": "What is an expression for the moment of a force about a pivot?",
         "Options": {
-            "A": "distance the force moves from the pivot \u00f7 force",
-            "B": "force \u00d7 distance the force moves from the pivot",
-            "C": "force \u00d7 perpendicular distance of the force from the pivot",
-            "D": "force \u00f7 perpendicular distance of the force from the pivot"
+            "A": "distance the force moves from the pivot ÷ force",
+            "B": "force x distance the force moves from the pivot",
+            "C": "force x perpendicular distance of the force from the pivot",
+            "D": "force ÷ perpendicular distance of the force from the pivot"
         },
         "image": null,
         "answer": "C",
@@ -169,9 +169,9 @@
         "Question": "A student balances a non-uniform object on a pivot.\nTo do this, a weight is suspended near the left-hand end of the object, as shown.\nWhere is the centre of mass of the object?",
         "Options": {
             "A": "near the weight",
-            "B": "at the pivot",
-            "C": "at the right-hand end",
-            "D": "at the left-hand end"
+            "B": "at the left-hand end",
+            "C": "at the pivot",
+            "D": "at the right-hand end"
         },
         "image": null,
         "answer": "D",
@@ -181,9 +181,9 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q13",
-        "Question": "A load L is suspended from two springs that are in parallel.\nThe extension of each spring is x.\nIn this new arrangement, what is the total extension of the two springs?",
+        "Question": "A load L is suspended from two springs that are in parallel.\nThe extension of each spring is x.\nThe springs are then arranged to hang vertically, one below the other.\nIn this new arrangement, what is the total extension of the two springs?",
         "Options": {
-            "A": "2 1 x",
+            "A": "1/2 x",
             "B": "x",
             "C": "2x",
             "D": "4x"
@@ -213,10 +213,10 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q15",
         "Question": "Which quantities from the list are used to calculate the total pressure at the bottom of a lake?",
         "Options": {
-            "A": "g, h, P and \u03c1",
+            "A": "g, h, P and ρ",
             "B": "g, h and P only",
-            "C": "h, P and \u03c1 only",
-            "D": "g, h and \u03c1 only"
+            "C": "h, P and ρ only",
+            "D": "g, h and ρ only"
         },
         "image": null,
         "answer": "A",
@@ -245,7 +245,7 @@
         "Options": {
             "A": "Wx",
             "B": "Wy",
-            "C": "W (y \u2013 z)",
+            "C": "W (y - z)",
             "D": "W (x + z)"
         },
         "image": null,
@@ -286,12 +286,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q20",
-        "Question": "A student is given a thermometer that reads 1 \u00b0C in pure melting ice and 101 \u00b0C in pure boiling water.\nHow does the rise in temperature of the water calculated from her results compare with the correct value?",
+        "Question": "A student is given a thermometer that reads 1 °C in pure melting ice and 101 °C in pure boiling water.\nHow does the rise in temperature of the water calculated from her results compare with the correct value?",
         "Options": {
-            "A": "It is 1 \u00b0C lower.",
+            "A": "It is 1 °C lower.",
             "B": "It is the same.",
-            "C": "It is 1 \u00b0C higher.",
-            "D": "It is 2 \u00b0C higher."
+            "C": "It is 1 °C higher.",
+            "D": "It is 2 °C higher."
         },
         "image": null,
         "answer": "B",
@@ -331,7 +331,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q23",
-        "Question": "The diagram shows a glass flask full of water at 10 \u00b0C.\nThe water level in the tube eventually rises to Y.\nWhy does the water level rise?",
+        "Question": "The diagram shows a glass flask full of water at 10 °C.\nA long glass tube passes through the bung into the water.\nThe water level in the tube is at X.\nThe flask is placed in hot water and the water level in the tube eventually rises to Y.\nWhy does the water level rise?",
         "Options": {
             "A": "The flask contracts and the water expands.",
             "B": "The flask contracts more than the water contracts.",
@@ -346,7 +346,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q24",
-        "Question": "A glass beaker contains water in a warm room.\nWhich change does not affect the initial rate of evaporation of the water?",
+        "Question": "A glass beaker contains water in a warm room.\nThe water is initially at the same temperature as the room.\nWhich change does not affect the initial rate of evaporation of the water?",
         "Options": {
             "A": "changing the temperature of the water",
             "B": "using a beaker made of thicker glass",
@@ -361,12 +361,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q25",
-        "Question": "The frequency of microwaves used in an experiment is 3.0 \u00d7 10^9 Hz.\nWhat is a possible frequency and a possible speed in air of a radio wave?",
+        "Question": "The frequency of microwaves used in an experiment is 3.0 x 10^9 Hz^9 speed in air is 3.0 x 10^8 m / s.\nWhat is a possible frequency and a possible speed in air of a radio wave?",
         "Options": {
-            "A": "3.0 \u00d7 10^5 Hz, 1500 m / s",
-            "B": "3.0 \u00d7 10^5 Hz, 3.0 \u00d7 10^8 m / s",
-            "C": "3.0 \u00d7 10^14 Hz, 1500 m / s",
-            "D": "3.0 \u00d7 10^14 Hz, 3.0 \u00d7 10^8 m / s"
+            "A": "3.0 x 10^5 Hz, 1500 m / s",
+            "B": "3.0 x 10^5 Hz, 3.0 x 10^8 m / s",
+            "C": "3.0 x 10^14 Hz, 1500 m / s",
+            "D": "3.0 x 10^14 Hz, 3.0 x 10^8 m / s"
         },
         "image": null,
         "answer": "B",
@@ -376,12 +376,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q26",
-        "Question": "The diagram shows a ray of light in liquid incident on the boundary with air.\nWhat is the angle of refraction?",
+        "Question": "The diagram shows a ray of light in liquid incident on the boundary with air.\nTwo other rays are observed. One is in the liquid and the other is in the air on the boundary.\nWhat is the angle of refraction?",
         "Options": {
-            "A": "0\u00b0",
-            "B": "40\u00b0",
-            "C": "50\u00b0",
-            "D": "90\u00b0"
+            "A": "0°",
+            "B": "40°",
+            "C": "50°",
+            "D": "90°"
         },
         "image": null,
         "answer": "D",
@@ -391,7 +391,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q27",
-        "Question": "Light is incident at 90\u00b0 on the surfaces of two glass prisms P and Q.\nWhere does total internal reflection occur?",
+        "Question": "Light is incident at 90° on the surfaces of two glass prisms P and Q.\nThe critical angle for light travelling from glass into air is 42°.\nWhere does total internal reflection occur?",
         "Options": {
             "A": "in P and in Q",
             "B": "in P only",
@@ -423,10 +423,10 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q29",
         "Question": "What is a typical value for the speed of sound in air?",
         "Options": {
-            "A": "3.3 \u00d7 10^4 cm / s",
-            "B": "3.3 \u00d7 10^4 m / s",
-            "C": "3.3 \u00d7 10^2 km / s",
-            "D": "3.3 \u00d7 10^8 m / s"
+            "A": "3.3 x 10^4 cm / s",
+            "B": "3.3 x 10^4 m / s",
+            "C": "3.3 x 10^2 km / s",
+            "D": "3.3 x 10^8 m / s"
         },
         "image": null,
         "answer": "A",
@@ -436,7 +436,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q30",
-        "Question": "Magnets M1, M2 and M3 are joined by iron balls W, X and Y as shown.\nWhich diagram shows the poles induced in ball Y?",
+        "Question": "Magnets M1, M2 and M3 are joined by iron balls W, X and Y as shown.\nMagnetic poles are induced in the iron balls W and X as shown.\nWhich diagram shows the poles induced in ball Y?",
         "Options": {
             "A": "S N",
             "B": "N N",
@@ -451,7 +451,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q31",
-        "Question": "The base of a cloud is negatively charged.\nWhich row describes the charge induced at the top of the mast and how it is produced?",
+        "Question": "The base of a cloud is negatively charged.\nThe cloud is over a metal mast as shown.\nWhich row describes the charge induced at the top of the mast and how it is produced?",
         "Options": {
             "A": "negative, electrons moving to the top of the mast",
             "B": "negative, protons moving to the bottom of the mast",
@@ -481,7 +481,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q33",
-        "Question": "An a.c. supply connected to an oscilloscope produces the trace shown.\nWhat is the new trace on the screen?",
+        "Question": "An a.c. supply connected to an oscilloscope produces the trace shown.\nA diode is now connected in series to the circuit as shown.\nWhat is the new trace on the screen?",
         "Options": {
             "A": "A",
             "B": "B",
@@ -541,7 +541,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q37",
-        "Question": "The input voltage to a transformer is 24 V a.c.\nand the output voltage is 6.0 V.\nThe input coil has 720 turns.\nHow many turns are on the output coil?",
+        "Question": "The input voltage to a transformer is 24 V a.c. and the output voltage is 6.0 V.\nThe input coil has 720 turns.\nHow many turns are on the output coil?",
         "Options": {
             "A": "5",
             "B": "180",
@@ -571,7 +571,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q39",
-        "Question": "The diagram shows the trace on an oscilloscope screen when connected to a d.c. supply which is being switched on and off.\nThe voltage of the supply is v.\nThe supply is switched on f times per second.\nWhat are the values of v and of f?",
+        "Question": "The diagram shows the trace on an oscilloscope screen when connected to a d.c. supply which is being switched on and off.\nThe settings of the Y-gain control and the time base control are shown.\nThe voltage of the supply is v.\nThe supply is switched on f times per second.\nWhat are the values of v and of f?",
         "Options": {
             "A": "2 V, 50",
             "B": "2 V, 100",
@@ -586,7 +586,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q40",
-        "Question": "A narrow beam of radiation from a radioactive source travels out of the page through the point X.\nThe poles of a magnet are placed on either side of the beam.\nRadiation is now detected both at X and at Z.\nWhich types of radiation are present in the beam?",
+        "Question": "A narrow beam of radiation from a radioactive source travels out of the page through the point X.\nThe poles of a magnet are placed on either side of the beam.Radiation is now detected both at X and at Z.\nWhich types of radiation are present in the beam?",
         "Options": {
             "A": "alpha and beta radiation",
             "B": "alpha and gamma radiation",

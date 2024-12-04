@@ -1,7 +1,7 @@
 [
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q1",
-        "Question": "Which description is of a scalar quantity?/nA It has a direction only./nB It has direction and unit only./nC It has direction, magnitude and unit./nD It has magnitude and unit only.",
+        "Question": "Which description is of a scalar quantity?\nA It has a direction only.\nB It has direction and unit only.\nC It has direction, magnitude and unit.\nD It has magnitude and unit only.",
         "Options": {
             "A": "It has a direction only.",
             "B": "It has direction and unit only.",
@@ -16,7 +16,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q2",
-        "Question": "The diagram shows a distance\u2013time graph for a car travelling in a straight line./nIn which region is the car decelerating?",
+        "Question": "The diagram shows a distance-time graph for a car travelling in a straight line.\nIn which region is the car decelerating?",
         "Options": {
             "A": "Region A",
             "B": "Region B",
@@ -31,7 +31,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q3",
-        "Question": "A wooden block is pushed across a table at constant speed./nWhich statement is correct?",
+        "Question": "A wooden block is pushed across a table at constant speed.\nWhich statement is correct?",
         "Options": {
             "A": "The frictional force increases as the block moves at constant speed.",
             "B": "The frictional force is equal and opposite to the pushing force.",
@@ -46,7 +46,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q4",
-        "Question": "A car begins to move. It speeds up until it reaches a constant speed./nWhat happens to the acceleration and what happens to the velocity of the car?",
+        "Question": "A car begins to move. It speeds up until it reaches a constant speed.\nWhat happens to the acceleration and what happens to the velocity of the car?",
         "Options": {
             "A": "Both the acceleration and the velocity change.",
             "B": "Only the acceleration changes.",
@@ -61,7 +61,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q5",
-        "Question": "The diagram shows how the length of a spring changes when a load of 10 N is suspended from it./nThe 10 N load is replaced by a 20 N load./nWhat is the new length of the spring?",
+        "Question": "The diagram shows how the length of a spring changes when a load of 10 N is suspended from it.\nThe 10 N load is replaced by a 20 N load.\nWhat is the new length of the spring?",
         "Options": {
             "A": "6.0 cm",
             "B": "11 cm",
@@ -76,7 +76,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q6",
-        "Question": "A force F causes a moment about point O on an L-shaped bar. The force F acts at point P./nWhat is the moment of F about O?",
+        "Question": "A force F causes a moment about point O on an L-shaped bar. The force F acts at point P.\nWhat is the moment of F about O?",
         "Options": {
             "A": "Fd1",
             "B": "Fd2",
@@ -91,7 +91,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q7",
-        "Question": "A uniform metre rule of weight W is pivoted at the 25 cm mark and held horizontal by a force F applied upwards at the 100 cm mark./nThe rule is supported by a vertical force P acting at the pivot./nWhat is the magnitude of P?",
+        "Question": "A uniform metre rule of weight W is pivoted at the 25 cm mark and held horizontal by a force F applied upwards at the 100 cm mark.\nThe rule is supported by a vertical force P acting at the pivot.\nWhat is the magnitude of P?",
         "Options": {
             "A": "W/3",
             "B": "W/2",
@@ -106,7 +106,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q8",
-        "Question": "The diagram shows a stationary fairground ride with four chairs of equal mass./nWhich chair has the most gravitational potential energy?",
+        "Question": "The diagram shows a stationary fairground ride with four chairs of equal mass.\nWhich chair has the most gravitational potential energy?",
         "Options": {
             "A": "Chair A",
             "B": "Chair B",
@@ -121,7 +121,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q9",
-        "Question": "Hydroelectric and tidal power stations generate electrical energy./nDo these use renewable sources of energy?",
+        "Question": "Hydroelectric and tidal power stations generate electrical energy.\nDo these use renewable sources of energy?",
         "Options": {
             "A": "no no",
             "B": "no yes",
@@ -151,7 +151,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q11",
-        "Question": "A small motor has an input power rating of 10 W and is switched on for 5.0 minutes./nWhat is the electrical energy input to the motor in this time?",
+        "Question": "A small motor has an input power rating of 10 W and is switched on for 5.0 minutes.\nWhat is the electrical energy input to the motor in this time?",
         "Options": {
             "A": "2.0 J",
             "B": "50 J",
@@ -166,7 +166,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q12",
-        "Question": "Two liquids, X and Y, are poured into beakers of different sizes./nLiquid X has a density of 1000 kg/m3 and liquid Y has a density of 900 kg/m3./nOn the base of which beaker is the pressure greatest?",
+        "Question": "Two liquids, X and Y, are poured into beakers of different sizes.\nLiquid X has a density of 1000 kg/m3 and liquid Y has a density of 900 kg/m3.\nOn the base of which beaker is the pressure greatest?",
         "Options": {
             "A": "Liquid X",
             "B": "Liquid Y",
@@ -181,12 +181,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q13",
-        "Question": "A swimmer is at the bottom of a pool. The density of the water in the pool is 1000 kg/m3 and the gravitational field strength is 9.8 N/kg./nWhich expression gives the pressure exerted on the swimmer due to the water?",
+        "Question": "A swimmer is at the bottom of a pool. The density of the water in the pool is 1000 kg/m3 and the gravitational field strength is 9.8 N/kg.\nWhich expression gives the pressure exerted on the swimmer due to the water?",
         "Options": {
-            "A": "(1000 \u00d7 5.0) / 9.8 Pa",
-            "B": "5.0 \u00d7 1000 \u00d7 9.8 Pa",
+            "A": "(1000 x 5.0) / 9.8 Pa",
+            "B": "5.0 x 1000 x 9.8 Pa",
             "C": "1000/5.0 Pa",
-            "D": "(1000 \u00d7 9.8)5.0 Pa"
+            "D": "(1000 x 9.8)5.0 Pa"
         },
         "image": null,
         "answer": "B",
@@ -196,7 +196,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q14",
-        "Question": "Some gas is trapped in a large syringe./nThe atmospheric pressure is 100 kPa. The gas pressure is 200 kPa above atmospheric pressure./nThe piston moves outwards and the volume of the trapped gas doubles. The temperature remains constant./nWhat is the new gas pressure?",
+        "Question": "Some gas is trapped in a large syringe.\nThe atmospheric pressure is 100 kPa. The gas pressure is 200 kPa above atmospheric pressure.\nThe piston moves outwards and the volume of the trapped gas doubles. The temperature remains constant.\nWhat is the new gas pressure?",
         "Options": {
             "A": "100 kPa",
             "B": "150 kPa",
@@ -211,7 +211,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q15",
-        "Question": "A graph of temperature against time is shown for a material being heated from its solid state./nWhich row describes what is happening at X, Y and Z?",
+        "Question": "A graph of temperature against time is shown for a material being heated from its solid state.\nWhich row describes what is happening at X, Y and Z?",
         "Options": {
             "A": "Boiling, solid becomes hotter, melting",
             "B": "Liquid becomes hotter, boiling, gas becomes hotter",
@@ -226,7 +226,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q16",
-        "Question": "A student on a camping expedition cools a sealed bottle of water which is at the same temperature as the surrounding air./nWhich method cools the water at the greatest rate?",
+        "Question": "A student on a camping expedition cools a sealed bottle of water which is at the same temperature as the surrounding air.\nWhich method cools the water at the greatest rate?",
         "Options": {
             "A": "Wrap the bottle in aluminium foil and place it in a shady place.",
             "B": "Wrap the bottle in dry, white paper and put it in a sunny place.",
@@ -241,7 +241,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q17",
-        "Question": "A student suggests three factors that affect the rate of emission of thermal energy by radiation from a hot object./nThese are:/n1 the surface temperature of the object/n2 the surface area of the object/n3 the surface colour of the object./nWhich suggestions are correct?",
+        "Question": "A student suggests three factors that affect the rate of emission of thermal energy by radiation from a hot object.\nThese are:\n1 the surface temperature of the object\n2 the surface area of the object\n3 the surface colour of the object.\nWhich suggestions are correct?",
         "Options": {
             "A": "1, 2 and 3",
             "B": "1 and 2 only",
@@ -318,10 +318,10 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q22",
         "Question": "Which range of sound frequencies includes only frequencies of sound that can be heard by a\nhealthy human ear?",
         "Options": {
-            "A": "0.5\u201350 Hz",
-            "B": "5\u2013500 Hz",
-            "C": "50\u20135000 Hz",
-            "D": "500\u201350 000 Hz"
+            "A": "0.5-50 Hz",
+            "B": "5-500 Hz",
+            "C": "50-5000 Hz",
+            "D": "500-50 000 Hz"
         },
         "image": null,
         "answer": "C",
@@ -526,11 +526,11 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q36",
-        "Question": "Alpha (\u03b1) particles and beta (\u03b2) particles are emitted during radioactive decay.\nWhich particle has the weaker ionising effect and which has the weaker penetrating power?",
+        "Question": "Alpha (α) particles and beta (β) particles are emitted during radioactive decay.\nWhich particle has the weaker ionising effect and which has the weaker penetrating power?",
         "Options": {
-            "A": "\u03b1 \u03b1",
-            "B": "\u03b1 \u03b2",
-            "C": "\u03b2 \u03b1",
+            "A": "β β",
+            "B": "β \u03b2",
+            "C": "\u03b2 β",
             "D": "\u03b2 \u03b2"
         },
         "image": null,
@@ -541,7 +541,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2023/Q37",
-        "Question": "A beam of beta (\u03b2) particles passes into a magnetic field and into an electric field.\nWhich numbers show the paths of the beam through the fields?",
+        "Question": "A beam of beta (β) particles passes into a magnetic field and into an electric field.\nWhich numbers show the paths of the beam through the fields?",
         "Options": {
             "A": "1 and 4",
             "B": "1 and 6",

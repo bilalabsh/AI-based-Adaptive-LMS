@@ -1,7 +1,7 @@
 [
     {
         "QuestionNumber": "Oct-Nov/12/2020/Q1",
-        "Question": "A heavy nail is fixed firmly to a wall.\nIt is pulled by a string at 40\u00b0 to the vertical.\nThe nail does not move.\npull of string\nnail\n40\u00b0\nThree forces act on the nail: its weight W, the tension T in the string, the force R exerted by the wall.\nWhich diagram, drawn to scale, represents the three forces?",
+        "Question": "A heavy nail is fixed firmly to a wall.\nIt is pulled by a string at 40° to the vertical.\nThe nail does not move.\npull of string\nnail\n40°\nThree forces act on the nail: its weight W, the tension T in the string, the force R exerted by the wall.\nWhich diagram, drawn to scale, represents the three forces?",
         "Options": {
             "A": null,
             "B": null,
@@ -31,7 +31,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2020/Q3",
-        "Question": "The speed\u2013time graph for a car's journey is shown.\nDuring which part of the journey is the car moving with non-uniform acceleration?",
+        "Question": "The speed-time graph for a car's journey is shown.\nDuring which part of the journey is the car moving with non-uniform acceleration?",
         "Options": {
             "A": null,
             "B": null,
@@ -151,7 +151,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2020/Q11",
-        "Question": "An extension\u2013load graph is plotted for a spring.\nWhich point marks the limit of proportionality for this spring?",
+        "Question": "An extension-load graph is plotted for a spring.\nWhich point marks the limit of proportionality for this spring?",
         "Options": {
             "A": null,
             "B": null,
@@ -166,12 +166,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2020/Q12",
-        "Question": "The diagram shows a diver 20 m below the surface of a lake.\nThe total pressure at this depth is 3.0 \u00d7 10\u2075 Pa.\nsurface of lake\nair bubble\ndiver (not to scale)...\nAn air bubble has a volume of 0.60 cm\u00b3 as it leaves the diver.\nIt rises to the surface of the lake where the pressure is 1.0 \u00d7 10\u2075 Pa.\nThe temperature of the air in the bubble remains constant.\nWhat is the volume of the air bubble at the surface of the lake?",
+        "Question": "The diagram shows a diver 20 m below the surface of a lake.\nThe total pressure at this depth is 3.0 x 10\u2075 Pa.\nsurface of lake\nair bubble\ndiver (not to scale)...\nAn air bubble has a volume of 0.60 cm^3 as it leaves the diver.\nIt rises to the surface of the lake where the pressure is 1.0 x 10\u2075 Pa.\nThe temperature of the air in the bubble remains constant.\nWhat is the volume of the air bubble at the surface of the lake?",
         "Options": {
-            "A": "0.20 cm\u00b3",
-            "B": "0.60 cm\u00b3",
-            "C": "1.8 cm\u00b3",
-            "D": "2.4 cm\u00b3"
+            "A": "0.20 cm^3",
+            "B": "0.60 cm^3",
+            "C": "1.8 cm^3",
+            "D": "2.4 cm^3"
         },
         "image": null,
         "answer": "C",
@@ -198,10 +198,10 @@
         "QuestionNumber": "Oct-Nov/12/2020/Q14",
         "Question": "A student uses an average force of F to push a box a distance of d across a horizontal table.\nThe mass of the box is m and the gravitational field strength is g.\nHow is the work done by the student pushing the box calculated?",
         "Options": {
-            "A": "F \u00d7 d",
-            "B": "F \u00d7 d \u00d7 g",
-            "C": "m \u00d7 d",
-            "D": "m \u00d7 g \u00d7 d"
+            "A": "F x d",
+            "B": "F x d x g",
+            "C": "m x d",
+            "D": "m x g x d"
         },
         "image": null,
         "answer": "A",
@@ -271,7 +271,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2020/Q19",
-        "Question": "A student performs an experiment to find out how much energy is needed to change the temperature of a steel nail by 1.0 \u00b0C.\nWhich quantity is the student determining?",
+        "Question": "A student performs an experiment to find out how much energy is needed to change the temperature of a steel nail by 1.0 °C.\nWhich quantity is the student determining?",
         "Options": {
             "A": "the heat capacity of the nail",
             "B": "the latent heat of the nail",
@@ -286,7 +286,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2020/Q20",
-        "Question": "A substance has a melting point of \u201317 \u00b0C and a boiling point of 117 \u00b0C.\nIn which state does the substance exist at \u201310 \u00b0C and at 110 \u00b0C?",
+        "Question": "A substance has a melting point of -17 °C and a boiling point of 117 °C.\nIn which state does the substance exist at -10 °C and at 110 °C?",
         "Options": {
             "A": "solid liquid",
             "B": "solid gas",
@@ -466,7 +466,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2020/Q32",
-        "Question": "A thermistor and a light-dependent resistor (LDR) are connected in series.\nA potential difference (p.d.) of 6.0 V is applied across them as shown.\n+6.0 V\n0 V\nthermistor\nLDR\nThe thermistor has a resistance of 6000 \u03a9 in a cold room and 1000 \u03a9 in a warm room.\nThe LDR has a resistance of 2000 \u03a9 in dim light and 500 \u03a9 in bright light.\nWhen is the p.d. across the LDR equal to 2.0 V?",
+        "Question": "A thermistor and a light-dependent resistor (LDR) are connected in series.\nA potential difference (p.d.) of 6.0 V is applied across them as shown.\n+6.0 V\n0 V\nthermistor\nLDR\nThe thermistor has a resistance of 6000 Ω in a cold room and 1000 Ω in a warm room.\nThe LDR has a resistance of 2000 Ω in dim light and 500 Ω in bright light.\nWhen is the p.d. across the LDR equal to 2.0 V?",
         "Options": {
             "A": "in a cold room with bright light",
             "B": "in a cold room with dim light",
@@ -558,8 +558,8 @@
         "QuestionNumber": "Oct-Nov/12/2020/Q38",
         "Question": "A potential divider uses a power supply of voltage 12 V.\nThe resistors X and Y initially have equal resistances.\n12 V\n0\nX\nY\noutput voltage\nThe resistance of X is halved.\nWhat is the change in the output voltage?",
         "Options": {
-            "A": "\u20133.0 V",
-            "B": "\u20132.0 V",
+            "A": "-3.0 V",
+            "B": "-2.0 V",
             "C": "+2.0 V",
             "D": "+3.0 V"
         },

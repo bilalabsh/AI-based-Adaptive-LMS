@@ -26,8 +26,8 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Measurement"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q3",
@@ -41,8 +41,8 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Measurement"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q4",
@@ -56,8 +56,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Stopping Distances"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q5",
@@ -72,7 +72,7 @@
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Sub_topic": "Speed-Time Graphs"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q6",
@@ -86,8 +86,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.3 Mass & weight",
-        "Sub_topic": "Mass & Weight"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q7",
@@ -101,8 +101,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Stopping Distances"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q8",
@@ -116,8 +116,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Resultant Forces"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q9",
@@ -146,8 +146,8 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q11",
@@ -161,8 +161,8 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Measurement"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q12",
@@ -177,7 +177,7 @@
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.5 Forces",
-        "Sub_topic": "Investigating Force & Extension"
+        "Sub_topic": "Equilibrium"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q13",
@@ -198,16 +198,16 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q14",
         "Question": "Each tyre of a car has an area of 100 cm2 in contact with the ground. The car has a mass of 1600 kg. The weight of the car is equally distributed amongst the four tyres. The gravitational field strength g is 10 N / kg. What is the pressure exerted on the ground? \n",
         "Options": {
-            "A": "4.0 N / cm2",
-            "B": "16 N / cm2",
-            "C": "40 N / cm2",
-            "D": "160 N / cm2"
+            "A": "4.0 N / cm^2",
+            "B": "16 N / cm^2",
+            "C": "40 N / cm^2",
+            "D": "160 N / cm^2"
         },
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q15",
@@ -221,23 +221,23 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Pressure & Forces"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q16",
         "Question": "A constant force F pulls a block of weight W up the slope shown.\n\nh\n\nl\n\nW\n\nd\n\nF\n\nHow much work is done by F in pulling the block up the slope?",
         "Options": {
-            "A": "F \u00d7 h",
-            "B": "F \u00d7 l",
-            "C": "W \u00d7 d",
-            "D": "W \u00d7 l"
+            "A": "F x h",
+            "B": "F x l",
+            "C": "W x d",
+            "D": "W x l"
         },
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.3 Mass & weight",
-        "Sub_topic": "Mass & Weight"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Work"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q17",
@@ -251,8 +251,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Efficiency"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q18",
@@ -266,8 +266,8 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy Stores & Transfers"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q19",
@@ -281,12 +281,12 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Power"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q20",
-        "Question": "The diagrams represent four thermometers.\n\nP\n\n25 \u00b0C\n\n20 \u00b0C\n\n15 \u00b0C\n\n10 \u00b0C\n\n5 \u00b0C\n\n0 \u00b0C\n\nQ\n\n40 \u00b0C\n\n35 \u00b0C\n\n30 \u00b0C\n\nR\n\n250 \u00b0C\n\n200 \u00b0C\n\n150 \u00b0C\n\n100 \u00b0C\n\n50 \u00b0C\n\n0 \u00b0C\n\nS\n\n300 \u00b0C\n\n260 \u00b0C\n\n220 \u00b0C\n\n180 \u00b0C\n\n140 \u00b0C\n\n100 \u00b0C\n\nWhich thermometer has the greatest sensitivity and which thermometer has the greatest range?",
+        "Question": "The diagrams represent four thermometers.\n\nP\n\n25 °C\n\n20 °C\n\n15 °C\n\n10 °C\n\n5 °C\n\n0 °C\n\nQ\n\n40 °C\n\n35 °C\n\n30 °C\n\nR\n\n250 °C\n\n200 °C\n\n150 °C\n\n100 °C\n\n50 °C\n\n0 °C\n\nS\n\n300 °C\n\n260 °C\n\n220 °C\n\n180 °C\n\n140 °C\n\n100 °C\n\nWhich thermometer has the greatest sensitivity and which thermometer has the greatest range?",
         "Options": {
             "A": "P, R",
             "B": "P, S",
@@ -295,9 +295,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "Temperature & Pressure"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q21",
@@ -311,23 +311,23 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.3 Mass & weight",
-        "Sub_topic": "Mass & Weight"
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Atmospheric pressure"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q22",
-        "Question": "A mirror is placed in the path of a ray of light.\n\nmirror\n\n40\u00b0\n\nnormal\n\nincident ray reflected ray\n\npath of light without the mirror\n\nThrough which angle does the direction of the ray of light change?",
+        "Question": "A mirror is placed in the path of a ray of light.\n\nmirror\n\n40°\n\nnormal\n\nincident ray reflected ray\n\npath of light without the mirror\n\nThrough which angle does the direction of the ray of light change?",
         "Options": {
-            "A": "40\u00b0",
-            "B": "90\u00b0",
-            "C": "100\u00b0",
-            "D": "140\u00b0"
+            "A": "40°",
+            "B": "90°",
+            "C": "100°",
+            "D": "140°"
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Reflection of Light"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q23",
@@ -340,9 +340,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Refraction of Light"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q24",
@@ -355,9 +355,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Ray Diagrams"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q25",
@@ -370,9 +370,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Ray Diagrams"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q26",
@@ -385,9 +385,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.3 Electromagnetic Spectrum",
+        "Sub_topic": "Uses of Electromagnetic Waves"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q27",
@@ -400,9 +400,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Sound",
+        "Sub_topic": "Properties of Sound Waves"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q28",
@@ -415,9 +415,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.6 Uses of Oscilloscope",
+        "Sub_topic": "Uses of an Oscilloscope"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q29",
@@ -430,9 +430,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+        "Sub_topic": "Magnets"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q30",
@@ -445,9 +445,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+        "Sub_topic": "Magnetism"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q31",
@@ -460,9 +460,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electrical Charge"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q32",
@@ -475,9 +475,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q33",
@@ -505,9 +505,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.8 Pressure",
-        "Sub_topic": "Pressure in a Liquid"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q35",
@@ -520,9 +520,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Magnetic Effect of a Current"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q36",
@@ -535,9 +535,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.8 Pressure",
-        "Sub_topic": "Pressure in a Liquid"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Transformers"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q37",
@@ -550,9 +550,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "The Three Types of Emission"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q38",
@@ -565,9 +565,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Electric Motors"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q39",
@@ -580,9 +580,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.2 Radioactivity",
+        "Sub_topic": "The Three Types of Emission"
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q40",
@@ -595,8 +595,8 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 5: Nuclear Physics",
+        "Topic": "5.1 The Nuclear Model of the Atom",
+        "Sub_topic": "The Nucleus"
     }
 ]

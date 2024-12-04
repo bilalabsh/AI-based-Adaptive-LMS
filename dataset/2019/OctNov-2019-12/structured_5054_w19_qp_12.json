@@ -15,7 +15,7 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q2",
+        "QuestionNumber": "Oct-Nov/12/2019/Q2",
         "Question": "What is the size of the resultant of the two forces shown in the diagram?",
         "Options": {
             "A": "1.0 N",
@@ -30,12 +30,12 @@
         "Sub_topic": "Resultant Forces"
     },
     {
-        "QuestionNumber": "Q3",
+        "QuestionNumber": "Oct-Nov/12/2019/Q3",
         "Question": "What is the correct unit for the quantity shown? ",
         "Options": {
             "A": "electromotive force (e.m.f.) N",
             "B": "latent heat J",
-            "C": "pressure kg / m3",
+            "C": "pressure kg / m^3",
             "D": "weight kg"
         },
         "image": null,
@@ -45,8 +45,8 @@
         "Sub_topic": "Energy from the Sun"
     },
     {
-        "QuestionNumber": "Q4",
-        "Question": "A length of copper pipe, of uniform cross-section and several metres long, carries water to a tap. /n Measurements are taken to determine accurately the volume of copper in the pipe. /n Which instruments are used?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q4",
+        "Question": "A length of copper pipe, of uniform cross-section and several metres long, carries water to a tap. \n Measurements are taken to determine accurately the volume of copper in the pipe. \n Which instruments are used?",
         "Options": {
             "A": "micrometer and rule",
             "B": "micrometer and calipers",
@@ -60,8 +60,8 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q5",
-        "Question": "Part of a speed\u2013time graph for two runners is shown. /n They are running along the same track. /n Which statement must be correct?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q5",
+        "Question": "Part of a speed-time graph for two runners is shown. \n They are running along the same track. \n Which statement must be correct?",
         "Options": {
             "A": "Both runners started at the same moment.",
             "B": "Runner 1 has a greater acceleration than runner 2.",
@@ -75,8 +75,8 @@
         "Sub_topic": "Speed & Velocity"
     },
     {
-        "QuestionNumber": "Q6",
-        "Question": "The graph shows how the speed of a car varies with time. /n Which statement about the acceleration of the car between the times 10 s and 20 s is correct?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q6",
+        "Question": "The graph shows how the speed of a car varies with time. \n Which statement about the acceleration of the car between the times 10 s and 20 s is correct?",
         "Options": {
             "A": "The acceleration decreases.",
             "B": "The acceleration increases.",
@@ -90,7 +90,7 @@
         "Sub_topic": "Calculating with Vectors"
     },
     {
-        "QuestionNumber": "Q7",
+        "QuestionNumber": "Oct-Nov/12/2019/Q7",
         "Question": "In which descent is the acceleration equal to the acceleration of free fall g at all times?",
         "Options": {
             "A": "a bungee jumper leaping from a bridge",
@@ -105,8 +105,8 @@
         "Sub_topic": "Acceleration"
     },
     {
-        "QuestionNumber": "Q8",
-        "Question": "A body slides down a frictionless slope, as shown. /n As the body presses on the surface, the surface pushes back on the body. /n In which direction does the surface push back on the body?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q8",
+        "Question": "A body slides down a frictionless slope, as shown. \n As the body presses on the surface, the surface pushes back on the body. \n In which direction does the surface push back on the body?",
         "Options": {
             "A": "direction of motion"
         },
@@ -117,8 +117,8 @@
         "Sub_topic": "Energy from the Sun"
     },
     {
-        "QuestionNumber": "Q9",
-        "Question": "The Earth travels at constant speed in a circular orbit around the Sun. /n Which arrows show the direction of the acceleration of the Earth and the direction of the velocity of the Earth?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q9",
+        "Question": "The Earth travels at constant speed in a circular orbit around the Sun. \n Which arrows show the direction of the acceleration of the Earth and the direction of the velocity of the Earth?",
         "Options": {
             "A": "P Q",
             "B": "Q P",
@@ -132,8 +132,8 @@
         "Sub_topic": "Speed & Velocity"
     },
     {
-        "QuestionNumber": "Q10",
-        "Question": "A student balances a non-uniform object on a pivot. /n To do this, a weight is suspended near the left-hand end of the object, as shown. /n Where is the centre of mass of the object?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q10",
+        "Question": "A student balances a non-uniform object on a pivot. \n To do this, a weight is suspended near the left-hand end of the object, as shown. \n Where is the centre of mass of the object?",
         "Options": {
             "A": "B",
             "B": "C",
@@ -147,10 +147,10 @@
         "Sub_topic": "Mass & Weight"
     },
     {
-        "QuestionNumber": "Q11",
-        "Question": "A load L is suspended from two springs that are in parallel. /n The extension of each spring is x. /n The springs are then arranged to hang vertically, one below the other. /n In this new arrangement, what is the total extension of the two springs?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q11",
+        "Question": "A load L is suspended from two springs that are in parallel. The extension of each spring is x. \n The springs are then arranged to hang vertically, one below the other. \n In this new arrangement, what is the total extension of the two springs?",
         "Options": {
-            "A": "2 1 x",
+            "A": "1/2 x",
             "B": "x",
             "C": "2x",
             "D": "4x"
@@ -162,8 +162,8 @@
         "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
     },
     {
-        "QuestionNumber": "Q12",
-        "Question": "The diagram shows three tubes P, Q and R. /n Each tube contains air trapped by a water column. /n Which statement is correct?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q12",
+        "Question": "The diagram shows three tubes P, Q and R. \n Each tube contains air trapped by a water column. \n Which statement is correct?",
         "Options": {
             "A": "The pressure of the trapped air is equal in tubes P, Q and R.",
             "B": "The pressure of the trapped air is greatest in tube Q.",
@@ -177,7 +177,7 @@
         "Sub_topic": "Energy from the Sun"
     },
     {
-        "QuestionNumber": "Q13",
+        "QuestionNumber": "Oct-Nov/12/2019/Q13",
         "Question": "Which graph shows the relationship between the pressure and the volume of a fixed mass of gas at constant temperature?",
         "Options": {
             "A": "volume pressure 00",
@@ -192,8 +192,8 @@
         "Sub_topic": "Mass & Weight"
     },
     {
-        "QuestionNumber": "Q14",
-        "Question": "An object X has mass m and velocity v. /n A second object Y has mass 2m and velocity 2v. /n What is the value of the ratio of kinetic energy of X to kinetic energy of Y?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q14",
+        "Question": "An object X has mass m and velocity v. \n A second object Y has mass 2m and velocity 2v. \n What is the value of the ratio of (kinetic energy of Y / kinetic energy of X)?",
         "Options": {
             "A": "1",
             "B": "2",
@@ -207,7 +207,7 @@
         "Sub_topic": "Speed & Velocity"
     },
     {
-        "QuestionNumber": "Q15",
+        "QuestionNumber": "Oct-Nov/12/2019/Q15",
         "Question": "Where is energy released by the fusion of hydrogen nuclei to form helium?",
         "Options": {
             "A": "in a nuclear power station",
@@ -222,8 +222,8 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q16",
-        "Question": "A student uses a newton meter to pull an object a distance d horizontally along a flat surface in a time of t. /n The newton meter reading is F. /n What is given by the expression (F \u00d7 d) / t?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q16",
+        "Question": "A student uses a newton meter to pull an object a distance d horizontally along a flat surface in a time of t. \n The newton meter reading is F. \n What is given by the expression (F X d) / t?",
         "Options": {
             "A": "efficiency",
             "B": "energy",
@@ -237,13 +237,13 @@
         "Sub_topic": "Distance-Time Graphs"
     },
     {
-        "QuestionNumber": "Q17",
-        "Question": "A student is given a thermometer that reads 1 \u00b0C in pure melting ice and 101 \u00b0C in pure boiling water. /n She uses it to measure the temperature of some water before and after it is heated. /n How does the rise in temperature of the water calculated from her results compare with the correct value?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q17",
+        "Question": "A student is given a thermometer that reads 1 °C in pure melting ice and 101 °C in pure boiling water. She uses it to measure the temperature of some water before and after it is heated. \n How does the rise in temperature of the water calculated from her results compare with the correct value?",
         "Options": {
-            "A": "It is 1 \u00b0C lower.",
+            "A": "It is 1 °C lower.",
             "B": "It is the same.",
-            "C": "It is 1 \u00b0C higher.",
-            "D": "It is 2 \u00b0C higher."
+            "C": "It is 1 °C higher.",
+            "D": "It is 2 °C higher."
         },
         "image": null,
         "answer": "B",
@@ -252,8 +252,8 @@
         "Sub_topic": "Calculating with Vectors"
     },
     {
-        "QuestionNumber": "Q18",
-        "Question": "A student makes four statements about evaporation and boiling. /n 1 Both involve an increase in molecular separation. /n 2 Both occur only at a fixed temperature. /n 3 Both involve the absorption of thermal energy. /n 4 Both occur throughout the liquid. /n Which two statements are correct?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q18",
+        "Question": "A student makes four statements about evaporation and boiling. \n 1 Both involve an increase in molecular separation. \n 2 Both occur only at a fixed temperature. \n 3 Both involve the absorption of thermal energy. \n 4 Both occur throughout the liquid. \n Which two statements are correct?",
         "Options": {
             "A": "1 and 4",
             "B": "2 and 4",
@@ -267,7 +267,7 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q19",
+        "QuestionNumber": "Oct-Nov/12/2019/Q19",
         "Question": "How is specific latent heat defined?",
         "Options": {
             "A": "the heat absorbed or emitted by unit mass during a change of a state without a temperature change",
@@ -282,8 +282,8 @@
         "Sub_topic": "Specific Heat Capacity"
     },
     {
-        "QuestionNumber": "Q20",
-        "Question": "A syringe containing air is sealed at one end. /n The piston is free to move. /n The air is heated. /n What happens to the average distance between air molecules and the density of the air?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q20",
+        "Question": "A syringe containing air is sealed at one end. The piston is free to move. \n The air is heated. \n What happens to the average distance between air molecules and the density of the air?",
         "Options": {
             "A": "increases decreases",
             "B": "increases stays the same",
@@ -297,8 +297,8 @@
         "Sub_topic": "Distance-Time Graphs"
     },
     {
-        "QuestionNumber": "Q21",
-        "Question": "A metal disc is heated to 600 \u00b0C and then lowered into a beaker of water. /n What happens to the mass of the metal disc and to the mass of the water in the beaker? /n mass of metal disc /n mass of water in beaker",
+        "QuestionNumber": "Oct-Nov/12/2019/Q21",
+        "Question": "A metal disc is heated to 600 °C and then lowered into a beaker of water. \n What happens to the mass of the metal disc and to the mass of the water in the beaker? \n mass of metal disc \n mass of water in beaker",
         "Options": {
             "A": "increases decreases",
             "B": "increases no change",
@@ -312,7 +312,7 @@
         "Sub_topic": "Mass & Weight"
     },
     {
-        "QuestionNumber": "Q22",
+        "QuestionNumber": "Oct-Nov/12/2019/Q22",
         "Question": "Which description defines the amplitude of a water wave in a ripple tank?",
         "Options": {
             "A": "half of the vertical distance between a trough and a peak",
@@ -327,8 +327,8 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q23",
-        "Question": "Here are four statements about wavefronts. /n 1 Wavefronts from a point source are straight lines. /n 2 Wavefronts from a point source are circular. /n 3 Wavefronts are parallel to the direction of energy movement. /n 4 Wavefronts are perpendicular to the direction of energy movement. /n Which two statements are correct?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q23",
+        "Question": "Here are four statements about wavefronts. \n 1 Wavefronts from a point source are straight lines. \n 2 Wavefronts from a point source are circular. \n 3 Wavefronts are parallel to the direction of energy movement. \n 4 Wavefronts are perpendicular to the direction of energy movement. \n Which two statements are correct?",
         "Options": {
             "A": "1 and 3",
             "B": "1 and 4",
@@ -342,8 +342,8 @@
         "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
     },
     {
-        "QuestionNumber": "Q24",
-        "Question": "An object O is placed in front of a plane mirror. /n I is the image formed. /n A ray from the top of the object is incident on the mirror at X. /n What happens to this ray?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q24",
+        "Question": "An object O is placed in front of a plane mirror.I is the image formed. \n A ray from the top of the object is incident on the mirror at X. \n What happens to this ray?",
         "Options": {
             "A": "It reflects and passes through the bottom of O.",
             "B": "It reflects and passes through the top of O.",
@@ -357,8 +357,8 @@
         "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
     },
     {
-        "QuestionNumber": "Q25",
-        "Question": "The diagram shows light passing from glass into air. /n What is the name of angle P?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q25",
+        "Question": "The diagram shows light passing from glass into air. \n What is the name of angle P?",
         "Options": {
             "A": "the angle of incidence",
             "B": "the angle of reflection",
@@ -372,8 +372,8 @@
         "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
     },
     {
-        "QuestionNumber": "Q26",
-        "Question": "An object is placed in front of a converging lens of focal length 4.0 cm. /n The height of the image is 6.0 cm. /n What is the linear magnification produced by the lens?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q26",
+        "Question": "An object is placed in front of a converging lens of focal length 4.0 cm. \n The height of the image is 6.0 cm.\nThe arrangement is shown on the scale diagram. \n What is the linear magnification produced by the lens?",
         "Options": {
             "A": "0.50",
             "B": "1.5",
@@ -387,7 +387,7 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q27",
+        "QuestionNumber": "Oct-Nov/12/2019/Q27",
         "Question": "Which row shows the speed of sound in air (ca), liquid (cL) and solid (cs) in order from slowest to fastest?",
         "Options": {
             "A": "cL cs ca",
@@ -402,8 +402,8 @@
         "Sub_topic": "Speed & Velocity"
     },
     {
-        "QuestionNumber": "Q28",
-        "Question": "A man stands 80 m in front of a cliff face. /n He makes a loud bang and listens for the echo. /n He makes a loud bang once every second. /n He hears an echo exactly halfway between the bang that caused it and the next bang. /n What is the speed of sound?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q28",
+        "Question": "A man stands 80 m in front of a cliff face. \n He makes a loud bang and listens for the echo. \n He makes a loud bang once every second. He hears an echo exactly halfway between the bang that caused it and the next bang. \n What is the speed of sound?",
         "Options": {
             "A": "40 m / s",
             "B": "80 m / s",
@@ -417,8 +417,8 @@
         "Sub_topic": "Speed & Velocity"
     },
     {
-        "QuestionNumber": "Q29",
-        "Question": "The diagram shows two magnetic field lines of the magnetic field around two bar magnets. /n P Q /n Which row shows the magnetic poles at end P and end Q of the two magnets?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q29",
+        "Question": "The diagram shows two magnetic field lines of the magnetic field around two bar magnets.\n Which row shows the magnetic poles at end P and end Q of the two magnets?",
         "Options": {
             "A": "N N",
             "B": "N S",
@@ -432,8 +432,8 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q30",
-        "Question": "A metal plate X is attached to earth by a battery. /n The plate has a positive charge. /n A second metal plate Y is initially uncharged and connected to earth. /n This plate is positioned parallel to X. /n What happens as Y is brought closer to X?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q30",
+        "Question": "A metal plate X is attached to earth by a battery. The plate has a positive charge. \n A second metal plate Y is initially uncharged and connected to earth. This plate is positioned parallel to X. \n What happens as Y is brought closer to X?",
         "Options": {
             "A": "Electrons flow from Y to earth only.",
             "B": "Electrons flow to Y from earth only.",
@@ -447,8 +447,8 @@
         "Sub_topic": "Newton's Second Law"
     },
     {
-        "QuestionNumber": "Q31",
-        "Question": "The diagram shows a metal lightning conductor attached to a building. /n Why is the lightning conductor made of copper?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q31",
+        "Question": "The diagram shows a metal lightning conductor attached to a building. \n Why is the lightning conductor made of copper?",
         "Options": {
             "A": "Both positive and negative charges can flow through copper.",
             "B": "Copper can be electrostatically charged.",
@@ -462,7 +462,7 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q32",
+        "QuestionNumber": "Oct-Nov/12/2019/Q32",
         "Question": "Which symbol does not represent a power source?",
         "Options": {
             "A": "",
@@ -477,8 +477,8 @@
         "Sub_topic": "Power"
     },
     {
-        "QuestionNumber": "Q33",
-        "Question": "Resistors of different resistances are connected to a power supply in either a parallel circuit or a series circuit. /n Which statement is correct?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q33",
+        "Question": "Resistors of different resistances are connected to a power supply in either a parallel circuit or a series circuit. \n Which statement is correct?",
         "Options": {
             "A": "The current is the same in all resistors connected in parallel.",
             "B": "The current is the same in all resistors connected in series.",
@@ -492,13 +492,13 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q34",
-        "Question": "An ammeter is connected to three resistors and a power supply. /n Which arrangement of resistors gives the greatest ammeter reading?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q34",
+        "Question": "An ammeter is connected to three resistors and a power supply. \n Which arrangement of resistors gives the greatest ammeter reading?",
         "Options": {
-            "A": "4 \u2126 4 \u2126 2 \u2126",
-            "B": "4 \u2126 4 \u2126",
-            "C": "2 \u2126",
-            "D": "2 \u2126 4 \u2126 4 \u2126"
+            "A": "4 Ω 4 Ω 2 Ω",
+            "B": "4 Ω 4 Ω",
+            "C": "2 Ω",
+            "D": "2 Ω 4 Ω 4 Ω"
         },
         "image": null,
         "answer": "A",
@@ -507,8 +507,8 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q35",
-        "Question": "A hotplate on an electric cooker contains two identical resistors. /n The switch has three positions. /n position 1 The two resistors are connected in series to the mains supply. /n position 2 The two resistors are connected in parallel to the mains supply. /n position 3 Just one resistor is connected to the mains supply. /n Which positions correspond to the low, the medium and the high power settings? /n low power medium power high power",
+        "QuestionNumber": "Oct-Nov/12/2019/Q35",
+        "Question": "A hotplate on an electric cooker contains two identical resistors. \n The switch has three positions. \n position 1 The two resistors are connected in series to the mains supply. \n position 2 The two resistors are connected in parallel to the mains supply. \n position 3 Just one resistor is connected to the mains supply. \n Which positions correspond to the low, the medium and the high power settings? ",
         "Options": {
             "A": "1 2 3",
             "B": "1 3 2",
@@ -522,8 +522,8 @@
         "Sub_topic": "Power"
     },
     {
-        "QuestionNumber": "Q36",
-        "Question": "A mains electric circuit is fitted with a circuit breaker rather than a fuse. /n Where is the circuit breaker connected and what happens when the current is too large? /n A circuit breaker is connected in /n When the current is too large",
+        "QuestionNumber": "Oct-Nov/12/2019/Q36",
+        "Question": "A mains electric circuit is fitted with a circuit breaker rather than a fuse. \n Where is the circuit breaker connected and what happens when the current is too large? ",
         "Options": {
             "A": "the live wire. a thin wire melts and breaks the circuit.",
             "B": "the live wire. an electromagnet opens a switch.",
@@ -537,8 +537,8 @@
         "Sub_topic": "Calculating with Vectors"
     },
     {
-        "QuestionNumber": "Q37",
-        "Question": "Transformers are used to transmit electrical energy between power stations and transmission cables, as shown. /n What is the purpose of the transformer in the diagram?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q37",
+        "Question": "Transformers are used to transmit electrical energy between power stations and transmission cables, as shown. \n What is the purpose of the transformer in the diagram?",
         "Options": {
             "A": "to decrease the current and the potential difference from the power station",
             "B": "to decrease the current and increase the potential difference from the power station",
@@ -552,8 +552,8 @@
         "Sub_topic": "Centre of Gravity"
     },
     {
-        "QuestionNumber": "Q38",
-        "Question": "A thermistor warms up as the current in it increases. /n Which graph shows how the voltage V across the thermistor changes as the current I through it is increased?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q38",
+        "Question": "A thermistor warms up as the current in it increases. \n Which graph shows how the voltage V across the thermistor changes as the current I through it is increased?",
         "Options": {
             "A": "",
             "B": "",
@@ -567,8 +567,8 @@
         "Sub_topic": "Energy from the Sun"
     },
     {
-        "QuestionNumber": "Q39",
-        "Question": "Radioactive substances are used as tracers in medical examinations. /n A liquid tracer is injected into a patient. /n A detector 20 cm above the patient shows where the radioactive substance is in the body. /n What is the best radioactive substance to use?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q39",
+        "Question": "Radioactive substances are used as tracers in medical examinations. \n A liquid tracer is injected into a patient. A detector 20 cm above the patient shows where the radioactive substance is in the body. \n What is the best radioactive substance to use?",
         "Options": {
             "A": "an alpha-particle emitter with a half-life of a few hours",
             "B": "an alpha-particle emitter with a half-life of a few years",
@@ -582,8 +582,8 @@
         "Sub_topic": "Energy from the Sun"
     },
     {
-        "QuestionNumber": "Q40",
-        "Question": "An isotope of lead, Pb 212 82 , is radioactive. /n After three decays, two beta-particles and an alpha-particle have been emitted. /n Another radioactive isotope of lead is formed. /n What is the mass number (nucleon number) of the new isotope of lead?",
+        "QuestionNumber": "Oct-Nov/12/2019/Q40",
+        "Question": "An isotope of lead, Pb 212 82 , is radioactive. \n After three decays, two beta-particles and an alpha-particle have been emitted. Another radioactive isotope of lead is formed. \n What is the mass number (nucleon number) of the new isotope of lead?",
         "Options": {
             "A": "200",
             "B": "208",

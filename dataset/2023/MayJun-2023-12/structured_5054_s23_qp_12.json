@@ -286,7 +286,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q20",
-        "Question": "A ray of light passes into a block of transparent material as shown.\n",
+        "Question": "A ray of light passes into a block of transparent material as shown.",
         "Options": {
             "A": "0.66",
             "B": "1.15",
@@ -301,12 +301,12 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q21",
-        "Question": "The diagrams show light incident on the straight edge of a semi-circular glass block after passing\nthrough it.\nWhich diagram shows refraction and an angle i equal to the critical angle of the glass?\n",
+        "Question": "The diagrams show light incident on the straight edge of a semi-circular glass block after passing\nthrough it.\nWhich diagram shows refraction and an angle i equal to the critical angle of the glass?",
         "Options": {
-            "A": "\n",
-            "B": "\n",
-            "C": "\n",
-            "D": "\n"
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
         },
         "image": null,
         "answer": "C",
@@ -316,7 +316,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q22",
-        "Question": "Which radioactive isotope can be used for measuring cracks or flaws in metal components?\n",
+        "Question": "Which radioactive isotope can be used for measuring cracks or flaws in metal components?",
         "Options": {
             "A": "americium-241, an alpha emitter with a half-life of 432 years",
             "B": "cobalt-60, a gamma emitter with a half-life of 5 years",
@@ -331,7 +331,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q23",
-        "Question": "Ultrasound is a type of sound wave that is not audible to a healthy human ear.\nWhich range of frequencies contains only ultrasound?\n",
+        "Question": "Ultrasound is a type of sound wave that is not audible to a healthy human ear.\nWhich range of frequencies contains only ultrasound?",
         "Options": {
             "A": "30 Hz-3.0 kHz",
             "B": "300 Hz-30 kHz",
@@ -346,7 +346,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q24",
-        "Question": "What proves that a metal bar is a permanent magnet?\n",
+        "Question": "What proves that a metal bar is a permanent magnet?",
         "Options": {
             "A": "It attracts both ends of a compass needle.",
             "B": "It attracts one end of another magnet.",
@@ -361,12 +361,12 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q25",
-        "Question": "The diagram shows a bar magnet and four labelled arrows.\nWhich arrow shows the direction of the magnetic field at the point where the arrow is shown?\n",
+        "Question": "The diagram shows a bar magnet and four labelled arrows.\nWhich arrow shows the direction of the magnetic field at the point where the arrow is shown?",
         "Options": {
-            "A": "\n",
-            "B": "\n",
-            "C": "\n",
-            "D": "\n"
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
         },
         "image": null,
         "answer": "D",
@@ -376,7 +376,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q26",
-        "Question": "A shoe becomes positively charged by friction when it rubs against a carpet.\nWhat happens as the shoe becomes charged?\n",
+        "Question": "A shoe becomes positively charged by friction when it rubs against a carpet.\nWhat happens as the shoe becomes charged?",
         "Options": {
             "A": "Negative electrons are transferred to the carpet.",
             "B": "Negative electrons are transferred to the shoe.",
@@ -391,12 +391,12 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q27",
-        "Question": "A metal conductor is connected between the positive and negative terminals of a battery.\nWhich row gives the direction of movement of the particles that flow in the conductor and their\nname?\n",
+        "Question": "A metal conductor is connected between the positive and negative terminals of a battery.\nWhich row gives the direction of movement of the particles that flow in the conductor and their\nname?",
         "Options": {
-            "A": "from positive terminal to negative terminal\nprotons\n",
-            "B": "from positive terminal to negative terminal\nelectrons\n",
-            "C": "from negative terminal to positive terminal\nprotons\n",
-            "D": "from negative terminal to positive terminal\nelectrons\n"
+            "A": "from positive terminal to negative terminal\nprotons",
+            "B": "from positive terminal to negative terminal\nelectrons",
+            "C": "from negative terminal to positive terminal\nprotons",
+            "D": "from negative terminal to positive terminal\nelectrons"
         },
         "image": null,
         "answer": "D",
@@ -406,7 +406,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q28",
-        "Question": "Three identical cells are connected in parallel to a resistor.\nWhat is the advantage of using three cells in parallel rather than using a single cell?\n",
+        "Question": "Three identical cells are connected in parallel to a resistor.\nWhat is the advantage of using three cells in parallel rather than using a single cell?",
         "Options": {
             "A": "Each cell produces more energy.",
             "B": "Each cell supplies more charge.",
@@ -421,7 +421,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q29",
-        "Question": "A student has three 15 \u03a9 resistors.\nShe connects the resistors together in different arrangements.\nWhat is the minimum resistance and what is the maximum resistance of the arrangements that\nthe student can produce?\n",
+        "Question": "A student has three 15 Ω resistors.\nShe connects the resistors together in different arrangements.\nWhat is the minimum resistance and what is the maximum resistance of the arrangements that\nthe student can produce?",
         "Options": {
             "A": "5.0 15",
             "B": "5.0 45",
@@ -436,7 +436,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q30",
-        "Question": "The circuit diagram shows a variable resistor R connected in parallel to the lower section of a\npotential divider.\nThe resistance of R increases.\nWhat happens to the two voltmeter readings V1 and V2?\n",
+        "Question": "The circuit diagram shows a variable resistor R connected in parallel to the lower section of a\npotential divider.\nThe resistance of R increases.\nWhat happens to the two voltmeter readings V1 and V2?",
         "Options": {
             "A": "decreases decreases",
             "B": "decreases increases",
@@ -451,7 +451,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q31",
-        "Question": "The power consumption of a microwave oven is 1500 W.\nThe cost of 1.0 kW h of electrical energy is 24 cents.\nWhat is the cost of using the microwave oven for 10 minutes?\n",
+        "Question": "The power consumption of a microwave oven is 1500 W.\nThe cost of 1.0 kW h of electrical energy is 24 cents.\nWhat is the cost of using the microwave oven for 10 minutes?",
         "Options": {
             "A": "6 cents",
             "B": "36 cents",
@@ -466,7 +466,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q32",
-        "Question": "A coil of wire above a magnet is dropped. As the coil falls over the magnet, an e.m.f. is induced\nacross the coil.\nWhat does not affect the magnitude of the e.m.f. induced across the coil?\n",
+        "Question": "A coil of wire above a magnet is dropped. As the coil falls over the magnet, an e.m.f. is induced\nacross the coil.\nWhat does not affect the magnitude of the e.m.f. induced across the coil?",
         "Options": {
             "A": "changing the number of turns of wire in the coil",
             "B": "changing the height h from which the coil is dropped",
@@ -481,7 +481,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q33",
-        "Question": "The results of the alpha-particle scattering experiment give evidence for which of the following?\n",
+        "Question": "The results of the alpha-particle scattering experiment give evidence for which of the following?",
         "Options": {
             "A": "nuclear fusion",
             "B": "radioactive decay",
@@ -496,7 +496,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q34",
-        "Question": "A nucleus of an isotope of cobalt is represented by the symbol Co.59\n27\nWhat is the composition of this nucleus?\n",
+        "Question": "A nucleus of an isotope of cobalt is represented by the symbol Co.59\n27\nWhat is the composition of this nucleus?",
         "Options": {
             "A": "27 32",
             "B": "27 59",
@@ -511,7 +511,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q35",
-        "Question": "The only stable isotope of gold, Au, has 79 protons and 118 neutrons in a nucleus of an atom.\nHow many electrons are there in a neutral atom of this isotope?\n",
+        "Question": "The only stable isotope of gold, Au, has 79 protons and 118 neutrons in a nucleus of an atom.\nHow many electrons are there in a neutral atom of this isotope?",
         "Options": {
             "A": "39",
             "B": "79",
@@ -526,7 +526,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q36",
-        "Question": "A sample of a radioactive isotope with a very long half-life is placed next to a detector. Sheets of different materials are inserted, one at a time, between the radioactive sample and the detector. The background count rate is subtracted from the readings on the detector and the corrected count rates are recorded in the table.\n\ntype of material corrected count rate\ncounts / s\n\nno sheet inserted 450\n\nthin aluminium sheet 381\n\nthin lead sheet 285\n\nthin paper sheet 452\n\nWhich types of radiation are emitted by the radioactive sample?",
+        "Question": "A sample of a radioactive isotope with a very long half-life is placed next to a detector. Sheets of different materials are inserted, one at a time, between the radioactive sample and the detector. \nThe background count rate is subtracted from the readings on the detector and the corrected count rates are recorded in the table.\nWhich types of radiation are emitted by the radioactive sample?",
         "Options": {
             "A": "alpha-particles and beta-particles only",
             "B": "alpha-particles only",
@@ -588,10 +588,10 @@
         "QuestionNumber": "May-June/12/2023/Q40",
         "Question": "Four of the stages in the life cycle of a star, until it becomes a red giant, are shown.\n\nW Inward force of gravitational attraction is balanced by an outward force from its\ncentre.\n\nX Internal gravitational collapse produces an increase in temperature.\n\nY It expands.\n\nZ Most of the hydrogen has been converted to helium.\n\nIn which order do these stages occur, starting with the earliest?",
         "Options": {
-            "A": "W \u2192 X \u2192 Y \u2192 Z",
-            "B": "W \u2192 X \u2192 Z \u2192 Y",
-            "C": "X \u2192 W \u2192 Y \u2192 Z",
-            "D": "X \u2192 W \u2192 Z \u2192 Y"
+            "A": "W→ X→ Y→ Z",
+            "B": "W→ X→ Z→ Y",
+            "C": "X→ W→ Y→ Z",
+            "D": "X→ W→ Z→ Y"
         },
         "image": null,
         "answer": "D",

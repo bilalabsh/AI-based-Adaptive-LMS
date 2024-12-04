@@ -1,7 +1,7 @@
 [
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q1",
-        "Question": "A heavy nail is fixed firmly to a wall. It is pulled by a string at 40\u00b0 to the vertical. The nail does not move.\npull of string\nnail\n40\u00b0\nThree forces act on the nail: its weight W, the tension T in the string, the force R exerted by the wall. Which diagram, drawn to scale, represents the three forces?",
+        "Question": "A heavy nail is fixed firmly to a wall. It is pulled by a string at 40° to the vertical. The nail does not move.\npull of string\nnail\n40°\nThree forces act on the nail: its weight W, the tension T in the string, the force R exerted by the wall. Which diagram, drawn to scale, represents the three forces?",
         "Options": {
             "A": null,
             "B": null,
@@ -31,7 +31,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q3",
-        "Question": "A car of mass 800 kg has a forward acceleration of 2.5 m / s\u00b2. A frictional force of 1200 N opposes the motion of the car. What is the driving force due to the engine of the car?",
+        "Question": "A car of mass 800 kg has a forward acceleration of 2.5 m / s^2. A frictional force of 1200 N opposes the motion of the car. What is the driving force due to the engine of the car?",
         "Options": {
             "A": "800 N",
             "B": "1200 N",
@@ -123,10 +123,10 @@
         "QuestionNumber": "Oct-Nov/11/2020/Q9",
         "Question": "Which expression is used to calculate density?",
         "Options": {
-            "A": "mass \u00f7 volume",
-            "B": "volume \u00f7 mass",
+            "A": "mass ÷ volume",
+            "B": "volume ÷ mass",
             "C": "volume + mass",
-            "D": "mass \u00d7 volume"
+            "D": "mass x volume"
         },
         "image": null,
         "answer": "B",
@@ -166,7 +166,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q12",
-        "Question": "An extension\u2013load graph is plotted for a spring. Which point marks the limit of proportionality for this spring?",
+        "Question": "An extension-load graph is plotted for a spring. Which point marks the limit of proportionality for this spring?",
         "Options": {
             "A": null,
             "B": null,
@@ -181,12 +181,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q13",
-        "Question": "A mercury manometer is used to measure the pressure of a gas. The pressure of the atmosphere is p0 and the density of mercury is \u03c1. What is the pressure of the gas?",
+        "Question": "A mercury manometer is used to measure the pressure of a gas. The pressure of the atmosphere is p0 and the density of mercury is ρ. What is the pressure of the gas?",
         "Options": {
-            "A": "p0 \u2013 h\u03c1g",
-            "B": "p0 + h\u03c1g",
+            "A": "p0 - hρg",
+            "B": "p0 + hρg",
             "C": "p0",
-            "D": "h\u03c1g"
+            "D": "hρg"
         },
         "image": null,
         "answer": "A",
@@ -198,10 +198,10 @@
         "QuestionNumber": "Oct-Nov/11/2020/Q14",
         "Question": "There is a current in a resistor. Which energy transfer takes place?",
         "Options": {
-            "A": "electrical \u2192 chemical",
-            "B": "electrical \u2192 internal",
-            "C": "kinetic \u2192 electrical",
-            "D": "potential \u2192 electrical"
+            "A": "electrical → chemical",
+            "B": "electrical → internal",
+            "C": "kinetic → electrical",
+            "D": "potential → electrical"
         },
         "image": null,
         "answer": "B",
@@ -305,8 +305,8 @@
         "Options": {
             "A": "J",
             "B": "J / g",
-            "C": "J / \u00b0C",
-            "D": "J / (g \u00b0C)"
+            "C": "J / °C",
+            "D": "J / (g °C)"
         },
         "image": null,
         "answer": "C",
@@ -346,7 +346,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q24",
-        "Question": "A substance has a melting point of \u201317 \u00b0C and a boiling point of 117 \u00b0C. In which state does the substance exist at \u201310 \u00b0C and at 110 \u00b0C?",
+        "Question": "A substance has a melting point of -17 °C and a boiling point of 117 °C. In which state does the substance exist at -10 °C and at 110 °C?",
         "Options": {
             "A": "solid liquid",
             "B": "solid gas",
@@ -376,12 +376,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q26",
-        "Question": "An electromagnetic wave has a speed of 3.0 \u00d7 10\u2078 m / s and a wavelength of 10 cm. What is the frequency of the wave?",
+        "Question": "An electromagnetic wave has a speed of 3.0 x 10\u2078 m / s and a wavelength of 10 cm. What is the frequency of the wave?",
         "Options": {
-            "A": "3.3 \u00d7 10\u207b\u00b9\u2070 Hz",
-            "B": "3.3 \u00d7 10\u207b\u2078 Hz",
-            "C": "3.0 \u00d7 10\u2077 Hz",
-            "D": "3.0 \u00d7 10\u2079 Hz"
+            "A": "3.3 x 10^-10 Hz",
+            "B": "3.3 x 10^-8 Hz",
+            "C": "3.0 x 10^7 Hz",
+            "D": "3.0 x 10^9 Hz"
         },
         "image": null,
         "answer": "D",
@@ -511,7 +511,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q35",
-        "Question": "In the circuit shown, the resistance of resistor Y is four times greater than the resistance of resistor X. What is the difference VY \u2013 VX of the voltages shown on the voltmeters?",
+        "Question": "In the circuit shown, the resistance of resistor Y is four times greater than the resistance of resistor X. What is the difference VY - VX of the voltages shown on the voltmeters?",
         "Options": {
             "A": "2.0 V",
             "B": "5.0 V",
@@ -526,12 +526,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q36",
-        "Question": "Two identical resistors connected in parallel have a total resistance of 4.0 \u03a9. What is the total resistance when the same two resistors are connected in series?",
+        "Question": "Two identical resistors connected in parallel have a total resistance of 4.0 Ω. What is the total resistance when the same two resistors are connected in series?",
         "Options": {
-            "A": "1.0 \u03a9",
-            "B": "4.0 \u03a9",
-            "C": "8.0 \u03a9",
-            "D": "16 \u03a9"
+            "A": "1.0 Ω",
+            "B": "4.0 Ω",
+            "C": "8.0 Ω",
+            "D": "16 Ω"
         },
         "image": null,
         "answer": "D",
@@ -573,10 +573,10 @@
         "QuestionNumber": "Oct-Nov/11/2020/Q39",
         "Question": "A student calculates the amount of energy used by an electric heater. What is the equation for calculating the energy E in kW h?",
         "Options": {
-            "A": "E = I (ampere) \u00d7 V (volt) \u00d7 t (second)",
-            "B": "E = I (ampere) \u00d7 V (volt) \u00d7 t (hour)",
-            "C": "E = I (ampere) \u00d7 V (volt) \u00d7 t (second) \u00f7 1000",
-            "D": "E = I (ampere) \u00d7 V (volt) \u00d7 t (hour) \u00f7 1000"
+            "A": "E = I (ampere) x V (volt) x t (second)",
+            "B": "E = I (ampere) x V (volt) x t (hour)",
+            "C": "E = I (ampere) x V (volt) x t (second) ÷ 1000",
+            "D": "E = I (ampere) x V (volt) x t (hour) ÷ 1000"
         },
         "image": null,
         "answer": "D",

@@ -26,8 +26,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.1 Physical Quantites & Measurement Techniques",
+        "Sub_topic": "Measurement"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q3",
@@ -42,7 +42,7 @@
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Sub_topic": "terminal velocity"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q4",
@@ -56,8 +56,8 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Investigating Force & Extension"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Work"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q5",
@@ -72,7 +72,7 @@
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.5 Forces",
-        "Sub_topic": "Resultant Forces"
+        "Sub_topic": "Circular Motion"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q6",
@@ -86,8 +86,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.3 Mass & weight",
-        "Sub_topic": "Measuring Mass & Weight"
+        "Topic": "1.4 Density ",
+        "Sub_topic": "Measuring Density"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q7",
@@ -101,8 +101,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.3 Mass & weight",
-        "Sub_topic": "Mass & Weight"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Moments"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q8",
@@ -132,7 +132,7 @@
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
         "Topic": "1.5 Forces",
-        "Sub_topic": "Investigating Force & Extension"
+        "Sub_topic": "Hooke's Law"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q10",
@@ -146,8 +146,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Topic": "1.5 Forces",
+        "Sub_topic": "Investigating Force & Extension"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q11",
@@ -161,8 +161,8 @@
         "image": null,
         "answer": "D",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Atmospheric pressure"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q12",
@@ -176,8 +176,8 @@
         "image": null,
         "answer": "C",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.4 Density ",
-        "Sub_topic": "Density"
+        "Topic": "1.8 Pressure",
+        "Sub_topic": "Atmospheric pressure"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q13",
@@ -191,8 +191,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Energy Resources"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q14",
@@ -206,8 +206,8 @@
         "image": null,
         "answer": "A",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Work"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q15",
@@ -221,8 +221,8 @@
         "image": null,
         "answer": "B",
         "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Topic": "1.7 Energy, Work and Power",
+        "Sub_topic": "Efficiency"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q16",
@@ -235,9 +235,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Radiation"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q17",
@@ -250,9 +250,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.3 Transfer of Thermal Energy",
+        "Sub_topic": "Investigating Radiation"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q18",
@@ -265,9 +265,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Thermal Expansion"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q19",
@@ -280,9 +280,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Thermal Expansion"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q20",
@@ -295,9 +295,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Melting, Boiling & Evaporation"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q21",
@@ -310,9 +310,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Calculating Acceleration from Speed-Time Graphs"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.1 Kinetic Particle model of matter",
+        "Sub_topic": "States of Matter"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q22",
@@ -325,9 +325,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Melting, Boiling & Evaporation"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q23",
@@ -340,9 +340,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 2: THERMAL PHYSICS",
+        "Topic": "2.2 Thermal properties & Temperature",
+        "Sub_topic": "Evaporation"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q24",
@@ -355,9 +355,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Reflection of Light"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q25",
@@ -370,9 +370,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Thin Lenses"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q26",
@@ -385,9 +385,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.2 Light",
+        "Sub_topic": "Dispersion of Light"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q27",
@@ -400,9 +400,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Distance-Time Graphs"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Sound",
+        "Sub_topic": "Sound Waves"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q28",
@@ -415,9 +415,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.2 Motion",
-        "Sub_topic": "Speed & Velocity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Sound",
+        "Sub_topic": "Reflection of Sound Waves"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q29",
@@ -430,9 +430,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 3: Waves",
+        "Topic": "3.4 Sound",
+        "Sub_topic": "Ultrasound"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q30",
@@ -445,9 +445,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Electrical Charge"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q31",
@@ -460,9 +460,9 @@
         },
         "image": null,
         "answer": "A",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.1 Physical Quantites & Measurement Techniques",
-        "Sub_topic": "Calculating with Vectors"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.2 Electrical Quantities",
+        "Sub_topic": "Demonstrating Electric Charges"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q32",
@@ -475,9 +475,9 @@
         },
         "image": null,
         "answer": "B",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Centre of Gravity"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q33",
@@ -490,9 +490,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Potential Difference in Circuits"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q34",
@@ -505,9 +505,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q35",
@@ -520,9 +520,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.4 Practical Electricity",
+        "Sub_topic": "Electrical Energy"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q36",
@@ -535,9 +535,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.3 Electric Circuits",
+        "Sub_topic": "Circuit Diagrams & Circuit Components"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q37",
@@ -550,9 +550,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.7 Energy, Work and Power",
-        "Sub_topic": "Energy from the Sun"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.4 Practical Electricity",
+        "Sub_topic": "Electrical Safety"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q38",
@@ -565,9 +565,9 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Investigating Force & Extension"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Force on a Current-Carrying Conductor"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q39",
@@ -580,9 +580,9 @@
         },
         "image": null,
         "answer": "C",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Newton's First Law"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Force on a Current-Carrying Conductor"
     },
     {
         "QuestionNumber": "May-June/12/2022/Q40",
@@ -595,8 +595,8 @@
         },
         "image": null,
         "answer": "D",
-        "Unit": "UNIT 1: Motion, Forces & Energy",
-        "Topic": "1.5 Forces",
-        "Sub_topic": "Stopping Distances"
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": "Transformers"
     }
 ]

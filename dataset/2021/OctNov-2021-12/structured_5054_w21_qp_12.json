@@ -63,10 +63,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q5",
         "Question": "The diagram shows a car going around a circular track at constant speed.\nWhich arrow shows the direction of the resultant force on the car?",
         "Options": {
-            "A": " ",
-            "B": " ",
-            "C": " ",
-            "D": " "
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -80,8 +81,8 @@
         "Options": {
             "A": "the weight of the object",
             "B": "the mass of the object",
-            "C": "the weight mass of the object",
-            "D": "the mass weight of the object"
+            "C": "the weight / mass of the object",
+            "D": "the mass / weight of the object"
         },
         "image": null,
         "answer": "C",
@@ -108,10 +109,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q8",
         "Question": "Four solid objects are made from the same material and have equal volumes.\nWhich object is the most stable?",
         "Options": {
-            "A": "D",
-            "B": "C",
-            "C": "B",
-            "D": " "
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",

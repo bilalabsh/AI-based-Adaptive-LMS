@@ -18,10 +18,11 @@
         "QuestionNumber": "Oct-Nov/11/2021/Q2",
         "Question": "Two forces, X and Y, act upon an object O. The arrows represent the magnitudes and directions of the forces.\nWhich arrow shows the direction of the resultant force?",
         "Options": {
-            "A": " ",
-            "B": " ",
-            "C": " ",
-            "D": " "
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -33,10 +34,11 @@
         "QuestionNumber": "Oct-Nov/11/2021/Q3",
         "Question": "Two identical objects begin to fall from rest. \nOne object falls from 200 m above the Earth's surface and the other falls from 200 m above the Moon's surface. One second after they have started to fall, both objects are still accelerating. \nThere is no atmosphere on the Moon and the weight of each object is constant.\nWhich row describes the motion of both objects at this time?",
         "Options": {
-            "A": "decreasing\nconstant",
-            "B": "constant\nconstant",
-            "C": "increasing\ndecreasing",
-            "D": "increasing\nincreasing"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -48,10 +50,11 @@
         "QuestionNumber": "Oct-Nov/11/2021/Q4",
         "Question": "The diagram shows a car going around a circular track at constant speed.\nWhich arrow shows the direction of the resultant force on the car?",
         "Options": {
-            "A": " ",
-            "B": " ",
-            "C": " ",
-            "D": " "
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -76,12 +79,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q6",
-        "Question": "A stone is placed in a measuring cylinder of water, as shown.\nreading on cylinder = 75 cm3\nwater stone\nThe volume of water in the cylinder before adding the stone is 15 cm3 and the stone has a mass of 90 g.\nWhat is the density of the stone?",
+        "Question": "A stone is placed in a measuring cylinder of water, as shown.\nThe volume of water in the cylinder before adding the stone is 15 cm^3 and the stone has a mass of 90 g.\nWhat is the density of the stone?",
         "Options": {
-            "A": "1.0 g / cm3",
-            "B": "1.2 g / cm3",
-            "C": "1.5 g / cm3",
-            "D": "6.0 g / cm3"
+            "A": "1.0 g / cm^3",
+            "B": "1.2 g / cm^3",
+            "C": "1.5 g / cm^3",
+            "D": "6.0 g / cm^3"
         },
         "image": null,
         "answer": "C",
@@ -93,10 +96,11 @@
         "QuestionNumber": "Oct-Nov/11/2021/Q7",
         "Question": "The extension of a spring is measured for various loads. The limit of proportionality is not reached.\nWhich graph shows the extension-load graph for the spring?",
         "Options": {
-            "A": "extension\nload\n0\n0",
-            "B": "extension\nload\n0\n0",
-            "C": "extension\nload\n0\n0",
-            "D": "extension\nload\n0\n0"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -108,10 +112,11 @@
         "QuestionNumber": "Oct-Nov/11/2021/Q8",
         "Question": "An underwater diver moves from the ocean to a fresh water lake. The density of water in the lake is less than in the ocean.\nIn which position does the diver experience the smallest pressure due to the water?",
         "Options": {
-            "A": " ",
-            "B": " ",
-            "C": " ",
-            "D": " "
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -121,7 +126,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q9",
-        "Question": "Air is trapped in a cylinder by a piston. The pressure of the air is p and the length of the air column is 20 cm. \nThe piston is moved outwards. The length of the air column increases by 40 cm. \nThe temperature of the air remains constant.\ntrapped air\n20 cm\n40 cm\nWhat is the new air pressure?",
+        "Question": "Air is trapped in a cylinder by a piston. The pressure of the air is p and the length of the air column is 20 cm. \nThe piston is moved outwards. The length of the air column increases by 40 cm. \nThe temperature of the air remains constant.\nWhat is the new air pressure?",
         "Options": {
             "A": "p / 2 ",
             "B": "p / 3",
@@ -136,7 +141,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q10",
-        "Question": "When the pressure exerted by the atmosphere is 0.10 MPa, the height of the mercury in a barometer is 0.76 m.\nheight = 0.76 m\nmercury\nWhat is the pressure exerted by the atmosphere when the height of the mercury in the simple barometer is 0.57 m?",
+        "Question": "When the pressure exerted by the atmosphere is 0.10 MPa, the height of the mercury in a barometer is 0.76 m.\nWhat is the pressure exerted by the atmosphere when the height of the mercury in the simple barometer is 0.57 m?",
         "Options": {
             "A": "0.025 MPa",
             "B": "0.075 MPa",
@@ -166,12 +171,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q12",
-        "Question": "The diagram shows the inside of a refrigerator.\ncooling unit\nWhen the refrigerator is first switched on, what happens to the air near the cooling unit?... the molecules of this air the density of this air",
+        "Question": "The diagram shows the inside of a refrigerator.\nWhen the refrigerator is first switched on, what happens to the air near the cooling unit?.",
         "Options": {
-            "A": "become smaller\ndecreases",
-            "B": "become smaller\nincreases",
-            "C": "move closer together\ndecreases",
-            "D": "move closer together\nincreases"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -196,7 +202,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q14",
-        "Question": "The graph is the temperature-time graph for a sample of wax that is heated so that it melts.\n100\n50\n0\n0\n2\n4\n6\n8\n10\ntime / minutes\ntemperature / \u00b0C\nThe mass of the wax is 200 g. Thermal energy is supplied to the wax at a constant rate of 12 000 J / minute.\nWhat is the specific latent heat of fusion of the wax?",
+        "Question": "The graph is the temperature-time graph for a sample of wax that is heated so that it melts.\nThe mass of the wax is 200 g. Thermal energy is supplied to the wax at a constant rate of 12 000 J / minute.\nWhat is the specific latent heat of fusion of the wax?",
         "Options": {
             "A": "180 J / g",
             "B": "240 J / g",
@@ -211,12 +217,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q15",
-        "Question": "A fixed amount of gas is trapped inside a metal can.\nmetal can\nfixed amount of gas\nThe temperature of the gas decreases but the volume does not change.\nHow does this change affect the kinetic energy of the gas molecules and the pressure inside the metal can?",
+        "Question": "A fixed amount of gas is trapped inside a metal can.\nThe temperature of the gas decreases but the volume does not change.\nHow does this change affect the kinetic energy of the gas molecules and the pressure inside the metal can?",
         "Options": {
-            "A": "kinetic energy\npressure\ndecreases\ndecreases",
-            "B": "kinetic energy\npressure\ndecreases\nincreases",
-            "C": "kinetic energy\npressure\nincreases\ndecreases",
-            "D": "kinetic energy\npressure\nstays the same\ndecreases"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -243,10 +250,11 @@
         "QuestionNumber": "Oct-Nov/11/2021/Q17",
         "Question": "A water wave on a pond passes into a region where the wave travels more slowly. It then returns to a region where it travels at the original speed. Assume that the frequency of the wave stays constant.\nWhich side-view of the wave is correct?",
         "Options": {
-            "A": " ",
-            "B": " ",
-            "C": " ",
-            "D": " "
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -271,7 +279,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q19",
-        "Question": "The diagram shows one wavefront of a wave as it travels from deep water to shallow water in a ripple tank.\ndeep water\nboundary\nshallow water\nwavefront\nripple tank\nWhat happens as the wavefront moves into the shallow water?",
+        "Question": "The diagram shows one wavefront of a wave as it travels from deep water to shallow water in a ripple tank.\nWhat happens as the wavefront moves into the shallow water?",
         "Options": {
             "A": "The speed of the wavefront increases.",
             "B": "The speed of the wavefront decreases.",
@@ -288,10 +296,11 @@
         "QuestionNumber": "Oct-Nov/11/2021/Q20",
         "Question": "A ray of light passes into a glass block. It travels through the glass block and then emerges into the air.\nWhich angle is the angle of refraction at the surface XY?",
         "Options": {
-            "A": " ",
-            "B": " ",
-            "C": " ",
-            "D": " "
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -301,12 +310,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q21",
-        "Question": "Two rays of light pass through a lens in region X.\nobject\nX\nWhich type of lens is in region X and which type of image is formed?",
+        "Question": "Two rays of light pass through a lens in region X.\nWhich type of lens is in region X and which type of image is formed?",
         "Options": {
-            "A": "converging\nreal",
-            "B": "converging\nvirtual",
-            "C": "diverging\nreal",
-            "D": "diverging\nvirtual"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -331,12 +341,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q23",
-        "Question": "Light rays are deviated by a prism.\nd\nThe deviation angle d is measured for light rays of different frequency, including blue light and red light.\nWhich graph of d against frequency is correct?",
+        "Question": "Light rays are deviated by a prism.\nThe deviation angle d is measured for light rays of different frequency, including blue light and red light.\nWhich graph of d against frequency is correct?",
         "Options": {
-            "A": "d\nblue\nred\nfrequency\n0\n0",
-            "B": "d\nblue\nred\nfrequency\n0\n0",
-            "C": "d\nred\nblue\nfrequency\n0\n0",
-            "D": "d\nred\nblue\nfrequency\n0\n0"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -361,12 +372,12 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q25",
-        "Question": "A student stands a distance x in front of a large wall. He claps his hands at a regular rate so that each clap coincides with the echo from the previous clap. In a time t, he claps his hands N times. Which expression is used to calculate the speed of sound in air?",
+        "Question": "A student stands a distance x in front of a large wall. \nHe claps his hands at a regular rate so that each clap coincides with the echo from the previous clap. \nIn a time t, he claps his hands N times. \nWhich expression is used to calculate the speed of sound in air?",
         "Options": {
-            "A": "x Nt",
-            "B": "2x Nt",
-            "C": "Nx t",
-            "D": "2Nx t"
+            "A": "x / Nt",
+            "B": "2x / Nt",
+            "C": "Nx / t",
+            "D": "2Nx / t"
         },
         "image": null,
         "answer": "D",
@@ -391,7 +402,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q27",
-        "Question": "Object X is on an electronic balance. Object Y is held above object X as shown.\nThe reading on the balance increases when Y is moved closer to X. Why does this happen?",
+        "Question": "Object X is on an electronic balance. Object Y is held above object X as shown.\nThe reading on the balance increases when Y is moved closer to X. \nWhy does this happen?",
         "Options": {
             "A": "X and Y are both made of iron.",
             "B": "X and Y are both magnets.",
@@ -421,7 +432,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q29",
-        "Question": "What is being defined?\nA piece of paper torn out of an exercise book is shown.\nIs the work done (measured in joules) on unit charge (measured in coulombs) as it moves around the circuit?",
+        "Question": "What is being defined?\nA piece of paper torn out of an exercise book is shown.What is being defined?",
         "Options": {
             "A": "electrical resistance",
             "B": "electric current",
@@ -438,10 +449,11 @@
         "QuestionNumber": "Oct-Nov/11/2021/Q30",
         "Question": "Which circuit is connected to measure the current in the fixed resistor and the potential difference (p.d.) across the same resistor?",
         "Options": {
-            "A": " ",
-            "B": " ",
-            "C": " ",
-            "D": " "
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -481,7 +493,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q33",
-        "Question": "The cost of electricity is 9.0 cents / kW h.... It takes 0.060 hours and costs 1.2 cents to boil the water in a kettle. What is the power rating of the kettle?",
+        "Question": "The cost of electricity is 9.0 cents / kWh.\nIt takes 0.060 hours and costs 1.2 cents to boil the water in a kettle.\nWhat is the power rating of the kettle?",
         "Options": {
             "A": "0.45 kW",
             "B": "0.65 kW",
@@ -496,12 +508,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q34",
-        "Question": "A transformer with an efficiency of 100% has a primary voltage input of 600 V and a secondary voltage output of 240 V. The secondary coil is attached to a resistor of resistance 120 Ω9.\nWhat is the power dissipated in the resistor and what is the current in the primary coil?",
+        "Question": "A transformer with an efficiency of 100% has a primary voltage input of 600 V and a secondary voltage output of 240 V.\nThe secondary coil is attached to a resistor of resistance 120 Ω9.\nWhat is the power dissipated in the resistor and what is the current in the primary coil?",
         "Options": {
-            "A": "120 W, 0.20 A",
-            "B": "120 W, 5.0 A",
-            "C": "480 W, 0.80 A",
-            "D": "480 W, 1.3 A"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -513,10 +526,11 @@
         "QuestionNumber": "Oct-Nov/11/2021/Q35",
         "Question": "The diagram shows an alarm system in which the switch S is shown closed. The top circuit is arranged so that the electromagnet is positioned over the soft iron contact.\nWhat happens when the switch S is opened?",
         "Options": {
-            "A": "iron contact drops, bell rings",
-            "B": "iron contact drops, stops ringing",
-            "C": "iron contact moves up, rings",
-            "D": "iron contact moves up, stops ringing"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -526,7 +540,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q36",
-        "Question": "A microphone detects a musical sound and the signal is fed into an oscilloscope. The diagram shows the trace which appears on the screen. The spot of light on the oscilloscope screen takes 1.2 ms to travel across the screen. What is the frequency of the musical sound?",
+        "Question": "A microphone detects a musical sound and the signal is fed into an oscilloscope. The diagram shows the trace which appears on the screen.\nThe spot of light on the oscilloscope screen takes 1.2 ms to travel across the screen.\nWhat is the frequency of the musical sound?",
         "Options": {
             "A": "170 Hz",
             "B": "330 Hz",
@@ -556,7 +570,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q38",
-        "Question": "Technetium-99m is a radioactive isotope used in medical scanning. It is injected into the body and its emissions are detected outside the body. Which characteristics of technetium-99m make it suitable for use in medical scanning?",
+        "Question": "Technetium-99m is a radioactive isotope used in medical scanning. It is injected into the body and its emissions are detected outside the body.\nWhich characteristics of technetium-99m make it suitable for use in medical scanning?",
         "Options": {
             "A": "It has a long half-life and emits alpha radiation.",
             "B": "It has a long half-life and emits gamma radiation.",
@@ -588,10 +602,11 @@
         "QuestionNumber": "Oct-Nov/11/2021/Q40",
         "Question": "In the simple model of an atom, X orbits around Y.\nWhat are X and Y?",
         "Options": {
-            "A": "electron, nucleus",
-            "B": "neutron, electron",
-            "C": "nucleus, proton",
-            "D": "proton, neutron"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",

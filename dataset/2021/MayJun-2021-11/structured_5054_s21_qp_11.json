@@ -48,10 +48,11 @@
         "QuestionNumber": "May-June/11/2021/Q4",
         "Question": "A coin falls from rest through the air and eventually reaches a constant speed.\nThere is a resultant force acting on the coin due to the two forces P and Q shown in the diagram.\nWhat happens to force P and what happens to the resultant force before the coin reaches constant speed?",
         "Options": {
-            "A": "Force P decreases, Resultant force increases",
-            "B": "Force P decreases, Resultant force decreases",
-            "C": "Force P increases, Resultant force decreases",
-            "D": "Force P increases, Resultant force increases"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -63,10 +64,11 @@
         "QuestionNumber": "May-June/11/2021/Q5",
         "Question": "A satellite is shown moving around the Earth in a circular path at a constant speed.\nWhich arrow shows the direction of the force on the satellite?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -76,12 +78,13 @@
     },
     {
         "QuestionNumber": "May-June/11/2021/Q6",
-        "Question": "Which row shows the mass and the weight of an object on the Earth\u2019s surface?\n[gravitational field strength g = 10 N / kg]",
+        "Question": "Which row shows the mass and the weight of an object on the Earth's surface?\n[gravitational field strength g = 10 N / kg]",
         "Options": {
-            "A": "Mass: 2 kg, Weight: 0.20 N",
-            "B": "Mass: 2 kg, Weight: 10 N",
-            "C": "Mass: 5 kg, Weight: 5.0 N",
-            "D": "Mass: 5 kg, Weight: 50 N"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -91,7 +94,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2021/Q7",
-        "Question": "Water is added to a measuring cylinder containing 100 cm3 of liquid paraffin.\n(The density of paraffin is 0.80 g / cm3 and that of the water is 1.0 g / cm3.)\nAs the water is added, the level of the paraffin rises to 150 cm3. The paraffin and water do not mix.\nWhat finally is the total mass of liquid in the measuring cylinder?",
+        "Question": "Water is added to a measuring cylinder containing 100 cm^3 of liquid paraffin.\n(The density of paraffin is 0.80 g / cm^3 and that of the water is 1.0 g / cm^3.)\nAs the water is added, the level of the paraffin rises to 150 cm^3. The paraffin and water do not mix.\nWhat finally is the total mass of liquid in the measuring cylinder?",
         "Options": {
             "A": "130 g",
             "B": "140 g",
@@ -196,7 +199,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2021/Q14",
-        "Question": "Some solar panels have a total area of 12 m2.\nEach 1.0 m2 of the panels receives 0.85 kJ of energy from the Sun in 1.0 s.\nThe efficiency of the panels is 16%.\nHow much power do they produce?",
+        "Question": "Some solar panels have a total area of 12 m^2.\nEach 1.0 m^2 of the panels receives 0.85 kJ of energy from the Sun in 1.0 s.\nThe efficiency of the panels is 16%.\nHow much power do they produce?",
         "Options": {
             "A": "1.6 kW",
             "B": "2.2 kW",
@@ -243,10 +246,11 @@
         "QuestionNumber": "May-June/11/2021/Q17",
         "Question": "Which row is correct for a thermocouple thermometer?",
         "Options": {
-            "A": "Measures very high temperatures: No, Responds quickly to change in temperature: No",
-            "B": "Measures very high temperatures: No, Responds quickly to change in temperature: Yes",
-            "C": "Measures very high temperatures: Yes, Responds quickly to change in temperature: No",
-            "D": "Measures very high temperatures: Yes, Responds quickly to change in temperature: Yes"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -288,10 +292,11 @@
         "QuestionNumber": "May-June/11/2021/Q20",
         "Question": "A water wave in a ripple tank refracts as it moves from deep water into shallower water.\nWhat happens to the speed and to the frequency of the wave as it moves into shallower water?",
         "Options": {
-            "A": "Speed decreases, frequency stays constant",
-            "B": "Speed increases, frequency stays constant",
-            "C": "Speed stays constant, frequency decreases",
-            "D": "Speed stays constant, frequency increases"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -318,10 +323,11 @@
         "QuestionNumber": "May-June/11/2021/Q22",
         "Question": "A ray of red light in air enters a semi-circular block.\nWhich diagram shows the partial reflection and the refraction of the ray?",
         "Options": {
-            "A": "Option A",
-            "B": "Option B",
-            "C": "Option C",
-            "D": "Option D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -348,10 +354,11 @@
         "QuestionNumber": "May-June/11/2021/Q24",
         "Question": "White light enters a prism and forms a spectrum.\nThe rays in the air are labelled.\nWhich diagram shows how the white light is dispersed by the prism?",
         "Options": {
-            "A": "Option A",
-            "B": "Option B",
-            "C": "Option C",
-            "D": "Option D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -393,10 +400,11 @@
         "QuestionNumber": "May-June/11/2021/Q27",
         "Question": "Which diagram shows the pattern and direction of the electric field lines near a positive charge?",
         "Options": {
-            "A": "Option A",
-            "B": "Option B",
-            "C": "Option C",
-            "D": "Option D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -408,10 +416,11 @@
         "QuestionNumber": "May-June/11/2021/Q28",
         "Question": "A positively charged rod is held close to an insulated metal sphere. The sphere is earthed as shown.\nThe earth connection is removed and then the rod is removed.\nWhich diagram shows the charges on the sphere after the rod is removed?",
         "Options": {
-            "A": "Option A",
-            "B": "Option B",
-            "C": "Option C",
-            "D": "Option D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -466,7 +475,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2021/Q32",
-        "Question": "The diagram shows a horizontal rectangular wire coil WXYZ between the poles of a magnet.\nWhich statement is correct?",
+        "Question": "The diagram shows a horizontal rectangular wire coil WXYZ between the poles of a magnet.\nThere is a current in the coil in the direction shown.\nWhich statement is correct?",
         "Options": {
             "A": "The side WX experiences an upward force",
             "B": "The side XY experiences an outward force",
@@ -496,7 +505,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2021/Q34",
-        "Question": "The diagram shows a current-carrying conductor between the poles of a magnet. The force on the wire acts downwards.\nWhich two changes made together keep the force acting downwards?",
+        "Question": "The diagram shows a current-carrying conductor between the poles of a magnet. The force on the wire acts downwards.\nFour changes are possible.\n1 The current is increased.\n2 A stronger magnet is used.\n3 The current is reversed.\n4 The poles exchange positions.\nWhich two changes made together keep the force acting downwards?",
         "Options": {
             "A": "1 and 3",
             "B": "2 and 3",
@@ -513,10 +522,11 @@
         "QuestionNumber": "May-June/11/2021/Q35",
         "Question": "In an alternating current (a.c.) generator, a magnet rotates near a coil of wire. The induced electromotive force (e.m.f.) in the coil is displayed on an oscilloscope screen.\nWhich trace is produced as the magnet slows down?",
         "Options": {
-            "A": "Option A",
-            "B": "Option B",
-            "C": "Option C",
-            "D": "Option D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -571,12 +581,12 @@
     },
     {
         "QuestionNumber": "May-June/11/2021/Q39",
-        "Question": "A radiation detector is placed 5.0 cm from a radioactive source.\nThe count rate of the radiation is measured.\nThe detector is now placed 10 cm from the source.\nWhat is the new count rate?",
+        "Question": "The count rate from a radioactive source falls from 4000 counts per minute to 500 counts per minute in 72 minutes.\nWhat is the half-life of the source?",
         "Options": {
-            "A": "one-quarter of the original count rate",
-            "B": "half the original count rate",
-            "C": "the same as the original count rate",
-            "D": "twice the original count rate"
+            "A": "8 minutes",
+            "B": "9 minutes",
+            "C": "18 minutes",
+            "D": "24 minutes"
         },
         "image": null,
         "answer": "D",
@@ -586,12 +596,13 @@
     },
     {
         "QuestionNumber": "May-June/11/2021/Q40",
-        "Question": "The diagram shows the apparatus used to demonstrate the deflection of alpha-particles in an electric field.\nWhat is the charge on an alpha-particle and to which plate is it deflected?",
+        "Question": "Which particles are found inside the nucleus of an atom?",
         "Options": {
-            "A": "positive; to the negative plate",
-            "B": "positive; to the positive plate",
-            "C": "negative; to the negative plate",
-            "D": "negative; to the positive plate"
+            "A": "neutrons and electrons",
+            "B": "electrons and protons",
+            "C": "neutrons only",
+            "D": "neutrons and protons"
+
         },
         "image": null,
         "answer": "D",

@@ -32,7 +32,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q3",
-        "Question": "Two identical objects begin to fall from rest. \nOne object falls from 200 m above the Earth's surface and the other falls from 200 m above the Moon's surface. One second after they have started to fall, both objects are still accelerating. \nThere is no atmosphere on the Moon and the weight of each object is constant.\nWhich row describes the motion of both objects at this time?",
+        "Question": "Two identical objects begin to fall from rest.\nOne object falls from 200 m above the Earth's surface and the other falls from 200 m above the Moon's surface. One second after they have started to fall, both objects are still accelerating.\nThere is no atmosphere on the Moon and the weight of each object is constant.\nWhich row describes the motion of both objects at this time?",
         "Options": {
             "A": null,
             "B": null,
@@ -64,7 +64,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q5",
-        "Question": "An electron has mass. \nWhere does a stationary electron experience a force?",
+        "Question": "An electron has mass.\nWhere does a stationary electron experience a force?",
         "Options": {
             "A": "in an electric field only",
             "B": "in a gravitational field only",
@@ -126,7 +126,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q9",
-        "Question": "Air is trapped in a cylinder by a piston. The pressure of the air is p and the length of the air column is 20 cm. \nThe piston is moved outwards. The length of the air column increases by 40 cm. \nThe temperature of the air remains constant.\nWhat is the new air pressure?",
+        "Question": "Air is trapped in a cylinder by a piston. The pressure of the air is p and the length of the air column is 20 cm.\nThe piston is moved outwards. The length of the air column increases by 40 cm.\nThe temperature of the air remains constant.\nWhat is the new air pressure?",
         "Options": {
             "A": "p / 2 ",
             "B": "p / 3",
@@ -372,7 +372,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q25",
-        "Question": "A student stands a distance x in front of a large wall. \nHe claps his hands at a regular rate so that each clap coincides with the echo from the previous clap. \nIn a time t, he claps his hands N times. \nWhich expression is used to calculate the speed of sound in air?",
+        "Question": "A student stands a distance x in front of a large wall.\nHe claps his hands at a regular rate so that each clap coincides with the echo from the previous clap.\nIn a time t, he claps his hands N times.\nWhich expression is used to calculate the speed of sound in air?",
         "Options": {
             "A": "x / Nt",
             "B": "2x / Nt",
@@ -402,7 +402,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2021/Q27",
-        "Question": "Object X is on an electronic balance. Object Y is held above object X as shown.\nThe reading on the balance increases when Y is moved closer to X. \nWhy does this happen?",
+        "Question": "Object X is on an electronic balance. Object Y is held above object X as shown.\nThe reading on the balance increases when Y is moved closer to X.\nWhy does this happen?",
         "Options": {
             "A": "X and Y are both made of iron.",
             "B": "X and Y are both magnets.",

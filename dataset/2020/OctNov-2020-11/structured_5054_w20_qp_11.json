@@ -1,7 +1,7 @@
 [
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q1",
-        "Question": "A heavy nail is fixed firmly to a wall. It is pulled by a string at 40° to the vertical. The nail does not move. \nThree forces act on the nail: \nits weight W, \nthe tension T in the string, \nthe force R exerted by the wall. \nWhich diagram, drawn to scale, represents the three forces?",
+        "Question": "A heavy nail is fixed firmly to a wall. It is pulled by a string at 40° to the vertical. The nail does not move.\nThree forces act on the nail:\nits weight W,\nthe tension T in the string,\nthe force R exerted by the wall.\nWhich diagram, drawn to scale, represents the three forces?",
         "Options": {
             "A": null,
             "B": null,
@@ -16,7 +16,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q2",
-        "Question": "A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. \nWhat happens to the acceleration and what happens to the velocity of the car during the journey?",
+        "Question": "A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey.\nWhat happens to the acceleration and what happens to the velocity of the car during the journey?",
         "Options": {
             "A": "Both the acceleration and the velocity change.",
             "B": "Only the acceleration changes.",
@@ -31,7 +31,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q3",
-        "Question": "A car of mass 800 kg has a forward acceleration of 2.5 m / s^2. A frictional force of 1200 N opposes the motion of the car. \nWhat is the driving force due to the engine of the car?",
+        "Question": "A car of mass 800 kg has a forward acceleration of 2.5 m / s^2. A frictional force of 1200 N opposes the motion of the car.\nWhat is the driving force due to the engine of the car?",
         "Options": {
             "A": "800 N",
             "B": "1200 N",
@@ -46,7 +46,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q4",
-        "Question": "A parachutist falling at a steady speed opens her parachute. \nWhich row is correct for the direction of the resultant force and for the direction of the acceleration of the parachutist just after her parachute opens?",
+        "Question": "A parachutist falling at a steady speed opens her parachute.\nWhich row is correct for the direction of the resultant force and for the direction of the acceleration of the parachutist just after her parachute opens?",
         "Options": {
             "A": null,
             "B": null,
@@ -61,7 +61,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q5",
-        "Question": "Some gas trapped in a cylinder is compressed at constant temperature by a piston. \nWhich property of the gas does not change?",
+        "Question": "Some gas trapped in a cylinder is compressed at constant temperature by a piston.\nWhich property of the gas does not change?",
         "Options": {
             "A": "density",
             "B": "mass",
@@ -76,7 +76,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q6",
-        "Question": "A block is hung on a spring balance. The marker inside the balance is pulled down by the block. \nWhat can the position of the marker be used to determine?",
+        "Question": "A block is hung on a spring balance. The marker inside the balance is pulled down by the block.\nWhat can the position of the marker be used to determine?",
         "Options": {
             "A": "the mass of the block in kg",
             "B": "the mass of the block in N",
@@ -91,7 +91,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q7",
-        "Question": "An electrically charged plastic ball is at rest. \nWhich types of field are caused by the ball?",
+        "Question": "An electrically charged plastic ball is at rest.\nWhich types of field are caused by the ball?",
         "Options": {
             "A": "electric, gravitational and magnetic",
             "B": "electric and gravitational only",
@@ -136,7 +136,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q10",
-        "Question": "A length of thread is attached to a lamina at point P, as shown in the diagram. \nThe lamina is free to rotate about point Q. \nThe tension in the thread is F. \nWhat is the moment of F about Q?",
+        "Question": "A length of thread is attached to a lamina at point P, as shown in the diagram.\nThe lamina is free to rotate about point Q.\nThe tension in the thread is F.\nWhat is the moment of F about Q?",
         "Options": {
             "A": "Fw",
             "B": "Fx",
@@ -166,7 +166,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q12",
-        "Question": "An extension-load graph is plotted for a spring. \nWhich point marks the limit of proportionality for this spring?",
+        "Question": "An extension-load graph is plotted for a spring.\nWhich point marks the limit of proportionality for this spring?",
         "Options": {
             "A": null,
             "B": null,
@@ -181,7 +181,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q13",
-        "Question": "A mercury manometer is used to measure the pressure of a gas. \nThe pressure of the atmosphere is p0 and the density of mercury is ρ. \nWhat is the pressure of the gas?",
+        "Question": "A mercury manometer is used to measure the pressure of a gas.\nThe pressure of the atmosphere is p0 and the density of mercury is ρ.\nWhat is the pressure of the gas?",
         "Options": {
             "A": "p0 - hρg",
             "B": "p0 + hρg",
@@ -196,7 +196,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q14",
-        "Question": "There is a current in a resistor. \nWhich energy transfer takes place?",
+        "Question": "There is a current in a resistor.\nWhich energy transfer takes place?",
         "Options": {
             "A": "electrical → chemical",
             "B": "electrical → internal",
@@ -211,7 +211,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q15",
-        "Question": "A ball is dropped from a height as shown. \nIgnoring the effects of air resistance, which statement about the total energy of the ball is correct?",
+        "Question": "A ball is dropped from a height as shown.\nIgnoring the effects of air resistance, which statement about the total energy of the ball is correct?",
         "Options": {
             "A": "It is the same at all points.",
             "B": "It is greatest at point 1.",
@@ -241,7 +241,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q17",
-        "Question": "The table shows some data from a high-jump competition. \nWhich athlete jumps the highest?",
+        "Question": "The table shows some data from a high-jump competition.\nWhich athlete jumps the highest?",
         "Options": {
             "A": null,
             "B": null,
@@ -256,7 +256,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q18",
-        "Question": "A workman rolls a barrel of weight 2000 N up a plank of length 2.0 m and onto a lorry. The back of the lorry is 0.80 m above the horizontal surface of the road. \nWhat is the work done on the barrel against gravity?",
+        "Question": "A workman rolls a barrel of weight 2000 N up a plank of length 2.0 m and onto a lorry. The back of the lorry is 0.80 m above the horizontal surface of the road.\nWhat is the work done on the barrel against gravity?",
         "Options": {
             "A": "1000 J",
             "B": "1600 J",
@@ -271,7 +271,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q19",
-        "Question": "Data for three types of electricity generator are shown. \nWhich is the least efficient generator and which is the most efficient?",
+        "Question": "Data for three types of electricity generator are shown.\nWhich is the least efficient generator and which is the most efficient?",
         "Options": {
             "A": null,
             "B": null,
@@ -286,7 +286,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q20",
-        "Question": "An instruction in a physics book states 'divide the length between two marks on the glass tube into 100 equal parts'. \nWhat is being described?",
+        "Question": "An instruction in a physics book states 'divide the length between two marks on the glass tube into 100 equal parts'.\nWhat is being described?",
         "Options": {
             "A": "how to calculate weight using the extension of a spring",
             "B": "how to calibrate a thermometer",
@@ -316,7 +316,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q22",
-        "Question": "A block of aluminium is heated. \nWhat happens to the kinetic energy and to the potential energy of the molecules?",
+        "Question": "A block of aluminium is heated.\nWhat happens to the kinetic energy and to the potential energy of the molecules?",
         "Options": {
             "A": null,
             "B": null,
@@ -347,7 +347,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q24",
-        "Question": "A substance has a melting point of -17 °C and a boiling point of 117 °C. \nIn which state does the substance exist at -10 °C and at 110 °C?",
+        "Question": "A substance has a melting point of -17 °C and a boiling point of 117 °C.\nIn which state does the substance exist at -10 °C and at 110 °C?",
         "Options": {
             "A": null,
             "B": null,
@@ -363,7 +363,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q25",
-        "Question": "A smoke particle Z is seen to move randomly when suspended in air as illustrated. \nWhich statement explains why Z moves randomly?",
+        "Question": "A smoke particle Z is seen to move randomly when suspended in air as illustrated.\nWhich statement explains why Z moves randomly?",
         "Options": {
             "A": "Air molecules are much larger than Z.",
             "B": "Air molecules are smaller than Z.",
@@ -378,7 +378,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q26",
-        "Question": "An electromagnetic wave has a speed of 3.0 x 10^8 m / s and a wavelength of 10 cm. \nWhat is the frequency of the wave?",
+        "Question": "An electromagnetic wave has a speed of 3.0 x 10^8 m / s and a wavelength of 10 cm.\nWhat is the frequency of the wave?",
         "Options": {
             "A": "3.3 x 10^-10 Hz",
             "B": "3.3 x 10^-8 Hz",
@@ -393,7 +393,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q27",
-        "Question": "Three objects P, Q and R are placed in front of a plane mirror. \nThe student's eye is positioned as shown. \nWhich of the images of P, Q and R can the student see in the mirror?",
+        "Question": "Three objects P, Q and R are placed in front of a plane mirror.\nThe student's eye is positioned as shown.\nWhich of the images of P, Q and R can the student see in the mirror?",
         "Options": {
             "A": null,
             "B": null,
@@ -409,7 +409,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q28",
-        "Question": "A ray of light R is incident on a water-to-air surface with an angle of incidence θ). \nThe angle θ) is less than the critical angle c. \nWhich statement describes the subsequent path of R?",
+        "Question": "A ray of light R is incident on a water-to-air surface with an angle of incidence θ).\nThe angle θ) is less than the critical angle c.\nWhich statement describes the subsequent path of R?",
         "Options": {
             "A": "It travels back into the water with an angle of reflection equal to c.",
             "B": "It travels back into the water with an angle of reflection greater than c.",
@@ -424,7 +424,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q29",
-        "Question": "A parallel beam of light is incident on a thin converging lens. \nF is one focal point of the lens. \nWhich ray diagram shows the light after it has passed through the lens?",
+        "Question": "A parallel beam of light is incident on a thin converging lens.\nF is one focal point of the lens.\nWhich ray diagram shows the light after it has passed through the lens?",
         "Options": {
             "A": null,
             "B": null,
@@ -469,7 +469,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q32",
-        "Question": "A bar magnet is placed in a hollow iron cylinder. \nThe diagram shows the magnetic field pattern produced. \nWhat is the cause of the field inside the cylinder wall?",
+        "Question": "A bar magnet is placed in a hollow iron cylinder.\nThe diagram shows the magnetic field pattern produced.\nWhat is the cause of the field inside the cylinder wall?",
         "Options": {
             "A": "electromagnetic generation",
             "B": "electromagnetic induction",
@@ -484,7 +484,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q33",
-        "Question": "A polythene rod is brought near to a stream of water from a metal tap which is earthed. Tap water is an electrical conductor. \nThe water moves towards the rod, as shown. \nWhich description of the rod and water is correct?",
+        "Question": "A polythene rod is brought near to a stream of water from a metal tap which is earthed. Tap water is an electrical conductor.\nThe water moves towards the rod, as shown.\nWhich description of the rod and water is correct?",
         "Options": {
             "A": null,
             "B": null,
@@ -500,7 +500,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q34",
-        "Question": "A small negative charge is placed at a point where an electric field is vertically upwards. \nThere is a force on the charge due to the field. \nIn which direction does it act?",
+        "Question": "A small negative charge is placed at a point where an electric field is vertically upwards.\nThere is a force on the charge due to the field.\nIn which direction does it act?",
         "Options": {
             "A": "vertically upwards",
             "B": "vertically downwards",
@@ -515,7 +515,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q35",
-        "Question": "In the circuit shown, the resistance of resistor Y is four times greater than the resistance of resistor X. \nWhat is the difference VY - VX of the voltages shown on the voltmeters?",
+        "Question": "In the circuit shown, the resistance of resistor Y is four times greater than the resistance of resistor X.\nWhat is the difference VY - VX of the voltages shown on the voltmeters?",
         "Options": {
             "A": "2.0 V",
             "B": "5.0 V",
@@ -530,7 +530,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q36",
-        "Question": "Two identical resistors connected in parallel have a total resistance of 4.0 Ω. \nWhat is the total resistance when the same two resistors are connected in series?",
+        "Question": "Two identical resistors connected in parallel have a total resistance of 4.0 Ω.\nWhat is the total resistance when the same two resistors are connected in series?",
         "Options": {
             "A": "1.0 Ω",
             "B": "4.0 Ω",
@@ -545,7 +545,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q37",
-        "Question": "Three identical lamps and three ammeters are connected as shown. \nThe readings on the ammeters are I1, I2 and I3. \nHow are the readings related?",
+        "Question": "Three identical lamps and three ammeters are connected as shown.\nThe readings on the ammeters are I1, I2 and I3.\nHow are the readings related?",
         "Options": {
             "A": "I1 = I2 = I3",
             "B": "I1 > I2 and I2 = I3",
@@ -560,7 +560,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q38",
-        "Question": "A thermistor and a light-dependent resistor (LDR) are connected in series. A potential difference (p.d.) of 6.0 V is applied across them as shown. \nThe thermistor has a resistance of 6000  in a cold room and 1000  in a warm room. The LDR has a resistance of 2000  in dim light and 500  in bright light. \nWhen is the p.d. across the LDR equal to 2.0 V?",
+        "Question": "A thermistor and a light-dependent resistor (LDR) are connected in series. A potential difference (p.d.) of 6.0 V is applied across them as shown.\nThe thermistor has a resistance of 6000  in a cold room and 1000  in a warm room. The LDR has a resistance of 2000  in dim light and 500  in bright light.\nWhen is the p.d. across the LDR equal to 2.0 V?",
         "Options": {
             "A": "in a cold room with bright light",
             "B": "in a cold room with dim light",
@@ -575,7 +575,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q39",
-        "Question": "A student calculates the amount of energy used by an electric heater. \nWhat is the equation for calculating the energy E in kWh?",
+        "Question": "A student calculates the amount of energy used by an electric heater.\nWhat is the equation for calculating the energy E in kWh?",
         "Options": {
             "A": "E = I (ampere) x V (volt) x t (second)",
             "B": "E = I (ampere) x V (volt) x t (hour)",
@@ -590,7 +590,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2020/Q40",
-        "Question": "An isotope P is radioactive and has a half-life of 7.0 years. A sample initially contains 0.016 kg of P. \nAfter how long will the sample contain 0.0020 kg of P?",
+        "Question": "An isotope P is radioactive and has a half-life of 7.0 years. A sample initially contains 0.016 kg of P.\nAfter how long will the sample contain 0.0020 kg of P?",
         "Options": {
             "A": "7.0 years",
             "B": "14 years",

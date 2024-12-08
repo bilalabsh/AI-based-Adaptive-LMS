@@ -31,12 +31,13 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q3",
-        "Question": "Forces of 6.0 N and 8.0 N act as shown. \nWhich diagram shows the resultant R of these two forces?",
+        "Question": "Forces of 6.0 N and 8.0 N act as shown.\nWhich diagram shows the resultant R of these two forces?",
         "Options": {
-            "A": "Diagram A",
-            "B": "Diagram B",
-            "C": "Diagram C",
-            "D": "Diagram D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -46,12 +47,13 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q4",
-        "Question": "A speed-time graph for the journey of a car is shown. \nWhat is the distance-time graph for the journey?",
+        "Question": "A speed-time graph for the journey of a car is shown.\nWhat is the distance-time graph for the journey?",
         "Options": {
-            "A": "Graph A",
-            "B": "Graph B",
-            "C": "Graph C",
-            "D": "Graph D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -61,7 +63,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q5",
-        "Question": "The gravitational field strength on Earth is 9.8 N / kg. \nThe gravitational field strength on Mars is 3.7 N / kg. \nThe difference between the weight of an object on Earth and the weight of the same object on Mars is 25 N. \nWhat is the mass of the object?",
+        "Question": "The gravitational field strength on Earth is 9.8 N / kg.\nThe gravitational field strength on Mars is 3.7 N / kg.\nThe difference between the weight of an object on Earth and the weight of the same object on Mars is 25 N.\nWhat is the mass of the object?",
         "Options": {
             "A": "1.9 kg",
             "B": "2.6 kg",
@@ -76,7 +78,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q6",
-        "Question": "A student determines the density of a solid metal cube. \nWhich pieces of equipment does the student use?",
+        "Question": "A student determines the density of a solid metal cube.\nWhich pieces of equipment does the student use?",
         "Options": {
             "A": "a balance and a force meter",
             "B": "a balance and a ruler",
@@ -91,7 +93,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q7",
-        "Question": "The diagram shows the only two horizontal forces acting on a trolley that is accelerating at 0.12 m / s^2. \nWhat is the mass of the trolley?",
+        "Question": "The diagram shows the only two horizontal forces acting on a trolley that is accelerating at 0.12 m / s^2.\nWhat is the mass of the trolley?",
         "Options": {
             "A": "0.050 kg",
             "B": "0.13 kg",
@@ -106,7 +108,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q8",
-        "Question": "A spring is stretched to different lengths by a variable force. \nThe graph shows how the size of the force depends on the length to which the spring is stretched. \nWhat is the spring constant k of the spring?",
+        "Question": "A spring is stretched to different lengths by a variable force.\nThe graph shows how the size of the force depends on the length to which the spring is stretched.\nWhat is the spring constant k of the spring?",
         "Options": {
             "A": "0.27 N / cm",
             "B": "0.40 N / cm",
@@ -121,7 +123,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q9",
-        "Question": "A uniform horizontal beam, pivoted at its right-hand end, is in equilibrium. A force of 60 N acts vertically upwards on the beam as shown. \nWhat is the weight of the beam?",
+        "Question": "A uniform horizontal beam, pivoted at its right-hand end, is in equilibrium. A force of 60 N acts vertically upwards on the beam as shown.\nWhat is the weight of the beam?",
         "Options": {
             "A": "36 N",
             "B": "40 N",
@@ -136,7 +138,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q10",
-        "Question": "A constant frictional force acts on a moving object for a short amount of time causing the momentum of the object to decrease. \nWhich expression is used to calculate the time for which the force acts?",
+        "Question": "A constant frictional force acts on a moving object for a short amount of time causing the momentum of the object to decrease.\nWhich expression is used to calculate the time for which the force acts?",
         "Options": {
             "A": "time = change in momentum / force",
             "B": "time = change in momentum * force",
@@ -151,7 +153,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q11",
-        "Question": "A large stone is rolled onto a lorry using a ramp. \nThe length of the ramp is l. \nThe stone is lifted a height of h. \nThe mass of the stone is m. The weight of the stone is W. \nWhich expression is equal to the useful work done on the stone?",
+        "Question": "A large stone is rolled onto a lorry using a ramp.\nThe length of the ramp is l.\nThe stone is lifted a height of h.\nThe mass of the stone is m. The weight of the stone is W.\nWhich expression is equal to the useful work done on the stone?",
         "Options": {
             "A": "m * h",
             "B": "W * h",
@@ -166,7 +168,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q12",
-        "Question": "The diagram shows a burning candle. \nWhich energy store is associated with the burning candle?",
+        "Question": "The diagram shows a burning candle.\nWhich energy store is associated with the burning candle?",
         "Options": {
             "A": "chemical",
             "B": "elastic",
@@ -181,7 +183,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q13",
-        "Question": "An African elephant has a mass of 6000 kg and each of its four feet has an area of 0.20 m^2. The gravitational field strength g is 9.8 N / kg. \nWhat is the average pressure due to the elephant when it is standing stationary on all four feet on level ground?",
+        "Question": "An African elephant has a mass of 6000 kg and each of its four feet has an area of 0.20 m^2. The gravitational field strength g is 9.8 N / kg.\nWhat is the average pressure due to the elephant when it is standing stationary on all four feet on level ground?",
         "Options": {
             "A": "7.5 kPa",
             "B": "30 kPa",
@@ -198,10 +200,11 @@
         "QuestionNumber": "May-June/11/2023/Q14",
         "Question": "Which row describes the shape and the volume of a liquid at constant temperature?",
         "Options": {
-            "A": "fixed shape, fixed volume",
-            "B": "fixed shape, not fixed volume",
-            "C": "not fixed shape, fixed volume",
-            "D": "not fixed shape, not fixed volume"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -213,10 +216,11 @@
         "QuestionNumber": "May-June/11/2023/Q15",
         "Question": "Which row shows how the forces and the distances between the particles in a solid generally compare with the forces and distances in a liquid?",
         "Options": {
-            "A": "stronger forces, greater distances",
-            "B": "stronger forces, smaller distances",
-            "C": "weaker forces, greater distances",
-            "D": "weaker forces, smaller distances"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -226,12 +230,13 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q16",
-        "Question": "An incomplete statement about latent heat is given. Latent heat is the ......1...... required to overcome the bonds between molecules and change the ......2...... of a substance. \nWhich words are inserted into gap 1 and gap 2 to correctly complete the sentence?",
+        "Question": "An incomplete statement about latent heat is given. Latent heat is the ......1...... required to overcome the bonds between molecules and change the ......2...... of a substance.\nWhich words are inserted into gap 1 and gap 2 to correctly complete the sentence?",
         "Options": {
-            "A": "energy state",
-            "B": "force state",
-            "C": "energy temperature",
-            "D": "force temperature"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -241,7 +246,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q17",
-        "Question": "A cold solid is placed on top of a hot solid. \nThermal energy is transferred from the hot solid to the cold one. \nWhat is the explanation for this?",
+        "Question": "A cold solid is placed on top of a hot solid.\nThermal energy is transferred from the hot solid to the cold one.\nWhat is the explanation for this?",
         "Options": {
             "A": "A hot solid expands, so its particles will move further apart.",
             "B": "Energy is transferred from one particle to the next.",
@@ -256,7 +261,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q18",
-        "Question": "A house is to be thermally insulated to reduce thermal energy loss and reduce fuel costs. \nWhich type of thermal insulation pays back the cost of installation in the shortest time?",
+        "Question": "A house is to be thermally insulated to reduce thermal energy loss and reduce fuel costs.\nWhich type of thermal insulation pays back the cost of installation in the shortest time?",
         "Options": {
             "A": "cavity wall insulation",
             "B": "double glazing",
@@ -271,12 +276,13 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q19",
-        "Question": "The diagram shows two divergent rays of light from an object O being reflected from a plane mirror. \nAt which position is the image formed?",
+        "Question": "The diagram shows two divergent rays of light from an object O being reflected from a plane mirror.\nAt which position is the image formed?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -286,7 +292,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q20",
-        "Question": "Light is incident on a mirror at an angle of 45° as shown. \nThe mirror can be rotated about an axis into the page through point X. \nThe mirror is rotated until the light is reflected back along its original path. \nThrough which angle is the mirror rotated?",
+        "Question": "Light is incident on a mirror at an angle of 45° as shown.\nThe mirror can be rotated about an axis into the page through point X.\nThe mirror is rotated until the light is reflected back along its original path.\nThrough which angle is the mirror rotated?",
         "Options": {
             "A": "22.5° clockwise",
             "B": "22.5° anticlockwise",
@@ -333,10 +339,11 @@
         "QuestionNumber": "May-June/11/2023/Q23",
         "Question": "Which row names a region of the electromagnetic spectrum with a wavelength longer than that of visible light and a region with a frequency that is greater than that of visible light?",
         "Options": {
-            "A": "infrared, ultraviolet",
-            "B": "microwave, radio",
-            "C": "radio, microwave",
-            "D": "ultraviolet, infrared"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -363,10 +370,11 @@
         "QuestionNumber": "May-June/11/2023/Q25",
         "Question": "Bar magnets and various non-magnetic and demagnetised metal bars are placed in the different arrangements shown.\nIn which arrangement do the bars repel?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -393,10 +401,11 @@
         "QuestionNumber": "May-June/11/2023/Q27",
         "Question": "In an electrostatics experiment, a plastic rod is rubbed with a cloth.\nThe cloth becomes negatively charged.\nWhich diagram shows the charge on the rod and describes the movement of charge?",
         "Options": {
-            "A": "protons move from the cloth on to the rod",
-            "B": "electrons move from the rod on to the cloth",
-            "C": "electrons move from the cloth on to the rod",
-            "D": "protons move from the rod on to the cloth"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -513,10 +522,11 @@
         "QuestionNumber": "May-June/11/2023/Q35",
         "Question": "Atoms P and Q are isotopes of the same element.\nHow does the composition of an atom of P compare with the composition of an atom of Q?",
         "Options": {
-            "A": "different different",
-            "B": "different same",
-            "C": "same different",
-            "D": "same same"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -528,10 +538,11 @@
         "QuestionNumber": "May-June/11/2023/Q36",
         "Question": "The nucleus of an atom emits an alpha-particle.\nHow do the proton number and nucleon number change?",
         "Options": {
-            "A": "decreases by 2 decreases by 4",
-            "B": "decreases by 4 decreases by 2",
-            "C": "increases by 2 increases by 4",
-            "D": "increases by 4 increases by 2"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -571,7 +582,7 @@
     },
     {
         "QuestionNumber": "May-June/11/2023/Q39",
-        "Question": "It takes 27 days for the Moon to orbit the Earth.\nThe average value of the radius of the Moon\u2019s orbit is 3.8 x 10^8 m.\nWhat is the average orbital speed of the Moon?",
+        "Question": "It takes 27 days for the Moon to orbit the Earth.\nThe average value of the radius of the Moon's orbit is 3.8 x 10^8 m.\nWhat is the average orbital speed of the Moon?",
         "Options": {
             "A": "160 m / s",
             "B": "1000 m / s",

@@ -81,8 +81,8 @@
         "Options": {
             "A": "the weight of the object",
             "B": "the mass of the object",
-            "C": "the weight / mass of the object",
-            "D": "the mass / weight of the object"
+            "C": "the ( weight / mass ) of the object",
+            "D": "the ( mass / weight ) of the object"
         },
         "image": null,
         "answer": "C",
@@ -138,7 +138,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q10",
-        "Question": "Piston X is pushed into a hydraulic cylinder. Piston X produces a pressure PX in the liquid in the cylinder.\nWhat is the relationship between PX, PY and PZ?",
+        "Question": "Piston X is pushed into a hydraulic cylinder. Piston X produces a pressure PX in the liquid in the cylinder.\nThe diagram shows the cylinder viewed from above.\nThere are two other pistons, Y and Z, in the cylinder.\nThe pressures on piston Y and Z are PY and PZ.\nWhat is the relationship between PX, PY and PZ?",
         "Options": {
             "A": "PX = PY + PZ",
             "B": "PX > PZ > PY",
@@ -153,10 +153,10 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q11",
-        "Question": "Air is trapped in a cylinder by a piston. The pressure of the air is p and the length of the air column is 20 cm.\nWhat is the new air pressure?",
+        "Question": "Air is trapped in a cylinder by a piston. The pressure of the air is p and the length of the air column is 20 cm.\nThe piston is moved outwards. The length of the air column increases by 40 cm.\nThe temperature of the air remains constant.\nWhat is the new air pressure?",
         "Options": {
-            "A": "2 p",
-            "B": "3 p",
+            "A": "p/2",
+            "B": "p/3",
             "C": "2p",
             "D": "3p"
         },
@@ -168,7 +168,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q12",
-        "Question": "A 60 kg ice-skater, travelling initially at 3.0 m / s, glides across a horizontal icy surface. The skater brakes and comes to rest after 5.0 m.\nWhat is the braking force?",
+        "Question": "A 60 kg ice-skater, travelling initially at 3.0 m / s, glides across a horizontal icy surface. The skater brakes and comes to rest after 5.0 m.\nThe work done against the braking force is the change in the kinetic energy of the skater.\nWhat is the braking force?",
         "Options": {
             "A": "18 N",
             "B": "27 N",
@@ -200,10 +200,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q14",
         "Question": "The diagram shows the inside of a refrigerator.\nWhen the refrigerator is first switched on, what happens to the air near the cooling unit?",
         "Options": {
-            "A": "the molecules of this air become smaller and decreases",
-            "B": "the molecules of this air become smaller and increases",
-            "C": "the molecules of this air move closer together and decreases",
-            "D": "the molecules of this air move closer together and increases"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -230,10 +231,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q16",
         "Question": "Which temperatures are used as the lower and upper fixed points for a mercury-in-glass thermometer?",
         "Options": {
-            "A": "freezing point of mercury, boiling point of mercury",
-            "B": "freezing point of water, boiling point of water",
-            "C": "room temperature, boiling point of mercury",
-            "D": "room temperature, boiling point of water"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -243,12 +245,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q17",
-        "Question": "Two liquid-in-glass thermometers have identical dimensions. One contains ethanol and the other an equal volume of mercury.\nHow do the sensitivity and range of the ethanol thermometer compare to those of the mercury thermometer?",
+        "Question": "Two liquid-in-glass thermometers have identical dimensions. One contains ethanol and the other an equal volume of mercury.\nOne contains ethanol and the other an equal volume of mercury.\nEthanol expands more than mercury for the same temperature rise.\nHow do the sensitivity and range of the ethanol thermometer compare to those of the mercury thermometer?",
         "Options": {
-            "A": "sensitivity of ethanol thermometer greater, range of ethanol thermometer greater",
-            "B": "sensitivity of ethanol thermometer greater, range of ethanol thermometer smaller",
-            "C": "sensitivity of ethanol thermometer smaller, range of ethanol thermometer greater",
-            "D": "sensitivity of ethanol thermometer smaller, range of ethanol thermometer smaller"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -258,7 +261,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q18",
-        "Question": "Solar panels are used to heat water with a mass of 500 kg. The total area of the solar panels is 10 m^2 and the average power output from each square metre of the panels is 300 W.\nWhat is the increase in the water temperature after 8.0 hours?",
+        "Question": "Solar panels are used to heat water with a mass of 500 kg.\nThe total area of the solar panels is 10 m^2 and the average power output from each square metre of the panels is 300 W.The specific heat capacity of water is 4200 J / (kg °C).\nWhat is the increase in the water temperature after 8.0 hours?(Assume there is no heat loss.)",
         "Options": {
             "A": "0.69 °C",
             "B": "4.1 °C",
@@ -290,10 +293,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q20",
         "Question": "The temperatures of the water in four beakers are different and areas of the surfaces of the water are also different.\nIn which beaker is the rate of evaporation of the water greatest?",
         "Options": {
-            "A": "20 °C, 50 cm^2",
-            "B": "20 °C, 100 cm^2",
-            "C": "25 °C, 50 cm^2",
-            "D": "25 °C, 100 cm^2"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -303,7 +307,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q21",
-        "Question": "The diagram shows one wavefront of a wave as it travels from deep water to shallow water in a ripple tank.\ndeep water\nboundary\nshallow water\nwavefront\nripple tank\nWhat happens as the wavefront moves into the shallow water?",
+        "Question": "The diagram shows one wavefront of a wave as it travels from deep water to shallow water in a ripple tank.\nWhat happens as the wavefront moves into the shallow water?",
         "Options": {
             "A": "The speed of the wavefront increases.",
             "B": "The speed of the wavefront decreases.",
@@ -333,12 +337,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q23",
-        "Question": "Light reflects from a plane mirror as shown.\nX Y\nsource of light mirror\nWhich row is always correct?",
+        "Question": "Light reflects from a plane mirror as shown.\nWhich row is always correct?",
         "Options": {
-            "A": "i X = Y",
-            "B": "i X + Y = 90°",
-            "C": "r X = Y",
-            "D": "r X + Y = 90°"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -348,7 +353,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q24",
-        "Question": "A piece of paper torn from an exercise book is shown.\nThe object is further away from the lens than the focal point and the image is upside down.\nWhich process is being described?",
+        "Question": "A piece of paper torn from an exercise book is shown.\nWhich process is being described?",
         "Options": {
             "A": "the formation of a virtual image by a diverging lens",
             "B": "the formation of a virtual image by a converging lens",
@@ -378,12 +383,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q26",
-        "Question": "Light rays are deviated by a prism.\nd\nThe deviation angle d is measured for light rays of different frequency, including blue light and red light.\nWhich graph of d against frequency is correct?",
+        "Question": "Light rays are deviated by a prism.\nThe deviation angle d is measured for light rays of different frequency, including blue light and red light.\nWhich graph of d against frequency is correct?",
         "Options": {
-            "A": "d blue red frequency",
-            "B": "d red blue frequency",
-            "C": "d red blue frequency",
-            "D": "0 0 0 0"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -393,7 +399,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q27",
-        "Question": "A satellite orbits the Earth at a height of 300 km above the surface. The speed of electromagnetic waves is 3.0 x 10\u2078 m / s.\nWhat is the minimum time taken for a radio signal transmitted from the Earth to reach the satellite?",
+        "Question": "A satellite orbits the Earth at a height of 300 km above the surface. The speed of electromagnetic waves is 3.0 x 10^8 m / s.\nWhat is the minimum time taken for a radio signal transmitted from the Earth to reach the satellite?",
         "Options": {
             "A": "1.0 x 10^-6 s",
             "B": "2.0 x 10^-6 s",
@@ -440,10 +446,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q30",
         "Question": "A small plotting compass is placed near to a bar magnet as shown.\nWhich diagram shows the direction in which the compass needle points?",
         "Options": {
-            "A": "N",
-            "B": "N",
-            "C": "N",
-            "D": "N"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -455,10 +462,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q31",
         "Question": "A positively charged plastic rod is held near but not touching an insulated and previously uncharged metal ball. No charge leaves the rod.\nWhat are possible charges on the left-hand side and right-hand side of the ball?",
         "Options": {
-            "A": "charge on left-hand side of ball -2.0 x 10\u207b\u2079 A, charge on right-hand side of ball -1.0 x 10\u207b\u2079 A",
-            "B": "charge on left-hand side of ball -2.0 x 10\u207b\u2079 A, charge on right-hand side of ball +2.0 x 10\u207b\u2079 A",
-            "C": "charge on left-hand side of ball -2.0 x 10\u207b\u2079 C, charge on right-hand side of ball +2.0 x 10\u207b\u2079 C",
-            "D": "charge on left-hand side of ball +2.0 x 10\u207b\u2079 C, charge on right-hand side of ball -2.0 x 10\u207b\u2079 C"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -470,10 +478,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q32",
         "Question": "Which circuit is connected to measure the current in the fixed resistor and the potential difference (p.d.) across the same resistor?",
         "Options": {
-            "A": " ",
-            "B": " ",
-            "C": " ",
-            "D": " "
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -483,12 +492,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q33",
-        "Question": "Quantity X and quantity Y have the same unit Z. X is the energy dissipated by a battery in driving unit charge round the complete circuit. Y is the work done in a component in driving unit charge through the component.\nWhat are X, Y and Z?",
+        "Question": "Quantity X and quantity Y have the same unit Z.\nX is the energy dissipated by a battery in driving unit charge round the complete circuit.\nY is the work done in a component in driving unit charge through the component.\nWhat are X, Y and Z?",
         "Options": {
-            "A": "electromotive force, potential difference, coulomb",
-            "B": "electromotive force, potential difference, volt",
-            "C": "potential difference, electromotive force, coulomb",
-            "D": "potential difference, electromotive force, volt"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -498,12 +508,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q34",
-        "Question": "A transformer with an efficiency of 100% has a primary voltage input of 600 V and a secondary voltage output of 240 V. The secondary coil is attached to a resistor of resistance 120 Ω    9.\nWhat is the power dissipated in the resistor and what is the current in the primary coil?",
+        "Question": "A transformer with an efficiency of 100% has a primary voltage input of 600 V and a secondary voltage output of 240 V. The secondary coil is attached to a resistor of resistance 120 Ω.\nWhat is the power dissipated in the resistor and what is the current in the primary coil?",
         "Options": {
-            "A": "120 W, 0.20 A",
-            "B": "120 W, 5.0 A",
-            "C": "480 W, 0.80 A",
-            "D": "480 W, 1.3 A"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -515,10 +526,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q35",
         "Question": "The diagram shows an alarm system in which the switch S is shown closed. The top circuit is arranged so that the electromagnet is positioned over the soft iron contact.\nWhat happens when the switch S is opened?",
         "Options": {
-            "A": "iron contact drops, bell rings",
-            "B": "iron contact drops, stops ringing",
-            "C": "iron contact moves up, rings",
-            "D": "iron contact moves up, stops ringing"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -558,7 +570,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2021/Q38",
-        "Question": "A radioactive sample contains an isotope that emits alpha particles. Which quantity stays constant?",
+        "Question": "A radioactive sample contains an isotope that emits alpha particles.\nWhich quantity stays constant?",
         "Options": {
             "A": "the half-life of the isotope",
             "B": "the mass of the sample",
@@ -575,10 +587,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q39",
         "Question": "In the simple model of an atom, X orbits around Y.\nWhat are X and Y?",
         "Options": {
-            "A": "electron, nucleus",
-            "B": "neutron, electron",
-            "C": "nucleus, proton",
-            "D": "proton, neutron"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -590,10 +603,11 @@
         "QuestionNumber": "Oct-Nov/12/2021/Q40",
         "Question": "How do the proton numbers (atomic numbers) and the nucleon numbers (mass numbers) of two different isotopes of the same element compare with each other?",
         "Options": {
-            "A": "different, different",
-            "B": "different, same",
-            "C": "same, different",
-            "D": "same, same"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",

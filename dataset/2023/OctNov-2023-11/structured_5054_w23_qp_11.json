@@ -18,10 +18,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q2",
         "Question": "The diagram shows a distance-time graph for a car travelling in a straight line.\nIn which region is the car decelerating?",
         "Options": {
-            "A": "Region A",
-            "B": "Region B",
-            "C": "Region C",
-            "D": "Region D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -108,10 +109,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q8",
         "Question": "The diagram shows a stationary fairground ride with four chairs of equal mass.\nWhich chair has the most gravitational potential energy?",
         "Options": {
-            "A": "Chair A",
-            "B": "Chair B",
-            "C": "Chair C",
-            "D": "Chair D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -123,10 +125,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q9",
         "Question": "Hydroelectric and tidal power stations generate electrical energy.\nDo these use renewable sources of energy?",
         "Options": {
-            "A": "no no",
-            "B": "no yes",
-            "C": "yes no",
-            "D": "yes yes"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -138,10 +141,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q10",
         "Question": "Which energy resource is correctly described?",
         "Options": {
-            "A": "biofuels yes at all times",
-            "B": "nuclear yes intermittent",
-            "C": "solar radiation no at all times",
-            "D": "wind no intermittent"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -168,10 +172,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q12",
         "Question": "Two liquids, X and Y, are poured into beakers of different sizes.\nLiquid X has a density of 1000 kg/m3 and liquid Y has a density of 900 kg/m3.\nOn the base of which beaker is the pressure greatest?",
         "Options": {
-            "A": "Liquid X",
-            "B": "Liquid Y",
-            "C": "Liquid X",
-            "D": "Liquid Y"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -183,7 +188,7 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q13",
         "Question": "A swimmer is at the bottom of a pool. The density of the water in the pool is 1000 kg/m3 and the gravitational field strength is 9.8 N/kg.\nWhich expression gives the pressure exerted on the swimmer due to the water?",
         "Options": {
-            "A": "(1000 x 5.0) / 9.8 Pa",
+            "A": "( 5.0 x 1000) / 9.8 Pa",
             "B": "5.0 x 1000 x 9.8 Pa",
             "C": "1000/5.0 Pa",
             "D": "(1000 x 9.8)5.0 Pa"
@@ -213,10 +218,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q15",
         "Question": "A graph of temperature against time is shown for a material being heated from its solid state.\nWhich row describes what is happening at X, Y and Z?",
         "Options": {
-            "A": "Boiling, solid becomes hotter, melting",
-            "B": "Liquid becomes hotter, boiling, gas becomes hotter",
-            "C": "Solid becomes hotter, melting, liquid becomes hotter",
-            "D": "Melting, liquid becomes hotter, boiling"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -273,10 +279,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q19",
         "Question": "The diagrams show light travelling in air incident on the surface of a glass block. \nSome light is reflected and some light is refracted. \nWhich diagram shows the reflection and refraction of the light?",
         "Options": {
-            "A": "Diagram A",
-            "B": "Diagram B",
-            "C": "Diagram C",
-            "D": "Diagram D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -378,10 +385,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q26",
         "Question": "Circuits P and Q each contain two identical resistors, each of resistance R.\nWhat is the resistance of circuit P and what is the resistance of circuit Q?",
         "Options": {
-            "A": "R\n2\nR",
-            "B": "R\n2R",
-            "C": "2R\n2\nR",
-            "D": "2R\n2R"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -438,10 +446,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q30",
         "Question": "A bar magnet is dropped through a vertical solenoid that is connected to a sensitive ammeter.\nA current is induced in the solenoid and the solenoid becomes an electromagnet.\nWhich row describes the polarity of end Y of the solenoid and the force between the solenoid and\nthe bar magnet when the bar magnet leaves the solenoid?",
         "Options": {
-            "A": "north attraction",
-            "B": "north repulsion",
-            "C": "south attraction",
-            "D": "south repulsion"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -453,10 +462,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q31",
         "Question": "Which graph shows the voltage output against time for a simple a.c. generator?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -483,10 +493,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q33",
         "Question": "A commutator is connected to the coil of a d.c. motor.\nThe commutator rotates and connects the coil to the power supply.\nOnce every half-turn, the current in the coil reverses.\nWhat is the name of the commutator and what is the orientation of the plane of the coil as the current reverses?",
         "Options": {
-            "A": "slip ring parallel to the magnetic field",
-            "B": "slip ring perpendicular to the magnetic field",
-            "C": "split ring parallel to the magnetic field",
-            "D": "split ring perpendicular to the magnetic field"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -498,10 +509,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q34",
         "Question": "A girl makes a simple transformer to illuminate a low voltage lamp. The transformer is shown.\nWhat is the material of the rod and what is the type of power supply?",
         "Options": {
-            "A": "plastic d.c. supply",
-            "B": "plastic a.c. supply",
-            "C": "iron d.c. supply",
-            "D": "iron a.c. supply"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -528,10 +540,11 @@
         "QuestionNumber": "Oct-Nov/11/2023/Q36",
         "Question": "Alpha (α) particles and beta (β) particles are emitted during radioactive decay.\nWhich particle has the weaker ionising effect and which has the weaker penetrating power?",
         "Options": {
-            "A": "β β",
-            "B": "β \u03b2",
-            "C": "\u03b2 β",
-            "D": "\u03b2 \u03b2"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",

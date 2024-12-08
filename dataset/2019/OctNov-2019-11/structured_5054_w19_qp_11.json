@@ -1,4 +1,4 @@
-[
+    [
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q1",
         "Question": "Which word is the name of a scalar quantity?",
@@ -48,10 +48,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q4",
         "Question": "What is the correct unit for the quantity shown?",
         "Options": {
-            "A": "electromotive force (e.m.f.) N",
-            "B": "latent heat J",
-            "C": "pressure kg / m3",
-            "D": "weight kg"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -108,10 +109,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q8",
         "Question": "The Earth travels at constant speed in a circular orbit around the Sun.\nWhich arrows show the direction of the acceleration of the Earth and the direction of the velocity of the Earth?",
         "Options": {
-            "A": "P (acceleration) Q (velocity)",
-            "B": "Q (acceleration) P (velocity)",
-            "C": "Q (acceleration) R (velocity)",
-            "D": "R (acceleration) Q (velocity)"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -123,10 +125,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q9",
         "Question": "A body slides down a frictionless slope, as shown.\nAs the body presses on the surface, the surface pushes back on the body.\nIn which direction does the surface push back on the body?",
         "Options": {
-            "A": "direction of motion",
-            "B": "up the slope",
-            "C": "down the slope",
-            "D": "perpendicular to the slope"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -168,10 +171,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q12",
         "Question": "A student balances a non-uniform object on a pivot.\nTo do this, a weight is suspended near the left-hand end of the object, as shown.\nWhere is the centre of mass of the object?",
         "Options": {
-            "A": "near the weight",
-            "B": "at the left-hand end",
-            "C": "at the pivot",
-            "D": "at the right-hand end"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -183,7 +187,7 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q13",
         "Question": "A load L is suspended from two springs that are in parallel.\nThe extension of each spring is x.\nThe springs are then arranged to hang vertically, one below the other.\nIn this new arrangement, what is the total extension of the two springs?",
         "Options": {
-            "A": "1/2 x",
+            "A": "1x/2 ",
             "B": "x",
             "C": "2x",
             "D": "4x"
@@ -198,10 +202,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q14",
         "Question": "Nail X is tapped into wood.\nNail Y is tapped into the same wood using the same force.\nWhich nail moves furthest into the wood and why?",
         "Options": {
-            "A": "X produces greater pressure on the wood",
-            "B": "X produces smaller pressure on the wood",
-            "C": "Y produces greater pressure on the wood",
-            "D": "Y produces smaller pressure on the wood"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -228,10 +233,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q16",
         "Question": "Which graph shows the relationship between the pressure and the volume of a fixed mass of gas at constant temperature?",
         "Options": {
-            "A": "A",
-            "B": "B",
-            "C": "C",
-            "D": "D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -286,7 +292,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q20",
-        "Question": "A student is given a thermometer that reads 1 °C in pure melting ice and 101 °C in pure boiling water.\nHow does the rise in temperature of the water calculated from her results compare with the correct value?",
+        "Question": "A student is given a thermometer that reads 1 °C in pure melting ice and 101 °C in pure boiling water.\nShe uses it to measure the temperature of some water before and after it is heated.\nHow does the rise in temperature of the water calculated from her results compare with the correct value?",
         "Options": {
             "A": "It is 1 °C lower.",
             "B": "It is the same.",
@@ -363,10 +369,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q25",
         "Question": "The frequency of microwaves used in an experiment is 3.0 x 10^9 Hz^9 speed in air is 3.0 x 10^8 m / s.\nWhat is a possible frequency and a possible speed in air of a radio wave?",
         "Options": {
-            "A": "3.0 x 10^5 Hz, 1500 m / s",
-            "B": "3.0 x 10^5 Hz, 3.0 x 10^8 m / s",
-            "C": "3.0 x 10^14 Hz, 1500 m / s",
-            "D": "3.0 x 10^14 Hz, 3.0 x 10^8 m / s"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -376,7 +383,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2019/Q26",
-        "Question": "The diagram shows a ray of light in liquid incident on the boundary with air.\nTwo other rays are observed. One is in the liquid and the other is in the air on the boundary.\nWhat is the angle of refraction?",
+        "Question": "The diagram shows a ray of light in liquid incident on the boundary with air.Two other rays are observed. One is in the liquid and the other is in the air on the boundary.\nWhat is the angle of refraction?",
         "Options": {
             "A": "0°",
             "B": "40°",
@@ -438,10 +445,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q30",
         "Question": "Magnets M1, M2 and M3 are joined by iron balls W, X and Y as shown.\nMagnetic poles are induced in the iron balls W and X as shown.\nWhich diagram shows the poles induced in ball Y?",
         "Options": {
-            "A": "S N",
-            "B": "N N",
-            "C": "N S",
-            "D": "S S"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -453,10 +461,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q31",
         "Question": "The base of a cloud is negatively charged.\nThe cloud is over a metal mast as shown.\nWhich row describes the charge induced at the top of the mast and how it is produced?",
         "Options": {
-            "A": "negative, electrons moving to the top of the mast",
-            "B": "negative, protons moving to the bottom of the mast",
-            "C": "positive, electrons moving to the bottom of the mast",
-            "D": "positive, protons moving to the top of the mast"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -483,10 +492,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q33",
         "Question": "An a.c. supply connected to an oscilloscope produces the trace shown.\nA diode is now connected in series to the circuit as shown.\nWhat is the new trace on the screen?",
         "Options": {
-            "A": "A",
-            "B": "B",
-            "C": "C",
-            "D": "D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -513,10 +523,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q35",
         "Question": "An ammeter is connected to three resistors and a power supply.\nWhich arrangement of resistors gives the greatest ammeter reading?",
         "Options": {
-            "A": "4 \u2126 4 \u2126 2 \u2126",
-            "B": "4 \u2126 2 \u2126 4 \u2126",
-            "C": "2 \u2126 4 \u2126 4 \u2126",
-            "D": "2 \u2126 4 \u2126 4 \u2126"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -528,10 +539,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q36",
         "Question": "A lamp is connected to a mains plug.\nWhere are the switch and the fuse connected so that the lamp is safe to use?",
         "Options": {
-            "A": "live wire, live wire",
-            "B": "live wire, neutral wire",
-            "C": "neutral wire, live wire",
-            "D": "neutral wire, neutral wire"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -573,10 +585,11 @@
         "QuestionNumber": "Oct-Nov/11/2019/Q39",
         "Question": "The diagram shows the trace on an oscilloscope screen when connected to a d.c. supply which is being switched on and off.\nThe settings of the Y-gain control and the time base control are shown.\nThe voltage of the supply is v.\nThe supply is switched on f times per second.\nWhat are the values of v and of f?",
         "Options": {
-            "A": "2 V, 50",
-            "B": "2 V, 100",
-            "C": "4 V, 50",
-            "D": "4 V, 100"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",

@@ -18,10 +18,11 @@
         "QuestionNumber": "May-June/12/2022/Q2",
         "Question": "A length of copper wire is labelled: length 0.50 m and diameter 0.50 mm.\nWhich instruments are most suitable to measure accurately the length and the diameter of the wire?",
         "Options": {
-            "A": "metre rule, metre rule",
-            "B": "metre rule, micrometer",
-            "C": "calipers, metre rule",
-            "D": "calipers, micrometer"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -33,10 +34,11 @@
         "QuestionNumber": "May-June/12/2022/Q3",
         "Question": "The graph shows the speed-time graph for a parachutist who jumps from a plane but does not open his parachute immediately.\nAt which point does he open his parachute?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -63,10 +65,11 @@
         "QuestionNumber": "May-June/12/2022/Q5",
         "Question": "The diagram represents the Moon in its orbit around the Earth.\nWhich arrow represents the direction of the resultant force acting on the Moon at the instant shown?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -123,10 +126,11 @@
         "QuestionNumber": "May-June/12/2022/Q9",
         "Question": "The graph shows how the extension of a spring depends on the force applied.\nWhich point is the limit of proportionality?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -153,10 +157,11 @@
         "QuestionNumber": "May-June/12/2022/Q11",
         "Question": "A barometer is an instrument used to measure atmospheric pressure.\nIn one type of barometer the height of a liquid in a tube is measured.\nIn which diagram does the height h represent atmospheric pressure?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -198,10 +203,11 @@
         "QuestionNumber": "May-June/12/2022/Q14",
         "Question": "A load is pulled by a rope attached to a motor. The resultant force exerted by the rope on the load is shown in the diagrams.\nIn each diagram, the load moves in the direction of the force shown and takes 10 s to travel 1.0 m.\nIn which diagram does the motor work with the greatest power?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -318,10 +324,11 @@
         "QuestionNumber": "May-June/12/2022/Q22",
         "Question": "Which row describes the boiling and the evaporation of a liquid?\n boiling  evaporation",
         "Options": {
-            "A": "bubbles form throughout the liquid only occurs at one temperature",
-            "B": "bubbles form throughout the liquid produces cooling",
-            "C": "occurs at any temperature only occurs at one temperature",
-            "D": "occurs at any temperature produces cooling"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -393,10 +400,11 @@
         "QuestionNumber": "May-June/12/2022/Q27",
         "Question": "A sound wave passes through a substance.\nThe diagram shows the position of molecules of the substance at one point in time.\nWhich type of wave is a sound wave and what is at X?",
         "Options": {
-            "A": "longitudinal compression",
-            "B": "longitudinal rarefaction",
-            "C": "transverse compression",
-            "D": "transverse rarefaction"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -438,10 +446,11 @@
         "QuestionNumber": "May-June/12/2022/Q30",
         "Question": "A positively charged rod is held near an uncharged metal sphere on an insulating stand.\nWhat is the distribution of charge on the sphere?",
         "Options": {
-            "A": "\n+\n+\n+\n+\n+\n+\n",
-            "B": "\n\u2212\n\u2212\n\u2212\n\u2212\n\u2212\n\u2212\n",
-            "C": "\n+\n+\n\u2212\n\u2212\n+\n\u2212\n",
-            "D": "\n\u2212\n\u2212\n+\n+\n\u2212\n+\n"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -453,10 +462,11 @@
         "QuestionNumber": "May-June/12/2022/Q31",
         "Question": "Two metal spheres are mounted on insulating stands. Sphere X is initially uncharged and sphere Y is initially positively charged.\nA metal rod, held by an insulating handle, is placed in contact with X and Y as shown.\nWhat are the charges on X and on Y after the rod is placed in contact with them?",
         "Options": {
-            "A": "positive positive",
-            "B": "positive uncharged",
-            "C": "uncharged positive",
-            "D": "uncharged uncharged"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -468,10 +478,11 @@
         "QuestionNumber": "May-June/12/2022/Q32",
         "Question": "The diagram shows a simple electric circuit.\nWhich row describes the charge on an electron and the direction of electron flow through the resistor?",
         "Options": {
-            "A": "negative X to Y",
-            "B": "negative Y to X",
-            "C": "positive X to Y",
-            "D": "positive Y to X"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -481,7 +492,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q33",
-        "Question": "Charge of 0.40 C passes through a resistor in 1.0 s.\n\nIn 2.0 s, 20 J of thermal energy is produced in the resistor.\n\nWhat is the potential difference across the resistor?",
+        "Question": "Charge of 0.40 C passes through a resistor in 1.0 s.\nIn 2.0 s, 20 J of thermal energy is produced in the resistor.\nWhat is the potential difference across the resistor?",
         "Options": {
             "A": "0.020 V",
             "B": "0.040 V",
@@ -496,12 +507,13 @@
     },
     {
         "QuestionNumber": "May-June/12/2022/Q34",
-        "Question": "The diagram shows a simple electric circuit.\n\nWhich meter measures the current in resistor R2?",
+        "Question": "The diagram shows a simple electric circuit.\nWhich meter measures the current in resistor R2?",
         "Options": {
-            "A": "A",
-            "B": "B",
-            "C": "C",
-            "D": "D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -513,10 +525,11 @@
         "QuestionNumber": "May-June/12/2022/Q35",
         "Question": "When the flash on a camera is used, a charge of 1.5 C flows for 0.0030 s through the flash lamp.\nThe average voltage across the flash lamp is 3600 V.\nWhat is the electrical energy supplied to the flash lamp and what is the average power supplied?",
         "Options": {
-            "A": "energy / J 2400, power / W 7.2",
-            "B": "energy / J 2400, power / W 800 000",
-            "C": "energy / J 5400, power / W 16.2",
-            "D": "energy / J 5400, power / W 1.8 x 10^6"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -558,10 +571,11 @@
         "QuestionNumber": "May-June/12/2022/Q38",
         "Question": "A left hand can be used to determine the direction of the force when a current-carrying conductor is perpendicular to a magnetic field.\nWhich quantities are represented by the direction of fingers P, Q and R?",
         "Options": {
-            "A": "P: current, Q: field, R: force",
-            "B": "P: field, Q: force, R: current",
-            "C": "P: force, Q: current, R: field",
-            "D": "P: force, Q: field, R: current"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -588,10 +602,11 @@
         "QuestionNumber": "May-June/12/2022/Q40",
         "Question": "Electrical power is transmitted by cables over long distances at very high voltages.\nWhat are the effects of using a high voltage transmission system?",
         "Options": {
-            "A": "power loss in the cables: high, current in the cables: high",
-            "B": "power loss in the cables: high, current in the cables: low",
-            "C": "power loss in the cables: low, current in the cables: high",
-            "D": "power loss in the cables: low, current in the cables: low"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",

@@ -63,10 +63,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q5",
         "Question": "A ball starts from rest and rolls down a steep slope. The ball then rolls along rough horizontal ground. \nWhich graph shows the speed of the ball at different times? ",
         "Options": {
-            "A": "Graph A",
-            "B": "Graph B",
-            "C": "Graph C",
-            "D": "Graph D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -76,7 +77,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q6",
-        "Question": "A block of wood is placed on a table. External forces act on the block but the block remains stationary. \nA student suggests three conditions for the block to remain stationary. \n condition P: The resultant force on the block must equal zero. \n condition Q: The resultant moment on the block must equal zero. \n condition R: The external forces must act through the centre of mass of the block. \n Which conditions are necessary for the block to remain stationary? ",
+        "Question": "A block of wood is placed on a table. External forces act on the block but the block remains stationary. \nA student suggests three conditions for the block to remain stationary. \ncondition P: The resultant force on the block must equal zero. \ncondition Q: The resultant moment on the block must equal zero. \ncondition R: The external forces must act through the centre of mass of the block. \nWhich conditions are necessary for the block to remain stationary? ",
         "Options": {
             "A": "P and Q only",
             "B": "P and R only",
@@ -91,12 +92,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q7",
-        "Question": "A car travels at 60 km / h on a straight road. The road is dry. The driver applies the brakes suddenly. The table shows the thinking distance, the braking distance and the stopping distance. \n The same car is driven by the same driver at 60 km / h on the same road when it is wet. The driver applies the brakes suddenly again. What is the effect of the wet road on the thinking distance, the braking distance and the stopping distance? ",
+        "Question": "A car travels at 60 km / h on a straight road. The road is dry. The driver applies the brakes suddenly. The table shows the thinking distance, the braking distance and the stopping distance. \nThe same car is driven by the same driver at 60 km / h on the same road when it is wet. The driver applies the brakes suddenly again. What is the effect of the wet road on the thinking distance, the braking distance and the stopping distance? ",
         "Options": {
-            "A": "no change, increases, increases",
-            "B": "no change, no change, no change",
-            "C": "increases, increases, increases",
-            "D": "increases, no change, increases"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -183,10 +185,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q13",
         "Question": "Four objects of equal mass rest on a table. The centre of mass of each object is labelled G. \nWhich object is the least stable? ",
         "Options": {
-            "A": "Object A",
-            "B": "Object B",
-            "C": "Object C",
-            "D": "Object D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -213,10 +216,10 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q15",
         "Question": "A gas syringe contains a volume V1 of gas at pressure p1. \nThe volume is reduced to V2 without any change of temperature. \nWhat is the expression for the change in pressure? ",
         "Options": {
-            "A": "p1 + V1 / V2",
-            "B": "p1 + V2 / V1",
-            "C": "p1 - V1 / V2",
-            "D": "p1 - V2 / V1"
+            "A": "((p1 . V1) / V2) + p1",
+            "B": "((p1 . V2) / V1) + p1",
+            "C": "((p1 . V1) / V2) - p1",
+            "D": "((p1 . V2) / V1) - p1"
         },
         "image": null,
         "answer": "C",
@@ -288,10 +291,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q20",
         "Question": "The diagrams represent four thermometers.\nWhich thermometer has the greatest sensitivity and which thermometer has the greatest range?",
         "Options": {
-            "A": "P, R",
-            "B": "P, S",
-            "C": "Q, R",
-            "D": "Q, S"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -303,10 +307,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q21",
         "Question": "Air is trapped in a metal cylinder by a piston. The piston is free to move and the trapped air is at atmospheric pressure.\nThe cylinder is in hot water.\nThe cylinder is taken out of the water and left to cool.\nWhat happens to the mass of the air in the cylinder and its pressure as it cools?",
         "Options": {
-            "A": "does not change, does not change",
-            "B": "does not change, changes",
-            "C": "changes, does not change",
-            "D": "changes, changes"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -333,10 +338,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q23",
         "Question": "A ray of light in water is refracted at the surface into air.\nWhich diagram shows the angle of incidence i and the angle of refraction r?",
         "Options": {
-            "A": "i, r",
-            "B": "i, r",
-            "C": "i, r",
-            "D": "r, i"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -363,10 +369,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q25",
         "Question": "Which ray diagram shows the action of a diverging lens?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -408,10 +415,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q28",
         "Question": "Sound waves are displayed as a trace on the screen of an oscilloscope.\nWhich trace shows a sound that becomes quieter with a higher pitch?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -423,10 +431,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q29",
         "Question": "The N pole of a permanent magnet is placed in turn close to a piece of iron, the S pole of another magnet, and a piece of copper.\nWhich objects are attracted to the N pole of the permanent magnet?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -438,10 +447,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q30",
         "Question": "Four plotting compasses are placed near a bar magnet. Ignore any effects of the Earth's magnetic field.\nOne compass appears like this.\nWhat is a possible position for this compass?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -453,10 +463,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q31",
         "Question": "Two oppositely charged plastic rods are placed next to each other.\nWhich row describes and explains how the rods move?",
         "Options": {
-            "A": "away from each other, opposite charges attract",
-            "B": "away from each other, opposite charges repel",
-            "C": "towards each other, opposite charges attract",
-            "D": "towards each other, opposite charges repel"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -468,10 +479,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q32",
         "Question": "A meter that measures the rate of flow of charge in a resistor is placed in a circuit.\nWhat is the name of this meter and how is it connected to the resistor?",
         "Options": {
-            "A": "ammeter, in parallel",
-            "B": "ammeter, in series",
-            "C": "voltmeter, in parallel",
-            "D": "voltmeter, in series"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -513,10 +525,11 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q35",
         "Question": "A coil of wire is rotated at a constant rate between the poles of a U-shaped magnet.\nThe two ends of the coil are connected to different slip rings.\nWhich graph shows how the voltage V between the slip rings varies with time t?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -541,12 +554,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/12/2022/Q37",
-        "Question": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength\n electromagnetic waves and electrons.\nWhat are these three types of radiation?",
+        "Question": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength\nelectromagnetic waves and electrons.\nWhat are these three types of radiation?",
         "Options": {
-            "A": "alpha",
-            "B": "gamma",
-            "C": "beta",
-            "D": "gamma"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -558,10 +572,10 @@
         "QuestionNumber": "Oct-Nov/12/2022/Q38",
         "Question": "The diagram shows a relay used to switch on an electric motor.",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": "1 → 5 → 2 → 4 → 3 ",
+            "B": "3 → 2 → 4 → 1 → 5",
+            "C": "3 → 4 → 1 → 5 → 2",
+            "D": "5 → 1 → 4 → 2 → 3 "
         },
         "image": null,
         "answer": "D",

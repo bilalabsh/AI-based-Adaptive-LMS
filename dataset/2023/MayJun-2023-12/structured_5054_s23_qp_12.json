@@ -18,10 +18,11 @@
         "QuestionNumber": "May-June/12/2023/Q2",
         "Question": "Which row describes acceleration, displacement, distance and speed?",
         "Options": {
-            "A": "scalar scalar vector scalar",
-            "B": "scalar vector scalar vector",
-            "C": "vector scalar vector vector",
-            "D": "vector vector scalar scalar"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -63,10 +64,11 @@
         "QuestionNumber": "May-June/12/2023/Q5",
         "Question": "The diagrams show four balances, W, X, Y and Z.\nThe scales of all the balances are calibrated on the Earth to measure mass.\nWhich balances also measure mass correctly when used on the Moon?",
         "Options": {
-            "A": "W and X",
-            "B": "W and Z",
-            "C": "X and Y",
-            "D": "Y and Z"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -78,10 +80,11 @@
         "QuestionNumber": "May-June/12/2023/Q6",
         "Question": "A spacecraft carries a probe to Mars where the gravitational field strength is 3.7 N / kg.\nThe weight of the probe on Mars is 370 N.\nThe gravitational field strength on Earth is 9.8 N / kg.\nWhat are the mass and the weight of the probe on Earth?",
         "Options": {
-            "A": "100 kg, 370 N",
-            "B": "100 kg, 980 N",
-            "C": "370 kg, 98 N",
-            "D": "370 kg, 3700 N"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -108,10 +111,11 @@
         "QuestionNumber": "May-June/12/2023/Q8",
         "Question": "Newton's third law describes a pair of forces.\nWhich row shows whether the two forces are of the same type and whether they act on the same object?",
         "Options": {
-            "A": "different, different",
-            "B": "different, same",
-            "C": "same, different",
-            "D": "same, same"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -123,10 +127,11 @@
         "QuestionNumber": "May-June/12/2023/Q9",
         "Question": "The stopping distance of a car is the sum of the thinking distance and the braking distance.\nWhich factors affect the braking distance?",
         "Options": {
-            "A": "speed of car",
-            "B": "tiredness of driver",
-            "C": "condition of road",
-            "D": "speed of car, condition of road"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -138,10 +143,11 @@
         "QuestionNumber": "May-June/12/2023/Q10",
         "Question": "A load-extension graph for a spring is shown.\nWhich point is the limit of proportionality for the spring and what is the spring constant of the spring equal to?",
         "Options": {
-            "A": "Q, the gradient of PQ",
-            "B": "Q, the gradient of QR",
-            "C": "R, the gradient of PQ",
-            "D": "R, the gradient of QR"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -303,10 +309,12 @@
         "QuestionNumber": "May-June/12/2023/Q21",
         "Question": "The diagrams show light incident on the straight edge of a semi-circular glass block after passing\nthrough it.\nWhich diagram shows refraction and an angle i equal to the critical angle of the glass?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
+
         },
         "image": null,
         "answer": "C",
@@ -363,10 +371,11 @@
         "QuestionNumber": "May-June/12/2023/Q25",
         "Question": "The diagram shows a bar magnet and four labelled arrows.\nWhich arrow shows the direction of the magnetic field at the point where the arrow is shown?",
         "Options": {
-            "A": "",
-            "B": "",
-            "C": "",
-            "D": ""
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -393,10 +402,11 @@
         "QuestionNumber": "May-June/12/2023/Q27",
         "Question": "A metal conductor is connected between the positive and negative terminals of a battery.\nWhich row gives the direction of movement of the particles that flow in the conductor and their\nname?",
         "Options": {
-            "A": "from positive terminal to negative terminal\nprotons",
-            "B": "from positive terminal to negative terminal\nelectrons",
-            "C": "from negative terminal to positive terminal\nprotons",
-            "D": "from negative terminal to positive terminal\nelectrons"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -423,10 +433,11 @@
         "QuestionNumber": "May-June/12/2023/Q29",
         "Question": "A student has three 15 Ω resistors.\nShe connects the resistors together in different arrangements.\nWhat is the minimum resistance and what is the maximum resistance of the arrangements that\nthe student can produce?",
         "Options": {
-            "A": "5.0 15",
-            "B": "5.0 45",
-            "C": "15 30",
-            "D": "15 45"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -438,10 +449,11 @@
         "QuestionNumber": "May-June/12/2023/Q30",
         "Question": "The circuit diagram shows a variable resistor R connected in parallel to the lower section of a\npotential divider.\nThe resistance of R increases.\nWhat happens to the two voltmeter readings V1 and V2?",
         "Options": {
-            "A": "decreases decreases",
-            "B": "decreases increases",
-            "C": "increases decreases",
-            "D": "increases increases"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -498,10 +510,11 @@
         "QuestionNumber": "May-June/12/2023/Q34",
         "Question": "A nucleus of an isotope of cobalt is represented by the symbol Co.59\n27\nWhat is the composition of this nucleus?",
         "Options": {
-            "A": "27 32",
-            "B": "27 59",
-            "C": "59 27",
-            "D": "59 32"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -526,7 +539,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q36",
-        "Question": "A sample of a radioactive isotope with a very long half-life is placed next to a detector. Sheets of different materials are inserted, one at a time, between the radioactive sample and the detector. \nThe background count rate is subtracted from the readings on the detector and the corrected count rates are recorded in the table.\nWhich types of radiation are emitted by the radioactive sample?",
+        "Question": "A sample of a radioactive isotope with a very long half-life is placed next to a detector. Sheets of different materials are inserted, one at a time, between the radioactive sample and the detector.\nThe background count rate is subtracted from the readings on the detector and the corrected count rates are recorded in the table.\nWhich types of radiation are emitted by the radioactive sample?",
         "Options": {
             "A": "alpha-particles and beta-particles only",
             "B": "alpha-particles only",
@@ -556,7 +569,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q38",
-        "Question": "What is the purpose of moderators in nuclear reactors?\n\nA to absorb all the neutrons in order to stop the chain reaction\n\nB to produce more neutrons in order to create a chain reaction\n\nC to remove thermal energy in order to control the chain reaction\n\nD to slow down neutrons in order to continue the chain reaction",
+        "Question": "What is the purpose of moderators in nuclear reactors?\nA to absorb all the neutrons in order to stop the chain reaction\nB to produce more neutrons in order to create a chain reaction\nC to remove thermal energy in order to control the chain reaction\nD to slow down neutrons in order to continue the chain reaction",
         "Options": {
             "A": "to absorb all the neutrons in order to stop the chain reaction",
             "B": "to produce more neutrons in order to create a chain reaction",
@@ -586,7 +599,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2023/Q40",
-        "Question": "Four of the stages in the life cycle of a star, until it becomes a red giant, are shown.\n\nW Inward force of gravitational attraction is balanced by an outward force from its\ncentre.\n\nX Internal gravitational collapse produces an increase in temperature.\n\nY It expands.\n\nZ Most of the hydrogen has been converted to helium.\n\nIn which order do these stages occur, starting with the earliest?",
+        "Question": "Four of the stages in the life cycle of a star, until it becomes a red giant, are shown.\nW Inward force of gravitational attraction is balanced by an outward force from its\ncentre.\nX Internal gravitational collapse produces an increase in temperature.\nY It expands.\nZ Most of the hydrogen has been converted to helium.\nIn which order do these stages occur, starting with the earliest?",
         "Options": {
             "A": "W→ X→ Y→ Z",
             "B": "W→ X→ Z→ Y",

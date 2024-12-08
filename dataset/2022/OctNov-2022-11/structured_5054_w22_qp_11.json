@@ -48,10 +48,11 @@
         "QuestionNumber": "Oct-Nov/11/2022/Q4",
         "Question": "Which part of the distance-time graph shows the fastest constant speed?",
         "Options": {
-            "A": "A",
-            "B": "B",
-            "C": "C",
-            "D": "D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -63,10 +64,11 @@
         "QuestionNumber": "Oct-Nov/11/2022/Q5",
         "Question": "An object is accelerating along a straight, horizontal track. The acceleration is uniform.\nWhich speed-time graph represents the motion of the object?",
         "Options": {
-            "A": "A",
-            "B": "B",
-            "C": "C",
-            "D": "D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -108,10 +110,11 @@
         "QuestionNumber": "Oct-Nov/11/2022/Q8",
         "Question": "A planet orbits the Sun. The planet moves in a circular path at constant speed, but is accelerating because it is changing direction.\nIn which direction does the resultant force act to cause this acceleration?",
         "Options": {
-            "A": "towards the Sun",
-            "B": "away from the Sun",
-            "C": "in the direction of the planet's motion",
-            "D": "opposite to the direction of the planet's motion"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -123,10 +126,11 @@
         "QuestionNumber": "Oct-Nov/11/2022/Q9",
         "Question": "X is the result of Y divided by Z.\nWhat are X, Y and Z?",
         "Options": {
-            "A": "mass, weight, gravitational field strength",
-            "B": "weight, mass, gravitational field strength",
-            "C": "mass, gravitational field strength, weight",
-            "D": "weight, gravitational field strength, mass"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -168,10 +172,11 @@
         "QuestionNumber": "Oct-Nov/11/2022/Q12",
         "Question": "Four objects of equal mass rest on a table. The centre of mass of each object is labelled G.\nWhich object is the least stable?",
         "Options": {
-            "A": "Object A",
-            "B": "Object B",
-            "C": "Object C",
-            "D": "Object D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -198,10 +203,11 @@
         "QuestionNumber": "Oct-Nov/11/2022/Q14",
         "Question": "The pressure P of some trapped air is varied. The mass and the temperature of the trapped air remain constant.\nWhich graph shows how the volume V of the air varies with the pressure P?",
         "Options": {
-            "A": "P inversely proportional to V",
-            "B": "P directly proportional to V",
-            "C": "P inversely proportional to V²",
-            "D": "P directly proportional to V²"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -273,10 +279,11 @@
         "QuestionNumber": "Oct-Nov/11/2022/Q19",
         "Question": "The diagrams represent four thermometers.\nWhich thermometer has the greatest sensitivity and which thermometer has the greatest range?",
         "Options": {
-            "A": "P, R",
-            "B": "P, S",
-            "C": "Q, R",
-            "D": "Q, S"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -346,7 +353,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q24",
-        "Question": "A mirror is placed in the path of a ray of light. \nThrough which angle does the direction of the ray of light change?",
+        "Question": "A mirror is placed in the path of a ray of light.\nThrough which angle does the direction of the ray of light change?",
         "Options": {
             "A": "40°",
             "B": "90°",
@@ -361,7 +368,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q25",
-        "Question": "An oscilloscope is used to demonstrate a sound. \nWhich feature of the oscilloscope trace is affected by the quality (timbre) of the sound?",
+        "Question": "An oscilloscope is used to demonstrate a sound.\nWhich feature of the oscilloscope trace is affected by the quality (timbre) of the sound?",
         "Options": {
             "A": "amplitude",
             "B": "frequency",
@@ -376,12 +383,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q26",
-        "Question": "Four plotting compasses are placed near a bar magnet. Ignore any effects of the Earth's magnetic field. \nOne compass appears like this. \nWhat is a possible position for this compass?",
+        "Question": "Four plotting compasses are placed near a bar magnet. Ignore any effects of the Earth's magnetic field.\nOne compass appears like this.\nWhat is a possible position for this compass?",
         "Options": {
-            "A": "position A",
-            "B": "position B",
-            "C": "position C",
-            "D": "position D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -391,12 +399,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q27",
-        "Question": "A plastic rod and a cloth are initially uncharged. The rod is then rubbed with the cloth and the cloth becomes positively charged. \nWhat is the sign of the charge on the plastic rod and why does it become charged?",
+        "Question": "A plastic rod and a cloth are initially uncharged. The rod is then rubbed with the cloth and the cloth becomes positively charged.\nWhat is the sign of the charge on the plastic rod and why does it become charged?",
         "Options": {
-            "A": "negative, electrons move from the cloth to the rod",
-            "B": "negative, protons move from the rod to the cloth",
-            "C": "positive, electrons move from the rod to the cloth",
-            "D": "positive, protons move from the cloth to the rod"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -421,12 +430,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q29",
-        "Question": "A circuit contains two cells and two lamps. The cells are new and are fully charged. \nIn which arrangement of the cells and lamps do the cells discharge the most quickly?",
+        "Question": "A circuit contains two cells and two lamps. The cells are new and are fully charged.\nIn which arrangement of the cells and lamps do the cells discharge the most quickly?",
         "Options": {
-            "A": "arrangement A",
-            "B": "arrangement B",
-            "C": "arrangement C",
-            "D": "arrangement D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -436,7 +446,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q30",
-        "Question": "A lamp is connected in series with a battery and a variable resistor. The resistance of the variable resistor is decreased gradually. \nWhich statement is correct?",
+        "Question": "A lamp is connected in series with a battery and a variable resistor. The resistance of the variable resistor is decreased gradually.\nWhich statement is correct?",
         "Options": {
             "A": "The current in the lamp increases.",
             "B": "The current in the variable resistor decreases.",
@@ -451,12 +461,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q31",
-        "Question": "In the circuits shown all the cells are identical and all the lamps are identical. The switches are closed. \nIn which circuit are both lamps the brightest?",
+        "Question": "In the circuits shown all the cells are identical and all the lamps are identical. The switches are closed.\nIn which circuit are both lamps the brightest?",
         "Options": {
-            "A": "circuit A",
-            "B": "circuit B",
-            "C": "circuit C",
-            "D": "circuit D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",
@@ -496,12 +507,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q34",
-        "Question": "The diagram shows the output from an a.c. generator displayed on an oscilloscope screen. \nThe generator is turned at a slower rate. The settings on the oscilloscope controls are not changed. \nWhich diagram shows the new output?",
+        "Question": "The diagram shows the output from an a.c. generator displayed on an oscilloscope screen.\nThe generator is turned at a slower rate. The settings on the oscilloscope controls are not changed.\nWhich diagram shows the new output?",
         "Options": {
-            "A": "diagram A",
-            "B": "diagram B",
-            "C": "diagram C",
-            "D": "diagram D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -511,7 +523,7 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q35",
-        "Question": "The sound wave produced by a note is displayed on the screen of a cathode-ray oscilloscope. \nThe time-base is set at 5 ms for one division. \nWhat is the frequency of the note?",
+        "Question": "The sound wave produced by a note is displayed on the screen of a cathode-ray oscilloscope.\nThe time-base is set at 5 ms for one division.\nWhat is the frequency of the note?",
         "Options": {
             "A": "20 Hz",
             "B": "50 Hz",
@@ -526,12 +538,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q36",
-        "Question": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength electromagnetic waves, and electrons. \nWhat are these three types of radiation?",
+        "Question": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength electromagnetic waves, and electrons.\nWhat are these three types of radiation?",
         "Options": {
-            "A": "alpha, gamma, beta",
-            "B": "beta, gamma, alpha",
-            "C": "gamma, alpha, beta",
-            "D": "gamma, beta, alpha"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -541,12 +554,13 @@
     },
     {
         "QuestionNumber": "Oct-Nov/11/2022/Q37",
-        "Question": "A beam of electrons is fired into a uniform magnetic field as shown. \nThe direction of the magnetic field is into the page. \nWhich path do the electrons follow?",
+        "Question": "A beam of electrons is fired into a uniform magnetic field as shown.\nThe direction of the magnetic field is into the page.\nWhich path do the electrons follow?",
         "Options": {
-            "A": "path A",
-            "B": "path B",
-            "C": "path C",
-            "D": "path D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "D",

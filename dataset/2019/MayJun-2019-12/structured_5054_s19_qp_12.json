@@ -93,10 +93,11 @@
         "QuestionNumber": "May-June/12/2019/Q7",
         "Question": "A force moves a box up a rough slope.\nThe diagram shows four forces acting on the box.\nWhich is the force due to friction on the box?",
         "Options": {
-            "A": "D",
-            "B": "C",
-            "C": "A",
-            "D": "B"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -108,10 +109,11 @@
         "QuestionNumber": "May-June/12/2019/Q8",
         "Question": "The mass of object P is greater than the mass of object Q.\nThe objects contain different amounts of matter and have a different resistance to change of motion.\nWhich row is correct?",
         "Options": {
-            "A": "greater amount of matter greater resistance to change of motion A P P",
-            "B": "P Q",
-            "C": "Q P",
-            "D": "Q Q"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -123,10 +125,11 @@
         "QuestionNumber": "May-June/12/2019/Q9",
         "Question": "Four objects of different masses are situated in places with different gravitational field strengths.\nWhich object has the greatest weight?",
         "Options": {
-            "A": "mass / kg 3.0 kg / N 10.4",
-            "B": "mass / kg 3.5 kg / N 9.5",
-            "C": "mass / kg 4.0 kg / N 10.2",
-            "D": "mass / kg 4.5 kg / N 9.0"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -153,10 +156,11 @@
         "QuestionNumber": "May-June/12/2019/Q11",
         "Question": "A large hook sticks into a pencil.\nThe hook and pencil are balanced on the edge of a table, as shown.\nWhere is the centre of mass of the hook and pencil?",
         "Options": {
-            "A": "pencil",
-            "B": "table",
-            "C": "large hook",
-            "D": "unknown"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -168,10 +172,11 @@
         "QuestionNumber": "May-June/12/2019/Q12",
         "Question": "The diagram shows a graph of load against extension for a material.\nAt which point is the limit of proportionality?",
         "Options": {
-            "A": "A",
-            "B": "B",
-            "C": "C",
-            "D": "D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -213,10 +218,11 @@
         "QuestionNumber": "May-June/12/2019/Q15",
         "Question": "The pressure on the gas contained in a sealed syringe is slowly doubled.\nThe volume of the gas halves.\nWhat must be true about the density and the temperature of the gas?",
         "Options": {
-            "A": "density decreases, temperature increases",
-            "B": "density increases, temperature decreases",
-            "C": "density increases, remains constant",
-            "D": "remains constant, temperature increases"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -271,7 +277,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q19",
-        "Question": "Three solar panels have a total area of 7.2 m2.\nTogether, they produce 1.0 kW of power.\nWhat is the efficiency of the solar panels?",
+        "Question": "Three solar panels have a total area of 7.2 m^2.\nTogether, they produce 1.0 kW of power.\nWhat is the efficiency of the solar panels?",
         "Options": {
             "A": "11%",
             "B": "17%",
@@ -331,7 +337,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q23",
-        "Question": "In low-pressure hydrogen, there are no forces between the molecules except during collisions with each other. \nWhich statement describes the motion of a molecule between one collision and the next?",
+        "Question": "In low-pressure hydrogen, there are no forces between the molecules except during collisions with each other.\nWhich statement describes the motion of a molecule between one collision and the next?",
         "Options": {
             "A": "It moves with changing speed and continuously changes direction.",
             "B": "It moves with changing speed in a straight line.",
@@ -346,7 +352,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q24",
-        "Question": "A gas is enclosed in a container of fixed volume. \nThe gas gains heat energy from an external source. \nWhat happens to the molecules of the gas?",
+        "Question": "A gas is enclosed in a container of fixed volume.\nThe gas gains heat energy from an external source.\nWhat happens to the molecules of the gas?",
         "Options": {
             "A": "They expand.",
             "B": "They move faster inside the container.",
@@ -361,7 +367,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q25",
-        "Question": "A wave on water travels towards a stationary boat. \nAs the wave passes, the boat starts to move up and down and gains kinetic energy from the wave. \nWhich property of the wave changes as the wave passes the boat?",
+        "Question": "A wave on water travels towards a stationary boat.\nAs the wave passes, the boat starts to move up and down and gains kinetic energy from the wave.\nWhich property of the wave changes as the wave passes the boat?",
         "Options": {
             "A": "amplitude",
             "B": "frequency",
@@ -391,7 +397,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q27",
-        "Question": "An object is placed at a distance from a converging lens that is equal to twice the focal length of the lens. \nWhich statement about the image is correct?",
+        "Question": "An object is placed at a distance from a converging lens that is equal to twice the focal length of the lens.\nWhich statement about the image is correct?",
         "Options": {
             "A": "It is enlarged.",
             "B": "It is inverted.",
@@ -406,7 +412,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q28",
-        "Question": "The lens in the diagram produces an image I of the object O. \nWhy is this not the ray diagram for a photographic enlarger?",
+        "Question": "The lens in the diagram produces an image I of the object O.\nWhy is this not the ray diagram for a photographic enlarger?",
         "Options": {
             "A": "The image is magnified.",
             "B": "The image is virtual.",
@@ -436,7 +442,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q30",
-        "Question": "The speed of sound in air is ca, the speed of sound in water is cw and the speed of sound in ice is ci. \nWhich relationship is correct?",
+        "Question": "The speed of sound in air is ca, the speed of sound in water is cw and the speed of sound in ice is ci.\nWhich relationship is correct?",
         "Options": {
             "A": "ca > ci",
             "B": "ca > cw",
@@ -451,7 +457,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q31",
-        "Question": "One end of each of two bars is marked with an X or a Y, as shown. \nEnd X of bar 1 is brought close to the N-pole and then to the S-pole of a magnet.\n End Y of bar 2 is brought close to the N-pole and then to the S-pole of the magnet.\n The table shows what happens.What materials are bar 1 and bar 2 made from?",
+        "Question": "One end of each of two bars is marked with an X or a Y, as shown.\nEnd X of bar 1 is brought close to the N-pole and then to the S-pole of a magnet.\nEnd Y of bar 2 is brought close to the N-pole and then to the S-pole of the magnet.\nThe table shows what happens.What materials are bar 1 and bar 2 made from?",
         "Options": {
             "A": "bar 1: copper, bar 2: iron",
             "B": "bar 1: iron, bar 2: steel",
@@ -466,7 +472,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q32",
-        "Question": "The diagram shows a car ignition switch and starter motor. \nThe ignition switch is in a circuit with long, thin wires. The starter motor is in a circuit with short, thick wires.\nWhat is the explanation for the choice of wires?",
+        "Question": "The diagram shows a car ignition switch and starter motor.\nThe ignition switch is in a circuit with long, thin wires. The starter motor is in a circuit with short, thick wires.\nWhat is the explanation for the choice of wires?",
         "Options": {
             "A": "Each circuit needs to contain the same total mass of wire.",
             "B": "Thicker wires heat up more quickly when the relay is switched on.",
@@ -481,7 +487,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q33",
-        "Question": "The diagram shows a simple circuit. \nWhat happens when the resistance of the variable resistor is increased?",
+        "Question": "The diagram shows a simple circuit.\nWhat happens when the resistance of the variable resistor is increased?",
         "Options": {
             "A": "The lamps are dimmer and the motor rotates more quickly.",
             "B": "The lamps are dimmer and the motor rotates more slowly.",
@@ -496,7 +502,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q34",
-        "Question": "The diagram shows a simple electrical circuit. \nWhich statement cannot be correct?",
+        "Question": "The diagram shows a simple electrical circuit.\nWhich statement cannot be correct?",
         "Options": {
             "A": "The current I is 2 A.",
             "B": "The e.m.f. E is 12 J.",
@@ -511,7 +517,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q35",
-        "Question": "The cable to an electric cooker contains a live wire, a neutral wire and an earth wire. \nWhen the cooker is working correctly, in which wires are the currents equal?",
+        "Question": "The cable to an electric cooker contains a live wire, a neutral wire and an earth wire.\nWhen the cooker is working correctly, in which wires are the currents equal?",
         "Options": {
             "A": "the live, the neutral and the earth",
             "B": "the live and the earth only",
@@ -526,7 +532,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q36",
-        "Question": "The manufacturer of an electrical heater states that only one heater must be connected to the mains wiring through any fuse. \nThe current in the circuit with only one heater is 9 A. The fuse rating is 10 A. \nDespite the warning, a second identical heater is added, as shown. When the switch is closed the fuse blows.\nThe fuse is replaced with a 20 A fuse. \nWhat happens when the switch is closed?",
+        "Question": "The manufacturer of an electrical heater states that only one heater must be connected to the mains wiring through any fuse.\nThe current in the circuit with only one heater is 9 A. The fuse rating is 10 A.\nDespite the warning, a second identical heater is added, as shown. When the switch is closed the fuse blows.\nThe fuse is replaced with a 20 A fuse.\nWhat happens when the switch is closed?",
         "Options": {
             "A": "Each heater only receives half the correct current.",
             "B": "Each heater receives twice the correct current.",
@@ -541,12 +547,13 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q37",
-        "Question": "A coil is rotating in a magnetic field. The coil is connected to an oscilloscope. The diagram shows the trace on the screen of the oscilloscope. \nThe coil now speeds up and rotates twice as fast. \nWhich diagram shows the new trace?",
+        "Question": "A coil is rotating in a magnetic field. The coil is connected to an oscilloscope. The diagram shows the trace on the screen of the oscilloscope.\nThe coil now speeds up and rotates twice as fast.\nWhich diagram shows the new trace?",
         "Options": {
-            "A": "A",
-            "B": "B",
-            "C": "C",
-            "D": "D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -556,12 +563,13 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q38",
-        "Question": "A teacher uses the circuit shown. The identical lamps X and Y are connected to a low voltage a.c. power supply by high resistance transmission wires. Both lamps are switched on.\n Lamp X is then switched off. Lamp Y stays switched on. \nWhat happens to the voltage and the power supplied to lamp Y?",
+        "Question": "A teacher uses the circuit shown. The identical lamps X and Y are connected to a low voltage a.c. power supply by high resistance transmission wires. Both lamps are switched on.\nLamp X is then switched off. Lamp Y stays switched on.\nWhat happens to the voltage and the power supplied to lamp Y?",
         "Options": {
-            "A": "the voltage supplied to lamp Y decreases, the power supplied to lamp Y decreases",
-            "B": "the voltage supplied to lamp Y decreases, the power supplied to lamp Y stays the same",
-            "C": "the voltage supplied to lamp Y increases, the power supplied to lamp Y increases",
-            "D": "the voltage supplied to lamp Y increases, the power supplied to lamp Y stays the same"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",
@@ -571,12 +579,13 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q39",
-        "Question": "A car battery supplies a current in one direction. A current in the opposite direction recharges the battery. \nWhich circuit recharges the battery, using an alternating current (a.c.) supply and a diode?",
+        "Question": "A car battery supplies a current in one direction. A current in the opposite direction recharges the battery.\nWhich circuit recharges the battery, using an alternating current (a.c.) supply and a diode?",
         "Options": {
-            "A": "a.c. supply + -",
-            "B": "a.c. supply + -",
-            "C": "a.c. supply + -",
-            "D": "a.c. supply + -"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -586,12 +595,13 @@
     },
     {
         "QuestionNumber": "May-June/12/2019/Q40",
-        "Question": "A proton has charge q and mass m. \nWhat is the charge and what is the mass of an alpha-particle?",
+        "Question": "A proton has charge q and mass m.\nWhat is the charge and what is the mass of an alpha-particle?",
         "Options": {
-            "A": "charge: q, mass: 2m",
-            "B": "charge: 2q, mass: 2m",
-            "C": "charge: 2q, mass: 4m",
-            "D": "charge: 4q, mass: 2m"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "C",

@@ -64,10 +64,11 @@
         "QuestionNumber": "May-June/12/2021/Q5",
         "Question": "The diagram shows a satellite orbiting a planet at a steady speed.\nIn which direction does the resultant force act on the satellite?",
         "Options": {
-            "A": "C",
-            "B": "B",
-            "C": "A",
-            "D": "D"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -109,10 +110,11 @@
         "QuestionNumber": "May-June/12/2021/Q8",
         "Question": "Some forces are applied at different distances from a pivot.\nWhich diagram shows the force that produces the largest moment about the pivot?",
         "Options": {
-            "A": "pivot 30 N 2.0 m",
-            "B": "pivot 80 N 50 cm",
-            "C": "pivot 18 N 3.0 m",
-            "D": "not to scale"
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "B",
@@ -184,10 +186,10 @@
         "QuestionNumber": "May-June/12/2021/Q13",
         "Question": "The diagram shows the dimensions of a box of mass M and weight W at rest on a table.\nWhat is the pressure on the table due to the box?",
         "Options": {
-            "A": "M xyz",
-            "B": "M yz",
-            "C": "W xyz",
-            "D": "W yz"
+            "A": "M / xyz",
+            "B": "M / yz",
+            "C": "W / xyz",
+            "D": "W / yz"
         },
         "image": null,
         "answer": "D",
@@ -503,10 +505,11 @@
         "QuestionNumber": "May-June/12/2021/Q34",
         "Question": "Which graph shows the relationship between current and voltage for a filament lamp?",
         "Options": {
-            "A": " ",
-            "B": " ",
-            "C": " ",
-            "D": " "
+            "A": null,
+            "B": null,
+            "C": null,
+            "D": null
+
         },
         "image": null,
         "answer": "A",
@@ -592,7 +595,7 @@
     },
     {
         "QuestionNumber": "May-June/12/2021/Q40",
-        "Question": "The count rate from a radioactive source falls from 4000 counts per minute to 500 counts per minute in 72 minutes. \nWhat is the half-life of the source?",
+        "Question": "The count rate from a radioactive source falls from 4000 counts per minute to 500 counts per minute in 72 minutes.\nWhat is the half-life of the source?",
         "Options": {
             "A": "8 minutes",
             "B": "9 minutes",

@@ -9,6 +9,7 @@
                     "part_label": "a(i)",
                     "text": "Explain why the level of mercury in the tube falls. [cite: 15]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -16,6 +17,7 @@
                     "part_label": "a(ii)",
                     "text": "State what is found at point X in Fig. 1.2. [cite: 16]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -23,6 +25,7 @@
                     "part_label": "b",
                     "text": "Describe how the tube of mercury in Fig. 1.2 is used to determine a value for the atmospheric pressure in pascals (Pa). You may draw on Fig. 1.2 if you wish. [cite: 17, 18]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
                 }
             ]
@@ -36,6 +39,7 @@
                     "part_label": "a",
                     "text": "State an expression for:\n• the gravitational potential energy of the coin at a height h above ground level\n• the kinetic energy of the coin when travelling at a speed v. [cite: 21]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -43,6 +47,7 @@
                     "part_label": "b",
                     "text": "The coin is dropped from the top of a building of height 380 m. Determine the speed of the coin as it hits the ground. You may ignore air resistance. [cite: 22]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
@@ -50,6 +55,7 @@
                     "part_label": "c(i)",
                     "text": "When air resistance is negligible, a heavier coin hits the ground at the same speed as a lighter coin when they are both dropped from the same height. Explain why. [cite: 23, 24]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -57,6 +63,7 @@
                     "part_label": "c(ii)",
                     "text": "When air resistance acts, coins of different masses do not hit the ground at the same speed when they are dropped from the same height. Explain why. [cite: 24, 25]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
                 }
             ]
@@ -70,6 +77,7 @@
                     "part_label": "a",
                     "text": "Describe, in terms of the molecules, three ways in which a gas differs from a liquid. [cite: 28]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
@@ -77,6 +85,7 @@
                     "part_label": "b",
                     "text": "In order to keep the liquid boiling, it is necessary to keep the hotplate switched on. Explain why energy must be supplied in order to turn a liquid at its boiling point into a gas. [cite: 29, 30]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
                 }
             ]
@@ -90,6 +99,7 @@
                     "part_label": "a",
                     "text": "State the name of the component labelled: A, B, C. [cite: 33]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -97,6 +107,7 @@
                     "part_label": "b",
                     "text": "State the name of the component of the electromagnetic spectrum that has: the greatest frequency, the smallest wavelength. [cite: 33]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -104,6 +115,7 @@
                     "part_label": "c",
                     "text": "Explain how X-rays are used to produce an image of a broken bone in a patient's leg. [cite: 34]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
                 }
             ]
@@ -117,6 +129,7 @@
                     "part_label": "",
                     "text": "Using Fig. 5.2, determine the density of the oil. [cite: 40]",
                     "answer": null,
+                    "marks" : 4,
                     "image": null
                 }
             ]
@@ -130,6 +143,7 @@
                     "part_label": "a(i)",
                     "text": "Calculate the current in the lamp. [cite: 44]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -137,6 +151,7 @@
                     "part_label": "a(ii)",
                     "text": "Calculate the resistance of the lamp. [cite: 46]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -144,6 +159,7 @@
                     "part_label": "b(i)",
                     "text": "The lamp is now unplugged from the mains supply and connected in series with two 1.5 V cells. Fig. 6.1 is the circuit diagram. State the reading on the voltmeter. [cite: 48, 49]",
                     "answer": null,
+                    "marks" : 1,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zTAeAiO8D6JS9RV3BHr1QLfeCmylXFadkpEv0"
 },
 
@@ -151,6 +167,7 @@
                     "part_label": "b(ii)",
                     "text": "State and explain how the resistance of the lamp now differs from the value calculated in (a)(ii). [cite: 50]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -158,6 +175,7 @@
                     "part_label": "b(iii)",
                     "text": "When a filament lamp blows, it very often does so immediately after being switched on. Suggest why this is the case. [cite: 51, 52]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
                 }
             ]
@@ -165,12 +183,13 @@
         {
             "question_number": "7",
             "text": "Table 7.1 shows the composition of four neutral atoms and one atom that has been ionised. These five particles are labelled P, Q, R, S and T. The charge on an electron is -1.6 x 10^-19 C.",
-           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z0WGlz2ocTj8VdSB4qDQ9IUz6afyw2JmGOMx3",
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z0WGlz2ocTj8VdSB4qDQ9IUz6afyw2JmGOMx3",
         "parts": [
 {
                     "part_label": "a(i)",
                     "text": "State which of P, Q, R, S and T is the ionised atom. [cite: 56]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -178,6 +197,7 @@
                     "part_label": "a(ii)",
                     "text": "State the size and the sign of the charge on the ionised atom. [cite: 57]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -185,6 +205,7 @@
                     "part_label": "b",
                     "text": "State which pair from P, Q, R, S and T are isotopes of the same element. [cite: 58]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -192,6 +213,7 @@
                     "part_label": "c(i)",
                     "text": "One of the atoms is a radioactive isotope that decays to produce one of the other atoms. Deduce which atom decays in this way. [cite: 59, 60]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -199,6 +221,7 @@
                     "part_label": "c(ii)",
                     "text": "Deduce which atom is the product of this decay. [cite: 60]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -206,6 +229,7 @@
                     "part_label": "c(iii)",
                     "text": "Deduce which type of radioactive decay occurs. [cite: 61]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -213,6 +237,7 @@
                     "part_label": "c(iv)",
                     "text": "The half-life for this radioactive decay is 33 years. A radioactive sample contains a large number of the atoms that decay in this way. Determine the fraction of this number of atoms that will decay in 99 years. [cite: 61, 62, 63]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
                 }
             ]
@@ -226,6 +251,7 @@
                     "part_label": "a",
                     "text": "A small electric component in a circuit needs to be protected from a strong, external magnetic field. Describe how this is done and state any material used. [cite: 66, 67]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -233,6 +259,7 @@
                     "part_label": "b(i)",
                     "text": "Electromagnets have many domestic and industrial applications. In the space, draw a diagram of a simple electromagnet. [cite: 67, 68]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
@@ -240,13 +267,13 @@
                     "part_label": "b(ii)",
                     "text": "State and describe in detail one use of an electromagnet. [cite: 69]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
                 {
                     "part_label": "c",
                     "text": "Fig. 8.2 shows a solenoid connected to a sensitive ammeter. Explain what is observed on the ammeter when a student:",
-                    "answer": null,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zEi1elhSN7nxAWpJZKjvdBUumiskwaRIQqoFt"
 },
 
@@ -254,6 +281,7 @@
                     "part_label": "c(i)",
                     "text": "inserts an N-pole of a bar magnet slowly into the right-hand end of the solenoid. [cite: 72]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
@@ -261,6 +289,7 @@
                     "part_label": "c(ii)",
                     "text": "holds the bar magnet stationary in the solenoid. [cite: 72]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -268,6 +297,7 @@
                     "part_label": "c(iii)",
                     "text": "withdraws the N-pole of the magnet quickly from the right-hand end of the solenoid. [cite: 73]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
                 }
             ]
@@ -281,6 +311,7 @@
                     "part_label": "a",
                     "text": "The reservoir of water in the plastic container is at room temperature. It does not mix with the cold water in the tank below. Explain why. [cite: 75, 76]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -288,6 +319,7 @@
                     "part_label": "b(i)",
                     "text": "When the tap is opened, water at room temperature from the reservoir flows down into the tank. Cold water from the tank flows through the plastic pipe and out of the tap. Cold liquid from the refrigeration unit is pumped through the copper pipe and thermal energy passes through the copper to this liquid. Suggest why this pipe is made from copper. [cite: 77, 78, 79, 80]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -295,6 +327,7 @@
                     "part_label": "b(ii)",
                     "text": "Explain, in terms of free electrons, how thermal energy is transferred through the copper. [cite: 81]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
@@ -302,6 +335,7 @@
                     "part_label": "b(iii)",
                     "text": "As the water near the copper pipe cools, it begins to mix with the rest of the water in the tank. Explain how this happens. [cite: 82, 83]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
@@ -309,6 +343,7 @@
                     "part_label": "c",
                     "text": "The tap is opened and water at 21°C flows from the reservoir into the tank. The specific heat capacity of water is 4200J /(kg°C). Calculate the thermal energy that is removed from 250g of this water to reduce its temperature to 7°C. [cite: 83, 84]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
@@ -316,6 +351,7 @@
                     "part_label": "d(i)",
                     "text": "Describe the motion of the molecules in a liquid which is at a uniform temperature throughout. [cite: 85]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -323,6 +359,7 @@
                     "part_label": "d(ii)",
                     "text": "State what happens to the motion of the molecules in a liquid as the temperature of the liquid decreases. [cite: 86]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
                 }
             ]
@@ -336,6 +373,7 @@
                     "part_label": "a",
                     "text": "State the speed of light in a vacuum. [cite: 89]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -343,6 +381,7 @@
                     "part_label": "b",
                     "text": "State the colours of the visible spectrum. [cite: 90]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -350,6 +389,7 @@
                     "part_label": "c(i)",
                     "text": "An object O of height 3.0cm is placed 4.0cm from the centre of a diverging lens. Fig. 10.1 shows the object O, the diverging lens and the two focal points (principal focuses), F1 and F2, of the lens. Determine the focal length of this lens. [cite: 90, 91, 92]",
                     "answer": null,
+                    "marks" : 1,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zkS2ZxT0IV0zt2ngpB3LPE6aUfRdhXCulYOq9"
 },
 
@@ -357,13 +397,15 @@
                     "part_label": "c(ii)",
                     "text": "The diverging lens produces an image of object O. On Fig. 10.1, by drawing rays from the tip of O, locate this image and label it I. [cite: 93]",
                     "answer": null,
+                    "marks" : 4,
                     "image": null
 },
 
-                 {
+                {
                     "part_label": "c(iii)",
                     "text": "Determine the height of the image. [cite: 93]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -371,6 +413,7 @@
                     "part_label": "c(iv)",
                     "text": "Determine the magnification of the image. [cite: 95]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -378,6 +421,7 @@
                     "part_label": "c(v)",
                     "text": "State two ways in which a virtual image differs from a real image. [cite: 96]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -385,6 +429,7 @@
                     "part_label": "c(vi)",
                     "text": "State one use for a diverging lens. [cite: 97]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -392,6 +437,7 @@
                     "part_label": "d",
                     "text": "Light passing from air into glass refracts in a similar way to a water wave passing from deep water into shallow water. Fig. 10.2 represents light passing from air into glass at an angle to the surface. One side of a wavefront strikes the glass before the other side. Explain why the wavefronts change direction as the light enters the glass. [cite: 98, 99, 100, 101]",
                     "answer": null,
+                    "marks" : 3,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zjyH8mQtcX8yYHmo51UqruQTa7KGeAMI4dltn"
                 }
             ]

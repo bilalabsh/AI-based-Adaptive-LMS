@@ -9,6 +9,7 @@
                     "part_label": "a(i)",
                     "text": "Determine the distance between the two towns. [cite: 13]",
                     "answer": null,
+                    "marks" : 1,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zAZho4LyyWlge6onXFREq0hTvGY4A7riPIZLp"
 },
 
@@ -16,6 +17,7 @@
                     "part_label": "a(ii)",
                     "text": "Determine the time for which the cyclist rests during the journey, before he reaches town B. [cite: 13]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -23,6 +25,7 @@
                     "part_label": "b",
                     "text": "The speed of the cyclist near the end of the journey is greater than the speed at the beginning. State how the graph shows this. [cite: 13, 14]",
                     "answer": null,
+                    "marks" :  1,
                     "image": null
 },
 
@@ -30,6 +33,7 @@
                     "part_label": "c",
                     "text": "Calculate the average speed of the cyclist for the journey from A to B. [cite: 14]",
                     "answer": null,
+                    "marks" :2  ,
                     "image": null
                 }
             ]
@@ -44,6 +48,7 @@
                     "part_label": "a",
                     "text": "Some sources of energy, used to produce electricity, may run out in the future. Underline the two sources of energy that are likely to run out first, before the others. coal oil solar tides wave wind [cite: 15, 16, 17]",
                     "answer": null,
+                    "marks" :1  ,
                     "image": null
 },
 
@@ -51,6 +56,7 @@
                     "part_label": "b(i)",
                     "text": "Fig. 2.1 is a simplified diagram of a geothermal power station. [cite: 17, 18]\nThermal energy is given to the water as it passes through rocks underground. Describe the process by which this thermal energy causes the turbine to turn. [cite: 19]",
                     "answer": null,
+                    "marks" :2  ,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zkBuv3V0IV0zt2ngpB3LPE6aUfRdhXCulYOq9"
 },
 
@@ -58,6 +64,7 @@
                     "part_label": "b(ii)",
                     "text": "Water from the cooling tower at 30 \u00B0C passes into the ground and is heated to 160 \u00B0C. The specific heat capacity of water is 4200 J/(kg \u00B0C). Calculate the thermal energy (heat) needed to heat 90 kg of water from 30 \u00B0C to 160 \u00B0C. [cite: 20, 21, 22]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
                 }
             ]
@@ -71,6 +78,7 @@
                     "part_label": "a",
                     "text": "State the form of energy stored in the stretched spring and the form of energy stored in the muscles of the athlete. [cite: 26, 27]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -78,6 +86,7 @@
                     "part_label": "b",
                     "text": "Suggest what happens if he extends the spring beyond the limit of proportionality. [cite: 27, 28]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -85,6 +94,7 @@
                     "part_label": "c(i)",
                     "text": "During one extension of the spring, its length increases from 70cm to 93 cm. The average force exerted by the athlete is 400 N. Calculate the work done by the athlete in one extension. [cite: 28, 29, 30]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -92,6 +102,7 @@
                     "part_label": "c(ii)",
                     "text": "Describe how the athlete can use the value obtained in (i) to determine his average power during the 60 s. [cite: 30, 31]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
                 }
             ]
@@ -105,6 +116,7 @@
                     "part_label": "a",
                     "text": "A liquid occupies a much smaller volume than a gas which has the same number of molecules. Explain why there is this difference. [cite: 33, 34]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -112,6 +124,7 @@
                     "part_label": "b(i)",
                     "text": "The volume of the gas changes from V1 to V2 as the piston moves into the cylinder. This increases the pressure from p1 to p2. The temperature remains the same. State the formula that relates V1, V2, p1 and p2. [cite: 34, 35, 36]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -119,6 +132,7 @@
                     "part_label": "b(ii)",
                     "text": "The initial pressure of the gas in the cylinder is 1.2 \u00D7 10^5 Pa and its initial volume is 100 cm^3. The cross-sectional area of the piston is 5.0 cm^2. The piston is pushed in a distance of 8.0 cm. Calculate the final pressure of the gas in the cylinder. [cite: 36, 37, 38]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
@@ -126,6 +140,7 @@
                     "part_label": "b(iii)",
                     "text": "Explain, using ideas about molecules, why the pressure of the gas changes. [cite: 39]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
                 }
             ]
@@ -139,6 +154,7 @@
                     "part_label": "a",
                     "text": "Describe how the student uses the apparatus in Fig. 5.1 to obtain a range of ammeter and voltmeter readings. [cite: 40]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -146,6 +162,7 @@
                     "part_label": "b(i)",
                     "text": "The readings obtained are shown in Table 5.1. State Ohm's law. [cite: 41, 42, 43]",
                     "answer": null,
+                    "marks" : 2,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zsgvnGnBvNek8RAbHLUPnuEOD24qIzC0iQcGf"
 },
 
@@ -153,6 +170,7 @@
                     "part_label": "b(ii)",
                     "text": "Using the results in Table 5.1, show that the resistor obeys Ohm's law. [cite: 43]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -160,6 +178,7 @@
                     "part_label": "b(iii)",
                     "text": "The student has available an ammeter with five ranges marked: 0-10A, 0-200 mA, 0-20 mA, 0-2mA, 0-0.2mA. Suggest how the student makes best use of the different ranges during the investigation. [cite: 44, 45]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
                 }
             ]
@@ -173,6 +192,7 @@
                     "part_label": "a",
                     "text": "State how the fuse protects the wires in the hairdryer. [cite: 47, 48]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -180,6 +200,7 @@
                     "part_label": "b(i)",
                     "text": "The hairdryer is rated at 240 V, 1500 W. It is switched on. Calculate the current in the hairdryer. [cite: 48, 49]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -187,6 +208,7 @@
                     "part_label": "b(ii)",
                     "text": "Suggest a suitable current rating for the fuse. [cite: 49, 50]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -194,6 +216,7 @@
                     "part_label": "c",
                     "text": "The hairdryer does not contain an earth wire to connect to the plug. State the feature of the hairdryer which ensures that it is safe to use without an earth wire. [cite: 50, 51, 52]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
                 }
             ]
@@ -207,6 +230,7 @@
                     "part_label": "a(i)",
                     "text": "Explain why an electromotive force (e.m.f.) is induced in the coil when the magnet moves. [cite: 55]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -214,6 +238,7 @@
                     "part_label": "a(ii)",
                     "text": "State one way to increase the e.m.f. induced. [cite: 56]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -221,6 +246,7 @@
                     "part_label": "b(i)",
                     "text": "The current in the coil is used to produce light from a light-emitting diode (LED). In the space below, draw the circuit symbol for an LED. [cite: 56, 57, 58]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -228,6 +254,7 @@
                     "part_label": "b(ii)",
                     "text": "An LED is a more efficient source of light than a filament lamp. Explain what this statement means. [cite: 58, 59]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
                 }
             ]
@@ -241,6 +268,7 @@
                     "part_label": "a(i)",
                     "text": "At one temperature, the resistance of the thermistor is 1200 \u03A9. Calculate the potential difference (p.d.) across the 2000 \u03A9 resistor at this temperature. [cite: 61, 62]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -248,13 +276,16 @@
                     "part_label": "a(ii)",
                     "text": "Explain why the p.d. across the 2000 \u03A9 resistor increases when the temperature increases. [cite: 62, 63]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
                 {
                     "part_label": "b",
                     "text": "The circuit in Fig. 8.1 can be adapted to enable a lamp to switch on and off automatically. Fig. 8.2 shows the circuit adapted using a relay and Fig. 8.3 shows the circuit adapted using a transistor. In both cases, the lamp switches on when the temperature of the thermistor increases. [cite: 64, 65, 66, 67]\nEITHER\nDescribe what happens inside the relay in Fig. 8.2 that causes the lamp to switch on. [cite: 67, 68]\nOR\nDescribe how the circuit and transistor in Fig. 8.3 cause the lamp to switch on. [cite: 68, 69]",
-                    "answer": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zU1oPKx47CAenGyKIR35sQkFbLzpahNMxdt0H"
+                    "answer": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zU1oPKx47CAenGyKIR35sQkFbLzpahNMxdt0H",
+                    "marks" : 2,
+                    "image": null
                 }
             ]
         },
@@ -267,6 +298,7 @@
                     "part_label": "a(i)",
                     "text": "State what is meant by: mass [cite: 73]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -274,6 +306,7 @@
                     "part_label": "a(ii)",
                     "text": "State what is meant by: weight. [cite: 73, 74]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -281,13 +314,13 @@
                     "part_label": "b",
                     "text": "Calculate the acceleration of the parachutist when the air resistance is 200N. [cite: 74, 75]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
                 {
                     "part_label": "c",
                     "text": "The parachutist falls from rest at time t = 0. He accelerates non-uniformly until he reaches a terminal velocity of 44m/s at t = 30s. At t = 40s the parachute opens. He decelerates for 4.0s, reaching a smaller terminal velocity of 5.0m/s. He then falls at this speed until he lands on the ground at t = 200s. [cite: 75, 76, 77]",
-                    "answer": null,
                     "image": null
 },
 
@@ -295,6 +328,7 @@
                     "part_label": "c(i)",
                     "text": "On Fig. 9.2, draw the speed\u2013time graph for the parachutist. [cite: 78, 79]",
                     "answer": null,
+                    "marks" : 4,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zbfJsoJH08NcVULWlqYhG3HTwv2kgZQ4ap9rA"
 },
 
@@ -302,6 +336,7 @@
                     "part_label": "c(ii)",
                     "text": "Calculate the average deceleration of the parachutist between t = 40s and t = 44s. [cite: 79, 80]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -309,13 +344,15 @@
                     "part_label": "d(i)",
                     "text": "Explain, in terms of the forces involved, why: the parachutist reaches a terminal velocity at t = 30s [cite: 80]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
                 {
                     "part_label": "d(ii)",
                     "text": "Explain, in terms of the forces involved, why: the parachutist decelerates when the parachute opens [cite: 80]",
-                    "answer": null,
+                    "answer": 2,
+                    "marks" : null,
                     "image": null
 },
 
@@ -323,6 +360,7 @@
                     "part_label": "d(iii)",
                     "text": "Explain, in terms of the forces involved, why: the second terminal velocity, when the parachute is open, is smaller than the first. [cite: 80, 81]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
                 }
             ]
@@ -336,6 +374,7 @@
                     "part_label": "a(i)",
                     "text": "Determine the wavelength of the wave in the ripple tank. [cite: 84, 85]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -343,6 +382,7 @@
                     "part_label": "a(ii)",
                     "text": "Define the term frequency. [cite: 85]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -350,6 +390,7 @@
                     "part_label": "a(iii)",
                     "text": "Determine the frequency of the wave. [cite: 85, 86]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -357,6 +398,7 @@
                     "part_label": "a(iv)",
                     "text": "The wave generator is a bar of wood. Describe how it is used to produce the wave shown. [cite: 87, 88, 89]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -364,13 +406,13 @@
                     "part_label": "a(v)",
                     "text": "Some water in the ripple tank is removed. The water becomes less deep. No other change is made. State how the change in depth affects the wavelength and the speed of the wave. [cite: 89, 90, 91]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
                 {
                     "part_label": "b",
                     "text": "A student reads in a textbook that the speed of sound in air is about 300m/s. He plans an experiment to check this value. He asks another student to stand a long distance away in a large open space. One student has a starting pistol. The pistol, when fired, produces a loud sound and a puff of smoke at the same instant. [cite: 91, 92, 93]",
-                    "answer": null,
                     "image": null
 },
 
@@ -378,6 +420,7 @@
                     "part_label": "b(i)",
                     "text": "Other pieces of apparatus are needed for this experiment in order to measure the speed of sound. Name two other pieces of apparatus that are needed. [cite: 94, 95]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -385,6 +428,7 @@
                     "part_label": "b(ii)",
                     "text": "Describe how all the measurements are made. [cite: 95, 96]",
                     "answer": null,
+                    "marks" : 3,
                     "image": null
 },
 
@@ -392,6 +436,7 @@
                     "part_label": "b(iii)",
                     "text": "State typical values for the speed of sound in: 1. a liquid 2. a solid. [cite: 97, 98]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
                 }
             ]
@@ -399,12 +444,13 @@
         {
             "question_number": "11",
             "text": "A teacher carries out an experiment on radioactivity using the apparatus shown in Fig. 11.1. [cite: 99]\nThe count rate is a measurement of the count during one minute. [cite: 100]",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zULcLvUP47CAenGyKIR35sQkFbLzpahNMxdt0",
         "parts": [
 {
                     "part_label": "a(i)",
                     "text": "State the name of one type of radiation detector. [cite: 101, 102]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -412,6 +458,7 @@
                     "part_label": "a(ii)",
                     "text": "State one safety precaution the teacher must take when using a radioactive source. [cite: 102, 103]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -419,6 +466,7 @@
                     "part_label": "b(i)",
                     "text": "The teacher states that the emissions from the radioactive source are random in time. State what is meant by random in time. [cite: 103, 104]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -426,6 +474,7 @@
                     "part_label": "b(ii)",
                     "text": "Describe how the apparatus is used to show that the emissions are random in time. [cite: 104, 105]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -433,6 +482,7 @@
                     "part_label": "c(i)",
                     "text": "State what is meant by background radiation. [cite: 105, 106]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -440,20 +490,21 @@
                     "part_label": "c(ii)",
                     "text": "The teacher measures the count rate due to the source. Describe how the count rate is corrected for the background radiation. [cite: 106, 107]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
                 {
                     "part_label": "d",
                     "text": "The corrected count rate is recorded for various distances d between the source and the detector. Fig. 11.2 shows a graph of the results obtained. [cite: 108, 109]",
-                    "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zuUuDPu1AcuG8JrRHd0ZnxaWjlXMgteNL6Pk3"
 },
 
                 {
                     "part_label": "d(i)",
                     "text": "Determine the maximum distance that the radiation travels in air. [cite: 109, 110]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -461,6 +512,7 @@
                     "part_label": "d(ii)",
                     "text": "State the name of the radiation emitted by the radioactive source and give a reason for your answer. [cite: 110, 111]",
                     "answer": null,
+                    "marks" : 2,
                     "image": null
 },
 
@@ -468,6 +520,7 @@
                     "part_label": "d(iii)",
                     "text": "As the radiation from the source travels in the air it causes ionisation. Describe what is meant by ionisation of the air. [cite: 111, 112]",
                     "answer": null,
+                    "marks" : 1,
                     "image": null
 },
 
@@ -475,7 +528,8 @@
                     "part_label": "e",
                     "text": "The half-life of another radioactive source is 40 minutes. Initially, the corrected count rate from this source is 300 counts /minute. On Fig. 11.3, plot suitable points and draw a graph of the corrected count rate as it changes with time. [cite: 113, 114, 115, 116]",
                     "answer": null,
-                    "image": null
+                    "marks" : 3,
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zjHNRuF1tcX8yYHmo51UqruQTa7KGeAMI4dlt"
                 }
             ]
         }

@@ -3,7 +3,7 @@
         {
             "question_number": "1",
             "text": "Fig. 1.1 shows a tube full of mercury placed upside down in a dish of mercury. Initially a small piece of glass closes the open end of the tube. The piece of glass is removed and the level of mercury in the inverted tube falls, as shown in Fig. 1.2.",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z3BJcvqKsiQOHFRv6MZ2JCobEYX594k0aIeLU",
         "parts": [
 {
                     "part_label": "a(i)",
@@ -22,7 +22,8 @@
                 {
                     "part_label": "b",
                     "text": "Describe how the tube of mercury in Fig. 1.2 is used to determine a value for the atmospheric pressure in pascals (Pa). You may draw on Fig. 1.2 if you wish. [cite: 17, 18]",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
@@ -55,7 +56,8 @@
                 {
                     "part_label": "c(ii)",
                     "text": "When air resistance acts, coins of different masses do not hit the ground at the same speed when they are dropped from the same height. Explain why. [cite: 24, 25]",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
@@ -74,14 +76,15 @@
                 {
                     "part_label": "b",
                     "text": "In order to keep the liquid boiling, it is necessary to keep the hotplate switched on. Explain why energy must be supplied in order to turn a liquid at its boiling point into a gas. [cite: 29, 30]",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "4",
             "text": "Fig. 4.1 represents the electromagnetic spectrum. The shaded region in the middle is the visible light spectrum.",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zAtPJlZyyWlge6onXFREq0hTvGY4A7riPIZLp",
         "parts": [
 {
                     "part_label": "a",
@@ -100,18 +103,21 @@
                 {
                     "part_label": "c",
                     "text": "Explain how X-rays are used to produce an image of a broken bone in a patient's leg. [cite: 34]",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "5",
             "text": "An electronic balance is calibrated to display the weight of an object that is placed on its top plate. Fig. 5.1 shows the balance with an empty measuring cylinder on the top plate. The gravitational field strength g is equal to 10 N/kg.",
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z2mlyKZhqhJVFQScDvk5PdH13CLaW7s49w2yK",
             "parts": [
                  {
                     "part_label": "",
                     "text": "Using Fig. 5.2, determine the density of the oil. [cite: 40]",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
@@ -138,7 +144,7 @@
                     "part_label": "b(i)",
                     "text": "The lamp is now unplugged from the mains supply and connected in series with two 1.5 V cells. Fig. 6.1 is the circuit diagram. State the reading on the voltmeter. [cite: 48, 49]",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zTAeAiO8D6JS9RV3BHr1QLfeCmylXFadkpEv0"
 },
 
                 {
@@ -151,14 +157,15 @@
                 {
                     "part_label": "b(iii)",
                     "text": "When a filament lamp blows, it very often does so immediately after being switched on. Suggest why this is the case. [cite: 51, 52]",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "7",
             "text": "Table 7.1 shows the composition of four neutral atoms and one atom that has been ionised. These five particles are labelled P, Q, R, S and T. The charge on an electron is -1.6 x 10^-19 C.",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z0WGlz2ocTj8VdSB4qDQ9IUz6afyw2JmGOMx3",
         "parts": [
 {
                     "part_label": "a(i)",
@@ -205,7 +212,8 @@
                 {
                     "part_label": "c(iv)",
                     "text": "The half-life for this radioactive decay is 33 years. A radioactive sample contains a large number of the atoms that decay in this way. Determine the fraction of this number of atoms that will decay in 99 years. [cite: 61, 62, 63]",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
@@ -239,7 +247,7 @@
                     "part_label": "c",
                     "text": "Fig. 8.2 shows a solenoid connected to a sensitive ammeter. Explain what is observed on the ammeter when a student:",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zEi1elhSN7nxAWpJZKjvdBUumiskwaRIQqoFt"
 },
 
                 {
@@ -259,14 +267,15 @@
                 {
                     "part_label": "c(iii)",
                     "text": "withdraws the N-pole of the magnet quickly from the right-hand end of the solenoid. [cite: 73]",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "9",
             "text": "Fig. 9.1 shows the structure of a water cooler that is used to supply cold water to the workers in a hot office.",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zg08nMFiYslNhwU2Zo7On0RdvQfepEKkFuc95",
         "parts": [
 {
                     "part_label": "a",
@@ -313,7 +322,8 @@
                 {
                     "part_label": "d(ii)",
                     "text": "State what happens to the motion of the molecules in a liquid as the temperature of the liquid decreases. [cite: 86]",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
@@ -340,7 +350,7 @@
                     "part_label": "c(i)",
                     "text": "An object O of height 3.0cm is placed 4.0cm from the centre of a diverging lens. Fig. 10.1 shows the object O, the diverging lens and the two focal points (principal focuses), F1 and F2, of the lens. Determine the focal length of this lens. [cite: 90, 91, 92]",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zkS2ZxT0IV0zt2ngpB3LPE6aUfRdhXCulYOq9"
 },
 
                 {
@@ -381,7 +391,8 @@
                 {
                     "part_label": "d",
                     "text": "Light passing from air into glass refracts in a similar way to a water wave passing from deep water into shallow water. Fig. 10.2 represents light passing from air into glass at an angle to the surface. One side of a wavefront strikes the glass before the other side. Explain why the wavefronts change direction as the light enters the glass. [cite: 98, 99, 100, 101]",
-                    "answer": null
+                    "answer": null,
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zjyH8mQtcX8yYHmo51UqruQTa7KGeAMI4dltn"
                 }
             ]
         }

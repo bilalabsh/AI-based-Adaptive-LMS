@@ -3,7 +3,7 @@
         {
             "question_number": "1",
             "text": "There is no atmosphere on the Moon. An astronaut on the Moon drops a feather and a hammer from the same height at the same time. They both accelerate downwards at 1.6 m/s² and they hit the ground at the same time.",
-            "image": null,
+            "image": "null",
         "parts": [
 {
                     "part_label": "a",
@@ -23,20 +23,21 @@
                     "part_label": "b(ii)",
                     "text": "On Fig. 1.1, draw the speed-time graph for the fall. At the correct position on the y-axis, write the value of the speed at time t = 1.5 s.",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z5qKL9qmTXEWylompHDBYf4PGKaU2exNZLbMj"
 },
 
                 {
                     "part_label": "b(iii)",
                     "text": "Using the speed-time graph in (b)(ii), determine the height from which the objects are dropped.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "2",
             "text": "A student uses a pump to inflate a bicycle tyre. Fig. 2.1 shows the pump and the tyre.",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zewkFeFXgy10m2aX9JbqkU8pYE6fRiPzSd7Cl",
         "parts": [
 {
                     "part_label": "a(i)",
@@ -55,7 +56,8 @@
                 {
                     "part_label": "b",
                     "text": "The temperature of the air in the pump remains constant as the handle moves to the right. Explain, in terms of its molecules, why the pressure of a gas increases when its volume is decreased at constant temperature.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
@@ -81,14 +83,15 @@
                 {
                     "part_label": "b",
                     "text": "Explain why solar panels are usually black.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "4",
             "text": "In many countries, solid salt is produced by trapping sea-water in large, shallow ponds and letting the water evaporate. Fig. 4.1 shows salt being produced in this way.",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zvDDxyi3L5gQr7XAEsc0K2plVFx9IBWPt3jhS",
         "parts": [
 {
                     "part_label": "a",
@@ -114,7 +117,8 @@
                 {
                     "part_label": "c(ii)",
                     "text": "State why this method of salt production does not work well in a country with a cold climate.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
@@ -134,20 +138,21 @@
                     "part_label": "b(i)",
                     "text": "Fig. 5.1 shows an ultrasound cleaner being used to clean jewellery. The jewellery is lowered into the cleaning fluid and ultrasound waves of frequency 42000 Hz are produced in the fluid. The speed of ultrasound in the fluid is 1500 m/s. Calculate the wavelength of the ultrasound in the fluid.",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zARCBGpyyWlge6onXFREq0hTvGY4A7riPIZLp"
 },
 
                 {
                     "part_label": "b(ii)",
                     "text": "Describe how the ultrasound cleans the jewellery.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "6",
             "text": "An electric circuit contains a 700Ω resistor and a light-dependent resistor (LDR). Fig. 6.1 is the circuit diagram. The switch S is closed and the trace on the oscilloscope moves to the position shown by line P in Fig. 6.2.",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zaIYhGz6gI0nwAul8eLZVQmPFyJShNxYb3rtv",
         "parts": [
 {
                     "part_label": "a(i)",
@@ -166,14 +171,15 @@
                 {
                     "part_label": "b",
                     "text": "The intensity of the light incident on the LDR gradually increases. State and explain how the trace on the oscilloscope screen moves.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "7",
             "text": "Fig. 7.1 shows a horizontal, rectangular coil ABCD placed between a magnetic N-pole and an S-pole. There is a current in the coil. An upward force F of size 9.6 x 10⁻³ N acts on side AB of the coil.",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zHSsjGGN1lG3zZ2IxQcUdsJov60rTXfFyuBCA",
         "parts": [
 {
                     "part_label": "a(i)",
@@ -206,14 +212,15 @@
                 {
                     "part_label": "c(ii)",
                     "text": "State one change to the arrangement in Fig. 7.1 that produces a greater turning effect in coil ABCD.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "8",
             "text": "Fig. 8.1 shows an elastic rope (bungee). The unstretched length of the rope is 0.80m. A student uses the hook at one end to suspend the rope from a shelf and hangs an empty paint can of mass 0.70kg from the other end. The rope stretches to a length of 0.97m but does not exceed its limit of proportionality.",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zpzSdldqyBFVJk7nvOgGHifquh0ZCYbIW9Eoj",
         "parts": [
 {
                     "part_label": "a",
@@ -261,20 +268,21 @@
                     "part_label": "d(ii)",
                     "text": "The student continues to pour paint into the can until there is a volume of 5.0 × 10⁻³m³ in it. He notices that the elastic rope becomes harder to stretch after the limit of proportionality. He plots a graph of the total length of the rope against the volume of paint added. On Fig. 8.2, sketch the length-volume graph for the range 0 to 5.0 × 10⁻³m³.",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zwd4TLhaEvsxCXYz9rldjIQ0TUe4F8DAbNK7B"
 },
 
                 {
                     "part_label": "e",
                     "text": "The student suddenly removes the can from the end of the stretched rope and, as it contracts, the rope jumps into the air. State the energy change that is taking place in the rope as it contracts and jumps into the air.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "9",
             "text": "Fig. 9.1 shows a boiling liquid at its boiling point, trapped in a cylinder by a piston. There is an electric heater in the liquid which is connected to a power supply. The thermal energy produced by the heater gradually turns the boiling liquid into a gas.",
-           "image": null,
+           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zTww4Ngc8D6JS9RV3BHr1QLfeCmylXFadkpEv",
         "parts": [
 {
                     "part_label": "a",
@@ -321,7 +329,8 @@
                 {
                     "part_label": "e",
                     "text": "The piston is free to move in the cylinder. As the liquid boils, the piston is pushed upwards in the cylinder at a constant speed. The volume occupied by the gas just above the liquid increases. Discuss whether the upward force on the piston changes as the piston moves upwards at constant speed.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
@@ -362,7 +371,7 @@
                     "part_label": "c(i)",
                     "text": "In an experiment to collect a small quantity of helium, a sample of radon-222 is enclosed in an inner glass tube which has a very thin wall. Fig. 10.1 shows that this tube is placed inside a container that is initially evacuated. Use Fig. 10.2 to determine the number of alpha-particles produced in 7.6 days.",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zbosXVaH08NcVULWlqYhG3HTwv2kgZQ4ap9rA"
 },
 
                 {
@@ -389,7 +398,8 @@
                 {
                     "part_label": "e",
                     "text": "In some parts of the world, radon-222 accumulates in the air in buildings and is breathed in by people. Explain why the presence of an alpha-emitter in the lungs is particularly hazardous.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         }

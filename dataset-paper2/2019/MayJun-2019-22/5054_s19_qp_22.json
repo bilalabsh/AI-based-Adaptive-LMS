@@ -3,13 +3,13 @@
         {
             "question_number": "1",
             "text": "A student records the mass and volume of two irregular objects, one made of iron and the other of copper.\nThe student uses the equipment shown in Fig. 1.1.\nTable 1.1 shows the results obtained.",
-           "image": null,
+            "image": null,
         "parts": [
 {
                     "part_label": "a",
                     "text": "Describe how to determine the volume of an irregular object with the measuring cylinder.",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zwMpSGWEvsxCXYz9rldjIQ0TUe4F8DAbNK7Bk"
 },
 
                 {
@@ -29,20 +29,21 @@
                 {
                     "part_label": "d",
                     "text": "State and explain what happens to the density of the iron object when it is heated.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "2",
             "text": "Fig. 2.1 shows a container of gas connected to a manometer. The tube in the manometer has a\nconstant cross-sectional area.\nThe gas in the container exerts a pressure.",
-           "image": null,
-        "parts": [
+            "image": null,
+            "parts": [
 {
                     "part_label": "a",
                     "text": "Define the term pressure.",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zGjnFvvci8gCLovzKwqaT0beUYRsdPQnEZ9Iu"
 },
 
                 {
@@ -62,14 +63,15 @@
                 {
                     "part_label": "c(ii)",
                     "text": "Explain, in terms of the gas molecules, what causes the level of mercury to become the same.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "3",
             "text": "Fig. 3.1 shows three rays of light travelling in water from a light source S.\nOne ray of light is totally internally reflected at the boundary between water and air.",
-           "image": null,
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zBXWSH7VILNasPZrVwFdSxtD01KRWb9GJMv8u",
         "parts": [
 {
                     "part_label": "a",
@@ -95,14 +97,15 @@
                 {
                     "part_label": "c(ii)",
                     "text": "Calculate:\nthe critical angle for the boundary between water and air.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "4",
             "text": "A star emits electromagnetic radiation over a range of wavelengths.\nFig. 4.1 shows the brightness of the radiation from the star at different wavelengths.\nRadiation from the star is brightest at one wavelength.",
-           "image": null,
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z57JGxgmTXEWylompHDBYf4PGKaU2exNZLbMj",
         "parts": [
 {
                     "part_label": "a",
@@ -121,14 +124,15 @@
                 {
                     "part_label": "c",
                     "text": "Determine the frequency of the radiation in (a).\nThe speed of light is 3.0 x 10^8 m/s.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "5",
             "text": "",
-           "image": null,
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zNJwzNV82cHTZDdfSt1O9ozyj2pmNhkAqGRwx",
         "parts": [
 {
                     "part_label": "a",
@@ -140,14 +144,15 @@
                 {
                     "part_label": "b",
                     "text": "A photocopier works using electrostatic charging. It contains a drum whose surface conducts charge where it is exposed to light.\nFig. 5.2 shows a piece of paper, the drum and the heater of a photocopier.\nThe photocopier produces a copy of an original page on a piece of paper.\nThe sentences below describe the process of making the copy but the sentences are in the wrong order.\nA The drum is given a positive charge.\nB The positively charged parts of the drum attract a black powder.\nC Where light hits the drum, the positive charge leaks away.\nD An image of the original page is projected onto the drum.\nE The drum rolls against a piece of paper, transferring powder to the paper.\nF The paper is heated which makes the black powder stick to it.\nArrange the sentences in the correct order.",
-                    "answer": null
+                    "answer": null,
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z13i2JP5TP3Jxd6qKczmLYhu5BOeRspE0ywGU"
                 }
             ]
         },
         {
             "question_number": "6",
             "text": "Two lamps, P and Q, are connected to a battery of electromotive force (e.m.f.) 6.0V and an ammeter, as shown in Fig. 6.1.\nLamp P has a resistance of 15\u03A9. The ammeter reading is 0.65A.",
-           "image": null,
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zb28hLgMH08NcVULWlqYhG3HTwv2kgZQ4ap9r",
         "parts": [
 {
                     "part_label": "a",
@@ -173,14 +178,15 @@
                 {
                     "part_label": "c(ii)",
                     "text": "Explain why the ammeter reading is less than 0.65A when the lamps are connected in series.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "7",
             "text": "Fig. 7.1 shows a copper wire placed on two copper rods in the magnetic field between the poles of a magnet.\nThe crocodile clip A touches the positive terminal of the battery.\nThis causes the copper wire to move.",
-           "image": null,
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zjhjaC1tcX8yYHmo51UqruQTa7KGeAMI4dltn",
         "parts": [
 {
                     "part_label": "a",
@@ -199,14 +205,15 @@
                 {
                     "part_label": "c",
                     "text": "Name two different devices that use this effect.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "8",
             "text": "Fig. 8.1 shows a device that is used to show the force on an electron in an electric field.",
-           "image": null,
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zz2yUwIgcbkVNoTdvFsgQWPxeBK7Ym3UfnLC4",
         "parts": [
 {
                     "part_label": "a",
@@ -218,14 +225,15 @@
                 {
                     "part_label": "b",
                     "text": "When an electron is in an electric field there is a force on the electron.\nThe direction of this force is in the opposite direction to the electric field.\nDescribe how the metal plates in Fig. 8.1 can be used to show this.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "9",
             "text": "Fig. 9.1 shows a map of the route taken by a car as it travels from town A to town B.\nThe journey involves a distance and a displacement.",
-           "image": null,
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zVFZN03jhFUOyEd1YvBRagrzxC8X7MTZn0Wuk",
         "parts": [
 {
                     "part_label": "a(i)",
@@ -279,20 +287,21 @@
                 {
                     "part_label": "c(iii)",
                     "text": "Explain why the temperature of the brakes increases during braking.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "10",
             "text": "Fig. 10.1 is a diagram of a soldering iron.\nSolder is a mixture of metals used to make a permanent contact between electrical wires.\nThe heating element raises the temperature of the metal tip.\nWhen solder is placed against the tip, the solder melts over the wires to be joined.\nWhen the solder cools, it solidifies and the permanent connection is made.\nThe working temperature of the metal tip is 380°C.",
-           "image": null,
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zCgkiYk7mw4fM63T9sjZezvbdH52WyJIAU1Qq",
         "parts": [
 {
                     "part_label": "a",
                     "text": "The boxes in Fig. 10.2 show two materials and some different melting points.\nOn Fig. 10.2, draw a line from the metal of the metal tip and a line from the solder to a suitable melting point for each.",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zXjsdhhzBKzn5FI9ONAxRUQmhuZb36vP1tMaj"
 },
 
                 {
@@ -333,14 +342,15 @@
                 {
                     "part_label": "d(ii)",
                     "text": "State two reasons why a thermocouple thermometer is suitable for measuring how the temperature of the metal tip varies during the first 10s.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         },
         {
             "question_number": "11",
             "text": "",
-           "image": null,
+            "image": null,
         "parts": [
 {
                     "part_label": "a(i)",
@@ -388,14 +398,14 @@
                     "part_label": "b(v)",
                     "text": "The nucleus of 235/92 U is not stable.\nIt decays by the emission of an alpha-particle (\u03B1) into a nucleus of thorium (Th).\nComplete the nuclear equation that represents this decay.\n235/92 U ......\n......Th + ......\n2\u03B1",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zYSStnyxqKRhGN6DMkox90ZymwCTgArip8baL"
 },
 
                 {
                     "part_label": "c(i)",
                     "text": "Geiger and Marsden carried out an experiment to investigate the scattering of alpha-particles.\nFig. 11.1 shows a diagram of the apparatus that they used.\nWhen an alpha-particle strikes the fluorescent screen a flash of light is emitted.\nOn Fig. 11.1, mark with a letter P where most flashes occur on the screen.",
                     "answer": null,
-                    "image": null
+                    "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zvSw2RFL5gQr7XAEsc0K2plVFx9IBWPt3jhSD"
 },
 
                 {
@@ -408,7 +418,8 @@
                 {
                     "part_label": "c(iii)",
                     "text": "State two conclusions about atoms of gold that resulted from this experiment.",
-                    "answer": null
+                    "answer": null,
+                    "image": null
                 }
             ]
         }

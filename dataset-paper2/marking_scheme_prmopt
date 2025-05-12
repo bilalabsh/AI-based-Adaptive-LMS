@@ -1,0 +1,75 @@
+i will send you a json file (5054_w19_qp_21.json) that is in this format (JSON FORMATTIng mentioned below). 
+NOw i am sending you a marking scheme pdf file (5054_w19_ms_21.pdf) that has 3 columns , 
+1. question :  The label of the question and its  part (e.g., "a", "b(i)", "c"). 
+2.Answer : the anser for that part
+3.Marks  (ignore it) 
+
+YOur Task:
+1.i want you to extract the answer from the marking scheme and appened it in the json file in the answer tag.
+2.make sure each questions tag matched before apending the answer tag
+3.Dont add any of your own hallucinations , only copy and paste the answers
+4. Dont skip any questions or their parts
+5. if the same question part has 2 block of answer write "&&" between them
+
+What to ignore and not add in the json file:
+1. ignore to makrs column in the marking scheme, A1 C1 B1 M1
+2. 5054/21 Cambridge O Level – Mark Scheme PUBLISHED May/June 2019
+3. © UCLES 2019
+4. Page 5 of 11 or anything other pages
+5. Dont add these column names in the json file\nQuestion \nAnswer \nMarks
+
+JSON Formatting:
+
+Structure the extracted questions in a JSON format as follows:
+
+{
+    "questions": [
+        {
+            "question_number": "X",
+            "text": "Full question text here, including any context.",
+            "image": null,
+            "parts": [
+                {
+                    "part_label": "a(i)",
+                    "text": "Part a(i) of the question here.",
+                    "answer": null,
+                    "marks": null ,
+                    "image": null
+
+                },
+                {
+                    "part_label": "a(ii)",
+                    "text": "Part a(ii) of the question here.",
+                    "answer": null,
+                    "marks": null ,
+                    "image": null
+
+                }
+            ]
+        },
+        {
+            "question_number": "Y",
+            "text": "Another full question text here.",
+            "image": null,
+            "parts": [...]
+        }
+    ]
+}
+
+question_number: The numerical identifier of the question as it appears in the PDF (e.g., "1", "2", "3").
+parts: An array of question parts, each with:
+part_label: The label of the question part (e.g., "a", "b(i)", "c"). I
+answer: Always initialize to null.
+marks: Always initialize to null.
+
+
+
+
+
+
+
+
+\u00b0   °
+u2009      
+\u00d7        x
+\u2013          -

@@ -2,38 +2,35 @@
     "questions": [
         {
             "question_number": "1",
-            "text": "There is no atmosphere on the Moon. An astronaut on the Moon drops a feather and a hammer from the same height at the same time. They both accelerate downwards at 1.6 m/s² and they hit the ground at the same time.",
+            "text": "There is no atmosphere on the Moon. An astronaut on the Moon drops a feather and a hammer from the same height at the same time. They both accelerate downwards at 1.6 m/s\u00b2 and they hit the ground at the same time.",
             "image": "null",
-        "parts": [
-{
+            "parts": [
+                {
                     "part_label": "a",
                     "text": "The weight of the hammer is much larger than that of the feather. Explain, in terms of their weights and masses, why their accelerations are equal.",
-                    "answer": null,
-                    "marks" : 3,
+                    "answer": "weight is directly proportional to mass or W = mg && a larger force acts on the more massive body or a = F / m or a = W / m && mass cancels or acceleration inversely proportional to mass",
+                    "marks": 3,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b(i)",
                     "text": "Both the feather and the hammer take 1.5s to fall to the ground from rest. Calculate the speed of the objects as they hit the ground.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "(Δv =) at or 1.6  x 1.5 && 2.4 m / s",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b(ii)",
                     "text": "On Fig. 1.1, draw the speed-time graph for the fall. At the correct position on the y-axis, write the value of the speed at time t = 1.5 s.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "2.4 marked on y-axis and straight line from (0, 0) to (1.5, 2.4)",
+                    "marks": 1,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z5qKL9qmTXEWylompHDBYf4PGKaU2exNZLbMj"
-},
-
+                },
                 {
                     "part_label": "b(iii)",
                     "text": "Using the speed-time graph in (b)(ii), determine the height from which the objects are dropped.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "1/2  x 2.4  x 1.5 or area under the graph mentioned / attempted && 1.8 m",
+                    "marks": 2,
                     "image": null
                 }
             ]
@@ -41,29 +38,27 @@
         {
             "question_number": "2",
             "text": "A student uses a pump to inflate a bicycle tyre. Fig. 2.1 shows the pump and the tyre.",
-           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zewkFeFXgy10m2aX9JbqkU8pYE6fRiPzSd7Cl",
-        "parts": [
-{
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zewkFeFXgy10m2aX9JbqkU8pYE6fRiPzSd7Cl",
+            "parts": [
+                {
                     "part_label": "a(i)",
-                    "text": "The pressure of the trapped air in the pump is 3.8 x 10⁵ Pa and the cross-sectional area of the piston is 6.1 x 10⁻⁴ m². Calculate the force exerted on the piston by the trapped air in the pump.",
-                    "answer": null,
-                    "marks" : 2,
+                    "text": "The pressure of the trapped air in the pump is 3.8 x 10^5 Pa and the cross-sectional area of the piston is 6.1 x 10^-4 m\u00b2. Calculate the force exerted on the piston by the trapped air in the pump.",
+                    "answer": "(F =) pA or 3.8  x 10^5  x 6.1  x 10^-4 && 230 N",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "a(ii)",
                     "text": "The student pushes the handle to the right and the piston forces the trapped air into the tyre. The force exerted by the student is less than the value in (a)(i). Suggest one reason why.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "force on other side of piston due to air / atmospheric pressure or pressure of trapped air decreases as valve opens (and air enters the tyre)",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b",
                     "text": "The temperature of the air in the pump remains constant as the handle moves to the right. Explain, in terms of its molecules, why the pressure of a gas increases when its volume is decreased at constant temperature.",
-                    "answer": null,
-                    "marks" : 3,
+                    "answer": "molecules collide with walls / piston / pump / surface && number of molecules per unit volume increases (as volume decreases) && more collisions per unit area or more frequent collisions / collide more often",
+                    "marks": 3,
                     "image": null
                 }
             ]
@@ -71,29 +66,27 @@
         {
             "question_number": "3",
             "text": "Solar panels are used to heat water.",
-           "image": null,
-        "parts": [
-{
+            "image": null,
+            "parts": [
+                {
                     "part_label": "a(i)",
                     "text": "The energy absorbed by solar panels comes from the Sun. Describe how this energy is produced inside the Sun.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "(nuclear) fusion (reactions) or nuclei fuse && small nuclei / hydrogen nuclei joining together (and release energy) or larger nucleus produced",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "a(ii)",
                     "text": "State how this energy is transferred to Earth.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "infra-red (radiation) or ultraviolet (radiation) or (visible) light",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b",
                     "text": "Explain why solar panels are usually black.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "black surfaces are (good) absorbers && of (infra-red) radiation / heat / (visible) light / thermal energy",
+                    "marks": 2,
                     "image": null
                 }
             ]
@@ -101,37 +94,34 @@
         {
             "question_number": "4",
             "text": "In many countries, solid salt is produced by trapping sea-water in large, shallow ponds and letting the water evaporate. Fig. 4.1 shows salt being produced in this way.",
-           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zvDDxyi3L5gQr7XAEsc0K2plVFx9IBWPt3jhS",
-        "parts": [
-{
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zvDDxyi3L5gQr7XAEsc0K2plVFx9IBWPt3jhS",
+            "parts": [
+                {
                     "part_label": "a",
                     "text": "State two ways in which evaporation differs from boiling.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "any two from: only occurs at the surface / no bubbles produced && occurs at any temperature && produces cooling",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b",
                     "text": "Describe, in terms of water molecules, what is happening as the water evaporates.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "molecules escape (from liquid) && fast(est) molecules / molecules with great(est kinetic) energy escape or slow(est) molecules / molecules with small(est kinetic) energy remain or (average) speed of remaining molecules decreases or molecules gain (kinetic) energy and escape",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "c(i)",
                     "text": "State why the ponds used in this process have large surface areas.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "rate of evaporation increases (with increasing area)",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "c(ii)",
                     "text": "State why this method of salt production does not work well in a country with a cold climate.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "rate of evaporation decreases with decreasing temperature or takes too much time",
+                    "marks": 1,
                     "image": null
                 }
             ]
@@ -139,105 +129,97 @@
         {
             "question_number": "5",
             "text": "Both sound and ultrasound are longitudinal waves.",
-           "image": null,
-        "parts": [
-{
+            "image": null,
+            "parts": [
+                {
                     "part_label": "a",
                     "text": "Describe what is meant by longitudinal.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "vibration / oscillation of particles or energy transfer or compressions and rarefactions && vibration / oscillation (of particles) parallel to energy travel direction / propagation direction",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b(i)",
                     "text": "Fig. 5.1 shows an ultrasound cleaner being used to clean jewellery. The jewellery is lowered into the cleaning fluid and ultrasound waves of frequency 42000 Hz are produced in the fluid. The speed of ultrasound in the fluid is 1500 m/s. Calculate the wavelength of the ultrasound in the fluid.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "(λ =) v / f or 1500 / 42 000 && 0.036 m or 3.6 cm",
+                    "marks": 2,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zARCBGpyyWlge6onXFREq0hTvGY4A7riPIZLp"
-},
-
+                },
                 {
                     "part_label": "b(ii)",
                     "text": "Describe how the ultrasound cleans the jewellery.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "(ultrasound) vibrates (the cleaning fluid / jewellery) && dirt shaken off",
+                    "marks": 2,
                     "image": null
                 }
             ]
         },
         {
             "question_number": "6",
-            "text": "An electric circuit contains a 700Ω resistor and a light-dependent resistor (LDR). Fig. 6.1 is the circuit diagram. The switch S is closed and the trace on the oscilloscope moves to the position shown by line P in Fig. 6.2.",
-           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zaIYhGz6gI0nwAul8eLZVQmPFyJShNxYb3rtv",
-        "parts": [
-{
+            "text": "An electric circuit contains a 700\u03a9 resistor and a light-dependent resistor (LDR). Fig. 6.1 is the circuit diagram. The switch S is closed and the trace on the oscilloscope moves to the position shown by line P in Fig. 6.2.",
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zaIYhGz6gI0nwAul8eLZVQmPFyJShNxYb3rtv",
+            "parts": [
+                {
                     "part_label": "a(i)",
-                    "text": "Determine the potential difference (p.d.) across the 700Ω resistor.",
-                    "answer": null,
-                    "marks" : 1,
+                    "text": "Determine the potential difference (p.d.) across the 700\u03a9 resistor.",
+                    "answer": "4.0 V",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "a(ii)",
                     "text": "Determine the resistance of the LDR.",
-                    "answer": null,
-                    "marks" : 3,
+                    "answer": "(V =) 12 - 4.0 or 8.0 or 4.0 / 700 or 5.7  x 10^-3 && (R =) V / I or 8.0  x 1 / (4.0 / 700) or 700  x (8.0 / 4.0) or 12 / (4.0 / 700) or 2100 (\u2126) && 1400 \u2126",
+                    "marks": 3,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b",
                     "text": "The intensity of the light incident on the LDR gradually increases. State and explain how the trace on the oscilloscope screen moves.",
-                    "answer": null,
-                    "marks" : 3,
+                    "answer": "resistance of LDR decreases && current increases or p.d. across 700 \u2126 resistor / oscilloscope increases or p.d. across LDR decreases && trace moves up the screen",
+                    "marks": 3,
                     "image": null
                 }
             ]
         },
         {
             "question_number": "7",
-            "text": "Fig. 7.1 shows a horizontal, rectangular coil ABCD placed between a magnetic N-pole and an S-pole. There is a current in the coil. An upward force F of size 9.6 x 10⁻³ N acts on side AB of the coil.",
-           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zHSsjGGN1lG3zZ2IxQcUdsJov60rTXfFyuBCA",
-        "parts": [
-{
+            "text": "Fig. 7.1 shows a horizontal, rectangular coil ABCD placed between a magnetic N-pole and an S-pole. There is a current in the coil. An upward force F of size 9.6 x 10^-3 N acts on side AB of the coil.",
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zHSsjGGN1lG3zZ2IxQcUdsJov60rTXfFyuBCA",
+            "parts": [
+                {
                     "part_label": "a(i)",
                     "text": "Explain why there is a force on side AB.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "current and magnetic field / magnetic flux (experiences a force) or the two magnetic fields interact",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "a(ii)",
                     "text": "Determine the direction of the current in AB and state how the direction is deduced.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "B to A && left-hand rule mentioned / described",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b",
                     "text": "Both side AB and side CD of the coil are 2.5 cm from the axis. Determine the total moment acting on the coil.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "(Γ =) Fx or 2  x 9.6  x 10^-3  x 0.025 or 9.6  x 10^-3  x 0.025 or 2.4  x 10^-4 (N m) or 0.024 (N cm) && 4.8  x 10^-4 N m or 0.048 N cm",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "c(i)",
                     "text": "The coil in Fig. 7.1 is part of a direct current (d.c.) motor. State the name of the device that connects the coil of a d.c. motor to the electricity supply.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "split-ring commutator or (carbon) brushes",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "c(ii)",
                     "text": "State one change to the arrangement in Fig. 7.1 that produces a greater turning effect in coil ABCD.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "(soft-)iron core or stronger magnet(s) or larger current or more turns or smaller resistance or greater electromotive force (e.m.f.)",
+                    "marks": 1,
                     "image": null
                 }
             ]
@@ -245,69 +227,62 @@
         {
             "question_number": "8",
             "text": "Fig. 8.1 shows an elastic rope (bungee). The unstretched length of the rope is 0.80m. A student uses the hook at one end to suspend the rope from a shelf and hangs an empty paint can of mass 0.70kg from the other end. The rope stretches to a length of 0.97m but does not exceed its limit of proportionality.",
-           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zpzSdldqyBFVJk7nvOgGHifquh0ZCYbIW9Eoj",
-        "parts": [
-{
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zpzSdldqyBFVJk7nvOgGHifquh0ZCYbIW9Eoj",
+            "parts": [
+                {
                     "part_label": "a",
                     "text": "Explain what is meant by limit of proportionality.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "where / when extension is not directly proportional to load / tension / force (applied) && point where extension stops being directly proportional to load / tension / force (applied)",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b(i)",
                     "text": "State what is meant by: mass.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "the amount matter in a body or (a measure of) the inertia of a body",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b(ii)",
                     "text": "State what is meant by: weight.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "force (on a body) && in a gravitational field",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "c(i)",
                     "text": "The gravitational field strength is 10N/kg. Calculate the weight of the empty paint can.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "7.0 N",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "c(ii)",
                     "text": "For the rope, calculate a value for load/extension.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "41 N/m or 0.41 N/cm",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "d(i)",
-                    "text": "The student repeatedly pours small volumes of paint into the can. When there is 2.5 × 10⁻³m³ of paint in the can, the total length of the rope is 1.70m. This is where the rope reaches the limit of proportionality. Determine the mass of the paint in the can. Density of paint = 1.6 g/cm³.",
-                    "answer": null,
-                    "marks" : 3,
+                    "text": "The student repeatedly pours small volumes of paint into the can. When there is 2.5  x 10^-3m\u00b3 of paint in the can, the total length of the rope is 1.70m. This is where the rope reaches the limit of proportionality. Determine the mass of the paint in the can. Density of paint = 1.6 g/cm\u00b3.",
+                    "answer": "either: 0.90 && 41  x 0.90 or 37 or 3.7 or 3.7 - 0.70 && 3.0 kg || or: 1.7 - 0.97 or 0.73 && 41  x (1.7 - 0.97) or 41  x 0.73 or 30 && 3.0 kg",
+                    "marks": 3,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "d(ii)",
-                    "text": "The student continues to pour paint into the can until there is a volume of 5.0 × 10⁻³m³ in it. He notices that the elastic rope becomes harder to stretch after the limit of proportionality. He plots a graph of the total length of the rope against the volume of paint added. On Fig. 8.2, sketch the length-volume graph for the range 0 to 5.0 × 10⁻³m³.",
-                    "answer": null,
-                    "marks" : 3,
+                    "text": "The student continues to pour paint into the can until there is a volume of 5.0  x 10^-3m\u00b3 in it. He notices that the elastic rope becomes harder to stretch after the limit of proportionality. He plots a graph of the total length of the rope against the volume of paint added. On Fig. 8.2, sketch the length-volume graph for the range 0 to 5.0  x 10^-3m\u00b3.",
+                    "answer": "straight line to marked point && 0 < location of y-intercept < 1.70 m (intercept need not be labelled) && curve of changing / changed gradient beyond marked point",
+                    "marks": 3,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zwd4TLhaEvsxCXYz9rldjIQ0TUe4F8DAbNK7B"
-},
-
+                },
                 {
                     "part_label": "e",
                     "text": "The student suddenly removes the can from the end of the stretched rope and, as it contracts, the rope jumps into the air. State the energy change that is taking place in the rope as it contracts and jumps into the air.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "from elastic (potential energy) or strain (energy) && to kinetic (energy) or to gravitational (potential energy)",
+                    "marks": 2,
                     "image": null
                 }
             ]
@@ -315,61 +290,55 @@
         {
             "question_number": "9",
             "text": "Fig. 9.1 shows a boiling liquid at its boiling point, trapped in a cylinder by a piston. There is an electric heater in the liquid which is connected to a power supply. The thermal energy produced by the heater gradually turns the boiling liquid into a gas.",
-           "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zTww4Ngc8D6JS9RV3BHr1QLfeCmylXFadkpEv",
-        "parts": [
-{
+            "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zTww4Ngc8D6JS9RV3BHr1QLfeCmylXFadkpEv",
+            "parts": [
+                {
                     "part_label": "a",
                     "text": "State what is meant by boiling point.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "temperature && at which a liquid becomes a gas / vapour",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b",
                     "text": "Explain, in terms of molecules, why it is necessary to supply energy in order to turn a liquid at its boiling point into a gas.",
-                    "answer": null,
-                    "marks" : 3,
+                    "answer": "forces (between the molecules of the liquid) / bonds mentioned && move molecules apart or overcome forces (between the molecules) && work done against forces or gains (molecular) potential energy",
+                    "marks": 3,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "c",
                     "text": "In order to determine the power of the electric heater, two meters are connected into the circuit. One meter measures the current in the heater and the other meter measures the potential difference (p.d.) across it. On the circuit in Fig. 9.1, draw symbols to show the two meters used and where they are connected.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "ammeter symbol in series && voltmeter symbol across the heater / power supply",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "d(i)",
                     "text": "The current in the heater is 2.0A and the p.d. across it is 6.0V. Calculate the power of the heater.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "(P =) VI or 6.0  x 2.0 && 12 W",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "d(ii)",
                     "text": "Calculate the thermal energy supplied to the liquid by the heater in 1.0 minute.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "(E =) Pt or 12  x 60 or (E =) VIt or 6.0  x 2.0  x 60 && 720 J",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "d(iii)",
-                    "text": "The specific latent heat of vaporisation of the liquid is 9.0 × 10⁵ J/kg. Calculate the mass of liquid that vaporises every minute.",
-                    "answer": null,
-                    "marks" : 2,
+                    "text": "The specific latent heat of vaporisation of the liquid is 9.0  x 10^5 J/kg. Calculate the mass of liquid that vaporises every minute.",
+                    "answer": "(m =) Q / lv or 720 / 9.0  x 10^5 && 8.0  x 10^-4 kg or 0.80 g",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "e",
                     "text": "The piston is free to move in the cylinder. As the liquid boils, the piston is pushed upwards in the cylinder at a constant speed. The volume occupied by the gas just above the liquid increases. Discuss whether the upward force on the piston changes as the piston moves upwards at constant speed.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "(it / upward force) does not change && always equal to weight of piston + force due to atmospheric pressure or no resultant force or piston is not accelerating",
+                    "marks": 2,
                     "image": null
                 }
             ]
@@ -377,77 +346,69 @@
         {
             "question_number": "10",
             "text": "All the isotopes of the gas radon are radioactive.",
-           "image": null,
-        "parts": [
-{
+            "image": null,
+            "parts": [
+                {
                     "part_label": "a",
                     "text": "State one similarity and one difference between the nuclei of two different isotopes of radon.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "similarity: (same) number of protons && difference: (different) number of neutrons",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b(i)",
                     "text": "The isotope radon-222 decays by alpha-particle emission to an isotope of polonium (Po). The proton number (atomic number) of polonium is 84. Determine the number of neutrons in an atom of the polonium isotope.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "(nucleon number =) 222 - 4 or 218 or 218 - 84 && 134",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b(ii)",
                     "text": "Determine the number of protons in an atom of radon-222.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "(proton number =) 84 + 2 && 86",
+                    "marks": 2,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "b(iii)",
-                    "text": "Describe how a neutral atom of helium (⁴₂He) differs from an alpha-particle.",
-                    "answer": null,
-                    "marks" : 1,
+                    "text": "Describe how a neutral atom of helium (\u2074\u2082He) differs from an alpha-particle.",
+                    "answer": "it / helium atom has two electrons (in orbit around the nucleus)",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "c(i)",
                     "text": "In an experiment to collect a small quantity of helium, a sample of radon-222 is enclosed in an inner glass tube which has a very thin wall. Fig. 10.1 shows that this tube is placed inside a container that is initially evacuated. Use Fig. 10.2 to determine the number of alpha-particles produced in 7.6 days.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "2.1  x 10^10 (alpha-particles)",
+                    "marks": 1,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zbosXVaH08NcVULWlqYhG3HTwv2kgZQ4ap9rA"
-},
-
+                },
                 {
                     "part_label": "c(ii)",
-                    "text": "Initially, there are 2.8 × 10¹⁰ atoms of radon-222 in the inner glass tube. As each radon-222 atom decays, it produces an alpha-particle. Calculate the number of radon-222 atoms that remain after 7.6 days.",
-                    "answer": null,
-                    "marks" : 1,
+                    "text": "Initially, there are 2.8  x 10^10 atoms of radon-222 in the inner glass tube. As each radon-222 atom decays, it produces an alpha-particle. Calculate the number of radon-222 atoms that remain after 7.6 days.",
+                    "answer": "calculated value of: 2.8  x 10^10 - candidate's 10(c)(i) (atoms remain) (expected value: 7.0  x 10^9)",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "c(iii)",
                     "text": "Using the number of radon-222 atoms present initially and the number present after 7.6 days, calculate the half-life of radon-222.",
-                    "answer": null,
-                    "marks" : 3,
+                    "answer": "7.0  x 10^9 / 2.8  x 10^10 or 1 / 4 && 2 (half-lives) or 7.6 / 2 && 3.8 days",
+                    "marks": 3,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "d",
                     "text": "The alpha-particles become helium atoms which are collected in the vacuum shown in Fig. 10.1. Explain, in terms of the properties of alpha-particles, why the wall of the inner glass tube must be extremely thin.",
-                    "answer": null,
-                    "marks" : 1,
+                    "answer": "alpha-particles are (very) weakly penetrating",
+                    "marks": 1,
                     "image": null
-},
-
+                },
                 {
                     "part_label": "e",
                     "text": "In some parts of the world, radon-222 accumulates in the air in buildings and is breathed in by people. Explain why the presence of an alpha-emitter in the lungs is particularly hazardous.",
-                    "answer": null,
-                    "marks" : 2,
+                    "answer": "strongly ionising && (ionisation causes cell) mutations / cancers",
+                    "marks": 2,
                     "image": null
                 }
             ]

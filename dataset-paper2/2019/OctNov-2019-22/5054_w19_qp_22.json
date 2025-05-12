@@ -3,22 +3,29 @@
         {
             "question_number": "1",
             "text": "There is no atmosphere on the Moon. An astronaut on the Moon drops a feather and a hammer from the same height at the same time. They both accelerate downwards at 1.6 m/s² and they hit the ground at the same time.",
-            "parts": [
-                {
+            "image": null,
+        "parts": [
+{
                     "part_label": "a",
                     "text": "The weight of the hammer is much larger than that of the feather. Explain, in terms of their weights and masses, why their accelerations are equal.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b(i)",
                     "text": "Both the feather and the hammer take 1.5s to fall to the ground from rest. Calculate the speed of the objects as they hit the ground.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b(ii)",
                     "text": "On Fig. 1.1, draw the speed-time graph for the fall. At the correct position on the y-axis, write the value of the speed at time t = 1.5 s.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b(iii)",
                     "text": "Using the speed-time graph in (b)(ii), determine the height from which the objects are dropped.",
@@ -29,17 +36,22 @@
         {
             "question_number": "2",
             "text": "A student uses a pump to inflate a bicycle tyre. Fig. 2.1 shows the pump and the tyre.",
-            "parts": [
-                {
+           "image": null,
+        "parts": [
+{
                     "part_label": "a(i)",
                     "text": "The pressure of the trapped air in the pump is 3.8 x 10⁵ Pa and the cross-sectional area of the piston is 6.1 x 10⁻⁴ m². Calculate the force exerted on the piston by the trapped air in the pump.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "a(ii)",
                     "text": "The student pushes the handle to the right and the piston forces the trapped air into the tyre. The force exerted by the student is less than the value in (a)(i). Suggest one reason why.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b",
                     "text": "The temperature of the air in the pump remains constant as the handle moves to the right. Explain, in terms of its molecules, why the pressure of a gas increases when its volume is decreased at constant temperature.",
@@ -50,17 +62,22 @@
         {
             "question_number": "3",
             "text": "Solar panels are used to heat water.",
-            "parts": [
-                {
+           "image": null,
+        "parts": [
+{
                     "part_label": "a(i)",
                     "text": "The energy absorbed by solar panels comes from the Sun. Describe how this energy is produced inside the Sun.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "a(ii)",
                     "text": "State how this energy is transferred to Earth.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b",
                     "text": "Explain why solar panels are usually black.",
@@ -71,22 +88,29 @@
         {
             "question_number": "4",
             "text": "In many countries, solid salt is produced by trapping sea-water in large, shallow ponds and letting the water evaporate. Fig. 4.1 shows salt being produced in this way.",
-            "parts": [
-                {
+           "image": null,
+        "parts": [
+{
                     "part_label": "a",
                     "text": "State two ways in which evaporation differs from boiling.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b",
                     "text": "Describe, in terms of water molecules, what is happening as the water evaporates.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "c(i)",
                     "text": "State why the ponds used in this process have large surface areas.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "c(ii)",
                     "text": "State why this method of salt production does not work well in a country with a cold climate.",
@@ -97,17 +121,22 @@
         {
             "question_number": "5",
             "text": "Both sound and ultrasound are longitudinal waves.",
-            "parts": [
-                {
+           "image": null,
+        "parts": [
+{
                     "part_label": "a",
                     "text": "Describe what is meant by longitudinal.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b(i)",
                     "text": "Fig. 5.1 shows an ultrasound cleaner being used to clean jewellery. The jewellery is lowered into the cleaning fluid and ultrasound waves of frequency 42000 Hz are produced in the fluid. The speed of ultrasound in the fluid is 1500 m/s. Calculate the wavelength of the ultrasound in the fluid.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b(ii)",
                     "text": "Describe how the ultrasound cleans the jewellery.",
@@ -117,18 +146,23 @@
         },
         {
             "question_number": "6",
-            "text": "An electric circuit contains a 700Ω resistor and a light-dependent resistor (LDR). Fig. 6.1 is the circuit diagram. The electromotive force (e.m.f.) of the battery is 12V. An oscilloscope is connected across the fixed resistor. Fig. 6.2 shows the oscilloscope, including the settings of the timebase and the Y-gain controls. Line Q shows the position of the trace on the oscilloscope when the switch S is open. The switch S is closed and the trace on the oscilloscope moves to the position shown by line P in Fig. 6.2.",
-            "parts": [
-                {
+            "text": "An electric circuit contains a 700Ω resistor and a light-dependent resistor (LDR). Fig. 6.1 is the circuit diagram. The switch S is closed and the trace on the oscilloscope moves to the position shown by line P in Fig. 6.2.",
+           "image": null,
+        "parts": [
+{
                     "part_label": "a(i)",
                     "text": "Determine the potential difference (p.d.) across the 700Ω resistor.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "a(ii)",
                     "text": "Determine the resistance of the LDR.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b",
                     "text": "The intensity of the light incident on the LDR gradually increases. State and explain how the trace on the oscilloscope screen moves.",
@@ -139,27 +173,36 @@
         {
             "question_number": "7",
             "text": "Fig. 7.1 shows a horizontal, rectangular coil ABCD placed between a magnetic N-pole and an S-pole. There is a current in the coil. An upward force F of size 9.6 x 10⁻³ N acts on side AB of the coil.",
-            "parts": [
-                {
+           "image": null,
+        "parts": [
+{
                     "part_label": "a(i)",
                     "text": "Explain why there is a force on side AB.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "a(ii)",
                     "text": "Determine the direction of the current in AB and state how the direction is deduced.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b",
                     "text": "Both side AB and side CD of the coil are 2.5 cm from the axis. Determine the total moment acting on the coil.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "c(i)",
                     "text": "The coil in Fig. 7.1 is part of a direct current (d.c.) motor. State the name of the device that connects the coil of a d.c. motor to the electricity supply.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "c(ii)",
                     "text": "State one change to the arrangement in Fig. 7.1 that produces a greater turning effect in coil ABCD.",
@@ -170,42 +213,57 @@
         {
             "question_number": "8",
             "text": "Fig. 8.1 shows an elastic rope (bungee). The unstretched length of the rope is 0.80m. A student uses the hook at one end to suspend the rope from a shelf and hangs an empty paint can of mass 0.70kg from the other end. The rope stretches to a length of 0.97m but does not exceed its limit of proportionality.",
-            "parts": [
-                {
+           "image": null,
+        "parts": [
+{
                     "part_label": "a",
                     "text": "Explain what is meant by limit of proportionality.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b(i)",
                     "text": "State what is meant by: mass.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b(ii)",
                     "text": "State what is meant by: weight.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "c(i)",
                     "text": "The gravitational field strength is 10N/kg. Calculate the weight of the empty paint can.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "c(ii)",
                     "text": "For the rope, calculate a value for load/extension.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "d(i)",
                     "text": "The student repeatedly pours small volumes of paint into the can. When there is 2.5 × 10⁻³m³ of paint in the can, the total length of the rope is 1.70m. This is where the rope reaches the limit of proportionality. Determine the mass of the paint in the can. Density of paint = 1.6 g/cm³.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "d(ii)",
                     "text": "The student continues to pour paint into the can until there is a volume of 5.0 × 10⁻³m³ in it. He notices that the elastic rope becomes harder to stretch after the limit of proportionality. He plots a graph of the total length of the rope against the volume of paint added. On Fig. 8.2, sketch the length-volume graph for the range 0 to 5.0 × 10⁻³m³.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "e",
                     "text": "The student suddenly removes the can from the end of the stretched rope and, as it contracts, the rope jumps into the air. State the energy change that is taking place in the rope as it contracts and jumps into the air.",
@@ -216,37 +274,50 @@
         {
             "question_number": "9",
             "text": "Fig. 9.1 shows a boiling liquid at its boiling point, trapped in a cylinder by a piston. There is an electric heater in the liquid which is connected to a power supply. The thermal energy produced by the heater gradually turns the boiling liquid into a gas.",
-            "parts": [
-                {
+           "image": null,
+        "parts": [
+{
                     "part_label": "a",
                     "text": "State what is meant by boiling point.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b",
                     "text": "Explain, in terms of molecules, why it is necessary to supply energy in order to turn a liquid at its boiling point into a gas.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "c",
                     "text": "In order to determine the power of the electric heater, two meters are connected into the circuit. One meter measures the current in the heater and the other meter measures the potential difference (p.d.) across it. On the circuit in Fig. 9.1, draw symbols to show the two meters used and where they are connected.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "d(i)",
                     "text": "The current in the heater is 2.0A and the p.d. across it is 6.0V. Calculate the power of the heater.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "d(ii)",
                     "text": "Calculate the thermal energy supplied to the liquid by the heater in 1.0 minute.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "d(iii)",
                     "text": "The specific latent heat of vaporisation of the liquid is 9.0 × 10⁵ J/kg. Calculate the mass of liquid that vaporises every minute.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "e",
                     "text": "The piston is free to move in the cylinder. As the liquid boils, the piston is pushed upwards in the cylinder at a constant speed. The volume occupied by the gas just above the liquid increases. Discuss whether the upward force on the piston changes as the piston moves upwards at constant speed.",
@@ -257,47 +328,64 @@
         {
             "question_number": "10",
             "text": "All the isotopes of the gas radon are radioactive.",
-            "parts": [
-                {
+           "image": null,
+        "parts": [
+{
                     "part_label": "a",
                     "text": "State one similarity and one difference between the nuclei of two different isotopes of radon.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b(i)",
                     "text": "The isotope radon-222 decays by alpha-particle emission to an isotope of polonium (Po). The proton number (atomic number) of polonium is 84. Determine the number of neutrons in an atom of the polonium isotope.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b(ii)",
                     "text": "Determine the number of protons in an atom of radon-222.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "b(iii)",
                     "text": "Describe how a neutral atom of helium (⁴₂He) differs from an alpha-particle.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "c(i)",
-                    "text": "In an experiment to collect a small quantity of helium, a sample of radon-222 is enclosed in an inner glass tube which has a very thin wall. Fig. 10.1 shows that this tube is placed inside a container that is initially evacuated. Both the container and the inner glass tube are sealed. As the radon-222 decays, alpha-particles pass through the thin wall of the inner glass tube. Fig. 10.2 shows how the total number of alpha-particles produced by the radioactive decay of the radon-222 changes as time passes. Use Fig. 10.2 to determine the number of alpha-particles produced in 7.6 days.",
-                    "answer": null
-                },
+                    "text": "In an experiment to collect a small quantity of helium, a sample of radon-222 is enclosed in an inner glass tube which has a very thin wall. Fig. 10.1 shows that this tube is placed inside a container that is initially evacuated. Use Fig. 10.2 to determine the number of alpha-particles produced in 7.6 days.",
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "c(ii)",
                     "text": "Initially, there are 2.8 × 10¹⁰ atoms of radon-222 in the inner glass tube. As each radon-222 atom decays, it produces an alpha-particle. Calculate the number of radon-222 atoms that remain after 7.6 days.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "c(iii)",
                     "text": "Using the number of radon-222 atoms present initially and the number present after 7.6 days, calculate the half-life of radon-222.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "d",
                     "text": "The alpha-particles become helium atoms which are collected in the vacuum shown in Fig. 10.1. Explain, in terms of the properties of alpha-particles, why the wall of the inner glass tube must be extremely thin.",
-                    "answer": null
-                },
+                    "answer": null,
+                    "image": null
+},
+
                 {
                     "part_label": "e",
                     "text": "In some parts of the world, radon-222 accumulates in the air in buildings and is breathed in by people. Explain why the presence of an alpha-emitter in the lungs is particularly hazardous.",

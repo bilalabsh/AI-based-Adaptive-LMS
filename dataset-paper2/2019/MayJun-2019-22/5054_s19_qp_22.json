@@ -4,6 +4,9 @@
             "question_number": "1",
             "text": "A student records the mass and volume of two irregular objects, one made of iron and the other of copper.\nThe student uses the equipment shown in Fig. 1.1.\nTable 1.1 shows the results obtained.",
             "image": null,
+            "Unit": "UNIT 1: Motion, Forces & Energy",
+            "Topic": "1.4 Density",
+            "Sub_topic": ["Density","Measuring Density"],
             "parts": [
                 {
                     "part_label": "a",
@@ -39,6 +42,9 @@
             "question_number": "2",
             "text": "Fig. 2.1 shows a container of gas connected to a manometer. The tube in the manometer has a\nconstant cross-sectional area.\nThe gas in the container exerts a pressure.",
             "image": null,
+            "Unit": "UNIT 1: Motion, Forces & Energy",
+            "Topic": "1.8 Pressure",
+            "Sub_topic": ["Pressure & Forces","Pressure in a Liquid","Atmospheric pressure"],
             "parts": [
                 {
                     "part_label": "a",
@@ -74,6 +80,9 @@
             "question_number": "3",
             "text": "Fig. 3.1 shows three rays of light travelling in water from a light source S.\nOne ray of light is totally internally reflected at the boundary between water and air.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zBXWSH7VILNasPZrVwFdSxtD01KRWb9GJMv8u",
+            "Unit": "UNIT 3: Waves ",
+            "Topic": "3.2 Light",
+            "Sub_topic": ["Refraction of Light","Snell's Law","Total Internal Reflection"],
             "parts": [
                 {
                     "part_label": "a",
@@ -109,6 +118,9 @@
             "question_number": "4",
             "text": "A star emits electromagnetic radiation over a range of wavelengths.\nFig. 4.1 shows the brightness of the radiation from the star at different wavelengths.\nRadiation from the star is brightest at one wavelength.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z57JGxgmTXEWylompHDBYf4PGKaU2exNZLbMj",
+            "Unit": "UNIT 3: Waves",
+            "Topic": "3.3 Electromagnetic Spectrum",
+            "Sub_topic": ["Electromagnetic Waves","Uses of Electromagnetic Waves","Dangers of Electromagnetic Waves"],
             "parts": [
                 {
                     "part_label": "a",
@@ -137,6 +149,9 @@
             "question_number": "5",
             "text": "",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zNJwzNV82cHTZDdfSt1O9ozyj2pmNhkAqGRwx",
+            "Unit": "UNIT 4: Electricity & Magnetism",
+            "Topic": "4.2 Electrical Quantities",
+            "Sub_topic": ["Electrical Charge","Demonstrating Electric Charges","Static Electricity","Electric Fields"],
             "parts": [
                 {
                     "part_label": "a",
@@ -158,6 +173,9 @@
             "question_number": "6",
             "text": "Two lamps, P and Q, are connected to a battery of electromotive force (e.m.f.) 6.0V and an ammeter, as shown in Fig. 6.1.\nLamp P has a resistance of 15\u03a9. The ammeter reading is 0.65A.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zb28hLgMH08NcVULWlqYhG3HTwv2kgZQ4ap9r",
+            "Unit": "UNIT 4: Electricity & Magnetism",
+            "Topic": "4.3 Electric Circuits",
+            "Sub_topic": ["Circuit Diagrams & Circuit Components","Current in Circuits","Potential Difference in Circuits","Combined Resistance"],
             "parts": [
                 {
                     "part_label": "a",
@@ -193,6 +211,9 @@
             "question_number": "7",
             "text": "Fig. 7.1 shows a copper wire placed on two copper rods in the magnetic field between the poles of a magnet.\nThe crocodile clip A touches the positive terminal of the battery.\nThis causes the copper wire to move.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zjhjaC1tcX8yYHmo51UqruQTa7KGeAMI4dltn",
+            "Unit": "UNIT 4: Electricity & Magnetism",
+            "Topic": "4.5 Electromagnetic Effects",
+            "Sub_topic": ["Magnetic Effect of a Current","Force on a Current-Carrying Conductor","Electric Motors"],
             "parts": [
                 {
                     "part_label": "a",
@@ -221,6 +242,9 @@
             "question_number": "8",
             "text": "Fig. 8.1 shows a device that is used to show the force on an electron in an electric field.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zz2yUwIgcbkVNoTdvFsgQWPxeBK7Ym3UfnLC4",
+            "Unit": "UNIT 4: Electricity & Magnetism",
+            "Topic": "4.2 Electrical Quantities",
+            "Sub_topic": ["Electrical Charge","Electric Fields"],
             "parts": [
                 {
                     "part_label": "a",
@@ -242,6 +266,9 @@
             "question_number": "9",
             "text": "Fig. 9.1 shows a map of the route taken by a car as it travels from town A to town B.\nThe journey involves a distance and a displacement.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zVFZN03jhFUOyEd1YvBRagrzxC8X7MTZn0Wuk",
+            "Unit": "UNIT 1: Motion, Forces & Energy",
+            "Topic": "1.2 Motion",
+            "Sub_topic": ["Speed & Velocity","Acceleration","Friction","Calculating Acceleration from Speed-Time Graphs"],
             "parts": [
                 {
                     "part_label": "a(i)",
@@ -305,6 +332,9 @@
             "question_number": "10",
             "text": "Fig. 10.1 is a diagram of a soldering iron.\nSolder is a mixture of metals used to make a permanent contact between electrical wires.\nThe heating element raises the temperature of the metal tip.\nWhen solder is placed against the tip, the solder melts over the wires to be joined.\nWhen the solder cools, it solidifies and the permanent connection is made.\nThe working temperature of the metal tip is 380°C.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zCgkiYk7mw4fM63T9sjZezvbdH52WyJIAU1Qq",
+            "Unit": "UNIT 2: THERMAL PHYSICS",
+            "Topic": "2.2 Thermal properties & Temperature",
+            "Sub_topic": ["Specific Heat Capacity","Thermal Expansion"],
             "parts": [
                 {
                     "part_label": "a",
@@ -361,6 +391,9 @@
             "question_number": "11",
             "text": "",
             "image": null,
+            "Unit": "UNIT 6: SPACE PHYSICS",
+            "Topic": "6.2 Stars & The Universe",
+            "Sub_topic": ["Stars","The Universe","Fusion","Fission","The Nucleus"],
             "parts": [
                 {
                     "part_label": "a(i)",

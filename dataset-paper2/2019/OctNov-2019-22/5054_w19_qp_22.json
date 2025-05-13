@@ -2,8 +2,11 @@
     "questions": [
         {
             "question_number": "1",
-            "text": "There is no atmosphere on the Moon. An astronaut on the Moon drops a feather and a hammer from the same height at the same time. They both accelerate downwards at 1.6 m/s\u00b2 and they hit the ground at the same time.",
+            "text": "There is no atmosphere on the Moon. An astronaut on the Moon drops a feather and a hammer from the same height at the same time. They both accelerate downwards at 1.6 m/s² and they hit the ground at the same time.",
             "image": "null",
+            "Unit": "UNIT 1: Motion, Forces & Energy",
+            "Topic": "1.2 Motion",
+            "Sub_topic": ["Freefall", "Acceleration","Speed-Time Graphs","Calculating Acceleration from Speed-Time Graphs"],
             "parts": [
                 {
                     "part_label": "a",
@@ -39,10 +42,13 @@
             "question_number": "2",
             "text": "A student uses a pump to inflate a bicycle tyre. Fig. 2.1 shows the pump and the tyre.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zewkFeFXgy10m2aX9JbqkU8pYE6fRiPzSd7Cl",
+            "Unit": "UNIT 1: Motion, Forces & Energy",
+            "Topic": "1.8 Pressure",
+            "Sub_topic": ["Pressure & Forces", "Pressure in a Liquid","Atmospheric pressure"],
             "parts": [
                 {
                     "part_label": "a(i)",
-                    "text": "The pressure of the trapped air in the pump is 3.8 x 10^5 Pa and the cross-sectional area of the piston is 6.1 x 10^-4 m\u00b2. Calculate the force exerted on the piston by the trapped air in the pump.",
+                    "text": "The pressure of the trapped air in the pump is 3.8 x 10^5 Pa and the cross-sectional area of the piston is 6.1 x 10^-4 m². Calculate the force exerted on the piston by the trapped air in the pump.",
                     "answer": "(F =) pA or 3.8  x 10^5  x 6.1  x 10^-4 && 230 N",
                     "marks": 2,
                     "image": null
@@ -67,6 +73,9 @@
             "question_number": "3",
             "text": "Solar panels are used to heat water.",
             "image": null,
+            "Unit": "UNIT 6: SPACE PHYSICS",
+            "Topic": "6.2 Stars & The Universe",
+            "Sub_topic": ["The Sun as a Star", "Stars"],
             "parts": [
                 {
                     "part_label": "a(i)",
@@ -95,6 +104,9 @@
             "question_number": "4",
             "text": "In many countries, solid salt is produced by trapping sea-water in large, shallow ponds and letting the water evaporate. Fig. 4.1 shows salt being produced in this way.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zvDDxyi3L5gQr7XAEsc0K2plVFx9IBWPt3jhS",
+            "Unit": "UNIT 2: THERMAL PHYSICS",
+            "Topic": "2.2 Thermal properties & Temperature",
+            "Sub_topic": ["Evaporation", "Melting, Boiling & Evaporation"],
             "parts": [
                 {
                     "part_label": "a",
@@ -130,6 +142,9 @@
             "question_number": "5",
             "text": "Both sound and ultrasound are longitudinal waves.",
             "image": null,
+            "Unit": "UNIT 3: Waves",
+            "Topic": "3.4 Sound",
+            "Sub_topic": ["Sound Waves", "Properties of Sound Waves", "Ultrasound"],
             "parts": [
                 {
                     "part_label": "a",
@@ -156,12 +171,15 @@
         },
         {
             "question_number": "6",
-            "text": "An electric circuit contains a 700\u03a9 resistor and a light-dependent resistor (LDR). Fig. 6.1 is the circuit diagram. The switch S is closed and the trace on the oscilloscope moves to the position shown by line P in Fig. 6.2.",
+            "text": "An electric circuit contains a 700Ω resistor and a light-dependent resistor (LDR). Fig. 6.1 is the circuit diagram. The switch S is closed and the trace on the oscilloscope moves to the position shown by line P in Fig. 6.2.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zaIYhGz6gI0nwAul8eLZVQmPFyJShNxYb3rtv",
+            "Unit": "UNIT 4: Electricity & Magnetism",
+            "Topic": "4.3 Electric Circuits",
+            "Sub_topic": ["Circuit Diagrams & Circuit Components", "Current in Circuits", "Potential Difference in Circuits"],
             "parts": [
                 {
                     "part_label": "a(i)",
-                    "text": "Determine the potential difference (p.d.) across the 700\u03a9 resistor.",
+                    "text": "Determine the potential difference (p.d.) across the 700Ω resistor.",
                     "answer": "4.0 V",
                     "marks": 1,
                     "image": null
@@ -169,14 +187,14 @@
                 {
                     "part_label": "a(ii)",
                     "text": "Determine the resistance of the LDR.",
-                    "answer": "(V =) 12 - 4.0 or 8.0 or 4.0 / 700 or 5.7  x 10^-3 && (R =) V / I or 8.0  x 1 / (4.0 / 700) or 700  x (8.0 / 4.0) or 12 / (4.0 / 700) or 2100 (\u2126) && 1400 \u2126",
+                    "answer": "(V =) 12 - 4.0 or 8.0 or 4.0 / 700 or 5.7  x 10^-3 && (R =) V / I or 8.0  x 1 / (4.0 / 700) or 700  x (8.0 / 4.0) or 12 / (4.0 / 700) or 2100 (Ω) && 1400 Ω",
                     "marks": 3,
                     "image": null
                 },
                 {
                     "part_label": "b",
                     "text": "The intensity of the light incident on the LDR gradually increases. State and explain how the trace on the oscilloscope screen moves.",
-                    "answer": "resistance of LDR decreases && current increases or p.d. across 700 \u2126 resistor / oscilloscope increases or p.d. across LDR decreases && trace moves up the screen",
+                    "answer": "resistance of LDR decreases && current increases or p.d. across 700 Ω resistor / oscilloscope increases or p.d. across LDR decreases && trace moves up the screen",
                     "marks": 3,
                     "image": null
                 }
@@ -186,6 +204,9 @@
             "question_number": "7",
             "text": "Fig. 7.1 shows a horizontal, rectangular coil ABCD placed between a magnetic N-pole and an S-pole. There is a current in the coil. An upward force F of size 9.6 x 10^-3 N acts on side AB of the coil.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zHSsjGGN1lG3zZ2IxQcUdsJov60rTXfFyuBCA",
+            "Unit": "UNIT 4: Electricity & Magnetism",
+            "Topic": "4.5 Electromagnetic Effects",
+            "Sub_topic": ["Force on a Current-Carrying Conductor", "Electric Motors"],
             "parts": [
                 {
                     "part_label": "a(i)",
@@ -228,6 +249,9 @@
             "question_number": "8",
             "text": "Fig. 8.1 shows an elastic rope (bungee). The unstretched length of the rope is 0.80m. A student uses the hook at one end to suspend the rope from a shelf and hangs an empty paint can of mass 0.70kg from the other end. The rope stretches to a length of 0.97m but does not exceed its limit of proportionality.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zpzSdldqyBFVJk7nvOgGHifquh0ZCYbIW9Eoj",
+            "Unit": "UNIT 1: Motion, Forces & Energy",
+            "Topic": "1.5 Forces",
+            "Sub_topic": ["Hooke's Law", "Investigating Force & Extension","Mass & Weight","Measuring Mass & Weight","Elastic Potential Energy","Conservation of Energy"],
             "parts": [
                 {
                     "part_label": "a",
@@ -266,14 +290,14 @@
                 },
                 {
                     "part_label": "d(i)",
-                    "text": "The student repeatedly pours small volumes of paint into the can. When there is 2.5  x 10^-3m\u00b3 of paint in the can, the total length of the rope is 1.70m. This is where the rope reaches the limit of proportionality. Determine the mass of the paint in the can. Density of paint = 1.6 g/cm\u00b3.",
+                    "text": "The student repeatedly pours small volumes of paint into the can. When there is 2.5  x 10^-3m³ of paint in the can, the total length of the rope is 1.70m. This is where the rope reaches the limit of proportionality. Determine the mass of the paint in the can. Density of paint = 1.6 g/cm³.",
                     "answer": "either: 0.90 && 41  x 0.90 or 37 or 3.7 or 3.7 - 0.70 && 3.0 kg || or: 1.7 - 0.97 or 0.73 && 41  x (1.7 - 0.97) or 41  x 0.73 or 30 && 3.0 kg",
                     "marks": 3,
                     "image": null
                 },
                 {
                     "part_label": "d(ii)",
-                    "text": "The student continues to pour paint into the can until there is a volume of 5.0  x 10^-3m\u00b3 in it. He notices that the elastic rope becomes harder to stretch after the limit of proportionality. He plots a graph of the total length of the rope against the volume of paint added. On Fig. 8.2, sketch the length-volume graph for the range 0 to 5.0  x 10^-3m\u00b3.",
+                    "text": "The student continues to pour paint into the can until there is a volume of 5.0  x 10^-3m³ in it. He notices that the elastic rope becomes harder to stretch after the limit of proportionality. He plots a graph of the total length of the rope against the volume of paint added. On Fig. 8.2, sketch the length-volume graph for the range 0 to 5.0  x 10^-3m³.",
                     "answer": "straight line to marked point && 0 < location of y-intercept < 1.70 m (intercept need not be labelled) && curve of changing / changed gradient beyond marked point",
                     "marks": 3,
                     "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zwd4TLhaEvsxCXYz9rldjIQ0TUe4F8DAbNK7B"
@@ -291,6 +315,9 @@
             "question_number": "9",
             "text": "Fig. 9.1 shows a boiling liquid at its boiling point, trapped in a cylinder by a piston. There is an electric heater in the liquid which is connected to a power supply. The thermal energy produced by the heater gradually turns the boiling liquid into a gas.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zTww4Ngc8D6JS9RV3BHr1QLfeCmylXFadkpEv",
+            "Unit": "UNIT 2: THERMAL PHYSICS",
+            "Topic": "2.2 Thermal properties & Temperature",
+            "Sub_topic": ["Melting, Boiling & Evaporation", "Specific Latent Heat","Pressure in a Liquid","Atmospheric pressure"],
             "parts": [
                 {
                     "part_label": "a",
@@ -347,6 +374,9 @@
             "question_number": "10",
             "text": "All the isotopes of the gas radon are radioactive.",
             "image": null,
+            "Unit": "UNIT 5: Nuclear Physics",
+            "Topic": "5.2 Radioactivity",
+            "Sub_topic": ["Radioactive Decay", "The Three Types of Emission", "Half-Life"],
             "parts": [
                 {
                     "part_label": "a",
@@ -371,7 +401,7 @@
                 },
                 {
                     "part_label": "b(iii)",
-                    "text": "Describe how a neutral atom of helium (\u2074\u2082He) differs from an alpha-particle.",
+                    "text": "Describe how a neutral atom of helium (⁴₂He) differs from an alpha-particle.",
                     "answer": "it / helium atom has two electrons (in orbit around the nucleus)",
                     "marks": 1,
                     "image": null

@@ -1,22 +1,20 @@
-i will send you a json file (5054_w19_qp_21.json) that is in this format (JSON FORMATTIng mentioned below). 
-NOw i am sending you a marking scheme pdf file (5054_w19_ms_21.pdf) that has 3 columns , 
-1. question :  The label of the question and its  part (e.g., "a", "b(i)", "c"). 
-2.Answer : the anser for that part
-3. Marks  (ignore it) 
+i will send you a json file (5054_s19_qp_21.json) that is in this format (JSON FORMATTIng mentioned below). 
+NOw i am sending you a csv file  (Units.csv) that is divided in 3 headings
+1. Unit
+2. Topic
+3. Sub_topic
 
-YOur Task:
-1.i want you to extract the answer from the marking scheme and appened it in the json file in the answer tag.
-2.make sure each questions tag matched before apending the answer tag
-3.Dont add any of your own hallucinations , only copy and paste the answers
-4. Dont skip any questions or their parts
-5. if the same question part has 2 block of answer write "&&" between them
+Your Task:
+1.i want you to read the text field of each question (the main stem) and  the text field of each part inside the parts array of that question.
+2. then i want you to analayze which unit, topic and subtopic the question is related to uing the csv file
+3. then i want you to append the unit, topic and subtopic feilds to that question.
 
-What to ignore and not add in the json file:
-1. ignore to makrs column in the marking scheme, A1 C1 B1 M1
-2. 5054/21 Cambridge O Level – Mark Scheme PUBLISHED May/June 2019
-3. © UCLES 2019
-4. Page 5 of 11 or anything other pages
-5. Dont add these column names in the json file\nQuestion \nAnswer \nMarks
+
+What not to do:
+1. dont skip any questions
+2. dont change anything other feilds except unit, topic and subtopics tags
+
+
 
 JSON Formatting:
 Structure of the JSON file as follows:
@@ -60,20 +58,17 @@ Structure of the JSON file as follows:
     ]
 }
 
+
 question_number: The numerical identifier of the question as it appears in the PDF (e.g., "1", "2", "3").
+text: The complete question text, including any preceding context necessary for understanding the question.
+Unit: The Unit of the question (e.g., "UNIT 1: Motion, Forces & Energy").
+Topic: the topic of the question (e.g., "1.2  Motion").
+Sub_topic: an array of sub-topics that are related to the questions in the question and in sub parts of the question (e.g., ["Speed & Velocity", "Acceleration"]).
 parts: An array of question parts, each with:
-part_label: The label of the question part (e.g., "a", "b(i)", "c"). I
+part_label: The label of the question part (e.g., "a", "b(i)", "c"). 
+text: The text of the question part.
 answer: Always initialize to null.
-marks: Always initialize to null.
+marks: The marks of that question
+image: Always initialize to null.
 
 
-
-
-
-
-
-
-\u00b0   °
-u2009      
-\u00d7        x
-\u2013          -

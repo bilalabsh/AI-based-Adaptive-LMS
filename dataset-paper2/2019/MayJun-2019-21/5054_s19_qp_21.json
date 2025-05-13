@@ -4,6 +4,9 @@
             "question_number": "1",
             "text": "Fig. 1.1 shows the distance-time graph for a journey made by a cyclist between town A and town B.  \nThe cyclist leaves town A at time t = 0 and arrives at town B at t = 4.0 hours.  ",
             "image": null,
+            "Unit": "UNIT 1: Motion, Forces & Energy",
+            "Topic": "1.2 Motion",
+            "Sub_topic": ["Speed & Velocity,Distance-Time Graphs","Speed-Time Graphs"],
             "parts": [
                 {
                     "part_label": "a(i)",
@@ -21,7 +24,7 @@
                 },
                 {
                     "part_label": "b",
-                    "text": "The speed of the cyclist near the end of the journey is greater than the speed at the beginning. State how the graph shows this. [cite: 13, 14]",
+                    "text": "The speed of the cyclist near the end of the journey is greater than the speed at the beginning. State how the graph shows this. ",
                     "answer": "steep(er) / larg(er) slope / gradient or travels a larger distance in the same / unit time or takes a shorter time to travel the same distance or covers more distance in less time",
                     "marks": 1,
                     "image": null
@@ -39,6 +42,9 @@
             "question_number": "2",
             "text": "",
             "image": null,
+            "Unit": "UNIT 2: THERMAL PHYSICS",
+            "Topic": "2.2 Thermal properties & Temperature",
+            "Sub_topic": ["Thermal Expansion","Specific Heat Capacity"],
             "parts": [
                 {
                     "part_label": "a",
@@ -67,6 +73,9 @@
             "question_number": "3",
             "text": "A large spring is stretched by an athlete to increase the strength of his arms. The athlete extends the spring, as shown in Fig. 3.1, and then releases it gently. He extends and releases the spring several times during a period of 60 s. [cite: 23, 24, 25]",
             "image": "nuhttps://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z8vpY3tZaDLRZ7jgHrGusIFzkVvtJKxAW9CB2ll",
+            "Unit": "UNIT 1: Motion, Forces & Energy",
+            "Topic": "1.6 Momentum",
+            "Sub_topic": ["Energy Stores & Transfers","Elastic Potential Energy","Work","Power"],
             "parts": [
                 {
                     "part_label": "a",
@@ -102,6 +111,9 @@
             "question_number": "4",
             "text": "Fig. 4.1 shows a cylinder with a piston that contains a gas. [cite: 32, 33]",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zvDCprnmL5gQr7XAEsc0K2plVFx9IBWPt3jhS",
+            "Unit": "UNIT 1: Motion, Forces & Energy",
+            "Topic": "1.8 Pressure",
+            "Sub_topic": ["Pressure in a Liquid","Atmospheric pressure"],
             "parts": [
                 {
                     "part_label": "a",
@@ -137,6 +149,9 @@
             "question_number": "5",
             "text": "A student uses the circuit shown in Fig. 5.1 to investigate a resistor R.",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3z59XXgEmTXEWylompHDBYf4PGKaU2exNZLbMj",
+            "Unit": "UNIT 4: Electricity & Magnetism",
+            "Topic": "4.3 Electric Circuits",
+            "Sub_topic": ["Circuit Diagrams & Circuit Components","Current in Circuits","Potential Difference in Circuits"],
             "parts": [
                 {
                     "part_label": "a",
@@ -172,6 +187,9 @@
             "question_number": "6",
             "text": "Fig. 6.1 shows the fuse inside the plug of a hairdryer. [cite: 46, 47]",
             "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zmn6bR8SC30N68wTGXHgmd2EnzW1lyc7BPZoD",
+            "Unit": "UNIT 4: Electricity & Magnetism",
+            "Topic": "4.4 Practical Electricity",
+            "Sub_topic": ["Electrical Safety","Electrical Energy","Electrical Power"],
             "parts": [
                 {
                     "part_label": "a",
@@ -207,6 +225,9 @@
         "question_number": "7",
         "text": "Fig. 7.1 shows part of a torch. The torch does not contain a battery. The torch is shaken and this causes the magnet to move backwards and forwards through the coil. [cite: 53, 54]",
         "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zsGzvU9BvNek8RAbHLUPnuEOD24qIzC0iQcGf",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+        "Topic": "4.5 Electromagnetic Effects ",
+        "Sub_topic": ["Electromagnetic Induction","Demonstrating Induction","Magnetic Effect of a Current","Force on a Current-Carrying Conductor"],
         "parts": [
             {
                 "part_label": "a(i)",
@@ -242,6 +263,9 @@
         "question_number": "8",
         "text": "Fig. 8.1 shows a circuit diagram containing a 2000 \u03a9 resistor of constant resistance and a thermistor. [cite: 60, 61]",
         "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zNjhpHp2cHTZDdfSt1O9ozyj2pmNhkAqGRwx7",
+        "Unit": "UNIT 4: Electricity & Magnetism",
+            "Topic": "4.3 Electric Circuits",
+            "Sub_topic": ["Circuit Diagrams & Circuit Components","Potential Difference in Circuits","Combined Resistance","Potential Dividers"],
         "parts": [
             {
                 "part_label": "a(i)",
@@ -270,6 +294,9 @@
         "question_number": "9",
         "text": "Fig. 9.1 shows a parachutist falling vertically towards the ground. [cite: 71]\nThe mass of the parachutist is 60kg and his weight is 600N. [cite: 72]",
         "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zHhEzjkPN1lG3zZ2IxQcUdsJov60rTXfFyuBC",
+        "Unit": "UNIT 1: Motion, Forces & Energy",
+            "Topic": "1.2 Motion",
+            "Sub_topic": ["Mass & Weight","Calculating Acceleration from Speed-Time Graphs","Freefall","terminal velocity"],
         "parts": [
             {
                 "part_label": "a(i)",
@@ -338,6 +365,9 @@
         "question_number": "10",
         "text": "In Fig. 10.1 the vertical lines represent the crests of a wave in a ripple tank. [cite: 82]\nFig. 10.1 is drawn to scale, with 1.0cm on the diagram representing 4.0cm in the tank. [cite: 83]\nA crest takes 2.0s to travel from P to Q. [cite: 84]",
         "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zhN8xNWJIEGCfp04UgoDAMtVrSuNKWn9QcT6v",
+        "Unit": "UNIT 3: Waves ",
+            "Topic": "3.1 General Properties of Waves",
+            "Sub_topic": ["Features of Waves","Transverse & Longitudinal Waves","Ripple Tank","Measuring the Speed of Sound","Sound Waves","Properties of Sound Waves"],
         "parts": [
             {
                 "part_label": "a(i)",
@@ -406,6 +436,9 @@
         "question_number": "11",
         "text": "A teacher carries out an experiment on radioactivity using the apparatus shown in Fig. 11.1. \nThe count rate is a measurement of the count during one minute. [cite: 100]",
         "image": "https://zr9d76bekf.ufs.sh/f/HdnjclN1lG3zULcLvUP47CAenGyKIR35sQkFbLzpahNMxdt0",
+        "Unit": "UNIT 5: Nuclear Physics",
+            "Topic": "5.2 Radioactivity",
+            "Sub_topic": ["Detection of Radioactivity","Background Radiation","The Three Types of Emission","Radioactive Decay"],
         "parts": [
             {
                 "part_label": "a(i)",

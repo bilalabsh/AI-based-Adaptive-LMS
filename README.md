@@ -1,12 +1,6 @@
 # AI-based-Adaptive-LMS
 FYP
-hehhe ishma here
-ima add all those things u wrote in notes like the to do list
 
-Problems in dataset:
-1. some answers might not be correct
-2. some questions kay middle part is missing
-3. symbols like binomials types are not wrriteen correctly 
 
 Dataset includes:
 1. CAIE O Levels 5052 Physics MCQs 2019-2023
